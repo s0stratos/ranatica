@@ -55,3 +55,6 @@ istic garri
 
 quid nunc <uis> fieri
 *uerrem* sume dapsile ac dilucide
+
+atque *auscultare* disce
+    [si nescis _ loqui]
