@@ -1,5 +1,13 @@
 QUI
 
-Argenti uiginti minas [si adesset] accepisset
+*Argenti uiginti minas* [si adesset] accepisset
 Qui pro istuc?
-Asinos uendidit [Pellaeo mercatori] mercatu
+Asinos uendidit _ [Pellaeo mercatori] mercatu
+
+Cedo dum, enumquam iniuriarum audisti mihi scriptam dicam
+Qui istuc?
+Quia non rete accipitri tennitur neque miluo
+    [qui male faciunt nobis]
+    *[illis [qui nil faciunt]]* tennitur
+        [quia enim in illis fructus est]
+            (in illis opera luditur)
