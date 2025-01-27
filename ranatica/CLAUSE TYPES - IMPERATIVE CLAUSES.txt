@@ -24,6 +24,12 @@ mirari nolim uos
     - ne miremini
         - ipse hanc acturust _ iuppiter comoediam
 
+FUTURE IMPERATIVE
+
+pater adest
+negato [esse hic me]
+ego operibo _ caput
+
 WORD ORDER
 
 VERB FINAL
@@ -42,3 +48,10 @@ VERB FINAL
 *facite* ut ignis feruat
 *ligna* instipite
 *far* concidite
+
+age modo
+istic garri
+*particulones* produc _ cantibus
+
+quid nunc <uis> fieri
+*uerrem* sume dapsile ac dilucide
