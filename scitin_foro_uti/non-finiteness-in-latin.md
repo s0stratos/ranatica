@@ -380,15 +380,10 @@ in the constructions shown in (61b) and (61c), and it is favoured when features 
 or with certain types of neuter or plural logical objects (Miller 2000)
 
 ipse pro castris fortissime pugnans occiditur
-illic hanc mihi seruandam dedit
+
 ita populus romanus consuli potius crasso quam priuato africano bellum gerendum dedit
 nam sertorianum bellum a senatu priuato datum est
 
-[scyphos [quos utendos dedi philodamo]] rettulitne
-inauris da mihi faciendas
-et confirmandorum militum causa diripiendas his ciuitates dedit
-ibi nunc statuam uolt dare auream solidam faciundam ex auro philippo
-si hercle ego te non elinguandam dedero usque ab radicibus impero auctorque ego sum ut tu me cuiuis castrandum loces
 
 nauesque triremes duas quas brundisii faciendas curauerat
 
