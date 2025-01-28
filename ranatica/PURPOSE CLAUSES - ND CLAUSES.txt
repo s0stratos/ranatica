@@ -1,9 +1,5 @@
 
-DARE/LOCARE/CONDUCERE NDUM
-
-*decipit* uicinos
-    [quod [molendum] conduxit]
-comest
+DARE/LOCARE/CONDUCERE ALIQUID FACIENDUM
 
 scyphos
     [quos [utendos] dedi philodamo]
@@ -17,8 +13,15 @@ et confirmandorum militum causa
 ibi nunc statuam <uolt> dare auream solidam
     [faciundam ex auro philippo]
 
+illic hanc mihi [seruandam] dedit
+
+ea [[lauatum] dum it] [seruandum] mihi dedit
+
     [si hercle ego [te non elinguandam <dedero> usque ab radicibus]
 impero (auctorque ego sum)
     [ut tu me cuiuis [castrandum] loces]
 
-illic hanc mihi [seruandam] dedit
+*decipit* uicinos
+    [quod [molendum] conduxit]
+comest
+

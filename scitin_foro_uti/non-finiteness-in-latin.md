@@ -16,12 +16,6 @@ senex est quidam qui <illam> mandauit mihi [ut emerem ad istanc faciem]
 
 hanc fidem <sibi> me obsecrauit qui se sciet non deserturum [ut darem]
 
-**De topic**
-
-<de philotimo>, faciam equidem ut mones
-<de antonio> iam antea tibi scripsi non esse eum a me conuentum
-et <de damnatione> feruenter loqui est coeptum
-sed quod <de fratre> ubi eum uisuri essemus nesciebamus
 
 [saxa [inter et alia loca periculosa]]
 [suorum [in terrore ac fuga]]
@@ -36,11 +30,7 @@ es bibe animo opsequere mecum
 
 [hanc [si nostri transirent]] hostes exspectabant
 
-SUBJECT AGREEMENT
 
-quam pridem pater mihi et mater mortui essent
-domus uxor liberi inuenti inuito patre
-ibi orgetorigis filia atque unus e filiis captus est
 
 ita res est · fateor. peccatum a me maximest
 
@@ -317,15 +307,11 @@ postero die petreius occulte ad exploranda loca proficiscitur
 nostra ilico it uisere ad eam
 ut eat uisura sororem
 subsidio suis ierunt
-ea [[lauatum] dum it] seruandum mihi dedit
 
-deos atque amicos iit salutatum ad forum
-quin tradit huc cruminam pressatum umerum
-coctum ego non uapulatum dudum conductus fui
 
-sicine oportet ire amicos homini amanti operam datum
-oratum ierunt deam ut sibi esset propitia
-galliae legati ad caesarem gratulatum conuenerunt
+
+
+
 
 sine me hoc exorare abs te ut istuc delictum desistas tanto opere ire oppugnatum
 nequem enim decet sine meo periclo ire aliena ereptum bona
@@ -339,7 +325,7 @@ stultitiast pater uenatum ducere inuitas canes
 
 quia uenimus coctum ad nuptias
 tune es qui hau multo prius abiisti hinc erum accersitum
-per dionysia mater pompam me spectatum duxit
+
 
 daturne illa pamphilo hodie nuptum
 ut detur nuptum nostro uilico potius quam illi seruo nequam des
