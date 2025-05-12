@@ -16832,15 +16832,15 @@ milphio			15632	1	1 +NAME
 milphiō			15633	21	1 +NAME
 milphiōnem	15634	2	1 +NAME
 -------------------------------------------
-mina			15635	2	1
-minae			15636	29	12
-minam			15637	8	4
-minaria			15638	1	1
-minas			15639	1	1
+mina			15635	2	1 +MONEY
+minae			15636	29	12 +MONEY
+minam			15637	8	4 +MONEY
+minaria			15638	1	1 +ARIUS +MONEY
+minas			15639	1	1 +MONEY
 -------------------------------------------
-minerva			15640	1	1
-minervae			15641	1	1
-minervam			15642	1	1
+minerva			15640	1	1 +GOD
+minervae		15641	1	1 +GOD
+minervam		15642	1	1 +GOD
 -------------------------------------------
 minerīs			15643	1	1
 minime			15644	1	1
@@ -16901,10 +16901,12 @@ minōrem			15696	2	2
 minōris			15697	7	4
 minōrī			15698	2	2
 minōrīs			15699	1	1
+------------------------------------
 minūtulōs			15700	1	1
 minūtās			15701	1	1
 minūtī			15702	1	1
 minūtōs			15703	3	3
+------------------------------------
 miquidem			15704	6	5 +QUIDEM
 mirga			15705	1	1
 misargyrides			15706	1	1
@@ -16970,6 +16972,7 @@ miserīs			15765	7	6
 miserō			15766	45	20
 miserōrum			15767	2	2
 miserōs			15768	2	2
+--------------------------------
 missa			15769	14	9
 missam			15770	4	4
 missast			15771	2	2
@@ -17023,11 +17026,11 @@ mlachthī			15818	1	1
 -------------------------------------------
 +MNESILOCHUS
 -------------------------------------------
-mnesilochus			15819	1	1
+mnesilochus			    15819	1	1
 mnēsiloche				15820	8	1
-mnēsilochum			15821	6	1
-mnēsilochus			15822	12	1
-mnēsilochust			15823	1	1
+mnēsilochum			    15821	6	1
+mnēsilochus			    15822	12	1
+mnēsilochust			15823	1	1 +ST
 mnēsilochē				15824	1	1
 mnēsilochī				15825	4	1
 mnēsilochō				15826	2	1
@@ -17073,24 +17076,26 @@ modōst			15864	1	1
 -------------------------------------
 +MOECHUS
 -------------------------------------
-moechissat			15865	1	1  +ISSARE
-moechum			15866	6	4
-moechus				15867	2	1
-moechī				15868	1	1
-moechīs				15869	3	3
-moechō				15870	5	3
-moechōrum			15871	1	1
+moechissat			15865	1	1 +ISSARE +CRIME
+moechum			    15866	6	4 +CRIME
+moechus				15867	2	1 +CRIME
+moechī				15868	1	1 +CRIME
+moechīs				15869	3	3 +CRIME
+moechō				15870	5	3 +CRIME
+moechōrum			15871	1	1 +CRIME
 --------------------------------------
 moenia			15872	4	4
 moenibus			15873	1	1
 moenīta			15874	1	1
 moenītum			15875	1	1
 moenītī			15876	1	1
+---------------------------------------
 molae			15877	2	2
 molam			15878	1	1
 molat			15879	1	1
 molendum			15880	1	1
 molendō			15881	1	1
+-----------------------------------------
 molesta			15882	6	5
 molestae			15883	2	2
 molestam			15884	1	1
@@ -17109,6 +17114,7 @@ molestust			15896	2	2
 molestī			15897	1	1
 molestōque			15898	1	1
 molestōs			15899	2	1
+-------------------------------------
 molet			15900	1	1
 molitum			15901	2	1
 mollem			15902	1	1
@@ -17179,11 +17185,11 @@ moram			15965	15	11
 morantur			15966	3	3
 morast			15967	2	2
 ----------------------------------------
-morbum			15968	14	11
-morbus			15969	13	9
-morbī			15970	4	3
-morbīst			15971	1	1
-morbō			15972	11	8
+morbum			15968	14	11 +HEALTH
+morbus			15969	13	9 +HEALTH
+morbī			15970	4	3 +HEALTH
+morbīst			15971	1	1 +ST +HEALTH
+morbō			15972	11	8 +HEALTH
 ----------------------------------------
 mordeat			15973	1	1
 mordet			15974	1	1
@@ -17371,11 +17377,11 @@ murrinam			16142	1	1
 murtēta			16143	1	1
 mus			16144	1	1
 --------------------------------------------
-musca				16145	1	1 +ANIMAL
+musca			16145	1	1 +ANIMAL
 muscae			16146	1	1 +ANIMAL
 muscast			16147	1	1 +ST +ANIMAL
 muscārum		16148	1	1 +ANIMAL
-muscīs				16149	2	1 +ANIMAL
+muscīs			16149	2	1 +ANIMAL
 --------------------------------------
 mussitanda			16150	1	1 +NDUS
 mussitant			16151	2	2
@@ -17390,8 +17396,8 @@ mustine			16159	1	1
 mustulentus			16160	1	1 +LENTUS
 -----------------------------------------
 mustēla			16161	1	1 +ANIMAL
-mustēlae			16162	1	1 +ANIMAL
-mustēlīnō			16163	1	1 +INUS +ANIMAL
+mustēlae		16162	1	1 +ANIMAL
+mustēlīnō		16163	1	1 +INUS +ANIMAL
 ----------------------------------------
 mutilēs			16164	1	1
 ----------------------------------------
@@ -17407,15 +17413,15 @@ muttīverō			16172	1	1
 myconium			16173	2	1
 myconius			16174	1	1
 ----------------------------------------
-myropōla			16175	1	1 +POL +COMPOUND +JOB
+myropōla		16175	1	1 +POL +COMPOUND +JOB
 myropōlae		16176	1	1 +POL +COMPOUND +JOB
-myropōlia			16177	2	2 +POL +COMPOUND +JOB
+myropōlia		16177	2	2 +POL +COMPOUND +JOB
 myropōlās		16178	1	1 +POL +COMPOUND +JOB
 ----------------------------------------
-myrrhina			16179	3	1
-myrrhinus			16180	1	1
+myrrhina		16179	3	1
+myrrhinus		16180	1	1
 myrrina			16181	9	1
-myrrinam			16182	2	1
+myrrinam		16182	2	1
 myrrinā			16183	2	1
 ----------------------------------------
 mysehī			16184	1	1
@@ -17426,7 +17432,7 @@ mytthumbālis			16186	1	1
 mytthymballe			16187	1	1
 ----------------------------------------
 māceria			16193	2	1
-māceriam			16194	1	1
+māceriam		16194	1	1
 ----------------------------------------
 MACERO
 ----------------------------------------
@@ -17743,10 +17749,10 @@ mōvī			16475	1	1
 mūcidum			16476	1	1
 mūcidus			16477	1	1
 ------------------------------------------
-mūla			16478	1	1
-mūliōnēs		16479	2	2
-mūlī				16480	1	1
-mūlōs			16481	2	2
+mūla			16478	1	1 +ANIMAL
+mūliōnēs		16479	2	2 +IO +ANIMAL +JOB
+mūlī			16480	1	1 +ANIMAL
+mūlōs			16481	2	2 +ANIMAL
 ------------------------------------------
 mūnem			16482	1	1
 mūnera			16483	5	4
@@ -17783,8 +17789,8 @@ mūsculōs		16510	1	1 +CULUS +ANIMAL +DIMINUTIVE
 -------------------------------------
 mūsicam			16511	2	2 +MUSIC
 mūsicum			16512	1	1 +MUSIC
-mūsicā				16513	1	1 +MUSIC
-mūsicē				16514	1	1 +MUSIC
+mūsicā			16513	1	1 +MUSIC
+mūsicē			16514	1	1 +MUSIC
 mūsicīs			16515	1	1 +MUSIC
 -------------------------------------
 mūta			16516	1	1
@@ -17827,17 +17833,17 @@ n			16551	5	5
 nacta			16552	1	1
 nactae			16553	1	1
 nactam			16554	2	1
-nactu			16555	4	4
+nactu's			16555	4	4 +S
 nactum			16556	1	1
 nactus			16557	11	7
-nactust			16558	1	1
+nactust			16558	1	1 +ST
 nanctus			16565	1	1
 nanctī			16566	1	1
 nancīscier			16567	1	1
 nancīscor			16568	1	1
 nancīscī			16569	1	1
 ------------------------------------------
-naenia			16559	1	1 +MUSIC
+naenia		16559	1	1 +MUSIC
 naeniam		16560	1	1 +MUSIC
 ------------------------------------------
 naevium			16561	1	1
@@ -17868,8 +17874,8 @@ naupactum			16585	3	1
 nauta			16591	2	1 +JOB
 nautā			16595	1	1 +JOB
 ------------------------------------------
-nauseā			16586	1	1
-nauseō			16587	1	1
+nauseā			16586	1	1 +HEALTH
+nauseō			16587	1	1 +HEALTH
 nautea			16592	1	1
 nauteam			16593	1	1
 nauteā			16594	1	1
@@ -17888,7 +17894,7 @@ nebula			16599	2	2 +NATURE
 nebulam			16600	2	2 +NATURE
 nebulāī			16601	1	1 +AI +NATURE
 nebulō			16602	2	1
-nebulōnem			16603	1	1
+nebulōnem		16603	1	1
 ----------------------------------------
 nec			16604	337	27
 necdum			16605	2	2
@@ -17928,33 +17934,33 @@ negitō			16635	1	1
 ----------------------------------------
 +NEGLEGO
 ----------------------------------------
-neglegenter			16636	1	1 +TER
-neglegentiam			16637	2	2
+neglegenter			16636	1	1 +NT +TER
+neglegentiam		16637	2	2 +NT +IA
 neglegere			16638	3	3
 neglegitur			16639	1	1
 negleguntur			16640	1	1
 neglegēns			16641	1	1
 neglēcta			16642	1	1
-neglēctust			16643	1	1
+neglēctust			16643	1	1 +ST
 neglēxisse			16644	1	1
 neglēxit			16645	1	1
 ----------------------------------------
 +NEGO
 ----------------------------------------
 nego			16646	3	3
-negā				16648	9	7
+negā			16648	9	7 +IMPERATIVE
 negābam			16649	1	1
-negābant			16650	1	1
+negābant		16650	1	1
 negābis			16651	2	2
 negābit			16652	3	2
 negābās			16653	6	4
 negābō			16654	2	2
-negābōn			16655	1	1
+negābōn			16655	1	1 +NE
 negāmus			16656	1	1
 negāre			16657	5	5
 negāris			16658	1	1
 negās			16659	20	10
-negāsne			16660	1	1
+negāsne			16660	1	1 +NE
 negāt			16661	1	1
 negātis			16662	1	1
 negātō			16663	1	1
@@ -17988,15 +17994,15 @@ nent			16683	1	1
 nepam			16684	1	1
 ----------------------------------------
 neptūne			16685	5	3 +GOD
-neptūniīs			16686	1	1 +GOD
+neptūniīs		16686	1	1 +GOD
 neptūnum		16687	1	1 +GOD
-neptūnus			16688	4	1 +GOD
+neptūnus		16688	4	1 +GOD
 neptūnī			16689	5	4 +GOD
 neptūnō			16690	4	3 +GOD
 ----------------------------------------
 nepōs			16691	3	2 +FAMILY
 nepōte			16692	1	1 +FAMILY
-nepōtulum	16693	2	1 +ULUS +DIMINUTIVE
+nepōtulum	    16693	2	1 +ULUS +DIMINUTIVE
 nepōtī			16694	1	1 +FAMILY
 ----------------------------------------
 nequa			16695	1	1
@@ -18085,13 +18091,13 @@ nigrīs			16763	1	1
 ----------------------------------------
 +NIHIL
 ----------------------------------------
-nihil				16764	147	22
+nihil			16764	147	22
 nihilum			16765	1	1
-nihilī				16766	52	18
-nihilīque		16767	2	2
-nihilīst			16768	4	3
+nihilī			16766	52	18
+nihilīque		16767	2	2 +QUE
+nihilīst		16768	4	3 +ST
 nihilō			16769	33	20
-nihilōst			16770	2	2
+nihilōst		16770	2	2 +ST
 ----------------------------------------
 nilimnīīchtō			16771	1	1
 nimbāta			16772	1	1
@@ -18106,7 +18112,7 @@ nimis			16777	126	24
 nimisque		16778	9	7
 nimist			16779	1	1
 nimium			16780	64	22
-nimiumque	16781	1	1
+nimiumque	    16781	1	1
 nimiumst		16782	3	2
 nimius			16783	1	1
 nimiā			16784	2	2
@@ -18236,17 +18242,17 @@ noxiō			16893	1	1
 ----------------------------------------
 ntī			16894	1	1
 ----------------------------------------
-nuce						16895	2	2
-nucem						16896	2	2
-nucibus					16897	1	1
-nucifrangibula			16898	1	1 +FRANGERE +BULA
-nuculeum					16899	2	2
-nucēs						16900	2	1
+nuce					16895	2	2 +PLANT +FOOD
+nucem					16896	2	2 +PLANT +FOOD
+nucibus					16897	1	1 +PLANT +FOOD
+nucifrangibula			16898	1	1 +FRANGERE +BULA +PLANT +FOOD
+nuculeum				16899	2	2 +PLANT +FOOD
+nucēs					16900	2	1 +PLANT +FOOD
 ----------------------------------------
-nudius						16901	3	3
-nudiusquartus			16902	2	1
-nudiusquīntus			16903	1	1
-nudiustertius			16904	3	2
+nudius					16901	3	3 +TIME
+nudiusquartus			16902	2	1 +TIME
+nudiusquīntus			16903	1	1 +TIME
+nudiustertius			16904	3	2 +TIME
 ----------------------------------------
 nugiepiloquidēs			16905	1	1
 nullus			16906	2	2
@@ -18303,10 +18309,10 @@ nuptum			16947	1	1
 nurūs				16948	1	1 +FAMILY
 ----------------------------------------
 nusquam			16949	50	22
-nusquamst		16950	6		5 +ST
+nusquamst		16950	6	5 +ST
 ----------------------------------------
-nutrix			16951	4	4
-nvtrix			16952	1	1
+nutrix			16951	4	4 +FAMILY +JOB
+nvtrix			16952	1	1 +FAMILY +JOB
 ----------------------------------------
 nycchō			16953	1	1
 ----------------------------------------
@@ -18396,14 +18402,14 @@ nēbat			17033	1	1
 nēcui			17034	1	1
 nēdum			17035	1	1
 ---------------------------------------------
-nēglegentem			17036	1	1
-nēglegenter			17037	1	1 +TER
-nēglegentiam			17038	1	1
-nēglegentiā			17039	2	2
-nēglegentiāst			17040	1	1
-nēglegentēs			17041	1	1
+nēglegentem			17036	1	1 +NT
+nēglegenter			17037	1	1 +NT +TER
+nēglegentiam		17038	1	1 +NT  +IA
+nēglegentiā			17039	2	2 +NT +IA
+nēglegentiāst		17040	1	1 +NT +IA +ST
+nēglegentēs			17041	1	1 +NT
 nēglegere			17042	1	1
-nēglegō			17043	1	1
+nēglegō			    17043	1	1
 nēglēxistī			17044	1	1
 nēglēxit			17045	1	1
 ----------------------------------------
@@ -18478,17 +18484,17 @@ nīve			17104	5	3
 nīxae			17105	1	1
 nīxus			17106	1	1
 ---------------------------------------
-nōbilem		17107	3	2 +BILIS
+nōbilem		    17107	3	2 +BILIS
 nōbilest		17108	1	1 +BILIS +ST
 nōbilis			17109	3	3 +BILIS
 nōbilitās		17110	2	2 +BILIS +TAT
-nōbilitātem	17111	3	3 +BILIS +TAT
+nōbilitātem	    17111	3	3 +BILIS +TAT
 nōbilēs			17112	1	1 +BILIS
 nōbilīque		17113	1	1 +BILIS +QUE
 nōbilīs			17114	2	2 +BILIS
 ---------------------------------------
-nōbīs				17115	152	26
-nōbīscum			17116	6	5 +CUM
+nōbīs			17115	152	26
+nōbīscum		17116	6	5 +CUM
 ---------------------------------------
 nōdum			17117	2	2
 ---------------------------------------
@@ -18689,8 +18695,10 @@ nūntiī			17306	1	1
 nūntiīs			17307	2	1
 nūntiō			17308	9	7
 nūntiōs			17309	1	1
-nūper			17310	7	4 +PER
-nūperum			17311	1	1
+--------------------------------------
+nūper			17310	7	4 +PER +TIME
+nūperum			17311	1	1 +TIME
+-------------------------------------
 nūpserim			17312	1	1
 nūpserit			17313	1	1
 nūpsistī			17314	1	1
@@ -18714,6 +18722,7 @@ nūptum			17331	20	10
 nūptā			17332	1	1
 nūptās			17333	1	1
 nūptūra			17334	1	1
+-------------------------------------------
 nūtat			17335	2	2
 nūtent			17336	1	1
 nūtet			17337	1	1
@@ -18988,14 +18997,14 @@ obstāre			17595	1	1
 obstō			17596	1	1
 obsēverīs			17597	1	1
 obsēvistī			17598	1	1
-obsōnant			17599	1	1
-obsōnat			17600	1	1
 -------------------------------------------
+obsōnant			17599	1	1
+obsōnat			    17600	1	1
 obsōnium			17601	9	6
 obsōniumque			17602	1	1
 obsōniīs			17603	1	1
-obsōniō			17604	3	3
-obsōnā			17605	2	2
+obsōniō			    17604	3	3
+obsōnā			    17605	2	2
 obsōnābās			17606	1	1
 obsōnābō			17607	2	2
 obsōnāre			17608	3	3
@@ -19010,8 +19019,8 @@ obsōnātōrem			17616	1	1 +TOR
 obsōnātū			17617	3	2
 obsōnāvit			17618	2	2
 obsōnāvī			17619	1	1
-obsōnī			17620	4	4
-obsōnō			17621	1	1
+obsōnī			    17620	4	4
+obsōnō			    17621	1	1
 --------------------------------------------
 obtaedēscat			17622	1	1
 obtemperant			17623	1	1
@@ -19368,9 +19377,9 @@ olēre			17957	1	1
 olēs			17958	1	1
 olēt			17959	1	1
 ---------------------------------------
-olīvum			17960	1	1
-olīvās			17961	1	1
-olīvī				17962	2	2
+olīvum			17960	1	1 +PLANT
+olīvās			17961	1	1 +PLANT
+olīvī			17962	2	2 +PLANT
 ---------------------------------------
 omissam			17963	1	1
 omissiōrēs			17964	1	1
@@ -19715,8 +19724,8 @@ orbitātem			18285	1	1
 -----------------------------------
 orcum			18287	2	2
 orcus			18288	4	4
-orcī				18289	1	1
-orcō				18290	3	2
+orcī			18289	1	1
+orcō			18290	3	2
 ---------------------------------
 orestēs			18291	1	1
 orgiōrum			18292	1	1
@@ -19736,10 +19745,10 @@ os			18305	2	2
 osculentiam			18306	1	1 +LENTUS
 osculātiunculae			18307	1	1
 ---------------------------------
-ossa			18308	3	3 +BODY
-osse			18309	2	2 +BODY
+ossa		18308	3	3 +BODY
+osse		18309	2	2 +BODY
 osseae		18310	1	1 +EUS +BODY
-ossibus	18311	1	1 +BODY
+ossibus	    18311	1	1 +BODY
 -------------------------------------------
 ostendam		18312	7	6
 ostende			18313	10	6
@@ -19804,19 +19813,19 @@ paenitēbat			18364	1	1
 paenitēbit			18365	1	1
 paenitēns			18366	1	1
 ------------------------------------------
-paenulast			18367	1	1
+paenulast			18367	1	1 +ST +EQUIPMENT +CLOTHES
 -------------------------------------------
 paenūriast			18368	1	1
 palaemōn			18369	1	1
 -----------------------------------------
-palaestra					18370	14	1 +PLACE +SPORT
+palaestra				18370	14	1 +PLACE +SPORT
 palaestrae				18371	1	1 +PLACE +SPORT
 palaestram				18372	3	2 +PLACE +SPORT
 palaestrast				18373	1	1 +ST +PLACE +SPORT
-palaestrā					18378	5	5 +PLACE +SPORT
+palaestrā				18378	5	5 +PLACE +SPORT
 palaestricō				18374	1	1 +ICUS +PLACE +SPORT
 -------------------------------------------
-palaestriō					18375	23	1 +NAME
+palaestriō				18375	23	1 +NAME
 palaestriōnem			18376	2	1 +NAME
 palaestriōnis			18377	1	1 +NAME
 ------------------------------------------
@@ -19828,21 +19837,21 @@ palinūre			18382	7	1 +NAME
 palinūrum			18383	1	1 +NAME
 palinūrus			18384	1	1 +NAME
 ----------------------------------------------
-palla			18385	10	1
-pallam			18386	35	4
+palla			18385	10	1 +EQUIPMENT +CLOTHES
+pallam			18386	35	4 +EQUIPMENT +CLOTHES
 pallida			18387	2	2
 ----------------------------------------------
 palliolum		18388	4	3 +EQUIPMENT +CLOTHES
-palliolātim	18389	1	1 +TIM +EQUIPMENT +CLOTHES
+palliolātim	    18389	1	1 +TIM +EQUIPMENT +CLOTHES
 pallium			18390	20	16 +EQUIPMENT +CLOTHES
-palliātī			18391	1	1 +ATUS +EQUIPMENT +CLOTHES
+palliātī		18391	1	1 +ATUS +EQUIPMENT +CLOTHES
 palliō			18392	10	7 +EQUIPMENT +CLOTHES
-palliōst			18393	1	1 +ST +EQUIPMENT +CLOTHES
+palliōst		18393	1	1 +ST +EQUIPMENT +CLOTHES
 ----------------------------------------------
-pallula			18394	1	1
-pallulam			18395	2	1
-pallā			18396	3	2
-pallās			18397	3	2
+pallula			18394	1	1 +EQUIPMENT +CLOTHES
+pallulam		18395	2	1 +EQUIPMENT +CLOTHES
+pallā			18396	3	2 +EQUIPMENT +CLOTHES
+pallās			18397	3	2 +EQUIPMENT +CLOTHES
 pallēs			18398	3	3
 pallōrem			18399	1	1
 palma			18400	1	1
@@ -19862,26 +19871,26 @@ palu			18413	1	1
 palumbem			18414	2	2
 palūdem			18415	1	1
 -------------------------------------------
-pamphila			18416	2	1
-pamphilam			18417	8	2
-pamphilamne			18418	1	1
-pamphile			18419	40	2
-pamphilippe			18420	3	1
-pamphilippi			18421	1	1
-pamphilippum			18422	2	1
-pamphilippus			18423	1	1
-pamphilum			18424	18	3
-pamphilumne			18425	1	1
-pamphilus			18426	39	2
-pamphilā			18427	1	1
-pamphilī			18428	5	2
-pamphilīque			18429	1	1
-pamphilō			18430	13	2
-pamphilōst			18431	1	1
+pamphila			18416	2	1 +NAME
+pamphilam			18417	8	2 +NAME
+pamphilamne			18418	1	1 +NAME
+pamphile			18419	40	2 +NAME
+pamphilippe			18420	3	1 +NAME
+pamphilippi			18421	1	1 +NAME
+pamphilippum		18422	2	1 +NAME
+pamphilippus		18423	1	1 +NAME
+pamphilum			18424	18	3 +NAME
+pamphilumne			18425	1	1 +NAME
+pamphilus			18426	39	2 +NAME
+pamphilā			18427	1	1 +NAME
+pamphilī			18428	5	2 +NAME
+pamphilīque			18429	1	1 +NAME
+pamphilō			18430	13	2 +NAME
+pamphilōst			18431	1	1 +NAME
 --------------------------------------------
 pampinī			18432	1	1
 -----------------------------------------
-pancraticē			18433	1	1 +ICUS +E
+pancraticē			18433	1	1 +ICUS +E +SPORT
 ----------------------------------------
 pandiculāns			18434	1	1
 pandit			18435	1	1
@@ -19899,8 +19908,10 @@ papillam			18446	2	2
 papillārum			18447	1	1
 papillās			18448	1	1
 pappet			18449	1	1
-papāverem			18450	1	1
-papāveremque			18451	1	1
+------------------------------------------
+papāverem			18450	1	1 +PLANT
+papāveremque		18451	1	1 +PLANT
+------------------------------------------
 parant			18452	2	1
 -----------------------------------------
 parasitus				18453	9	9
@@ -19977,15 +19988,19 @@ paritās			18522	2	2 +TAT
 paritūram			18523	1	1
 pariunt			18524	1	1
 pariēs			18525	1	1
+---------------------------------
 parmeno			18526	21	3
 parmenō			18527	46	3
 parmenōne			18528	1	1
 parmenōnem			18529	6	1
 parmenōnis			18530	1	1
 parmenōnēs			18531	1	1
+-----------------------------------
 parra			18532	1	1
-parricīda			18533	1	1 +CID
-parricīdī			18534	1	1 +CID
+------------------------------------
+parricīda			18533	1	1 +CAEDERE +COMPOUND +CRIME
+parricīdī			18534	1	1 +CAEDERE +COMPOUND +CRIME
+------------------------------------
 pars			18535	14	11
 parserīs			18536	2	2
 parsimōniae			18537	1	1 +MONI +IA
@@ -20099,11 +20114,11 @@ passūs			18644	1	1
 patagiāriī			18645	1	1
 patagiātam			18646	1	1
 ---------------------------------------
-pateant			18647	3	3
+pateant			    18647	3	3
 pateat				18648	1	1
-patefactast		18649	1	1 +FACERE
+patefactast		    18649	1	1 +FACERE
 patefit				18650	1	1 +FACERE
-patefēcerīs		18651	1	1 +FACERE
+patefēcerīs		    18651	1	1 +FACERE
 patefēcit			18652	1	1 +FACERE
 patefēcī			18653	1	1 +FACERE
 --------------------------------------
@@ -20305,12 +20320,12 @@ pectitō			18838	1	1
 pectās			18845	1	1
 pectēn			18846	1	1
 -----------------------------------------
-pectora		18839	1	1 +BODY
-pectore		18840	35	18 +BODY
+pectora		    18839	1	1 +BODY
+pectore		    18840	35	18 +BODY
 pectorest		18841	1	1 +ST +BODY
 pectorī			18842	2	2 +BODY
 pectus			18843	28	11 +BODY
-pectusque	18844	1	1 +QUE +BODY
+pectusque	    18844	1	1 +QUE +BODY
 -----------------------------------------
 pecua			18847	2	2
 pecudem			18848	1	1
