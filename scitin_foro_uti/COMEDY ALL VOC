@@ -15,7 +15,7 @@ abaliēnārit			6	1	1  +ABALIENO
 abaliēnātur			7	1	1  +ABALIENO
 abaliēnāverit		8	1	1 +ABALIENO
 -----------------------------------
-abavus			9	2	2 +ABAUOS
+abavus			9	2	2 +ABAUOS +FAMILY
 -----------------------------------
 abdicat			10	1	1 +ABDICO
 -----------------------------------
@@ -3331,9 +3331,9 @@ balanōs			3108	1	1
 ---------------------------------------
 balineae			3109	1	1 +PLACE
 balineās			3110	3	3 +PLACE
-balineātor		3111		2	2 +TOR  +PLACE
+balineātor		    3111		2	2 +TOR  +PLACE
 balineīs			3112	4	4 +PLACE
-balneātōrēs		3126	1	1 +TOR +PLACE
+balneātōrēs		    3126	1	1 +TOR +PLACE
 ---------------------------------------
 ballaena			3113	1	1
 ---------------------------------------
@@ -3343,29 +3343,29 @@ balliōne		3121	1	1 +NAME
 balliōnem		3122	3	1 +NAME
 balliōnis		3123	2	1 +NAME
 balliōniā		3124	1	1 +NAME
-balliōnī			3125	2	1 +NAME
+balliōnī		3125	2	1 +NAME
 ---------------------------------------
-ballista				3115	2	2 +EQUIPMENT
+ballista			3115	2	2 +EQUIPMENT
 ballistam			3116	1	1 +EQUIPMENT
 ballistast			3117	1	1 +ST +EQUIPMENT
-ballistā				3118	1	1 +EQUIPMENT
+ballistā			3118	1	1 +EQUIPMENT
 ballistāriō			3119	1	1 +ARIUS +EQUIPMENT +JOB
 --------------------------------------
 bane			3127	1	1
 ----------------------------------------
-barathrum			3128	3	3
+barathrum		3128	3	3 +PLACE
 -------------------------------------
-barbare			3130	1	1 +VOCATIVE
-barbaricā			3131	1	1 +ICUS
-barbaricās			3132	1	1 +ICUS
-barbaricō			3133	1	1 +ICUS
-barbariā			3134	1	1
-barbarum			3135	1	1
-barbarus			3136	2	2
-barbarē			3137	1	1 +E
-barbarī			3138	1	1
-barbarō			3139	2	2
-barbarōs			3140	1	1
+barbare			3130	1	1 +VOCATIVE +GEOGRAPHY
+barbaricā		3131	1	1 +ICUS +GEOGRAPHY
+barbaricās		3132	1	1 +ICUS +GEOGRAPHY
+barbaricō		3133	1	1 +ICUS +GEOGRAPHY
+barbariā		3134	1	1 +GEOGRAPHY
+barbarum		3135	1	1 +GEOGRAPHY
+barbarus		3136	2	2 +GEOGRAPHY
+barbarē			3137	1	1 +E +GEOGRAPHY
+barbarī			3138	1	1 +GEOGRAPHY
+barbarō			3139	2	2 +GEOGRAPHY
+barbarōs		3140	1	1 +GEOGRAPHY
 -------------------------------------
 barba				3129	2	2  +BODY
 barbā				3141	3	3  +BODY
@@ -3439,25 +3439,25 @@ beneficiō				3201	6		5 +FACERE +COMPOUND
 beneficum			3202	2		2 +FACERE +COMPOUND
 beneficī				3203	2		2 +FACERE +COMPOUND
 ------------------------------------------
-bene				3193	386	26
-benene			3204	3		3 +NE
-beneque			3205	3		3 +QUE
+bene				3193	386	    26
+benene			    3204	3		3 +NE
+beneque			    3205	3		3 +QUE
 benest				3206	3		2 +ST
 benē				3237	2		2
 -------------------------------------------
-benevolente			3207	2	2 +COMPOUND
-benevolentem		3208	4	3 +COMPOUND
-benevolentibus	3209	3	3 +COMPOUND
-benevolentis		3210	1	1 +COMPOUND
-benevolentiā		3211	1	1 +COMPOUND
-benevolentēs		3212	1	1 +COMPOUND
-benevolentī			3213	1	1 +COMPOUND
-benevolentīs		3214	2	2 +COMPOUND
-benevolum			3215	2	2 +COMPOUND
-benevolēns			3216	7	6 +COMPOUND
-benevolō				3217	1	1 +COMPOUND
-benivolumque		3235	1	1 +COMPOUND
-benivolus				3236	1	1 +COMPOUND
+benevolente			3207	2	2 +VELLE +COMPOUND
+benevolentem		3208	4	3 +VELLE +COMPOUND
+benevolentibus	    3209	3	3 +VELLE +COMPOUND
+benevolentis		3210	1	1 +VELLE +COMPOUND
+benevolentiā		3211	1	1 +VELLE +COMPOUND
+benevolentēs		3212	1	1 +VELLE +COMPOUND
+benevolentī			3213	1	1 +VELLE +COMPOUND
+benevolentīs		3214	2	2 +VELLE +COMPOUND
+benevolum			3215	2	2 +VELLE +COMPOUND
+benevolēns			3216	7	6 +VELLE +COMPOUND
+benevolō			3217	1	1 +VELLE +COMPOUND
+benivolumque		3235	1	1 +VELLE +COMPOUND
+benivolus			3236	1	1 +VELLE +COMPOUND
 ----------------------------------------
 benignamque		3218	1		1
 benignitās			3219	9		7 +TAT
@@ -3479,9 +3479,9 @@ benignōs				3234	1		1
 ------------------------------------------
 beās				3238	1	1
 beāstī				3239	1	1
-beātam			3240	1	1
+beātam			    3240	1	1
 beātus				3241	4	4
-beātust			3242	1	1
+beātust			    3242	1	1
 beō					3243	1	1
 ----------------------------------------
 bibam			3244	4	4
@@ -3559,14 +3559,15 @@ blandītur			3308	2	1
 blatis			3309	1	1
 blatīs			3310	2	2
 ------------------------------------------------
-blennī			3311	1	1
+blennī			3311	1	1 +INSULT
+------------------------------------------------
 blepharo			3312	1	1
 blepharō			3313	2	1
 blepharōnem			3314	2	1
 ------------------------------------------------
-blitea			3315	1	1
-bliteō			3316	1	1
-blitum			3317	1	1
+blitea			3315	1	1 +EUS +PLANT +INSULT
+bliteō			3316	1	1 +EUS +PLANT +INSULT
+blitum			3317	1	1 +EUS +PLANT +FOOD
 ------------------------------------------------
 bo			3318	1	1
 boat			3319	1	1
@@ -3618,12 +3619,12 @@ bonōrum			3363	4		4
 bonōs				3364	6		5
 -------------------------------------
 bracchia				3368	2	2 +BODY
-bracchium			3369	7	4 +BODY
-bracchiālem			3370	1	1 +ALIS +BODY
+bracchium			    3369	7	4 +BODY
+bracchiālem			    3370	1	1 +ALIS +BODY
 bracchiīs				3371	1	1 +BODY
 bracchiō				3372	1	1 +BODY
 --------------------------------------
-brassicam			3373	1	1 +PLANT
+brassicam			    3373	1	1 +PLANT +FOOD
 -----------------------------------------
 breve			3374	3	3
 brevem		3375	3	3
@@ -3642,8 +3643,8 @@ brūmam			3384	1	1
 bubulcitārier			3385	1	1
 ------------------------------------
 buccaene			3386	1	1 +NE
-buccam			3387	1	1
-bucculentum	3388	1	1 +LENTUS
+buccam			    3387	1	1
+bucculentum	        3388	1	1 +LENTUS
 bucculās			3389	1	1 +ULUS +DIMINUTIVE
 buccās				3390	3	2
 buccōnēs			3391	1	1 +ON
@@ -3671,19 +3672,19 @@ bālitantēs			3409	1	1
 -------------------------------------
 bēlua				3410	4	4 +ANIMAL
 bēluae				3411	1	1 +ANIMAL
-bēluam			3412	5	5 +ANIMAL
+bēluam			    3412	5	5 +ANIMAL
 bēluās				3413	2	2 +ANIMAL
-bēluāta			3414	1	1 +ATUS +ANIMAL
+bēluāta			    3414	1	1 +ATUS +ANIMAL
 -------------------------------------
 bēstia				3415	6	5 +ANIMAL
-bēstiam			3416	6	5 +ANIMAL
+bēstiam			    3416	6	5 +ANIMAL
 bēstiast			3417	1	1 +ST +ANIMAL
 --------------------------------------
 bētam			3418	1	1 +PLANT
 -------------------------------------
 bīduom			3419	4	1 +TIME
 bīduum			3420	4	1 +TIME
-bīduīst				3421	1	1 +ST +TIME
+bīduīst			3421	1	1 +ST +TIME
 -------------------------------------
 bīlem			3422	1	1
 bīlis			3423	1	1
@@ -3698,19 +3699,19 @@ bītere			3431	1	1
 bītet			3432	1	1
 bītās			3433	1	1
 -------------------------------------
-bōs				3434	2	2
-bovem			3365	3	3
-boves			3366	4	3
-bovēs			3367	7	6
-būbus			3441	2	2
-būbula			3435	1	1 +ULUS
-būbulam		3436	1	1 +ULUS
-būbulā			3437	1	1 +ULUS
-būbulī			3438	1	1 +ULUS
-būbulīs			3439	2	2 +ULUS
-būbulōs		3440	1	1 +ULUS
-būbīle			3442	1	1
-būcaedae	3443	1	1
+bōs				3434	2	2 +ANIMAL
+bovem			3365	3	3 +ANIMAL
+boves			3366	4	3 +ANIMAL
+bovēs			3367	7	6 +ANIMAL
+būbus			3441	2	2 +ANIMAL
+būbula			3435	1	1 +ULUS +ANIMAL
+būbulam		    3436	1	1 +ULUS +ANIMAL
+būbulā			3437	1	1 +ULUS +ANIMAL
+būbulī			3438	1	1 +ULUS +ANIMAL
+būbulīs			3439	2	2 +ULUS +ANIMAL
+būbulōs		    3440	1	1 +ULUS +ANIMAL
+būbīle			3442	1	1 +ANIMAL
+būcaedae	    3443	1	1 +CAEDERE +COMPOUND +ANIMAL +INSULT
 -------------------------------------
 c			3444	13	8
 ca			3445	1	1
@@ -3773,13 +3774,14 @@ caesius			3501	1	1
 caesum			3502	2	2
 caesīcium			3503	1	1
 -------------------------------------------
-calamistrum			3504	1	1
-calamistrāte			3505	1	1
+calamistrum			3504	1	1 +EQUIPMENT
+calamistrāte		3505	1	1 +EQUIPMENT
 ------------------------------------------
 calamitās			3506	7	6 +TAT
-calamitāsque			3507	1	1 +TAT +QUE
+calamitāsque		3507	1	1 +TAT +QUE
 calamitātem			3508	1	1 +TAT
 calamitātis			3509	1	1 +TAT
+-----------------------------------------
 calamum			3510	1	1
 calamō			3511	1	1
 calcem			3512	1	1
@@ -3787,20 +3789,22 @@ calceolāriī			3513	1	1
 calceātīs			3514	1	1
 calceōs			3515	1	1
 ---------------------------------------
-calchā			3516	1	1
-calchās			3517	1	1
+calchā			3516	1	1 +NAME
+calchās			3517	1	1 +NAME
 ---------------------------------------
 calcibus			3518	3	2
 calcitrōnem			3519	1	1
 calcārī			3520	1	1
 calcēs			3521	1	1
 calcīs			3522	1	1
-calefacit			3523	1	1 +FACERE
-calefactat			3524	1	1 +FACERE
-calefactābere			3525	1	1 +FACERE
-calefierī			3526	1	1 +FACERE
-calefīerent			3527	1	1 +FACERE
-calefīerī			3528	1	1 +FACERE
+-----------------------------------------
+calefacit			3523	1	1 +FACERE +COMPOUND
+calefactat			3524	1	1 +FACERE +COMPOUND
+calefactābere		3525	1	1 +FACERE +COMPOUND
+calefierī			3526	1	1 +FACERE +COMPOUND
+calefīerent			3527	1	1 +FACERE +COMPOUND
+calefīerī			3528	1	1 +FACERE +COMPOUND
+-------------------------------------------
 calendīs			3529	1	1
 calent			3530	1	1
 calet			3531	4	4
@@ -3815,50 +3819,50 @@ calidī				3539	1	1
 calidīs				3540	1	1
 calidō				3541	1	1
 ----------------------------------------
-calidorus			3535	1	1
-calidōre			3542	3	1
-calidōrum			3543	2	1
-calidōrus			3544	3	1
-calidōrī				3545	1	1
-calidōrō			3546	1	1
+calidorus			3535	1	1 +NAME
+calidōre			3542	3	1 +NAME
+calidōrum			3543	2	1 +NAME
+calidōrus			3544	3	1 +NAME
+calidōrī			3545	1	1 +NAME
+calidōrō			3546	1	1 +NAME
 -----------------------------------------
 callent			3547	2	2
 callet			3548	2	2
 calleās			3549	1	1
 calleō			3550	5	3
 ------------------------------------------
-callicle				3551	2		1 +NAME
+callicle			3551	2		1 +NAME
 calliclem			3552	6		2 +NAME
 callicles			3553	2		2 +NAME
 calliclēs			3554	12	2 +NAME
 calliclēī			3555	1		1 +NAME
-calliclī				3556	3		1 +NAME
+calliclī			3556	3		1 +NAME
 -------------------------------------------
 callida			3557	3	3
 -------------------------------------------
-callidamatem			3558	1	1 +NAME
-callidamates			3559	1	1 +NAME
-callidamatēs			3560	6	1 +NAME
+callidamatem		3558	1	1 +NAME
+callidamates		3559	1	1 +NAME
+callidamatēs		3560	6	1 +NAME
 callidamatī			3561	1	1 +NAME
 -------------------------------------------
-calliditātēs			3562	1	1
+calliditātēs		3562	1	1
 callidiōre			3563	1	1
 callidiōrem			3564	2	2
 callidum			3565	10	9
 callidus			3566	1	1
-callidē			3567	5	5
-callidēmidem			3568	2	1
-callidēmidēs			3569	2	2
+callidē			    3567	5	5
+callidēmidem		3568	2	1
+callidēmidēs		3569	2	2
 callidīs			3570	1	1
-callidō			3571	1	1
+callidō			    3571	1	1
 ---------------------------------------
-callimarchus			3572	1	1
+callimarchus		3572	1	1 +NAME
 ---------------------------------------
 callinīcus			3573	1	1
 ------------------------------------
-callipho			3574	1	1
-calliphō			3575	5	1
-calliphōne			3576	1	1
+callipho			3574	1	1 +NAME
+calliphō			3575	5	1 +NAME
+calliphōne			3576	1	1 +NAME
 ------------------------------------
 callippus			3577	1	1
 calliās			3578	1	1
@@ -3893,7 +3897,7 @@ candidātus			3601	1	1
 candidātās			3602	1	1
 candidē			3603	1	1
 candidō			3604	1	1
-candēfacere	3605	1	1 +FACERE
+candēfacere	    3605	1	1 +FACERE +COMPOUND
 candōrem			3606	1	1
 candōribus			3607	1	1
 cane			3608	1	1
@@ -7077,9 +7081,9 @@ cōnsusurrant			6554	1	1
 cōnsuādent			6555	1	1
 cōnsuādet			6556	2	1
 cōnsuādeō			6557	1	1
-cōnsuēfacere			6558	1	1 +FACERE
-cōnsuēfaciō			6559	1	1 +FACERE
-cōnsuēfēcī			6560	1	1 +FACERE
+cōnsuēfacere		6558	1	1 +FACERE +COMPOUND
+cōnsuēfaciō			6559	1	1 +FACERE +COMPOUND
+cōnsuēfēcī			6560	1	1 +FACERE +COMPOUND
 cōnsuērunt			6561	1	1
 cōnsuēscunt			6562	1	1
 cōnsuēsset			6563	1	1
@@ -11078,9 +11082,9 @@ flābellum			10346	2	1 +EQUIPMENT
 ------------------------------------------
 flāgitat			10347	1	1
 flāgitia			10348	10	3 +IA
-flāgitiafacere			10349	1	1
+flāgitiafacere		10349	1	1
 flāgitium			10350	26	12
-flāgitiumst			10351	5	5
+flāgitiumst			10351	5	5 +ST
 flāgitiīs			10352	4	4
 flāgitiō			10353	5	4
 flāgitābere			10354	1	1
@@ -11089,8 +11093,8 @@ flāgitāre			10356	1	1
 flāgitārier			10357	1	1
 flāgitās			10358	1	1
 flāgitātor			10359	1	1 +TOR
-flāgitātōrem			10360	1	1 +TOR
-flāgitī			10361	14	12
+flāgitātōrem		10360	1	1 +TOR
+flāgitī			    10361	14	12
 ---------------------------------------------------
 flāgritribae			10362	1	1
 flāre			10363	1	1
@@ -15743,13 +15747,13 @@ līberāverit			14647	1	1
 līberāvit			14648	4	1
 līberāvī			14649	1	1
 līberē			14650	10	8
-līberī			14651	13	9
-līberīque			14652	1	1
-līberīs			14653	15	10
-līberō			14654	10	8
-līberōrum			14655	5	5
-līberōs			14656	17	12
-līberōsque			14657	1	1
+līberī			14651	13	9 +FAMILY
+līberīque		14652	1	1 +QUE +FAMILY
+līberīs			14653	15	10 +FAMILY
+līberō			14654	10	8 +FAMILY
+līberōrum		14655	5	5 +FAMILY
+līberōs			14656	17	12 +FAMILY
+līberōsque		14657	1	1 +QUE +FAMILY
 ------------------------------------------------------
 lībram			14658	1	1 +EQUIPMENT
 ------------------------------------------------------
@@ -15797,13 +15801,13 @@ lītīs			14699	12	10
 līvidae			14700	1	1
 līvōrem			14701	1	1
 -----------------------------------------
-lōra			14702	6	6
-lōrea			14703	1	1
-lōripedīs			14704	1	1
-lōrā			14705	1	1
-lōrīcam			14706	4	2
-lōrīcā			14707	1	1
-lōrīs			14708	6	5
+lōra			14702	6	6 +EQUIPMENT
+lōrea			14703	1	1 +EQUIPMENT
+lōripedīs		14704	1	1 +EQUIPMENT
+lōrā			14705	1	1 +EQUIPMENT
+lōrīcam			14706	4	2 +EQUIPMENT
+lōrīcā			14707	1	1 +EQUIPMENT
+lōrīs			14708	6	5 +EQUIPMENT
 -----------------------------------------
 lūbricī			14709	1	1
 -----------------------------------------
@@ -15892,10 +15896,10 @@ lūgēre			14783	1	1
 lūmen			14784	3	2
 lūmine			14785	1	1
 ---------------------------------------------
-lūna			14786	2	2
-lūnae			14787	1	1
-lūnam			14788	2	2
-lūnulam			14789	1	1
+lūna			14786	2	2 +NATURE +SKY
+lūnae			14787	1	1 +NATURE +SKY
+lūnam			14788	2	2 +NATURE +SKY
+lūnulam			14789	1	1 +EQUIPMENT
 ---------------------------------------------
 lūridīs			14790	1	1
 lūserat			14791	1	1
@@ -15927,15 +15931,15 @@ maccidem			14814	1	1
 maccus			14815	1	1
 maccī			14816	1	1
 -------------------------------------------
-macedonius			14817	1	1 +IUS
-macedoniā			14818	1	1 +IUS
-macedoniēnsem	14819	1	1 +IENSIS
-macedoniō			14820	5	1 +IUS
-macedonēs			14821	1	1
-macedonī			14822	1	1  +IUS +IGEN
+macedonius			14817	1	1 +IUS +GEOGRAPHY
+macedoniā			14818	1	1 +IUS +GEOGRAPHY
+macedoniēnsem	    14819	1	1 +IENSIS +GEOGRAPHY
+macedoniō			14820	5	1 +IUS +GEOGRAPHY
+macedonēs			14821	1	1 +GEOGRAPHY
+macedonī			14822	1	1  +IUS +IGEN +GEOGRAPHY
 ------------------------------------------
-macellum			14823	6	5
-macellō			14824	1	1
+macellum			14823	6	5 +PLACE
+macellō			    14824	1	1 +PLACE
 -----------------------------------------
 macet			14825	1	1
 macilentīs			14826	1	1 +LENTUS
@@ -16066,28 +16070,28 @@ malas			14944	1	1
 malast			14945	2	2
 male			14946	256	27
 ---------------------------------------------
-maledicta				14947	3	2 +DICERE
-maledictum			14948	2	2 +DICERE
-maledictīs			14949	8	8 +DICERE
-maledicāx			14950	1	1 +DICERE +AC
-maledicīs				14951	1	1 +DICERE
-maledīcentiōrem	14952	1	1 +DICERE
-maledīcentēs		14953	1	1 +DICERE
-maledīcere			14954	2	2 +DICERE
-maledīcis				14955	1	1 +DICERE
-maledīcās			14956	2	2 +DICERE
+maledicta			14947	3	2 +DICERE +COMPOUND
+maledictum			14948	2	2 +DICERE +COMPOUND
+maledictīs			14949	8	8 +DICERE +COMPOUND
+maledicāx			14950	1	1 +DICERE +COMPOUND +AC
+maledicīs			14951	1	1 +DICERE +COMPOUND
+maledīcentiōrem	    14952	1	1 +DICERE +COMPOUND
+maledīcentēs		14953	1	1 +DICERE +COMPOUND
+maledīcere			14954	2	2 +DICERE +COMPOUND
+maledīcis			14955	1	1 +DICERE +COMPOUND
+maledīcās			14956	2	2 +DICERE +COMPOUND
 ---------------------------------------------
-malefaciant			14957	1	1 +FACERE
-malefacta			14958	3	3 +FACERE
-malefactum			14959	1	1 +FACERE
-malefactīs			14960	2	2 +FACERE
-malefactōrem			14961	1	1 +FACERE
-maleficiō			14962	2	2 +FACERE
-maleficum			14963	2	2 +FACERE
-maleficus			14964	1	1 +FACERE
-maleficē			14965	1	1 +FACERE
-maleficī			14966	1	1 +FACERE
-maleficōs			14967	3	3 +FACERE
+malefaciant			14957	1	1 +FACERE +COMPOUND
+malefacta			14958	3	3 +FACERE +COMPOUND
+malefactum			14959	1	1 +FACERE +COMPOUND
+malefactīs			14960	2	2 +FACERE +COMPOUND
+malefactōrem		14961	1	1 +FACERE +COMPOUND
+maleficiō			14962	2	2 +FACERE +COMPOUND
+maleficum			14963	2	2 +FACERE +COMPOUND
+maleficus			14964	1	1 +FACERE +COMPOUND
+maleficē			14965	1	1 +FACERE +COMPOUND
+maleficī			14966	1	1 +FACERE +COMPOUND
+maleficōs			14967	3	3 +FACERE +COMPOUND
 ---------------------------------------------
 malene			14968	1	1 +NE
 maleque			14969	3	3 +QUE
@@ -16269,9 +16273,9 @@ maritumīs			15134	1	1
 ---------------------------------------------
 mars			15135	1	1
 ---------------------------------------------
-marsuppium			15136	13	6
-marsuppiō				15137	1		1
-marsuppīō				15138	1		1
+marsuppium			15136	13	6 +EQUIPMENT
+marsuppiō			15137	1	1 +EQUIPMENT
+marsuppīō			15138	1	1 +EQUIPMENT
 --------------------------------------------
 marēs			15139	1	1
 marī			15140	33	11
@@ -16287,7 +16291,9 @@ marītō			15149	1	1
 marītōs			15150	2	1
 masculus			15151	1	1
 massicī			15152	1	1
-massiliēnsīs			15153	2	2
+--------------------------------------------------
+massiliēnsīs	15153	2	2 +GEOGRAPHY
+--------------------------------------------------
 massās			15154	1	1
 -----------------------------------------
 mastīgia			15155	10	7
@@ -16295,21 +16301,21 @@ mastīgiae			15156	4	3
 -----------------------------------------
 matrona			15157	11	10
 -----------------------------------------
-matulam			15158	3	3
-matulā			15159	1	1
+matulam			15158	3	3 +EQUIPMENT
+matulā			15159	1	1 +EQUIPMENT
 -----------------------------------------
 +MAVOLO
 -----------------------------------------
-mavelim			15160	2	2
-mavellem			15161	2	1
-mavolō				15162	1	1
+mavelim			15160	2	2 +VOLO
+mavellem		15161	2	1 +VOLO
+mavolō			15162	1	1 +VOLO
 ---------------------------------------
 +MAXIMUS +MAXUMUS
 ---------------------------------------
 maxima			15163	6	5
 maximae			15164	7	5
 maximam			15165	26	18
-maximast			15166	3	2
+maximast		15166	3	2
 maxime			15167	1	1
 maximum			15168	19	11
 maximumst		15169	7	7
@@ -16324,10 +16330,10 @@ maximō			15177	21	13
 maximōs			15178	2	2
 maxuma			15179	2	2
 maxumam			15180	1	1
-maxumaque			15181	1	1
+maxumaque		15181	1	1
 maxume			15182	1	1
 maxumum			15183	4	4
-maxumumst			15184	1	1
+maxumumst		15184	1	1
 maxumē			15185	6	6
 maxumī			15186	3	3
 maxumō			15187	4	4
@@ -16379,21 +16385,22 @@ meditātē			15231	4	4
 meditātī			15232	4	3
 meditēmur			15233	1	1
 -------------------------------------------
-medium			15234	6	6
+medium			    15234	6	6
 medius				15235	1	1
 mediā				15236	4	4
 mediō				15237	13	11
-mediōst			15241	1	1
+mediōst			    15241	1	1 +ST
 -------------------------------------------
-mediocriter		15218	1	1 +ITER
+mediocriter		    15218	1	1 +ITER
 mediocrī			15219	2	1
 mediōcris			15238	1	1
-mediōcriter		15239	2	2 +ITER
+mediōcriter		    15239	2	2 +ITER
 mediōcrīs			15240	1	1
 -------------------------------------------
-medullitus			15242	2	2
-medullās			15243	2	1
-medērī			15244	1	1
+medullitus			15242	2	2 +BODY
+medullās			15243	2	1 +BODY
+-------------------------------------------
+medērī			    15244	1	1
 megadorus			15245	1	1
 megadōre			15246	6	1
 megadōrum			15247	1	1
@@ -16434,16 +16441,15 @@ meliōrēs			15276	5	4
 meliōrīs			15277	1	1
 mellam			15278	1	1
 -------------------------------------------
-melle			15279	5	4
-mellilla			15280	1	1
-mellillae			15281	1	1
-mellillam			15282	1	1
+melle			    15279	5	4 +ANIMAL +FOOD
+mellilla			15280	1	1 +ANIMAL +FOOD +AFFECT
+mellillae			15281	1	1 +ANIMAL +FOOD +AFFECT
+mellillam			15282	1	1 +ANIMAL +FOOD +AFFECT
+mellīnae			15283	1	1 +ANIMAL +FOOD
+mellīnā			    15284	1	1 +ANIMAL +FOOD
 -------------------------------------------
-mellīnae			15283	1	1
-mellīnā			15284	1	1
--------------------------------------------
-membra			15285	7	7
-membrī			15286	1	1
+membra			15285	7	7 +BODY
+membrī			15286	1	1 +BODY
 -------------------------------------------
 mementō			15287	11	8 +IMPERATIVE
 mementōte			15288	1	1 +IMPERATIVE
