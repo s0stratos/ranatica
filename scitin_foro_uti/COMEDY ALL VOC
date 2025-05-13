@@ -1,74 +1,75 @@
-ā			28175	    391	26  +AB
-a			1			17	12	+AB
-ab			2			306	26	+AB
-abs			155		    98	23	+AB
-absque	    193		    6	6	+AB +QUE
-af			1182	    1	1	+AB
-aps			2185	    27	12	+AB
-apsque	    2186	    2	1	+AB +QUE
+ā			28175	    391	26  +r+AB
+a			1			17	12	+r+AB
+ab			2			306	26	+r+AB
+abs			155		    98	23	+r+AB
+absque	    193		    6	6	+r+AB +QUE
+af			1182	    1	1	+r+AB
+aps			2185	    27	12	+r+AB
+apsque	    2186	    2	1	+r+AB +QUE
 -----------------------------------
-abaetat	3	1	1 +ABAETO
+abaetat	3	1	1 +ABAETO +r+BET
 -----------------------------------
-abaliēnāre			4	1	1  +ABALIENO
-abaliēnārier			5	3	3  +ABALIENO
-abaliēnārit			6	1	1  +ABALIENO
-abaliēnātur			7	1	1  +ABALIENO
-abaliēnāverit		8	1	1 +ABALIENO
+abaliēnāre			4	1	1  +ABALIENO +r+ALI
+abaliēnārier		5	3	3  +ABALIENO +r+ALI
+abaliēnārit			6	1	1  +ABALIENO +r+ALI
+abaliēnātur			7	1	1  +ABALIENO +r+ALI
+abaliēnāverit		8	1	1 +ABALIENO +r+ALI
 -----------------------------------
-abavus			9	2	2 +ABAUOS +FAMILY
+abavus			9	2	2 +ABAUOS +FAMILY +r+AVU
 -----------------------------------
-abdicat			10	1	1 +ABDICO
+abdicat			10	1	1 +ABDICO +r+DIC
 -----------------------------------
-abdidit			11		1	1 +ABDO
-abdidērunt	12	1	1 +ABDO
-abdidī			13	1	1 +ABDO
+abdidit			11		1	1 +ABDO +r+DA
+abdidērunt	    12	1	1 +ABDO +r+DA
+abdidī			13	1	1 +ABDO +r+DA
 --------------------------------------
-abducta			14	3	3 +ABDUCO
-abductam		15	2	2 +ABDUCO
-abductast			16	3	3 +ABDUCO +ST
-abductum		17	1	1 +ABDUCO
-abductus			18	1	1 +ABDUCO
-abductūrum		19	1	1 +ABDUCO
-abductūrust		20	1	1 +ABDUCO +ST
-abduxtī			21	2	2 +ABDUCO
-abdūc				23	4	3 +ABDUCO
-abdūcam			24	3	2 +ABDUCO
-abdūcat			25	4	4 +ABDUCO
-abdūce			26	9	7 +ABDUCO
-abdūcere			27	11	8 +ABDUCO
-abdūcerem		28	2	2 +ABDUCO
-abdūceret		29	3	2 +ABDUCO
-abdūcerēs		30	3	2 +ABDUCO
-abdūcerēt		31	1	1 +ABDUCO
-abdūcet			32	6	4 +ABDUC
-abdūcit				33	4	3 +ABDUCO
-abdūcite			34	3	2 +ABDUCO
-abdūcitis			35	1	1 +ABDUCO
-abdūcitur			36	1	1 +ABDUCO
-abdūcitō			37	1	1 +ABDUCO +IMPERATIVE
-abdūcunt			38	1	1 +ABDUCO
-abdūcās			39	4	3 +ABDUCO
-abdūcāt			40	1	1 +ABDUCO
-abdūcēbat		41	1	1 +ABDUCO
-abdūcētur		42	1	1 +ABDUCO
-abdūcī				43	4	4 +ABDUCO
-abdūxeris			44	1	1 +ABDUCO
-abdūxerit			45	1	1 +ABDUCO
-abdūxerō			46	2	2 +ABDUCO
-abdūxisse		47	2	2 +ABDUCO
-abdūxit				48	11	8 +ABDUCO
-abdūxī				49	5	5 +ABDUCO
+abducta			14	3	3 +ABDUCO +r+DUC
+abductam		15	2	2 +ABDUCO +r+DUC
+abductast		16	3	3 +ABDUCO +ST +r+DUC
+abductum		17	1	1 +ABDUCO +r+DUC
+abductus		18	1	1 +ABDUCO +r+DUC
+abductūrum		19	1	1 +ABDUCO +r+DUC
+abductūrust		20	1	1 +ABDUCO +ST +r+DUC
+abduxtī			21	2	2 +ABDUCO +r+DUC
+abdūc			23	4	3 +ABDUCO +r+DUC
+abdūcam			24	3	2 +ABDUCO +r+DUC
+abdūcat			25	4	4 +ABDUCO +r+DUC
+abdūce			26	9	7 +ABDUCO +r+DUC
+abdūcere		27	11	8 +ABDUCO +r+DUC
+abdūcerem		28	2	2 +ABDUCO +r+DUC
+abdūceret		29	3	2 +ABDUCO +r+DUC
+abdūcerēs		30	3	2 +ABDUCO +r+DUC
+abdūcerēt		31	1	1 +ABDUCO +r+DUC
+abdūcet			32	6	4 +ABDUC +r+DUC
+abdūcit			33	4	3 +ABDUCO +r+DUC
+abdūcite		34	3	2 +ABDUCO +r+DUC
+abdūcitis		35	1	1 +ABDUCO +r+DUC
+abdūcitur		36	1	1 +ABDUCO +r+DUC
+abdūcitō		37	1	1 +ABDUCO +IMPERATIVE +r+DUC
+abdūcunt		38	1	1 +ABDUCO +r+DUC
+abdūcās			39	4	3 +ABDUCO +r+DUC
+abdūcāt			40	1	1 +ABDUCO +r+DUC
+abdūcēbat		41	1	1 +ABDUCO +r+DUC
+abdūcētur		42	1	1 +ABDUCO +r+DUC
+abdūcī			43	4	4 +ABDUCO +r+DUC
+abdūxeris		44	1	1 +ABDUCO +r+DUC
+abdūxerit		45	1	1 +ABDUCO +r+DUC
+abdūxerō		46	2	2 +ABDUCO +r+DUC
+abdūxisse		47	2	2 +ABDUCO +r+DUC
+abdūxit			48	11	8 +ABDUCO +r+DUC
+abdūxī			49	5	5 +ABDUCO +r+DUC
 ------------------------------------
-abdōmen			22	2	2 +ABDOMEN +BODY
+abdōmen			22	2	2 +r+ABDOMEN +BODY
 ------------------------------------
-abe			50	1	1
-abeam			51	18	13
-abeant			52	3	3
-abeat			53	18	9
-aberat			54	3	2
-aberis			55	1	1
-aberit			56	4	3
-aberrāvit			57	1	1
+abe			    50	1	1
+------------------------------------
+abeam			51	18	13 +r+I
+abeant			52	3	3 +r+I
+abeat			53	18	9 +r+I
+-------------------------------------
+aberat			54	3	2 +r+ES
+aberis			55	1	1 +r+ES
+aberit			56	4	3 +r+ES
 aberunt			58	1	1
 abesse			59	6	5
 abesset			60	1	1
@@ -83,20 +84,26 @@ abeuntīs			68	1	1 +NT
 abeāmus			69	15	11
 abeās			70	19	13
 abeō			71	60	22
-abhibendu			72	1	1
-abhinc			73	8	8
-abhorrentī			74	1	1
-abhorret			75	1	1
-abhorreō			76	1	1
-abhorrēre			77	1	1
-abi			78	74	21
+----------------------------------
+aberrāvit		57	1	1 +r+ERR
+----------------------------------
+abhibendu			72	1	1 +r+HAB
+-----------------------------------
+abhinc			73	8	8 +r+H
+------------------------------------
+abhorrentī			74	1	1 +r+HORR
+abhorret			75	1	1 +r+HORR
+abhorreō			76	1	1 +r+HORR
+abhorrēre			77	1	1 +r+HORR
+-----------------------------------
+abi			    78	74	21
 abiciam			79	1	1
-abiciendast			80	1	1 +NDUS +ST
+abiciendast		80	1	1 +NDUS +ST
 abiciō			81	1	1
 abiendī			82	1	1
 abieram			83	1	1
 abierim			84	2	2
-abierint			85	1	1
+abierint		85	1	1
 abierit			86	7	7
 abierīs			87	2	2
 abierīt			88	1	1
@@ -128,7 +135,9 @@ abitūram			113	2	1
 abitūrum			114	1	1
 abitūrun			115	1	1 +NE
 abitūrōs			116	1	1
-abiēgnast			117	1	1 +ST
+----------------------------------
+abiēgnast		117	1	1 +ST +PLANT
+-----------------------------------
 abiēns			118	10	9
 abiēre			119	1	1
 abiērunt			120	10	8
@@ -212,7 +221,8 @@ absterream			198	1	1
 absterreant			199	1	1
 absterret			200	1	1
 absterrērēs			201	1	1
-abstine			202	1	1
+------------------------------
+abstine			    202	1	1 +r+TEN +IMPERATIVE
 abstineam			203	1	1
 abstineant			204	2	2
 abstineat			205	1	1
@@ -220,17 +230,19 @@ abstinent			206	1	1
 abstineās			207	4	4
 abstineō			208	2	2
 abstinuisse			209	1	1
-abstinuissem			210	1	1
-abstinē			211	3	3
+abstinuissem		210	1	1
+abstinē			    211	3	3 +IMPERATIVE
 abstinēbit			212	1	1
 abstinēre			213	4	4
 abstinēs			214	1	1
-abstinī			215	1	1
-abstraham			216	1	1
+abstinī			    215	1	1
+--------------------------------
+abstraham			216	1	1 +r+TRAH
 abstrahat			217	3	3
 abstrāxit			218	1	1
-abstrāxitque			219	1	1 +QUE
+abstrāxitque		219	1	1 +QUE
 abstrāxī			220	1	1
+------------------------------------------
 abstrūdam			221	3	1
 abstrūdat			222	1	1
 abstrūdere			223	1	1
@@ -330,7 +342,7 @@ acceptūrus			316	1	1
 accersam			317	4	3
 accersant			318	1	1
 accersat			319	5	4
-accerse			320	6	4
+accerse			    320	6	4 +IMPERATIVE
 accersere			321	1	1
 accerseret			322	1	1
 accersier			323	1	1
@@ -367,7 +379,7 @@ accidunt			353	3	3
 accidēt			354	1	1
 accingar			355	1	1
 accingere			356	1	1
-accipe			357	38	19
+accipe			    357	38	19 +IMPERATIVE
 accipere			358	19	13
 acciperem			359	1	1
 acciperēs			360	1	1
@@ -409,7 +421,7 @@ accrēduas			395	1	1
 accrēscit			396	1	1
 accrēvit			397	1	1
 --------------------------------------
-accubantem			398	1	1 +NT
+accubantem			398	1	1 +NT +r+CUB
 accubantīs			399	1	1 +NT
 accubat				400	7	4
 accubem				401	1	1
@@ -420,62 +432,62 @@ accubuistī			405	1	1
 accubuēre			406	1	1
 accubuī				407	3	2
 accubuō				408	1	1
-accubā					409	1	1
+accubā				409	1	1
 accubābam			410	1	1
-accubābō				411	1	1
-accubāns				412	3	3
-accubāre				413	1	1
+accubābō			411	1	1
+accubāns			412	3	3
+accubāre			413	1	1
 accubās				414	2	1
 accubēs				415	3	3
-accubō					416	1	1
+accubō				416	1	1
 accumbam			418	4	3
-accumbe				419	4	2
+accumbe				419	4	2 +IMPERATIVE
 accumbere			420	4	4
-accumbāmus		421	1	1
+accumbāmus		    421	1	1
 accumbās			422	2	2
 accumbō				423	1	1
 ------------------------------------
-accucurrimus	417	1	1
-accurre			424	1	1
-accurrit			425	4	4
-accurrite			426	1	1
-accurrunt			427	1	1
-accurrō			428	2	2
+accucurrimus	417	1	1 +r+CURR
+accurre			424	1	1 +IMPERATIVE +r+CURR
+accurrit		425	4	4 +r+CURR
+accurrite		426	1	1 +IMPERATIVE +r+CURR
+accurrunt		427	1	1 +r+CURR
+accurrō			428	2	2 +r+CURR
 -----------------------------------
-accēdam			429	14	10
+accēdam			429	14	10 +r+CED
 accēdat			430	4	4
-accēde				431	19	10
+accēde			431	19	10
 accēdendī		432	1	1
-accēdent			433	4	2
-accēdere			434	5	5
-accēderēs			435	1	1
+accēdent		433	4	2
+accēdere		434	5	5
+accēderēs		435	1	1
 accēdit			436	4	3
-accēditō			437	2	2 +IMPERATIVE
-accēdunt			438	1	1
-accēdāmus			439	2	2
+accēditō		437	2	2 +IMPERATIVE
+accēdunt		438	1	1
+accēdāmus		439	2	2
 accēdāt			440	1	1
-accēdēbam			441	1	1
+accēdēbam		441	1	1
 accēdō			442	4	4
 ----------------------------------------
-accēperam			443	2	2
-accēperat			444	1	1
-accēperim			445	3	3
-accēperis			446	1	1
-accēperit			447	4	4
-accēperīs			448	2	1
-accēperō			449	1	1
-accēpimus			450	1	1
-accēpisse			451	7	4
-accēpisset			452	1	1
-accēpistī			453	13	7
-accēpistīn			454	1	1 +NE
+accēperam		443	2	2 +r+CAP
+accēperat		444	1	1 +r+CAP
+accēperim		445	3	3 +r+CAP
+accēperis		446	1	1
+accēperit		447	4	4
+accēperīs		448	2	1
+accēperō		449	1	1
+accēpimus		450	1	1
+accēpisse		451	7	4
+accēpisset		452	1	1
+accēpistī		453	13	7
+accēpistīn		454	1	1 +NE
 accēpit			455	12	10
-accēpitne			456	1	1
+accēpitne		456	1	1
 accēpī			457	18	14
 -----------------------------------------
-accūdere			458	1	1
+accūdere		458	1	1
 ---------------------------------------
-accūrandumst			459	1	1 +NDUS
+accūrandumst	459	1	1 +NDUS
 accūrat			460	1	1
 accūrentur			461	1	1
 accūrā			462	1	1
@@ -493,10 +505,10 @@ accūrāvī			473	1	1
 accūrēs			474	3	3
 accūrō			475	1	1
 -------------------------------------
-accūsandus			476	1	1
-accūsandī			477	1	1
-accūsandō			478	1	1
-accūsant			479	3	2
+accūsandus		476	1	1 +r+CUS
+accūsandī		477	1	1
+accūsandō		478	1	1
+accūsant		479	3	2
 accūsat			480	4	3
 accūsem			481	2	2
 accūser			482	1	1
@@ -516,11 +528,11 @@ accūsēmus			495	1	1
 accūsēs			496	1	1
 accūsō			497	2	2
 -----------------------------------------
-acerba				498	5	5 +ACERBUS
-acerbiōr			499	1	1 +ACERBUS +COMPAR
+acerba			498	5	5 +ACERBUS
+acerbiōr		499	1	1 +ACERBUS +COMPAR
 acerbum			500	4	3 +ACERBUS
 acerbumst		501	1	1 +ACERBUS +ST
-acerbō				502	1	1 +ACERBUS
+acerbō			502	1	1 +ACERBUS
 ----------------------------------------
 acervum			503	1	1
 ----------------------------------------
@@ -537,20 +549,20 @@ aciē			511	3	3
 ----------------------------------------
 acolūthe			512	1	1
 ----------------------------------------
-acquiēscam			513	1	1
-acquiēsce			514	1	1
-acquiēscere			515	1	1
+acquiēscam			513	1	1 +r+QUIE
+acquiēsce			514	1	1 +r+QUIE
+acquiēscere			515	1	1 +r+QUIE
 ----------------------------------------
 acropolistidem			516	2	1
 acropolistis			517	1	1
 ----------------------------------------
 acroteleutium			518	3	1
 ----------------------------------------
-acta			519	11	8
-actam			520	1	1
-actus			521	66	14
-actvs			522	64	13
-actūru			523	2	2
+acta			519	11	8 +r+AG
+actam			520	1	1 +r+AG
+actus			521	66	14 +r+AG
+actvs			522	64	13 +r+AG
+actūru's		523	2	2 +S +r+AG
 ----------------------------------------
 actūtum			524	3	3
 ----------------------------------------
@@ -871,7 +883,7 @@ adortus			823	1	1
 adortust			824	1	1
 adorīrī			825	1	1
 ----------------------------------------
-adolēvit			811	2	2
+adolēvit			        811	2	2
 adulescens					826	40	21  +SC +NT
 adulescentior				827	1	1  +SC +NT +IOR
 adulta							828	1	1
@@ -1081,19 +1093,19 @@ ae			1030	2	2
 aeacidīnīs			1031	1	1
 aed			1032	1	1
 -------------------------------------------
-aede				1033	2	2
-aedem				1034	11	5
-aedibus			1035	85	21
-aedibust			1036	1	1
-aediculae			1037	1	1 +CULUS
-aediculam			1038	1	1 +CULUS
-aedificantur			1039	1	1 +FACERE
-aedificat			1040	2	2 +FACERE
-aedificiīs			1041	1	1 +FACERE
-aedificāre			1042	3	1 +FACERE
-aedificātiō			1043	2	2 +FACERE
-aedificātās			1044	1	1 +FACERE
-aedificātō			1045	1	1 +FACERE +IMPERATIVE
+aede				1033	2	2 +ARCHITECT
+aedem				1034	11	5 +ARCHITECT
+aedibus			    1035	85	21 +ARCHITECT
+aedibust			1036	1	1 +ARCHITECT
+aediculae			1037	1	1 +CULUS +ARCHITECT
+aediculam			1038	1	1 +CULUS +ARCHITECT
+aedificantur		1039	1	1 +FACERE +ARCHITECT
+aedificat			1040	2	2 +FACERE +ARCHITECT
+aedificiīs			1041	1	1 +FACERE +ARCHITECT
+aedificāre			1042	3	1 +FACERE +ARCHITECT
+aedificātiō			1043	2	2 +FACERE +ARCHITECT
+aedificātās			1044	1	1 +FACERE +ARCHITECT
+aedificātō			1045	1	1 +FACERE +IMPERATIVE +ARCHITECT
 aedilib			1046	2	2
 aedilibus			1047	4	3
 aeditumum			1048	1	1
@@ -1130,17 +1142,17 @@ aegrōtam			1078	1	1
 aegrōtant			1079	2	1
 aegrōtum			1080	3	2
 aegrōtus			1081	1	1
-aegrōtā			1082	1	1
+aegrōtā			    1082	1	1
 aegrōtāre			1083	1	1
 aegrōtāvī			1084	1	1
-aegrōtī			1085	1	1
+aegrōtī			    1085	1	1
 aegrōtīs			1086	2	2
 aegrōtōs			1087	1	1
 -----------------------------------------
-aegyptiam			1088	2	1
-aegyptum			1089	1	1
-aegyptīnī			1090	1	1
-aegyptō			1091	1	1
+aegyptiam			1088	2	1 +GEOGRAPHY
+aegyptum			1089	1	1 +GEOGRAPHY
+aegyptīnī			1090	1	1 +GEOGRAPHY
+aegyptō			    1091	1	1 +GEOGRAPHY
 -----------------------------------------
 aelīchōt			1092	1	1
 aemilio			1093	2	2
@@ -1183,27 +1195,27 @@ aere			1129	2	2
 aeris			1130	1	1
 --------------------------------------
 aerumna					1131	4	3
-aerumnae					1132	2	2
-aerumnam					1133	4	3
-aerumnā						1134	2	2
-aerumnās					1135	6	6
-aerumnīs						1136	4	4
+aerumnae				1132	2	2
+aerumnam				1133	4	3
+aerumnā					1134	2	2
+aerumnās				1135	6	6
+aerumnīs				1136	4	4
 aerumnōsam				1137	1	1 +OSUS
-aerumnōsissimum		1138	1	1 +OSUS +SUPERL
+aerumnōsissimum		    1138	1	1 +OSUS +SUPERL
 aerumnōsās				1139	1	1 +OSUS
 --------------------------------------
-aes			1140	8	5
+aes			            1140	8	5
 --------------------------------------
-aeschine				1141	14	1 +NAME +VOCATIVE
-aeschinum			1142	6		2 +NAME
-aeschinus			1143	19	1 +NAME
-aeschinō				1144	1		1 +NAME
+aeschine				1141	14	1 +VOCATIVE +NAME +ADULESCENS
+aeschinum			    1142	6	2 +NAME +ADULESCENS
+aeschinus			    1143	19	1 +NAME +ADULESCENS
+aeschinō				1144	1	1 +NAME +ADULESCENS
 --------------------------------------
 aeschrodōra			1145	1	1
 --------------------------------------
 aesculāpium			1146	2	1 +GOD
-aesculāpiō				1147	3	2 +GOD
-aesculāpī				1148	4	2 +GOD
+aesculāpiō			1147	3	2 +GOD
+aesculāpī			1148	4	2 +GOD
 --------------------------------------
 aestimātum			1149	2	1
 aestimātās			1150	1	1
@@ -1222,7 +1234,7 @@ aeternam			1161	1	1
 aeternum			1162	3	2
 aethere			1163	1	1
 -------------------------------------------
-aethiopiā				1164	1	1 +GEOGRAPHY
+aethiopiā			1164	1	1 +GEOGRAPHY
 aethiopiāst			1165	1	1 +ST +GEOGRAPHY
 --------------------------------------------
 aetina			1166	1	1
@@ -1235,12 +1247,15 @@ aetātulam			1172	3	3 +TAT +ULUS +DIMINUTIVE
 aetātulast			1173	1	1 +TAT +ULUS +DIMINUTIVE
 aetātulā			1174	1	1 +TAT +ULUS +DIMINUTIVE
 aetātī			1175	14	11 +TAT
-aetōlia			1176	1	1
-aetōlicō			1177	1	1
-aetōlum			1178	1	1
-aetōlī			1179	4	2
-aetōlīs			1180	1	1
+-----------------------------------------
+aetōlia			1176	1	1 +GEOGRAPHY
+aetōlicō		1177	1	1 +GEOGRAPHY
+aetōlum			1178	1	1 +GEOGRAPHY
+aetōlī			1179	4	2 +GEOGRAPHY
+aetōlīs			1180	1	1 +GEOGRAPHY
+---------------------------------------
 aevum			1181	1	1
+---------------------------------------
 affatim			1183	6	5 +TIM
 affatimst			1184	1	1 +TIM +ST
 affectam			1185	3	2
@@ -1398,7 +1413,7 @@ agitēmus			1327	2	2
 agitō			1328	10	9
 agmen			1329	1	1
 --------------------------------------
-agnellum			1330	1	1 +ANIMAL
+agnellum		1330	1	1 +ANIMAL
 agnitam			1331	1	1 +ANIMAL
 agnum			1332	6	4 +ANIMAL
 agnus			1333	1	1 +ANIMAL
@@ -1416,9 +1431,9 @@ agnōvī			1343	1	1
 --------------------------------------
 ago			1344	7	5
 --------------------------------------
-agorastoclem			1345	4	1 +NAME
-agorastocles			1346	1	1 +NAME
-agorastoclēs			1347	15	1 +NAME
+agorastoclem		1345	4	1 +NAME
+agorastocles		1346	1	1 +NAME
+agorastoclēs		1347	15	1 +NAME
 agorastoclī			1348	1	1 +NAME
 --------------------------------------
 agorānomum			1349	1	1
@@ -1426,11 +1441,11 @@ agorānomus			1350	2	2
 --------------------------------------
 agrestis			1351	3	2
 --------------------------------------
-agricolae			1352	1	1 +COLA
 agrigentīnus			1353	1	1
 --------------------------------------
+agricolae		1352	1	1 +COLERE +COMPOUND
 agrum			1354	15	7
-agrumque			1355	1	1 +QUE
+agrumque		1355	1	1 +QUE
 agrī			1356	2	2
 agrō			1357	7	4
 agrōque			1358	1	1 +QUE
@@ -1458,16 +1473,16 @@ agō			1378	40	22
 ah			1379	1	1
 aha			1380	11	7
 --------------------------------------
-ahēna			1381	1	1
-ahēnum			1382	3	3
-ahēnōs			1383	1	1
+ahēna			1381	1	1 +NATURE
+ahēnum			1382	3	3 +NATURE
+ahēnōs			1383	1	1 +NATURE
 --------------------------------------
 aibant			1384	6	5
 aibat			1385	17	13
 aibās			1386	8	8
-ain			1387	40	20
-ais			1388	19	11
-ait			1389	73	20
+ain			    1387	40	20
+ais			    1388	19	11
+ait			    1389	73	20
 ajunt			1390	43	18
 ajās			1391	2	1
 ajēbant			1392	6	5
@@ -1483,9 +1498,9 @@ alam			1399	3	2
 alanna			1400	1	1
 alat			1401	2	2
 --------------------------------------
-albicapillus			1402	1	1 +COMPOUND +BODY
+albicapillus	1402	1	1 +COMPOUND +BODY
 albino			1403	2	2
-albitūdinem			1404	1	1 +TUDIN
+albitūdinem		1404	1	1 +TUDIN
 album			1405	1	1
 albā			1406	1	1
 albīs			1407	2	2
@@ -1497,11 +1512,11 @@ alcesimus			1410	1	1
 --------------------------------------
 alcmēna				1411	1	1 +NAME
 alcmēnam			1412	1	1 +NAME
-alcumena				1413	1	1 +NAME
-alcumēna				1415	11	2 +NAME
+alcumena			1413	1	1 +NAME
+alcumēna			1415	11	2 +NAME
 alcumēnae			1416	8	1 +NAME
 alcumēnam			1417	5	2 +NAME
-alcumēnā				1418	6	1 +NAME
+alcumēnā			1418	6	1 +NAME
 alcumēnās			1419	1	1 +NAME
 --------------------------------------
 alcumeus			1414	1	1
@@ -1529,7 +1544,7 @@ algeās			1435	1	1
 algeō			1436	1	1
 algor			1437	1	1
 algēbunt		1438	1	1
-algū				1439	2	2
+algū			1439	2	2
 --------------------------------------
 alia				1440	61	24
 aliae				1441	9	7
@@ -2328,15 +2343,15 @@ appōtī			2181	1	1
 -----------------------------------
 aprō			2182	1	1 +ANIMAL
 aprōs			2183	1	1 +ANIMAL
-aprūgnum			2184	2	2 +ANIMAL
+aprūgnum		2184	2	2 +ANIMAL
 ---------------------------------
 apstersērunt			2187	1	1
 ----------------------------------
-apstine			2188	1	1
-apstineās			2189	1	1
-apstinē			2190	1	1
-apstinēre			2191	1	1
-apstinēs			2192	2	2
+apstine			    2188	1	1 +AB +r+TEN
+apstineās			2189	1	1 +AB +r+TEN
+apstinē			    2190	1	1 +AB +r+TEN
+apstinēre			2191	1	1 +AB +r+TEN
+apstinēs			2192	2	2 +AB +r+TEN
 -----------------------------------
 apstrudam			2193	1	1
 ------------------------------------
@@ -2367,11 +2382,11 @@ aquilīnīs			2208	1	1 +INUS +ANIMAL
 aquilōst			2209	1	1 +ST +SKY
 --------------------------------------
 arabiam			2215	1	1 +IA  +GEOGRAPHY
-arabiast			2216	1	1 +IA +ST  +GEOGRAPHY
+arabiast		2216	1	1 +IA +ST  +GEOGRAPHY
 arabicō			2217	1	1 +ICUS  +GEOGRAPHY
-arabiā				2218	5	3 +IA  +GEOGRAPHY
-arabus				2219	1	1 +GEOGRAPHY
-arabēs				2220	1	1 +GEOGRAPHY
+arabiā			2218	5	3 +IA  +GEOGRAPHY
+arabus			2219	1	1 +GEOGRAPHY
+arabēs			2220	1	1 +GEOGRAPHY
 --------------------------------------
 arb			2221	1	1
 --------------------------------------
@@ -2412,15 +2427,16 @@ arbitrīs			2255	3	2
 arbitrō			2256	5	4
 arbitrōr			2257	4	4
 --------------------------------------
-arbore				2258	1	1 +PLANT
+arbore			2258	1	1 +PLANT
 arborem			2259	2	1 +PLANT
 arborēs			2260	2	2 +PLANT
 --------------------------------------
-arcadicōs			2261	1	1
+arcadicōs		2261	1	1 +ICUS +GEOGRAPHY
 -------------------------------------
-arcam			2262	1	1
-arce			2263	4	3
-arcem			2264	4	2
+arcam			2262	1	1 +EQUIPMENT
+---------------------------------------
+arce			2263	4	3 +PLACE
+arcem			2264	4	2 +PLACE
 ---------------------------------------
 arcessam			2265	3	3
 arcessat			2266	1	1
@@ -2554,9 +2570,9 @@ aristophontēs			2373	4	1 +NAME
 --------------------------------------
 arma			2375	6	3
 armane			2376	1	1
-armiger			2377	1	1 +COMPOUND
-armigerum			2378	2	1 +COMPOUND
-armigerō			2379	3	1 +COMPOUND
+armiger			2377	1	1 +GERERE +COMPOUND
+armigerum			2378	2	1 +GERERE +COMPOUND
+armigerō			2379	3	1 +GERERE +COMPOUND
 armillae			2380	1	1 +ELLUS +EQUIPMENT
 armillās			2381	1	1 +ELLUS +EQUIPMENT
 armāmenta			2382	1	1  +MENTUM
@@ -2573,21 +2589,25 @@ arrabōnī			2391	4	2
 --------------------------------------
 arrige			2392	1	1
 arripe			2393	1	1
-arripere			2394	2	2
-arriperem			2395	1	1
-arripiam			2396	1	1
+arripere		2394	2	2
+arriperem		2395	1	1
+arripiam		2396	1	1
 arripit			2397	1	1
-arripiāmus			2398	1	1
+arripiāmus		2398	1	1
 arripiō			2399	2	2
-arripuit			2400	2	2
+arripuit		2400	2	2
 arripuī			2401	1	1
 arripī			2402	1	1
+---------------------------------
 arroget			2403	1	1
+--------------------------------
 arrēxit			2404	1	1
-arrīdeō			2405	1	1
+--------------------------------
+arrīdeō			    2405	1	1
 arrīdēbant			2406	1	1
 arrīdēre			2407	1	1
 arrīdērent			2408	1	1
+-----------------------------------
 ars			2409	1	1
 artae			2410	1	1
 artamo			2411	1	1
@@ -2641,14 +2661,14 @@ ascrībitō			2453	1	1
 ascrīptīvīs			2454	1	1
 ascēnsiōnem			2455	1	1
 --------------------------------------
-asiam			2457	4	3
-asiā			2465	4	3
+asiam			2457	4	3 +GEOGRAPHY
+asiā			2465	4	3 +GEOGRAPHY
 --------------------------------------
 asellum			2456	1	1 +ELLUS +DIMINUTIVE +ANIMAL
 asine			2458	1	1 +VOCATIVE +ANIMAL
 asinum			2459	1	1 +ANIMAL
 asinus			2460	3	3 +ANIMAL
-asināriam			2461	1	1 +ARIUS +ANIMAL
+asināriam		2461	1	1 +ARIUS +ANIMAL
 asinī			2462	1	1 +ANIMAL
 asinīs			2463	3	2 +ANIMAL
 asinōs			2464	7	2 +ANIMAL
@@ -2671,6 +2691,7 @@ aspernātur			2480	2	2
 aspernēris			2481	1	1
 aspersistī			2482	3	3
 asperum			2483	1	1
+----------------------------------------
 aspexeram			2484	1	1
 aspexerant			2485	1	1
 aspexerat			2486	1	1
@@ -2680,22 +2701,24 @@ aspexerīs			2489	1	1
 aspexerō			2490	1	1
 aspexistis			2491	1	1
 aspexistī			2492	2	2
-aspexit			2493	6	4
+aspexit			    2493	6	4
 aspexēre			2494	1	1
-aspexī			2495	7	7
-aspice			2496	8	6 +IMPERATIVE
+aspexī			    2495	7	7
+aspice			    2496	8	6 +IMPERATIVE
 aspicedum			2497	1	1 +IMPERATIVE +DUM
 aspicere			2498	1	1
 aspiciam			2499	3	3
 aspiciet			2500	1	1
-aspicit			2501	1	1
+aspicit			    2501	1	1
 aspicitō			2502	2	2 +IMPERATIVE
 aspiciās			2503	4	3
-aspiciō			2504	14	11
+aspiciō			    2504	14	11
+---------------------------------------
 asportet			2505	1	1
-asportābitur			2506	1	1
+asportābitur		2506	1	1
 asportārier			2507	2	2
-asportāssent			2508	1	1
+asportāssent		2508	1	1
+--------------------------------------
 aspūlī			2509	1	1
 assa			2510	1	1
 assam			2511	1	1
@@ -2898,22 +2921,26 @@ attigerō			2699	1	1
 attigisse			2700	1	1
 attigisset			2701	1	1
 attigissēs			2702	1	1
-attigit			2703	8	7
-attigās			2704	5	5
+attigit			    2703	8	7
+attigās			    2704	5	5
 attigātis			2705	1	1
-attinent			2706	3	3
-attinet			2707	30	18
 attingere			2708	2	2
 attingunt			2709	1	1
 attingās			2710	3	2
+-------------------------------------
+attinent			2706	3	3
+attinet			    2707	30	18
+attinēre			2714	4	4
+attinēs			    2715	3	3
+attinēt			    2716	2	2
+-----------------------------------
 attinuit			2711	2	2
 attinuēre			2712	1	1
 attinuīt			2713	1	1
-attinēre			2714	4	4
-attinēs			2715	3	3
-attinēt			2716	2	2
-attolle			2717	2	2
+------------------------------------
+attolle			    2717	2	2
 attollāmus			2718	1	1
+-----------------------------------
 attondeant			2719	1	1
 attondit			2720	1	1
 attrectat			2721	1	1
@@ -2936,8 +2963,10 @@ attulī			2737	13	10
 attulīt			2738	1	1
 attāctam			2739	1	1
 attāt			2740	22	13
+-------------------------------------
 attōnsae			2741	1	1
 attōnsūrum			2742	1	1
+--------------------------------------
 au			2743	11	6
 auammā			2744	1	1
 auauī			2745	1	1
@@ -3103,6 +3132,7 @@ auferēn			2901	1	1
 auferēre			2902	2	2
 auferēs			2903	5	5
 auferō			2904	2	2
+-------------------------------
 aufugiam			2905	2	2
 aufugiat			2906	2	2
 aufugit			2907	1	1
@@ -3112,24 +3142,28 @@ aufūgerō			2910	1	1
 aufūgisse			2911	1	1
 aufūgistīn			2912	1	1
 aufūgit			2913	3	3
+--------------------------------
 augeam			2914	4	4
 augent			2915	4	4
 augeor			2916	1	1
 augeāt			2917	1	1
-augurium			2918	1	1
-auguriō			2919	1	1
-augurā			2920	1	1
 augē			2921	1	1
 augēbis			2922	1	1
 augērier			2923	1	1
 augēs			2924	1	1
 augēscit			2925	1	1
 augēte			2926	1	1
-aula			2927	8	4
-aulae			2928	1	1
-aulam			2929	12	2
-aulā			2930	1	1
-aulās			2931	4	2
+-------------------------------
+augurium			2918	1	1
+auguriō			2919	1	1
+augurā			2920	1	1
+-------------------------------
+aula			2927	8	4 +EQUIPMENT
+aulae			2928	1	1 +EQUIPMENT
+aulam			2929	12	2 +EQUIPMENT
+aulā			2930	1	1 +EQUIPMENT
+aulās			2931	4	2 +EQUIPMENT
+-------------------------------
 aurelio			2937	1	1
 ------------------------------------
 aurea			2934	4	2
@@ -3145,14 +3179,14 @@ aureī			2945	5	3
 aureīs			2946	5	4
 aureōs			2947	4	2
 ------------------------------------
-aurem			2938	7	6
-auribus		2948	17	13
+aurem		2938	7	6 +BODY
+auribus		2948	17	13 +BODY
 ---------------------------------------
 aurichalcō			2949	3	3
 ---------------------------------------
-auriculīs			2950	2	2
+auriculīs		2950	2	2
 aurifex			2951	1	1 +FACERE
-aurificem			2952	2	1 +FACERE
+aurificem		2952	2	1 +FACERE
 aurium			2953	2	2
 aurum			2954	146	19
 aurumque			2955	3	3
@@ -3300,22 +3334,22 @@ aīs			3083	125	23
 aīt			3084	3	3
 babae			3085	4	4
 -----------------------------------------
-babylō					3086	1	1
-babylōnica			3087	1	1
-babylōniēnsem	3088	2	1
-babylōniēnsis		3089	1	1
-babylōniō				3090	1	1
+babylō				3086	1	1 +GEOGRAPHY
+babylōnica			3087	1	1 +GEOGRAPHY
+babylōniēnsem	    3088	2	1 +GEOGRAPHY
+babylōniēnsis		3089	1	1 +GEOGRAPHY
+babylōniō			3090	1	1 +GEOGRAPHY
 ---------------------------------------
 bacchae			3091	8	3
-bacchantī			3092	1	1
-bacche				3093	1	1
-bacchide			3094	4	1 +NAME
+bacchantī		3092	1	1
+bacche			3093	1	1
+bacchide		3094	4	1 +NAME
 bacchidem		3095	24	3 +NAME
 bacchides		3096	4	1 +NAME
-bacchidis			3097	3	2 +NAME
-bacchidī			3098	7	3 +NAME
+bacchidis		3097	3	2 +NAME
+bacchidī		3098	7	3 +NAME
 bacchis			3099	32	4 +NAME
-bacchābātur	3100	1	1
+bacchābātur	    3100	1	1
 bacchānal		3101	1	1
 bacchānāl		3102	3	2
 bacchārum		3103	1	1
@@ -3331,7 +3365,7 @@ balanōs			3108	1	1
 ---------------------------------------
 balineae			3109	1	1 +PLACE
 balineās			3110	3	3 +PLACE
-balineātor		    3111		2	2 +TOR  +PLACE
+balineātor		    3111	2	2 +TOR  +PLACE
 balineīs			3112	4	4 +PLACE
 balneātōrēs		    3126	1	1 +TOR +PLACE
 ---------------------------------------
@@ -4946,7 +4980,7 @@ collībertus			4518	1	1
 collum			4500	13	10 +BODY
 collus			4502	2	2 +BODY
 collō			4519	14	9  +BODY
-collōs		4520	1		1  +BODY
+collōs		    4520	1		1  +BODY
 -----------------------------------
 collūsim			4521	1	1
 collȳrae			4522	1	1
@@ -6339,12 +6373,12 @@ cucūlum			5818	1	1
 cucūlus			5819	2	2
 ---------------------------------------
 cui			5820	205	26
-cuianam			5821	2	2
+cuianam			5821	2	2 +NAM
 cuidam			5822	8	6
-cuilubet			5823	1	1
-cuipiam			5824	3	3
-cuiquam			5825	35	16
-cuiquamst			5826	1	1
+cuilubet		5823	1	1
+cuipiam			5824	3	3 +PIAM
+cuiquam			5825	35	16 +QUAM
+cuiquamst		5826	1	1 +QUAM +ST
 cuique			5827	8	7
 cuius			5828	4	3
 cuivīs			5829	9	8
@@ -8910,9 +8944,9 @@ dīniarchī		8308	1	1 +NAME
 dīnumeret			8309	1	1
 dīnīs			8310	1	1
 -------------------------------------------
-dīphilus		8311	2	2
-dīphilī			8312	1	1
-dīphilō			8313	1	1
+dīphilus		8311	2	2 +NAME
+dīphilī			8312	1	1 +NAME
+dīphilō			8313	1	1 +NAME
 -------------------------------------------
 dīque			8314	12	11
 dīripior			8315	1	1
@@ -9022,15 +9056,18 @@ dīērectē			8416	2	2
 dīērēctē			8417	1	1
 dīērēctūst			8418	1	1
 dō			8419	38	19
-dōlia			8420	2	2
-dōlium			8421	2	2
-dōliārem			8422	1	1
+--------------------------------------
+dōlia			8420	2	2 +EQUIPMENT
+dōlium			8421	2	2 +EQUIPMENT
+dōliārem		8422	1	1 +ARI +EQUIPMENT
+---------------------------------
+dōnec			8426	13	10
+dōnicum			8428	4	4
+------------------------------------
 dōna			8423	11	5
 dōnaque			8424	1	1
 dōnat			8425	3	3
-dōnec			8426	13	10
 dōnem			8427	2	2
-dōnicum			8428	4	4
 dōnum			8429	8	5
 dōnābilem			8430	1	1 +BILIS
 dōnābō			8431	1	1
@@ -9350,34 +9387,37 @@ egēt			8733	1	1
 egētur			8734	1	1
 -------------------------------
 ego			    8721	2600	27
-egomet			8722	100	22 +MET
-egon			8723	48	17 +NE
-egone			8724	62	22 +NE
-egō			    8735	52	19
-egōmet			8736	1	1 +MET
-egōn			8737	1	1 +NE
-egōne			8738	1	1 +NE
+egō			    8735	52	    19
+egomet			8722	100	    22 +MET
+egōmet			8736	1	    1 +MET
+egon			8723	48	    17 +NE
+egōn			8737	1	    1 +NE
+egone			8724	62	    22 +NE
+egōne			8738	1	    1 +NE
 ---------------------------------
 ehem			8739	30	14 +INTERJ
 eheu			8740	3	2 +INTERJ
 eho			    8741	88	23 +INTERJ
 ehodum			8742	2	2 +INTERJ +DUM
 ehō			    8743	2	2 +INTERJ
-ei			    8744	63	19
-eia			    8745	1	1
+ei			    8744	63	19 +INTERJ
+eia			    8745	1	1 +INTERJ
 ---------------------------------
 eiram			8746	2	1
+---------------------------------
 ejus			8747	219	26
-ejusmodī			8748	1	1
+ejusmodī		8748	1	1
 ejusque			8749	1	1
 ejust			8750	1	1
+--------------------------------
 elatiam			8751	1	1
+----------------------------------
 elegēōrum			8752	1	1
 --------------------------------------------
-elephantum			8753	2	2
-elephantī			8754	2	1
-elephantīs			8755	1	1
-elephantō			8756	1	1
+elephantum			8753	2	2 +ANIMAL
+elephantī			8754	2	1 +ANIMAL
+elephantīs			8755	1	1 +ANIMAL
+elephantō			8756	1	1 +ANIMAL
 ----------------------------------------
 eleusium			8757	1	1
 ----------------------------------------
@@ -9424,9 +9464,11 @@ emās			8794	2	2
 emētur			8795	1	1
 emī			8796	2	2
 emō			8797	7	6
-enim			8798	193	26
+---------------------------------
+enim			    8798	193	26
 enimvēro			8799	1	1
 enimvērō			8800	12	5
+------------------------------------
 ennium			8801	1	1
 entriptillō			8802	1	1
 enua			8803	1	1
@@ -9480,11 +9522,11 @@ epignōmus			8841	1	1
 epignōmī			8842	2	1
 epignōmō			8843	1	1
 -----------------------------------------
-epistula				8844	6	4
-epistulam				8845	20	7
-epistulā				8846	4	2
-epistulās				8847	15	5
-epistulāsque			8848	1	1 +QUE
+epistula				8844	6	4 +TEXT
+epistulam				8845	20	7 +TEXT
+epistulā				8846	4	2 +TEXT
+epistulās				8847	15	5 +TEXT
+epistulāsque			8848	1	1 +QUE +TEXT
 -------------------------------------------
 epithēcam		8849	1	1
 -------------------------------------------
@@ -9509,14 +9551,15 @@ equīs			8863	2	2 +ANIMAL
 equō			8864	6	5 +ANIMAL
 equōs			8865	3	3 +ANIMAL
 -------------------------------------
-era					8866	35	12
-erae					8867	16	8
-eraeque			8868	2	2
-eram				8869	21	12
-eramque			8870	1	1
+era					8866	35	12 +FAMILY
+erae				8867	16	8 +FAMILY
+eraeque			    8868	2	2 +QUE +FAMILY
+eram				8869	21	12 +FAMILY
+eramque			    8870	1	1 +QUE +FAMILY
+-------------------------------------
 erant				8871	24	16
-eras					8872	1	1
-erat					8873	113	24
+eras				8872	1	1
+erat				8873	113	24
 -------------------------------------------
 erce			8874	1	1
 ercennarium			8875	1	1
@@ -9532,7 +9575,8 @@ ergasilus			8882	2	1
 ergo			8883	2	2
 ergā			8884	27	14
 ergō			8885	219	26
-ergōst			8886	4	4
+ergōst			8886	4	4 +ST
+-------------------------------------------
 eri			8887	6	5
 erilem			8888	2	2
 erilis			8889	2	2
@@ -9859,9 +9903,9 @@ exercēbō			9185	1	1
 exercēre			9186	1	1
 ---------------------------------------
 exeo			9166	1	1
-exeundum	9187	1	1 +NDUS
+exeundum	    9187	1	1 +NDUS
 exeunt			9188	2	2
-exeuntem	9189	7	6 +NT
+exeuntem	    9189	7	6 +NT
 exeuntīs		9190	1	1
 exeāt			9191	1	1
 exeō			9192	7	6
@@ -21057,13 +21101,13 @@ perībō			19560	1	1
 perīclitāminī			19562	1	1
 perīclitātus			19563	1	1
 ------------------------------------------
-perīcla				19561	1	1
-perīclum			19564	28	15
-perīclumst			19565	3	2
-perīclī			19566	7	6
-perīclīs			19567	2	2
-perīclīst			19568	3	3
-perīclō			19569	23	12
+perīcla				19561	1	1 +SYNCOPE
+perīclum			19564	28	15 +SYNCOPE
+perīclumst			19565	3	2 +SYNCOPE +ST
+perīclī			    19566	7	6 +SYNCOPE
+perīclīs			19567	2	2 +SYNCOPE
+perīclīst			19568	3	3 +SYNCOPE +ST
+perīclō			    19569	23	12 +SYNCOPE
 perīculum			19570	2	2
 perīculō			19571	8	6
 ------------------------------------------
@@ -21147,10 +21191,10 @@ petītum			19647	2	2
 petīvit			19648	1	1
 petō			19649	14	9
 ---------------------------------------------
-phaedria				19650	28	3
-phaedriae			19651	13	2
-phaedriam			19652	5	2
-phaedriā				19653	23	2
+phaedria			19650	28	3 +NAME
+phaedriae			19651	13	2 +NAME
+phaedriam			19652	5	2 +NAME
+phaedriā			19653	23	2 +NAME
 ---------------------------------------------
 phaedrome			19654	10	1
 phaedromum		19655	1	1
@@ -21183,15 +21227,15 @@ philippīs			19680	8	4
 philippō			19681	1	1
 philippōs			19682	11	2
 -----------------------------------------
-philocrate				19683	2	1 +NAME +ADULESCENS
+philocrate			19683	2	1 +NAME +ADULESCENS
 philocratem			19684	6	1 +NAME +ADULESCENS
 philocrates			19685	1	1 +NAME +ADULESCENS
 philocratis			19686	1	1 +NAME +ADULESCENS
 philocratēs			19687	14	1 +NAME +ADULESCENS
-philocratī				19688	3	1 +NAME +ADULESCENS
+philocratī			19688	3	1 +NAME +ADULESCENS
 --------------------------------------------
-philocōmasium			19689	22	1
-philocōmasiō			19690	8	1
+philocōmasium		19689	22	1
+philocōmasiō		19690	8	1
 ------------------------------------
 philodāmō			19691	1	1
 ------------------------------------
@@ -21242,12 +21286,12 @@ philotis			19713	3	1
 philōtis			19727	2	1
 philōtium			19728	3	1
 ------------------------------------
-philumenae			19722	1	1
-philūmena			19729	3	1
-philūmenae			19730	4	1
-philūmenam			19731	8	2
-philūmenast			19732	1	1
-philūmenā			19733	3	1
+philumenae			19722	1	1 +NAME
+philūmena			19729	3	1 +NAME
+philūmenae			19730	4	1 +NAME
+philūmenam			19731	8	2 +NAME
+philūmenast			19732	1	1 +ST +NAME
+philūmenā			19733	3	1 +NAME
 ------------------------------------
 phintia			19734	1	1
 ------------------------------------
@@ -21255,11 +21299,11 @@ phoenīcium			19735	11	1
 phoenīciō			19736	1	1
 phoenīx			19737	1	1
 -------------------------------------------
-phormio				19738	9	1
-phormiō				19739	20	1
-phormiōnem		19740	6	1
-phormiōnī			19741	2	1
-phormiōst			19742	1	1
+phormio				19738	9	1 +NAME
+phormiō				19739	20	1 +NAME
+phormiōnem		    19740	6	1 +NAME
+phormiōnī			19741	2	1 +NAME
+phormiōst			19742	1	1 +ST +NAME
 ---------------------------------------------
 phrixī			19743	1	1
 phronesium			19744	1	1
@@ -21299,8 +21343,8 @@ pictūrā			19774	2	2
 piem			19775	1	1
 pietās			19776	9	7 +TAT
 pietāte			19777	3	2 +TAT
-pietātem			19778	11	8 +TAT
-pietātis			19779	1	1 +TAT
+pietātem		19778	11	8 +TAT
+pietātis		19779	1	1 +TAT
 pietātī			19780	3	3 +TAT
 ------------------------------------
 pigeat			19781	10	10
@@ -21333,10 +21377,10 @@ pinguēs			19803	1	1
 ---------------------------------
 pingī			19804	1	1
 ---------------------------------
-pinnulās			19805	1	1
-pinnā			19806	1	1
-pinnās			19807	1	1
-pinnīs			19808	1	1
+pinnulās		19805	1	1 +ULUS +DIMINUTIVE +ANIMAL
+pinnā			19806	1	1 +ANIMAL
+pinnās			19807	1	1 +ANIMAL
+pinnīs			19808	1	1 +ANIMAL
 ---------------------------------
 pira			19811	1	1
 pirum			19812	1	1
@@ -21489,13 +21533,13 @@ plausum			19929	7	6
 plaustrum		19927	1	1
 plaustrōrum		19928	1	1
 ---------------------------------------
-plauti			19930	2	2
-plautine			19931	1	1
-plautum			19932	2	2
-plautus			19933	8	5
-plautī			19934	1	1
-plautīna			19935	1	1
-plautīnās			19936	1	1
+plauti			19930	2	2 +NAME
+plautine		19931	1	1 +INUS +NAME
+plautum			19932	2	2 +NAME
+plautus			19933	8	5 +NAME
+plautī			19934	1	1 +NAME
+plautīna		19935	1	1 +INUS +NAME
+plautīnās		19936	1	1 +INUS +NAME
 --------------------------------------
 plebeis			19937	1	1
 plectantur			19938	1	1
@@ -21510,7 +21554,7 @@ pluet			19945	1	1
 pluit				19946	2	2
 plūerat			20012	1	1
 -------------------------------------
-plumbeum		19947	1	1
+plumbeum		    19947	1	1
 plumbeus			19948	2	2
 plumbeās			19949	1	1
 plumbeīs			19950	1	1
@@ -21570,7 +21614,7 @@ plērīque			19999	7	7
 -----------------------------------
 plēsidippum			20000	3	1 +NAME +ADULESCENS
 plēsidippus			20001	6	1 +NAME +ADULESCENS
-plēsidippī				20002	1	1 +NAME +ADULESCENS
+plēsidippī			20002	1	1 +NAME +ADULESCENS
 plēsidippō			20003	1	1 +NAME +ADULESCENS
 -----------------------------------
 PLORARE
@@ -22276,7 +22320,7 @@ praestīgiae			20612	1	1
 praestīgiātrīx			20613	1	1 +TRIX
 ---------------------------------------------
 praestō			20614	9	8
-praestōst			20622	5	3
+praestōst		20622	5	3 +ST
 --------------------------------------------
 praestōlābar			20615	1	1
 praestōlābimur		20616	1	1
@@ -22384,16 +22428,16 @@ premit			20714	1	1
 pressāre		20715	1	1
 pressātum	20716	1	1
 ----------------------------------------
-preti				20717	1	1
+preti			20717	1	1
 pretia			20718	1	1
-pretium		20719	24	17
-pretiumst		20720	1	1
+pretium		    20719	24	17
+pretiumst		20720	1	1 +ST
 pretiīs			20721	2	2
 pretiō			20722	24	16
 pretiōsa		20723	2	2 +OSUS
 pretiōsō		20724	1	1 +OSUS
-pretī				20725	24	17
-pretīst			20726	1	1
+pretī			20725	24	17
+pretīst			20726	1	1 +ST
 ----------------------------------
 priame			20727	1	1 +NAME
 priamum		    20728	1	1 +NAME
@@ -22527,15 +22571,15 @@ promptās			20848	1	1
 promptēs			20849	1	1
 promptō			20850	1	1
 --------------------------------------
-pronuper			20851	1	1 +PER
+pronuper			20851	1	1 +PER +TIME
 --------------------------------------
-prope			20852	40	19
-propest			20881	2	2
+prope			20852	40	19 +TIME +SPACE
+propest			20881	2	2 +ST +TIME +SPACE
 --------------------------------------
-propediem			20853	6	4
+propediem			20853	6	4 +TIME
 --------------------------------------
-propemodum			20854	15	15
-propemōdō			20855	1	1
+propemodum			20854	15	15 +APPROX
+propemōdō			20855	1	1 +APPROX
 --------------------------------------
 properant			20856	1	1
 properantem			20857	3	3
@@ -22598,7 +22642,7 @@ proprīum			20909	3	3
 propter				20910	91	22
 propterea			20911	1	1
 proptereā			20912	29	13
-proptereāque	20913	1	1
+proptereāque	    20913	1	1
 ----------------------------------------
 propudium			20914	3	3
 propudiōsa			20915	1	1
@@ -22714,9 +22758,11 @@ prōcessit			21017	6	5
 prōcessērunt			21018	1	1
 prōcessī			21019	2	2
 prōcessūrae			21020	1	1
+----------------------------------------
 prōclīve			21021	2	2
 prōclīvī			21022	4	4
 prōclīvō			21023	1	1
+------------------------------------------
 prōcreandīs			21024	1	1 +NDUS
 prōcreāre			21025	1	1
 prōcreātōs			21026	1	1
@@ -23495,8 +23541,8 @@ quaen			21753	3	3
 quaenam			21754	1	1
 quaenamst			21755	1	1
 quaene			21756	4	4
-quaepiam			21757	1	1
-quaepiamst			21758	1	1
+quaepiam			21757	1	1 +PIAM
+quaepiamst			21758	1	1 +PIAM +ST
 quaequae			21759	1	1
 quaeque			21760	6	4
 quaeram			21761	15	10
@@ -23636,15 +23682,15 @@ queant			21894	2	2
 queantur			21895	1	1
 queat			21896	10	9
 quem			21897	323	27
-quemnam			21898	3	3
-quemne			21899	3	3
-quempiam			21900	4	4
-quemquam			21901	41	23
-quemquamne			21902	2	2
-quemque			21903	19	13
-quemquem			21904	3	3
-quemvīs			21905	5	5
-quendam			21906	7	5
+quemnam			21898	3	3 +NAM
+quemne			21899	3	3 +NE
+quempiam		21900	4	4 +PIAM
+quemquam		21901	41	23 +QUAM
+quemquamne		21902	2	2 +QUAM +NE
+quemque			21903	19	13 +QUE
+quemquem		21904	3	3 +REDUPL
+quemvīs			21905	5	5 +VIS
+quendam			21906	7	5 +DAM
 ---------------------------------------
 querar			21907	1	1
 querellās			21908	1	1
@@ -23695,21 +23741,21 @@ quiescās			21950	3	3
 quinquāgēsiēs			21951	1	1 +NUMERAL
 quinquātribus			21952	1	1 +NUMERAL
 -------------------------------------------
-quippe			21953	24	17
-quippiam			21954	18	11
-quippiamst			21955	1	1 +ST
-quippinī			21956	14	6
-quiquam			21957	1	1
-quiquidem			21958	2	2 +QUIDEM
+quippe			21953	24	17 +PE
+quippiam		21954	18	11 +PIAM
+quippiamst		21955	1	1 +PIAM +ST
+quippinī		21956	14	6
+quiquam			21957	1	1 +QUAM
+quiquidem		21958	2	2 +QUIDEM
 quis			21959	317	27
-quisnam			21960	12	10
+quisnam			21960	12	10 +NAM
 quispia			21961	1	1
-quispiam			21962	12	10
-quisquam			21963	107	25
-quisquamst			21964	5	5 +ST
-quisque			21965	32	17
-quisquis			21966	37	15
-quisve			21967	2	2
+quispiam		21962	12	10 +PIAM
+quisquam		21963	107	25 +QUAM
+quisquamst		21964	5	5 +ST
+quisque			21965	32	17 +QUE
+quisquis		21966	37	15 +REDUPL
+quisve			21967	2	2 +VE
 quit			21968	8	8
 quitast			21969	1	1 +ST
 quiēscam			21970	1	1
@@ -23740,15 +23786,15 @@ quodque			21994	7	6
 -----------------------------------------------------
 quodsemelarripidēs			21995	1	1 +NAME +JOKE
 -----------------------------------------------------
-quodsī			21996	2	2
-quodvīs			21997	3	3
+quodsī			21996	2	2 +SI
+quodvīs			21997	3	3 +VIS
 quoia			21998	1	1
 quoii			21999	1	1
-quoin			22000	1	1
-quoipiam			22001	1	1
-quondam			22002	9	8
-quoniam			22003	57	19
-quoque			22004	117	26
+quoin			22000	1	1 +NE
+quoipiam		22001	1	1 +PIAM
+quondam			22002	9	8 +DAM
+quoniam			22003	57	19 +IAM
+quoque			22004	117	26 +QUE
 quos			22005	1	1
 ------------------------------------------
 quot			    22006	49	17
@@ -23776,12 +23822,12 @@ quālis			22024	11	9 +ALIS
 quālī			22025	1	1 +ALIS
 quālīne			22026	1	1 +ALIS
 quālīs			22027	1	1 +ALIS
-quānam			22028	1	1
-quāpiam			22029	1	1
-quāpropter			22030	22	14
-quāquam			22031	1	1
-quāque			22032	3	3
-quāquā			22033	2	2
+quānam			22028	1	1 +NAM
+quāpiam			22029	1	1 +PIAM
+quāpropter		22030	22	14 +PROPTER
+quāquam			22031	1	1 +QUAM
+quāque			22032	3	3 +QUE
+quāquā			22033	2	2 +REDUPL
 quārta			22034	1	1
 quārtus			22035	2	2
 quārum			22036	4	2
@@ -23794,10 +23840,10 @@ quībam			22042	1	1
 quībat			22043	1	1
 quībō			22044	1	1
 quīcum			22045	31	18
-quīcumque			22046	2	2 +CUMQUE
-quīcumvīs			22047	1	1
+quīcumque		22046	2	2 +CUMQUE
+quīcumvīs		22047	1	1
 quīdam			22048	29	13
-quīdamst			22049	1	1
+quīdamst		22049	1	1
 quīdum			22050	20	12
 quīmus			22051	1	1
 quīn			22052	491	26
@@ -23840,32 +23886,32 @@ quōjō				22087	1	1
 ---------------------------------------
 quōlibet			22088	1	1
 ---------------------------------------
-quōmodo			    22089	2	2
-quōmodō			    22090	4	3
+quōmodo			22089	2	2
+quōmodō			22090	4	3
 ---------------------------------------
-quōn				22091	1	1 +NE
+quōn			22091	1	1 +NE
 ---------------------------------------
-quōnam			22092	6	6
+quōnam			22092	6	6 +NAM
 ---------------------------------------
-quōpiam			22093	2	2
+quōpiam			22093	2	2 +PIAM
 ---------------------------------------
-quōquam			22094	13	9
+quōquam			22094	13	9 +QUAM
 ---------------------------------------
-quōque			22095	5	4
+quōque			22095	5	4 +QUE
 ---------------------------------------
-quōquō				22096	12	9
+quōquō			22096	12	9 +REDUPL
 ---------------------------------------
-quōrsum				22097	8	5 +UORSUS
-quōrsus				22098	1	1 +UORSUS
+quōrsum			22097	8	5 +UORSUS
+quōrsus			22098	1	1 +UORSUS
 ---------------------------------------
-quōrum				22099	11	8
-quōrumque			22100	1	1
+quōrum			22099	11	8
+quōrumque		22100	1	1
 ---------------------------------------
-quōs					22101	89	24
+quōs			22101	89	24
 ---------------------------------------
-quōusque			22102	1	1
+quōusque		22102	1	1
 ---------------------------------------
-quōvīs					22103	10	7
+quōvīs			22103	10	7 +VIS
 ---------------------------------------
 r			22104	5	4
 ---------------------------------------
@@ -29108,9 +29154,9 @@ urnā			26846	1	1 +EQUIPMENT
 urtīcam			26847	1	1 +ANIMAL
 ---------------------------------------
 us						26848	3	2
-uspiam					26849	9	4
-usquam				    26850	41	18
-usquamst				26851	3	3
+uspiam					26849	9	4 +PIAM
+usquam				    26850	41	18 +QUAM
+usquamst				26851	3	3 +QUAM +ST
 usque					26852	147	26
 usquequaque			    26853	1	1
 usquequāque			    26854	3	3
@@ -29628,10 +29674,11 @@ viam			27336	46	23
 vias			27337	1	1
 viast			27338	1	1 +ST
 ---------------------------------------------
-vicem			27339	9	7
+vicem			    27339	9	7
 vicissim			27340	18	13 +TIM
-vicissitūdōst			27341	1	1 +TUDIN +ST
+vicissitūdōst		27341	1	1 +TUDIN +ST
 vicissātim			27342	2	2 +TIM
+--------------------------------------
 victa			27343	1	1
 victimās			27344	1	1
 victitant			27345	1	1
@@ -30582,7 +30629,7 @@ acheruntem			504	1	1
 āfluat			28219	1	1
 ------------------------------------
 āfricam			28220	1	1 +GEOGRAPHY
-āfricānōs			28221	1	1 +ANUS +GEOGRAPHY
+āfricānōs		28221	1	1 +ANUS +GEOGRAPHY
 ------------------------------------
 āfuerīs			28222	1	1
 āfuit			28223	2	2
@@ -30600,14 +30647,14 @@ acheruntem			504	1	1
 āleam			28230	1	1
 āleum			28231	1	1
 āleā			28232	1	1
-āleāriae			28233	1	1
+āleāriae		28233	1	1
 āleātor			28234	1	1 +TOR
 āleīs			28235	4	1
 āleōs			28236	2	1
 ---------------------------------------------
-ālide				28237	12	1 +GEOGRAPHY
+ālide			28237	12	1 +GEOGRAPHY
 ālidem			28238	3	1 +GEOGRAPHY
-ālidēnsem	28239	1	1 +ENSIS +GEOGRAPHY
+ālidēnsem	    28239	1	1 +ENSIS +GEOGRAPHY
 -------------------------------------------
 ālium			28240	2	2
 āliātō			28241	1	1
@@ -30686,9 +30733,10 @@ acheruntem			504	1	1
 --------------------------------------
 ānserēs			28304	1	1 +ANIMAL
 -------------------------------------
-āpulus			28313	1	1
-āpulīs			28314	1	1
-āpūliā			28315	1	1
+āpulus			28313	1	1 +GEOGRAPHY
+āpulīs			28314	1	1 +GEOGRAPHY
+āpūliā			28315	1	1 +GEOGRAPHY
+---------------------------------------
 āra			28316	2	2
 āram			28317	18	8
 ārdeat			28318	1	1
@@ -30785,12 +30833,12 @@ ATER
 ----------------------------------------
 ēbria			28400	3	3 +ALCOHOL
 ēbriam			28401	1	1 +ALCOHOL
-ēbriola			28402	1	1 +OLUS +ALCOHOL
-ēbriolī			28403	1	1 +OLUS +ALCOHOL
+ēbriola			28402	1	1 +OLUS +DIMINUTIVE +ALCOHOL
+ēbriolī			28403	1	1 +OLUS +DIMINUTIVE  +ALCOHOL
 ēbrium			28404	5	3 +ALCOHOL
 ēbrius			28405	8	7 +ALCOHOL
 ēbriust			28406	1	1 +ST +ALCOHOL
-ēbriī				28407	1	1 +ALCOHOL
+ēbriī			28407	1	1 +ALCOHOL
 ēbriō			28408	1	1 +ALCOHOL
 ēbriōs			28409	1	1 +ALCOHOL
 ----------------------------------------
@@ -30803,13 +30851,14 @@ ATER
 ----------------------------------------
 ēdentulae			28414	1	1 +EX +BODY
 ēdentulum			28415	1	1 +EX +BODY
-ēdentulī				28416	1	1 +EX +BODY
-ēdentulō				28417	1	1 +EX +BODY
+ēdentulī			28416	1	1 +EX +BODY
+ēdentulō			28417	1	1 +EX +BODY
+ēdentāverint		28418	1	1
 ----------------------------------------
-ēdentāverint			28418	1	1
 ēderint			28419	1	1
 ēderis			28420	1	1
 ēderīs			28421	1	1
+----------------------------------------
 ēdicta			28422	2	2
 ēdictiōnem			28423	2	1
 ēdictiōnēs			28424	2	1
