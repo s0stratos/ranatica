@@ -895,7 +895,7 @@ adulterī						833	1	1
 adulterīnum					834	1	1
 adulēscente					835	7	4  +SC +NT
 adulēscentem				836	27	16  +SC +NT
-adulēscentemāleum	837	1	1 +COMPOUND
+adulēscentem				837	1	1 
 adulēscentia				838	3	2 +SC +NT +IA
 adulēscentiae				839	4	4 +SC +NT +IA
 adulēscentiaeque		840	1	1 +SC +NT +IA +QUE
@@ -30660,7 +30660,8 @@ acheruntem			504	1	1
 ālīs			28244	2	2 +BODY
 -----------------------------------
 āleam			28230	1	1
-āleum			28231	1	1
+āleum			28231	1	1 +NAME
+āleum			28231	1	1 +NAME
 āleā				28232	1	1
 āleāriae		28233	1	1
 āleātor			28234	1	1 +TOR
