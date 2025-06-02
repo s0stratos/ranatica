@@ -23537,9 +23537,9 @@ quae			21749	922	26
 quaecumque			21750	3	3 +CUMQUE
 quaedam			21751	13	8
 quaedamst			21752	1	1
-quaen			21753	3	3
-quaenam			21754	1	1
-quaenamst			21755	1	1
+quaen			21753	3	3 +NE
+quaenam			21754	1	1 +NAM
+quaenamst			21755	1	1 +NAM +ST
 quaene			21756	4	4
 quaepiam			21757	1	1 +PIAM
 quaepiamst			21758	1	1 +PIAM +ST
@@ -23631,8 +23631,8 @@ qualis			21843	1	1
 quam			21844	1337	27
 quamnam			21845	2	2
 quamne			21846	3	3
-quamquam		21847	61	21
-quamquamst		21848	1	1 +
+quamquam		21847	61	21 +REDUPL
+quamquamst		21848	1	1 +REDUPL +ST
 quamque			21849	5	5
 quamve			21850	1	1
 quamvīs			21851	10	8
@@ -23647,7 +23647,7 @@ quantillīs			21859	1	1 +DIMINUTIVE
 quantillō			21860	2	2 +DIMINUTIVE
 quantu			21861	1	1
 quantum			21862	109	25
-quantumquantum			21863	1	1
+quantumquantum			21863	1	1 +REDUPL
 quantumque			21864	1	1
 quantumst			21865	6	5
 quantumvīs			21866	1	1
@@ -23784,7 +23784,7 @@ quodnam			21992	5	4
 quodne			21993	5	5
 quodque			21994	7	6
 -----------------------------------------------------
-quodsemelarripidēs			21995	1	1 +NAME +JOKE
+quodsemelarripidēs			21995	1	1  +COMPOUND +NAME +JOKE
 -----------------------------------------------------
 quodsī			21996	2	2 +SI
 quodvīs			21997	3	3 +VIS
@@ -23852,8 +23852,8 @@ quīnavīcēnāria			22054	1	1
 quīndecim			22055	8	4
 quīngentōs			22056	5	5
 quīnque			22057	17	7
-quīnquennis			22058	1	1 +ANNUS +IS
-quīnquennium			22059	1	1 +ANNUS +IS
+quīnquennis			22058	1	1 +ANNUS +COMPOUND +IS
+quīnquennium			22059	1	1 +ANNUS +COMPOUND +IS
 quīnquāgintā			22060	6	4
 quīnta			22061	1	1
 quīntum			22062	1	1
@@ -23970,8 +23970,8 @@ ratae			22154	1	1
 ratem			22155	4	3
 ratis			22156	2	2
 ---------------------------------------
-ratiunculam			22157	2	2
-ratiunculā			22158	1	1
+ratiunculam			22157	2	2 +DIMINUTIVE
+ratiunculā			22158	1	1 +DIMINUTIVE
 ratiō			22159	13	9
 ratiōcinor			22160	1	1
 ratiōne			22161	11	8
@@ -23993,7 +23993,7 @@ re			22175	5	5
 reantur			22176	1	1
 rear			22177	1	1
 ----------------------------------
-rebītet			22178	2	1 +RE +BETO +
+rebītet			22178	2	1 +RE +BETO
 rebītās			22179	1	1 +RE +BETO
 rebītō			22180	1	1 +RE +BETO
 ----------------------------------
@@ -24009,7 +24009,7 @@ recesserō			22189	1	1
 recesset			22190	1	1
 recessim			22191	2	2
 ------------------------------------
-recharmidā			22192	1	1
+recharmidā		22192	1	1	+JOKE +IMPERATIVE
 ------------------------------------
 recident			22193	1	1
 recidēre			22194	1	1
@@ -24830,7 +24830,7 @@ rogāsne			22949	1	1
 rogāsse			22950	1	1
 rogātās			22951	1	1
 rogātō			22952	5	4
-rogātūru			22953	1	1
+rogātūru's			22953	1	1 +S
 rogāverō			22954	1	1
 rogāvit			22955	2	2
 rogāvī			22956	3	3
@@ -24883,7 +24883,7 @@ rārō			23002	5	3
 rāstrōs			23003	3	2
 rāsō			23004	1	1
 ---------------------------------------------------
-rāvastellus			23005	1	1 +BODY
+rāvastellus			23005	1	1 +ASTER +DIMINUTIVE
 ---------------------------------------------------
 rāviō			23006	1	1
 rē			23007	190	25
@@ -24902,15 +24902,17 @@ rēctum			23017	4	3
 rēctumst			23018	3	3
 rēctā			23019	25	16
 rēctē			23020	144	26
-rēctēn			23021	1	1
+rēctēn			23021	1	1 +NE
 rēctō			23022	1	1
 rēculā			23023	1	1
 rēd			23024	1	1
+---------------------------------------------
 rēferat			23025	2	2
 rēferet			23026	1	1
 rēferre			23027	1	1
 rēfert			23028	36	18
 rēferunt			23029	1	1
+--------------------------------------------
 rēgem			23030	15	11
 rēgemque			23031	1	1
 rēgibus			23032	1	1
@@ -25044,7 +25046,7 @@ rūfus				23131	2	2
 ----------------------------------------
 rūfēȳn			23132	1	1
 rūgat			23133	1	1
-rūmiferant			23134	1	1
+rūmiferant			23134	1	1 +EQUIPMENT
 rūmor			23135	3	3
 rūmōre			23136	1	1
 rūmōrēs			23137	1	1
@@ -25066,7 +25068,7 @@ rūsticō			23151	3	3 +ICUS
 ----------------------------------------
 s			23152	202	27
 saburrātae			23153	1	1
-saccipēriō			23154	1	1
+saccipēriō			23154	1	1 +EQUIPMENT
 saccum			23155	1	1
 sacellum			23156	1	1
 sacer			23157	1	1
@@ -25080,25 +25082,25 @@ sacerrimus			23162	2	2 +SUPERL
 sacerrimō			23163	1	1 +SUPERL
 sacra			23164	1	1
 sacram			23165	2	2
-sacrificant			23166	1	1 +FACERE
-sacrificābō			23167	1	1 +FACERE
-sacrificāvit			23168	1	1 +FACERE
-sacrilega			23169	2	2
-sacrilege			23170	1	1
-sacrilegissime			23171	1	1
-sacrilegum			23172	2	1
-sacrilegus			23173	1	1
-sacrilegō			23174	1	1
-sacruficandī			23175	1	1 +FACERE +NDUS
-sacruficat			23176	2	2 +FACERE
-sacruficem			23177	5	4 +FACERE
-sacruficāre			23178	3	3 +FACERE
-sacruficās			23179	1	1 +FACERE
-sacruficāssem			23180	1	1 +FACERE
-sacruficātum			23181	1	1 +FACERE
-sacruficāverit			23182	1	1 +FACERE
-sacruficēs			23183	1	1 +FACERE
-sacruficō			23184	1	1 +FACERE
+sacrificant			23166	1	1 +FACERE +EQUIPMENT
+sacrificābō			23167	1	1 +FACERE +EQUIPMENT
+sacrificāvit			23168	1	1 +FACERE +EQUIPMENT
+sacrilega			23169	2	2 +EQUIPMENT
+sacrilege			23170	1	1 +EQUIPMENT
+sacrilegissime			23171	1	1 +EQUIPMENT
+sacrilegum			23172	2	1 +EQUIPMENT
+sacrilegus			23173	1	1 +EQUIPMENT
+sacrilegō			23174	1	1 +EQUIPMENT
+sacruficandī			23175	1	1 +FACERE +EQUIPMENT +NDUS 
+sacruficat			23176	2	2 +FACERE +EQUIPMENT
+sacruficem			23177	5	4 +FACERE +EQUIPMENT
+sacruficāre			23178	3	3 +FACERE +EQUIPMENT
+sacruficās			23179	1	1 +FACERE +EQUIPMENT
+sacruficāssem			23180	1	1 +FACERE +EQUIPMENT
+sacruficātum			23181	1	1 +FACERE +EQUIPMENT
+sacruficāverit			23182	1	1 +FACERE +EQUIPMENT
+sacruficēs			23183	1	1 +FACERE +EQUIPMENT
+sacruficō			23184	1	1 +FACERE +EQUIPMENT
 sacrum			23185	6	5
 sacrā			23186	2	2
 sacrās			23187	1	1
@@ -25121,7 +25123,7 @@ saeptum			23201	1	1
 saetīs			23202	1	1
 ----------------------------------------
 saevam			23203	1	1
-saevidicīs			23204	1	1 +DICERE
+saevidicīs			23204	1	1 +DICERE +COMPOUND
 saevit			23205	2	2
 saeviter			23206	3	3 +ITER
 saevitiam			23207	1	1 +TIA
@@ -25144,10 +25146,10 @@ sagaristiōnis			23222	1	1
 ----------------------------------------
 sagax			23223	1	1
 ----------------------------------------
-sagittā			23224	1	1
-sagittās		23225	1	1
+sagittā			23224	1	1 +EQUIPMENT
+sagittās		23225	1	1 +EQUIPMENT
 sagittātīs		23226	1	1
-sagittīs		23227	1	1
+sagittīs		23227	1	1 +EQUIPMENT
 ----------------------------------------
 sagīna			23228	1	1
 sagīnam			23229	2	2
@@ -25163,9 +25165,9 @@ salit			23237	3	3
 ----------------------------------------
 salsa			23238	2	1
 salsam			23239	1	1
-salsipotentī			23240	1	1
+salsipotentī			23240	1	1 +COMPOUND
 salsum			23241	2	2
-salsumst			23242	1	1
+salsumst			23242	1	1 +ST
 salsā			23243	1	1
 salsāmenta			23244	1	1 +MENTUM
 salsī			23245	1	1
@@ -25194,8 +25196,8 @@ salvast			23265	4	4
 salve			23266	1	1
 salveō			23267	1	1
 salvum			23268	47	21
-salvumque			23269	1	1
-salvumst			23270	1	1
+salvumque			23269	1	1 +QUE
+salvumst			23270	1	1 +ST
 salvus			23271	50	22
 salvā			23272	3	2
 salvās			23273	2	2
@@ -25223,7 +25225,7 @@ salūtant			23291	2	2
 salūtat			23292	12	8
 salūte			23293	11	11
 salūtem			23294	48	19
-salūtigerulōs			23295	1	1 +GERERE +ULUS
+salūtigerulōs			23295	1	1 +GERERE  +COMPOUND +ULUS
 salūtis			23296	6	5
 salūtā			23297	2	2
 salūtābant			23298	1	1
@@ -25271,7 +25273,7 @@ sangārionem			23329	1	1
 ----------------------------------------
 sannio			23330	6	1
 sanniō			23331	4	2
-sanniōst			23332	1	1
+sanniōst			23332	1	1 +ST
 ----------------------------------------
 sapere			    23333	16	11
 saperest			23334	1	1
@@ -25326,8 +25328,8 @@ sat			23380	89	24
 satagit			23381	1	1
 satam			23382	1	1
 -----------------------------------------
-satellites			23383	1	1
-satellitēs			23384	1	1
+satellites			23383	1	1 +JOB
+satellitēs			23384	1	1 +JOB
 --------------------------------------
 satietās			23385	2	2 +TAT
 satietāte			23386	1	1 +TAT
@@ -25354,7 +25356,7 @@ saturitātem			23405	2	2 +TAT
 saturiō			23406	3	1
 saturum			23407	3	3
 saturī			23408	4	3
-saucaptidem			23409	1	1
+saucaptidem			23409	1	1 +FOOD
 sauciant			23410	1	1
 sauciat			23411	1	1
 sauciem			23412	1	1
@@ -25366,7 +25368,7 @@ savium			23417	1	1
 saxa			23418	3	2
 saxum			23419	4	4
 saxumque			23420	2	2
-saxātilem			23421	1	1
+saxātilem			23421	1	1 +TILIS
 saxō			23422	4	2
 sc			23423	2	1
 scabrae			23424	1	1
@@ -25378,7 +25380,7 @@ scaenā			23428	1	1 +ART
 ----------------------------------
 scaeva			23429	2	2
 scaevam			23430	1	1
-scaevast			23431	1	1
+scaevast			23431	1	1 +ST
 scalpurrīre			23432	1	1
 scandit			23433	1	1
 -------------------------------
@@ -25778,8 +25780,8 @@ septimum			23792	1	1 +NUMERAL
 septimus			23793	1	1 +NUMERAL
 septimī			23794	2	1 +NUMERAL
 septingentōs			23795	1	1 +NUMERAL
-septuennis			23796	5	4 +ANNUS +IS +NUMERAL
-septuennēs			23797	1	1 +NUMERAL
+septuennis			23796	5	4 +ANNUS +IS +NUMERAL +COMPOUND
+septuennēs			23797	1	1 +NUMERAL +COMPOUND
 septumas			23798	1	1 +NUMERAL
 septumī			23799	1	1 +NUMERAL
 septumō			23800	1	1 +NUMERAL
@@ -25944,8 +25946,8 @@ servīvistī			23950	1	1
 servīvit			23951	1	1
 servīvī			23952	2	2
 serēnust			23958	1	1
-sescentoplāgō			23959	1	1
-sessibulum			23960	1	1
+sescentoplāgō			23959	1	1 +COMPOUND
+sessibulum			23960	1	1 +BUL
 sessum			23961	3	2
 seu			23962	16	10
 --------------------------------------------
@@ -25958,8 +25960,8 @@ sevērō			    23968	1	1
 ----------------------------------------
 sex						23969	21	13 +NUMBER
 sexagensimō		        23970	1	1 +NUMBER
-sexennis				23971	2	1 +ANNUS +IS +NUMBER
-sexenniō				23972	1	1 +ANNUS +IUS +NUMBER
+sexennis				23971	2	1 +ANNUS +IS  +COMPOUND +NUMBER
+sexenniō				23972	1	1 +ANNUS +IUS  +COMPOUND +NUMBER
 sexta					23973	2	2 +NUMBER
 sexto					23974	1	1 +NUMBER
 sextum					23975	1	1 +NUMBER
@@ -26007,8 +26009,8 @@ siem			24011	28	15
 sient			24012	35	18
 siet			24013	137	26
 signa			24014	19	8
-significem			24015	1	1 +FACERE
-significētis			24016	1	1 +FACERE
+significem			24015	1	1 +FACERE +COMPOUND
+significētis			24016	1	1 +FACERE +COMPOUND
 signum			24017	32	15
 signumst			24018	2	2
 signābō			24019	1	1
@@ -26485,7 +26487,7 @@ spiciō			24467	1	1
 spinter			24468	8	1
 spinturnīcium			24469	1	1
 spissam			24470	1	1
-spissigradissimōs			24471	1	1
+spissigradissimōs			24471	1	1 +COMPOUND
 spissum			24472	1	1
 ----------------------------------------------
 splendent			24473	1	1
@@ -26977,9 +26979,9 @@ subrepta			24900	1	1
 subrūfus			24901	1	1
 subscrībam			24902	1	1
 ------------------------------------------
-subsellia			24903	1	1 +EQUIPMENT
-subselliīs			24904	1	1 +EQUIPMENT
-subselliō			24905	2	1 +EQUIPMENT
+subsellia			24903	1	1  +COMPOUND +EQUIPMENT
+subselliīs			24904	1	1  +COMPOUND +EQUIPMENT
+subselliō			24905	2	1  +COMPOUND +EQUIPMENT
 ----------------------------------------
 subsequar			24906	2	2 +SUB +SEQUOR
 subsequere			24907	3	3 +SUB +SEQUOR
@@ -26993,10 +26995,10 @@ subsiet			24913	1	1
 subsilit			24914	1	1
 subsistere			24915	1	1
 substruunt			24916	1	1
-subterdūcat			24917	1	1
-subterdūxit			24918	1	1
-subterfugere			24919	1	1
-subterfūgī			24920	1	1
+subterdūcat			24917	1	1 +COMPOUND
+subterdūxit			24918	1	1 +COMPOUND
+subterfugere		24919	1	1 +COMPOUND
+subterfūgī			24920	1	1 +COMPOUND
 subtrahāt			24921	1	1
 subtrīstis			24922	1	1
 subtrītae			24923	1	1
@@ -27114,10 +27116,10 @@ sunt			25029	501	27
 suntne			25030	2	2
 suo			25031	1	1
 --------------------------------------
-supellēctile		25032	1	1 +EQUIPMENT
-supellēctilis		25033	1	1 +EQUIPMENT
-supellēctilī		25034	1	1 +EQUIPMENT
-supellēx			25035	5	4 +EQUIPMENT
+supellēctile		25032	1	1  +COMPOUND +EQUIPMENT
+supellēctilis		25033	1	1  +COMPOUND +EQUIPMENT
+supellēctilī		25034	1	1  +COMPOUND +EQUIPMENT
+supellēx			25035	5	4  +COMPOUND +EQUIPMENT
 --------------------------------------
 super			25036	16	10
 superant			25037	1	1
@@ -27134,9 +27136,9 @@ superbumst			25046	1	1 +SUPERB +ST
 superbē				25047	3	3 +SUPERB +E
 superbī				25048	1	1 +SUPERB
 -------------------------------------------
-supercilium			25049	1	1 +BODY
-superciliīs			25050	1	1 +BODY
-superciliō				25051	1	1 +BODY
+supercilium			25049	1	1  +COMPOUND +BODY 
+superciliīs			25050	1	1  +COMPOUND +BODY
+superciliō				25051	1	1  +COMPOUND +BODY
 -----------------------------------------
 supererat			25052	1	1
 superesse			25053	1	1
@@ -27237,8 +27239,8 @@ suprēmum			25144	2	2
 suprēmus			25145	1	1
 suprēmī			25146	4	3
 suprēmō			25147	1	1
-supterdūxerit			25148	1	1
-supterfūgisse			25149	1	1
+supterdūxerit			25148	1	1 +COMPOUND
+supterfūgisse			25149	1	1 +COMPOUND
 suptus			25150	1	1
 supīna			25151	1	1
 surda			25152	2	2
@@ -27428,8 +27430,8 @@ suāvibus			25335	1	1
 suāvior			25336	1	1
 suāvis			25337	3	3
 suāvissimus			25338	1	1
-suāvisāviatiō			25339	1	1 +TION
-suāvisāviātiō			25340	2	1 +TION
+suāvisāviatiō			25339	1	1 +TION +COMPOUND
+suāvisāviātiō			25340	2	1 +TION +COMPOUND
 suāviter					25341	1	1 +ITER
 suāvitāte					25342	2	2 +TAT
 suāvitātem				25343	1	1 +TAT
@@ -27575,7 +27577,7 @@ sēligitō			25470	1	1
 sēmen			25471	1	1
 sēmentem			25472	1	1
 sēmentium			25473	1	1
-sēmidoctum			25474	1	1
+sēmidoctum			25474	1	1 +COMPOUND
 sēmine			25475	2	2
 sēminis			25476	1	1
 sēminiō			25477	1	1
@@ -27615,14 +27617,14 @@ sēriās			25508	2	2
 sēriō			25509	23	14
 sēriōne			25510	1	1
 sērō			25511	9	8
-sērōst			25512	1	1
+sērōst			25512	1	1 +ST
 sēscenta			25513	4	4
 sēscentae			25514	1	1
 sēscentās			25515	1	1
 sēscentī			25516	4	2
 sēscentōs			25517	3	2
-sēsqueopus			25518	1	1
-sēsquipede			25519	1	1
+sēsqueopus			25518	1	1 +COMPOUND
+sēsquipede			25519	1	1 +COMPOUND
 sēsumam			25520	1	1
 sēsē			25521	157	25 +REDUPL
 sētius			25522	4	4
@@ -27705,8 +27707,8 @@ sōlitūdō			25588	2	2 +TUDIN
 sōlitūdōque			25589	1	1 +TUDIN +QUE
 sōlius			25590	1	1
 ---------------------------------------
-sōlstitiālis		25591	1	1 +NATURE +SKY
-sōlstitiālī			25592	1	1 +NATURE +SKY
+sōlstitiālis		25591	1	1  +COMPOUND +NATURE +SKY
+sōlstitiālī			25592	1	1  +COMPOUND +NATURE +SKY
 ---------------------------------------
 sōlum			25593	20	13
 sōlus			25594	70	22
@@ -27993,7 +27995,7 @@ te			25845	41	16
 techinae			25846	2	2
 techinam			25847	2	2
 techinīs			25848	2	2
-technīs				25849	1	1
+technīs				25849	1	1 +SYNCOPE
 --------------------------------
 tectum			25850	1	1
 ted			25851	1	1
@@ -28008,12 +28010,12 @@ telestis			25858	1	1
 ------------------------------------------
 tem			25859	1	1
 temere			25860	18	10
-temerest			25861	3	3
+temerest			25861	3	3 +ST
 temeritās			25862	1	1 +TAT
 temerāria			25863	1	1
 temerārium			25864	1	1
-temerāriumst			25865	1	1
-temerēst			25866	1	1
+temerāriumst			25865	1	1 +ST
+temerēst			25866	1	1 +ST
 temperantis			25867	1	1
 temperat			25868	1	1
 temperent			25869	3	2
@@ -28119,7 +28121,7 @@ terrae			25964	2	2
 terram			25965	25	16
 terrestris			25966	3	2
 terrestrīs			25967	1	1
-terrifica			25968	1	1 +FACERE
+terrifica			25968	1	1 +FACERE +COMPOUND
 territat			25969	1	1
 territās			25970	4	4
 territēs			25971	2	1
@@ -28218,14 +28220,14 @@ therapontigonus			26052	3	1
 therapontigonō			26053	1	1
 --------------------------------
 thermopotāstī			26054	1	1 +COMPOUND
-thermopōlium			26055	1	1 +PLACE
-thermopōliō				26056	2	2 +PLACE
+thermopōlium			26055	1	1  +COMPOUND +PLACE
+thermopōliō				26056	2	2  +COMPOUND +PLACE
 --------------------------------
 thesprio			26057	1	1
 thespriō			26058	3	1
 thespriōnem			26059	1	1
-thessala			26060	1	1
-thessalum			26061	1	1
+thessala			26060	1	1 +GEOGRAPHY
+thessalum			26061	1	1 +GEOGRAPHY
 thetis			26062	1	1
 thetī			26063	1	1
 theātrī			26064	1	1 +PLACE
@@ -28266,8 +28268,8 @@ thēsaurō			26091	1	1 +EQUIPMENT
 thērā			26089	1	1
 thȳlacistae			26092	1	1
 ---------------------------------------
-tibicen				26095	1	1 +MUSIC +JOB
-tibicinae			26096	1	1 +MUSIC +JOB
+tibicen				26095	1	1  +COMPOUND +MUSIC +JOB
+tibicinae			26096	1	1  +COMPOUND +MUSIC +JOB
 -------------------------------------
 tibiis				26097	6	6 +MUSIC +EQUIPMENT
 -------------------------------------------
@@ -28334,7 +28336,7 @@ tippūlae			26144	1	1 +ANIMAL
 tis			26145	2	2
 tisitio			26146	1	1
 tito			26147	1	1
-tittibilīciō			26148	1	1
+tittibilīciō			26148	1	1 +COMPOUND
 titubantī			26149	1	1
 titubet			26150	3	3
 titubātumst			26151	1	1
@@ -28501,8 +28503,8 @@ tribūlis				26288	1	1
 tribūnus			26289	1	1
 tribūtus			26290	2	1
 -----------------------------------------
-triennium			26291	6	4 +ANNUS
-trienniō			26292	1	1 +ANNUS
+triennium			26291	6	4 +ANNUS +COMPOUND
+trienniō			26292	1	1 +ANNUS +COMPOUND
 trifur					26293	1	1 +COMPOUND
 trifurcifer			26294	3	2 +COMPOUND
 trigeminam		26295	1	1 +COMPOUND
@@ -28629,15 +28631,15 @@ trāxī			26408	1	1
 ---------------------------------------
 trēs			26409	8	7
 ---------------------------------------
-trēsvirī			26410	1	1
-trēsvirōs			26411	1	1
+trēsvirī			26410	1	1 +COMPOUND
+trēsvirōs			26411	1	1 +COMPOUND
 ---------------------------------------
 trīcās			26412	4	4
 trīcīs			26413	1	1
-trīduum			26414	16	10
-trīduī			26415	1	1
-trīduō			26416	4	4
-trīgintā			26417	24	10
+trīduum			26414	16	10 +COMPOUND
+trīduī			26415	1	1 +COMPOUND
+trīduō			26416	4	4 +COMPOUND
+trīgintā			26417	24	10 
 trīma			26418	1	1
 trīna			26419	1	1
 trīs			26420	16	11
@@ -28652,16 +28654,18 @@ trīstēs			26427	3	3
 trīstī			26428	5	5
 trīstīsque			26429	1	1
 ---------------------------------------
-trīsvirōs			26430	1	1
+trīsvirōs			26430	1	1 +COMPOUND
 trītam			26431	1	1
-trītavus			26432	1	1
-trīticum			26433	2	2
-trīticējās			26434	1	1
-trīticī			26435	3	2
-trīticō			26436	3	3
+trītavus			26432	1	1 +COMPOUND
+--------------------------------------------------
+trīticum			26433	2	2 +PLANT
+trīticējās			26434	1	1 +PLANT
+trīticī			26435	3	2 +PLANT
+trīticō			26436	3	3 +PLANT
+--------------------------------------------------
 trītor			26437	2	1
 trīvērunt			26438	1	1
-trīōbulum			26439	1	1
+trīōbulum			26439	1	1 +COMPOUND
 --------------------------------
 trōilum			26440	1	1 +NAME
 trōilī			26441	1	1 +NAME
@@ -28675,7 +28679,7 @@ trūdit			26446	1	1
 trūdētur			26447	1	1
 trūdī			26448	1	1
 ---------------------------------------
-trȳgōnum			26449	1	1
+trȳgōnum			26449	1	1 +COMPOUND
 --------------------------------------
 tu					26450	94	25
 tua				26451	141	26
@@ -28689,7 +28693,7 @@ tuaque			26458	2	2 +QUE
 tuas				26459	1	1
 tuast			26460	2	2 +ST
 tubae			26461	1	1
-tuburcinārī			26462	1	1
+tuburcinārī			26462	1	1 +COMPOUND
 tuendī			26463	1	1
 tui			26464	3	3
 tulerat			26465	1	1
@@ -28828,7 +28832,7 @@ tuōst			26584	2	2 +ST
 ---------------------------------------
 tux				26565	1	1 +INTERJ
 ---------------------------------------
-tympanotrībam	26585	1	1
+tympanotrībam	26585	1	1 +COMPOUND
 tympanum			26586	1	1
 ---------------------------------------
 tyndare			26587	6	1 +NAME
@@ -28877,7 +28881,7 @@ tēctōrium			26614	1	1 +ORIUS  +ARCHITECT
 ---------------------------------------
 tēcum					26615	142	26
 tēcumque			26616	1	1 +QUE
-tēdigniloquidēs			26618	1	1
+tēdigniloquidēs			26618	1	1  +COMPOUND
 ---------------------------------------
 TEGULA
 ---------------------------------------
@@ -28969,7 +28973,7 @@ tūs			    26692	3	3 +EQUIPMENT
 ----------------------------------
 tūtandam			26693	2	2 +NDUS
 tūtantur			26694	1	1
-tūtissimumst			26698	1	1
+tūtissimumst			26698	1	1 +ST
 tūtor			26699	2	2
 tūtum			26700	3	2
 tūtus			26701	1	1
@@ -28980,8 +28984,8 @@ tūtārī			26705	2	2
 tūtātur			26706	1	1
 tūtātust			26707	1	1
 tūtē			26708	18	8
-tūtēlam			26709	5	3
-tūtēlāst			26710	1	1
+tūtēlam			26709	5	3 +ELA
+tūtēlāst			26710	1	1 +ELA +ST
 tūtēminī			26711	1	1
 tūtēre			26712	1	1
 tūtētis			26713	1	1
@@ -29124,7 +29128,8 @@ unguīs			    26820	1	1
 unā			26822	2	2
 uo			26823	1	1
 uos			26824	1	1
-upupa			26825	1	1
+----------------------------------------
+upupa			26825	1	1 +EQUIPMENT
 ---------------------------------------
 urb				26826	1	1
 urbana			26827	2	1 +ANUS
@@ -29165,7 +29170,7 @@ ut			26856	2872	27
 utcumque			26857	5	5 +CUMQUE
 uter			26858	15	9
 uterque			26859	18	11
-uterquest			26860	1	1
+uterquest			26860	1	1 +ST
 uterum			26861	2	2
 uterī			26862	1	1
 uterō			26863	6	4
@@ -29173,7 +29178,7 @@ uterō			26863	6	4
 uti			26864	6	6
 utin		26865	3	3 +NE
 utinam		26866	43	23
-utine		26867	1	1
+utine		26867	1	1 +NE
 utiquam		26868	6	5
 utpote		26869	1	1
 utque		26870	2	1
@@ -29204,7 +29209,7 @@ utrōsque			26892	1	1
 utut		26893	16	11 +REDUPL
 ---------------------------------------
 utī			26894	89	24
-utīne		26895	2	2
+utīne		26895	2	2 +NE
 ---------------------------------------
 UXOR
 ---------------------------------------
@@ -29249,7 +29254,7 @@ valeatne			26933	1	1
 valent			26934	5	5
 valentem			26935	1	1
 valentiōrem			26936	1	1 +COMPAR
-valentulast			26937	1	1
+valentulast			26937	1	1 +ST
 valentīs			26938	1	1
 valerio			26939	3	3
 valet			26940	17	11
@@ -29267,7 +29272,7 @@ validī			26949	1	1
 validō			26950	1	1
 validōs			26951	1	1
 valuisset			26952	1	1
-valuissēsne			26953	1	1
+valuissēsne			26953	1	1 +NE
 valuistī			26954	6	4
 valuistīn			26955	5	4 +NE
 valuit			26956	2	2
@@ -29305,8 +29310,8 @@ vectus			26984	5	5
 vectust			26985	2	2
 vectātum			26986	1	1
 vectī			26987	2	2
-vectūram			26988	1	1
-vectūrā			26989	1	1
+vectūram			26988	1	1 +URA
+vectūrā			26989	1	1 +URA
 veham			26990	1	1
 vehar			26991	2	2
 vehementer			26992	13	12 +TER
@@ -29482,7 +29487,7 @@ verberētur			27152	2	1
 verberō			27153	21	10 +NE
 verberōn			27154	1	1
 verberōnem			27155	1	1
-verbivēlitātiōnem			27156	1	1
+verbivēlitātiōnem			27156	1	1 +COMPOUND
 verbum			27157	69	21
 verbumst			27158	3	3
 verbēnam			27159	1	1
@@ -29564,7 +29569,7 @@ vertunt			27232	1	1
 vertās			27233	1	1
 vertērunt			27234	1	1
 vertī			27235	3	3
-veruīnast			27236	1	1
+veruīnast			27236	1	1 +ST
 ---------------------------------------
 vervex			27237	1	1 +ANIMAL
 vervēcibus	27238	1	1 +ANIMAL
@@ -29594,7 +29599,7 @@ vester			27258	9	7
 vestiam			27259	1	1
 vestiant			27260	1	1
 vestiat			27261	1	1
-vestibulum			27262	1	1
+vestibulum			27262	1	1 +BUL
 vestis			27264	4	3
 vestiplica			27263	1	1 +PLICARE +JOB +EQUIPMENT
 ------------------------------------------
@@ -29689,7 +29694,7 @@ victitāmus			27349	1	1
 victitāre			27350	2	2
 victitās			27351	1	1
 victor			27352	3	3
-victrīxque			27353	1	1 +TRIX
+victrīxque			27353	1	1 +TRIX +QUE
 victum			27354	3	3
 victumās			27355	1	1
 victus			27356	7	5
@@ -29734,15 +29739,16 @@ videātis			27392	1	1
 videātur			27393	7	7
 videō			27394	224	26
 videōn			27395	8	7 +NE
-videōne			27396	1	1
-vidua			27397	7	3
-viduae			27398	1	1
-viduam			27399	4	4
-viduitās			27400	1	1 +TAT
+videōne			27396	1	1 +NE
+------------------------------------------------------
+vidua			27397	7	3 +FAMILY
+viduae			27398	1	1 +FAMILY
+viduam			27399	4	4 +FAMILY
+viduitās			27400	1	1 +TAT +FAMILY
 ------------------------------------------
 vidulum			27401	1	1 +EQUIPMENT
 ------------------------------------------
-viduā			27402	1	1
+viduā			27402	1	1 +FAMILY
 viduī			27403	1	1
 vidē			27404	59	23
 vidēbar			27405	1	1
@@ -30213,9 +30219,9 @@ vēnditat			27825	2	2
 vēnditem			27826	1	1
 vēnditō			27827	1	1
 vēnditūrum			27828	1	1
-vēndundust			27829	1	1 +NDUS
+vēndundust			27829	1	1 +NDUS +ST
 vēndundās			27830	1	1 +NDUS
-vēndundīsque			27831	1	1 +NDUS
+vēndundīsque			27831	1	1 +NDUS +QUE
 vēndās			27832	6	3
 vēndēbat			27833	1	1
 vēndēs			27834	1	1
@@ -30230,7 +30236,7 @@ vēnerim			27842	4	3
 vēnerint			27843	1	1
 vēneris			27844	6	5
 vēnerit			27845	24	15
-vēneritne			27846	2	1
+vēneritne			27846	2	1 +NE
 vēnerās			27847	1	1
 vēnerāt			27848	1	1
 vēnerīmus			27849	1	1
@@ -30246,7 +30252,7 @@ vēnisset			27858	2	2
 vēnistis			27859	1	1
 vēnistī			27860	7	5
 vēnit			27861	77	25
-vēnitne			27862	2	2
+vēnitne			27862	2	2 +NE
 vēnum			27863	1	1
 ----------------------------------------------
 vēnāle			27864	1	1 +ALIS
@@ -30327,7 +30333,7 @@ vīctūraque			27934	1	1
 vīctūrum			27935	1	1
 vīcī			27937	1	1
 ----------------------------------------
-vīcēsimus			27936	1	1
+vīcēsimus			27936	1	1 +NUMERAL
 ----------------------------------------
 vīcīna			27938	1	1
 vīcīnae			27939	1	1
@@ -30335,7 +30341,7 @@ vīcīnam		    27940	8	4
 vīcīne			27941	4	4
 vīcīniae		27942	5	5
 vīcīnitās		27943	1	1 +TAT
-vīcīniā			27944	2	2
+vīcīniā			27944	2	2 +IA
 vīcīnum		    27945	11	6
 vīcīnus			27946	8	6
 vīcīnā			27947	1	1
@@ -30381,20 +30387,22 @@ vīdēre			27983	1	1
 vīdī			27984	112	25
 vīdīn			27985	1	1 +NE
 vīdīt			27986	1	1
-vīgintī			27987	61	13
+--------------------------------------
+vīgintī			27987	61	13 +NUMERAL
+--------------------------------------
 vīle			27988	2	2
 vīlem			27989	1	1
-vīlest			27990	2	2
+vīlest			27990	2	2 +ST
 ----------------------------------
-vīlice			27991	1	1 +FAMILY
-vīlicum			27992	10	2 +FAMILY
-vīlicus			27993	6	2 +FAMILY
-vīlicō			27994	15	3 +FAMILY
+vīlice			27991	1	1 +FAMILY +JOB
+vīlicum			27992	10	2 +FAMILY +JOB
+vīlicus			27993	6	2 +FAMILY +JOB
+vīlicō			27994	15	3 +FAMILY +JOB
 ----------------------------------
 vīlior			27995	1	1
 vīlis			27996	2	2
 vīlissimum			27997	1	1
-vīlissimust			27998	1	1
+vīlissimust			27998	1	1 +ST
 vīlitās			27999	1	1 +TAT
 vīlitātī			28000	1	1 +TAT
 vīlius			28001	2	2
@@ -30412,17 +30420,17 @@ vīn			28010	62	21 +NE
 vīna			28011	1	1
 vīnctam			28012	1	1
 vīnctum			28013	5	4
-vīnctumque			28014	1	1
+vīnctumque			28014	1	1 +QUE
 vīnctus			28015	7	6
-vīnctust			28016	1	1
+vīnctust			28016	1	1 +ST
 vīnctō			28017	1	1
 vīnctōs			28018	2	2
 ---------------------------------------------------
-vīneam			28019	2	2
-vīnipollēns		28020	1	1
+vīneam			28019	2	2 +PLANT
+vīnipollēns		28020	1	1 +COMPOUND
 vīnolentum		28021	1	1 +LENTUS
 vīnolentus		28022	2	2 +LENTUS
-vīnum			28023	22	12
+vīnum			28023	22	12 +PLANT
 vīnārium		28024	1	1  +EQUIPMENT
 vīnāriā			28025	1	1  +EQUIPMENT
 vīnāriō			28026	1	1  +EQUIPMENT
@@ -30444,8 +30452,8 @@ vīs			28040	344	26
 vīsa			28041	13	5
 vīsae			28042	1	1
 vīsam			28043	19	13
-vīsanest			28044	1	1
-vīsast			28045	9	7
+vīsanest			28044	1	1 +NE +ST
+vīsast			28045	9	7 +ST
 ------------------------------------------
 vīscera			28046	2	2 +BODY
 --------------------------------------------
@@ -30507,25 +30515,25 @@ vīvet				28099	4	4
 vīvimus		28100	3	3
 vīvis				28101	6	5
 vīvisne			28102	1	1
-vīvisque		28103	1	1
+vīvisque		28103	1	1 +QUE
 vīvit				28104	27	15
 vīvite			28105	1	1
 vīvitis			28106	1	1
-vīvitne			28107	3	2
+vīvitne			28107	3	2 +NE
 vīvitur			28108	4	3
 vīvitō			28109	4	4
 vīvum			28110	9	7
 vīvunt			28111	12	10
-vīvuntne		28112	1	1
+vīvuntne		28112	1	1 +NE
 vīvus			28113	7	7
-vīvust			28114	1	1
+vīvust			28114	1	1 +ST
 vīvā				28115	3	2
 vīvāmus		28116	1	1
 vīvās			28117	8	7
 vīvāt				28118	1	1
-vīvē				28119	1	1
+vīvē				28119	1	1 +IMPERATIVE
 vīvēbās		28120	1	1
-vīvēns			28121	1	1
+vīvēns			28121	1	1 +NT
 vīvēs			28122	4	3
 vīvīs				28123	1	1
 vīvō				28124	34	18
@@ -30538,20 +30546,20 @@ vīxit				28130	4	2
 vīxī				28131	2	2
 vīxīt				28132	1	1
 ----------------------------------------
-vōce			28136	10	8 +BODY
+vōce				28136	10	8 +BODY
 vōcem			28137	11	10 +BODY
 vōcest			28138	1	1 +ST +BODY
 vōcis			28139	3	3 +BODY
-vōcī			28140	2	2 +BODY
+vōcī				28140	2	2 +BODY
 vōx				28150	18	10 +BODY
 ----------------------------------------
-vōbīs			28133	148	26
-vōbīscum		28134	3	3 +CUM
-vōbīsque		28135	1	1 +QUE
-vōs				28141	359	26
-vōsmet			28142	9	7 +MET
-vōsne			28143	2	1 +NE
-vōsque			28144	2	2 +QUE
+vōbīs			28133	148	26 +PPERS
+vōbīscum		28134	3	3 +CUM +PPERS
+vōbīsque		28135	1	1 +QUE +PPERS
+vōs				28141	359	26 +PPERS
+vōsmet			28142	9	7 +MET +PPERS
+vōsne			28143	2	1 +NE +PPERS
+vōsque			28144	2	2 +QUE +PPERS
 ----------------------------------------
 vōta				28145	3	1
 vōtum			28146	1	1
@@ -30575,7 +30583,6 @@ zōnā			28172	2	2 +EQUIPMENT +CLOTHES
 zōnārius		28173	1	1 +ARIUS +EQUIPMENT +CLOTHES
 zōnāriī			28174	1	1 +ARIUS +EQUIPMENT +CLOTHES
 ----------------------------------------
-
 ābīte			28176	2	2
 ------------------------------------
 ācerrima			28177	2	2 +SUPERL
@@ -30597,12 +30604,12 @@ zōnāriī			28174	1	1 +ARIUS +EQUIPMENT +CLOTHES
 acheruntem			504	1	1
 ācherunte			28185	2	2
 ācheruntem			28186	5	4
-ācheruntest			28187	1	1
-ācherunticus			28188	2	2
-ācherunticās			28189	1	1
+ācheruntest			28187	1	1 +ST
+ācherunticus		28188	2	2 +ICUS
+ācherunticās		28189	1	1 +ICUS
 ācheruntis			28190	2	2
-ācheruntī			28191	4	3
-ācherūns			28192	2	2
+ācheruntī				28191	4	3
+ācherūns				28192	2	2
 ------------------------------------
 āchillem			28193	1	1 +NAME
 ------------------------------------
@@ -30628,74 +30635,80 @@ acheruntem			504	1	1
 āfluam			28218	1	1
 āfluat			28219	1	1
 ------------------------------------
-āfricam			28220	1	1 +GEOGRAPHY
+āfricam		28220	1	1 +GEOGRAPHY
 āfricānōs		28221	1	1 +ANUS +GEOGRAPHY
 ------------------------------------
 āfuerīs			28222	1	1
 āfuit			28223	2	2
 ------------------------------------
-āh			28224	75	18
+āh			28224	75	18 +INTERJ
 ------------------------------------
 āin			28225	1	1 +NE
-ājunt			28226	1	1
+ājunt		28226	1	1
 ājō			28228	6	5
 ------------------------------------
 ājācem			28227	1	1
 ------------------------------------
 ālae			28229	1	1 +BODY
+ālās			28243	2	2 +BODY
+ālīs			28244	2	2 +BODY
 -----------------------------------
 āleam			28230	1	1
 āleum			28231	1	1
-āleā			28232	1	1
+āleā				28232	1	1
 āleāriae		28233	1	1
 āleātor			28234	1	1 +TOR
-āleīs			28235	4	1
+āleīs				28235	4	1
 āleōs			28236	2	1
 ---------------------------------------------
-ālide			28237	12	1 +GEOGRAPHY
+ālide				28237	12	1 +GEOGRAPHY
 ālidem			28238	3	1 +GEOGRAPHY
-ālidēnsem	    28239	1	1 +ENSIS +GEOGRAPHY
+ālidēnsem	28239	1	1 +ENSIS +GEOGRAPHY
 -------------------------------------------
-ālium			28240	2	2
-āliātō			28241	1	1
+ālium			28240	2	2 +PLANT
+āliātō			28241	1	1 +PLANT
+--------------------------------------
 ālunt			28242	1	1
-ālās			28243	2	2
-ālīs			28244	2	2
-āmentiast			28245	2	2
-āmentium			28246	1	1
-āmentiā			28247	1	1
-āmissum			28248	1	1
-āmissūrum			28249	1	1
+-------------------------------------
+āmentiast		28245	2	2 +ST
+āmentium	28246	1	1
+āmentiā		28247	1	1
+-----------------------------------------
+āmissum		28248	1	1
+āmissūrum	28249	1	1
 āmisti			28250	1	1
-āmittam			28251	10	7
+āmittam		28251	10	7
 āmittat			28252	5	4
 āmitte			28253	3	3
 āmittendam			28254	1	1 +NDUS
 āmittendum			28255	1	1 +NDUS
 āmittendā			28256	1	1 +NDUS
-āmittendī			28257	1	1 +NDUS
-āmittere			28258	9	4
-āmitterem			28259	1	1
-āmitteret			28260	1	1
-āmitterēs			28261	2	2
+āmittendī				28257	1	1 +NDUS
+āmittere		28258	9	4
+āmitterem	28259	1	1
+āmitteret		28260	1	1
+āmitterēs		28261	2	2
 āmittet			28262	1	1
 āmittis			28263	1	1
 āmittit			28264	1	1
-āmittunt			28265	3	3
-āmittāmus			28266	1	1
+āmittunt		28265	3	3
+āmittāmus	28266	1	1
 āmittās			28267	3	3
-āmittātur			28268	1	1
-āmittēmus			28269	1	1
+āmittātur		28268	1	1
+āmittēmus	28269	1	1
 āmittī			28270	2	2
 āmittō			28271	1	1
-āmoveam			28272	1	1
+----------------------------------------
+āmoveam		28272	1	1
 āmoveās			28273	2	2
-āmovē			28274	4	4 +IMPERATIVE
+āmovē				28274	4	4 +IMPERATIVE
 āmovēbō			28275	1	1
 āmovēre			28276	1	1
-āmovērem			28277	1	1
+āmovērem		28277	1	1
 āmovēs			28278	4	3
+----------------------------------------
 āmēns			28279	4	4
+----------------------------------------
 āmīseis			28280	1	1
 āmīserim			28281	2	2
 āmīserit			28282	4	4
@@ -30705,10 +30718,12 @@ acheruntem			504	1	1
 āmīsistī			28286	5	4
 āmīsit			28287	1	1
 āmīsī			28288	7	5
+----------------------------------------
 āmōlior			28289	1	1
 āmōlīminī			28290	3	3
 āmōlīrier			28291	1	1
 āmōlīrī			28292	2	2
+---------------------------------------
 āmōta			28293	1	1
 āmōtam			28294	1	1
 āmōtus			28295	2	2
@@ -30719,19 +30734,19 @@ acheruntem			504	1	1
 āmōvisse			28300	1	1
 āmōvī			28301	3	3
 -------------------------------------
-ānellum			28302	2	2 +ELLUS +DIMINUTIVE +EQUIPMENT
-ānulum			28306	26	7 +ULUS +DIMINUTIVE +EQUIPMENT
+ānellum		28302	2	2 +ELLUS +DIMINUTIVE +EQUIPMENT
+ānulum		28306	26	7 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulus			28307	4	3 +ULUS +DIMINUTIVE +EQUIPMENT
-ānulātīs			28308	1	1 +ULUS +DIMINUTIVE +ATUS +EQUIPMENT
+ānulātīs		28308	1	1 +ULUS +DIMINUTIVE +ATUS +EQUIPMENT
 ānulī			28309	2	2 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulō			28310	5	4 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulōs			28311	1	1 +ULUS +DIMINUTIVE +EQUIPMENT
 ānum			28312	1	1 +EQUIPMENT
 ----------------------------------------
 ānsam			28303	1	1 +EQUIPMENT
-ānsātus			28305	1	1 +ATUS +EQUIPMENT
+ānsātus		28305	1	1 +ATUS +EQUIPMENT
 --------------------------------------
-ānserēs			28304	1	1 +ANIMAL
+ānserēs		28304	1	1 +ANIMAL
 -------------------------------------
 āpulus			28313	1	1 +GEOGRAPHY
 āpulīs			28314	1	1 +GEOGRAPHY
@@ -30769,21 +30784,21 @@ acheruntem			504	1	1
 āstās			28345	1	1
 āstō			28346	2	2
 ---------------------------------------------
-āstū			28347	10	8
+āstū					28347	10	8
 āstūtiae			28348	1	1
 āstūtiam			28349	4	3
-āstūtiā			28350	3	2
-āstūtiārum			28351	1	1
+āstūtiā				28350	3	2
+āstūtiārum		28351	1	1
 āstūtiās			28352	1	1
-āstūtiīsque			28353	2	2
-āstūtē			28354	1	1 +E
+āstūtiīsque		28353	2	2
+āstūtē				28354	1	1 +E
 --------------------------------------------
-āthlēticē			28356	2	2 +ICUS +E
+āthlēticē			28356	2	2 +ICUS +E +SPORT
 --------------------------------------------
-ātriēnsem			28361	8	3
-ātriēnsis			28362	2	2
-ātriēnsī			28363	4	3
-ātriīs			28364	1	1
+ātriēnsem		28361	8	3 +JOB
+ātriēnsis			28362	2	2 +JOB
+ātriēnsī			28363	4	3 +JOB
+ātriīs				28364	1	1
 ------------------------------------
 ATER
 ------------------------------------
@@ -30817,8 +30832,10 @@ ATER
 āvius			28386	1	1
 āvorsa			28387	1	1
 āvortit			28388	1	1
+----------------------------------------
 āvēxit			28389	4	3
 āvēxī			28390	1	1
+----------------------------------------
 āīn			28391	2	1 +NE
 ----------------------------------------
 ē					28392	97	25
@@ -31242,13 +31259,13 @@ ATER
 ērumpere			28750	1	1
 -------------------------------------
 ērādicābam			28751	1	1
-ērādīcent			28752	2	2
-ērādīcet			28753	1	1
-ērādīcitus			28754	1	1
+ērādīcent				28752	2	2
+ērādīcet				28753	1	1
+ērādīcitus				28754	1	1
 ērādīcābō			28755	1	1
 ērādīcārest			28756	1	1
 ērādīcārier			28757	1	1
-ērādīcās			28758	1	1
+ērādīcās				28758	1	1
 ērādīcātus			28759	1	1
 ---------------------------------------
 ērēpsistī			28760	1	1
@@ -31624,12 +31641,15 @@ insidiīs				12934	2	2
 īnstīgēmus			29106	1	1
 īnstō			29107	1	1
 īnsuerit			29108	1	1
-īnsulam			29109	2	2
+--------------------------------------------
+īnsulam			29109	2	2 +GEOGRAPHY
+īnsulās				29114	3	3 +GEOGRAPHY
+--------------------------------------------
 īnsulsae			29110	1	1
 īnsulsum			29111	2	2
 īnsulsō			29112	1	1
 īnsultūram			29113	1	1
-īnsulās			29114	3	3
+
 īnsunt			29115	9	8
 īnsuper			29116	8	7
 īnsuēram			29117	1	1
@@ -31708,6 +31728,7 @@ insidiīs				12934	2	2
 īrātīst			29186	1	1
 īrātō			29187	7	6
 īrātōs			29188	4	4
+--------------------------------------------
 īrēs			29189	7	6
 īrētis			29190	1	1
 īrī			29191	8	7
@@ -31724,10 +31745,14 @@ insidiīs				12934	2	2
 ītōte			29202	1	1 +IMPERATIVE
 īverō			29203	2	2
 īvisse			29204	1	1
-īōnī			29205	1	1
-ō			29206	190	23
+----------------------------------------------------
+īōnī			29205	1	1 +GEOGRAPHY
+----------------------------------------------------
+ō				29206	190	23 +INTERJ
+----------------------------------------------------
 ōcissimē			29207	1	1 +SUPERL  +E
 ōcius			29208	26	15
+----------------------------------------------------
 ōcēdere			29209	1	1
 --------------------------------------
 ōderim		29210	1	1
@@ -31736,8 +31761,8 @@ insidiīs				12934	2	2
 ōderīs		29213	1	1
 ōdisse		29214	7	4
 ōdisset		29215	1	1
-ōdit		29216	2	2
-ōdērunt		29217	2	2
+ōdit			29216	2	2
+ōdērunt	29217	2	2
 ōdī			29218	7	6
 --------------------------------------
 ōh			29219	36	17 +INTERJ
@@ -31898,13 +31923,14 @@ OTIUM
 ūberrimē		29366	1	1 +SUPERL +E
 ūberrimōs		29367	1	1 +SUPERL
 ūberī			29368	2	2
+----------------------------------------------
 ūlla			29369	15	12
 ūllae			29370	1	1
 ūllam			29371	19	11
-ūllast			29372	2	2
+ūllast			29372	2	2 +ST
 ūllum			29373	28	14
 ūllus			29374	14	11
-ūllust			29375	2	2
+ūllust			29375	2	2 +ST
 ūllā			29376	3	3
 ūllās			29377	1	1
 ūllī			29378	6	4
@@ -31917,23 +31943,23 @@ OTIUM
 ūna			    29383	31	19
 ūnae			29384	1	1
 ūnam			29385	39	19
-ūnast			29387	1	1
+ūnast			29387	1	1 +ST
 --------------------------------------
 ūncta			29388	1	1
-ūnctaque		29389	1	1
+ūnctaque		29389	1	1 +QUE
 ūnctitant		29390	1	1
-ūnctiusculō		29391	1	1
+ūnctiusculō		29391	1	1 +DIMINUTIVE
 ūnctiōnēs		29392	1	1
-ūnctor			29393	1	1
+ūnctor			29393	1	1 +TOR
 ūnctum			29394	1	1
 ūnctus			29395	1	1
 ūnctī			29396	1	1
 ūnctō			29397	1	1
 ---------------------------------------
-ūndecim			29398	1	1
+ūndecim			29398	1	1 +NUMERAL
 ---------------------------------------
 ūnicam			29400	3	2
-ūnicast			29401	1	1
+ūnicast			29401	1	1 +ST
 ūnice			29402	1	1
 ūnicum			29403	6	5
 ūnicus			29404	6	4 +FAMILY
