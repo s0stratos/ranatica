@@ -2,7 +2,9 @@ ESSE
 alicui aegre esse
 non apud se esse - not to be oneself, to feel lost, unfocused, and absent-minded from emotion
 auxilio (ad)esse - to be there to helf
+alio animo esse
 bono animo esse - to be confident
+fideli, benigno, clementi, peruicaci animo esse
 clam esse -
 crimini esse - to be susceptible to be held against someone
 curae esse - to be a source of concern
@@ -12,7 +14,9 @@ forte esse  -
 frugi (bonae) esse - to be a good/fruitful/useful person
 frustra esse - to be useless, in vain, a lost cause
 idem omnibus esse - to act the same with everyone
+in culpa esse -
 in diem esse -
+in manus esse
 in mentem esse
 in mora esse
 in noxa esse
@@ -27,6 +31,7 @@ morae esse
 odio esse
 operae esse //
 operae pretium esse
+par esse
 praesto esse
 rei esse
 signi sat esse
@@ -42,18 +47,21 @@ nil est
 operae pretium est
 opus est +ABL
 opus est +PPT (non est opus prolato hoc)
+ab aliquo e nil pericli st
 spes est
 tempus est
 usus est
+
 
 HABERE
 animum bonum habere -
 dubium habere //
 aliquem eximium habere - to make an exception for someone
 fidem habere
-gratiam habere
+alicui (dis) gratiam habere
 gratum habere
-habere + PPRT
+habere + PPRT (praepositam, segregatum)
+hospitem habere
 in loco habere
 in memoria habere
 iter habere
@@ -74,12 +82,14 @@ uxorem habere - to be married
 
 EXPLERE
 suam uoluptatem explere
+animum explere
 
 IRE
 aduorsum ire  - to go to meet someone halfway
 ante ire - to act before, to anticipate
 domum ire - to go home
 infitias ire - to lie (about something)
+intro ire -
 (in) malam rem ire - to walk into trouble
 obuiam ire - to go to meet someone (halfway), to present oneself in front of someone
 pessum ire - to sink to the bottom (of the sea)
@@ -90,9 +100,13 @@ FACERE
 assulas facere - make firewood out of something (door)
 auctionem facere - organize a public sale of private goods
 certiorem facere - to inform someone of some news, some fact
+cognitionem facere
 compendi facere - to spare someone to effort of doing something
+contumeliam facere
 copiam facere - to give someone the necessary access to something / to do something
 facinus facere - to do something memorable, worthy of attention (in a good or bad way)
+imprudens facere -
+indicium facere
 iniuriam facere -
 insidias facere - to set a trap
 iter facere - to go somewhere, to make a trip somewhere
@@ -109,9 +123,18 @@ potestatem facere - to grant the ability, opportunity to do something
 quaestum facere - to pursue a job, a career (for money)
 reducem facere - to allow someone to come back, to grant him safe return home
 sumptum facere - to spend money on something, to make expenses for something
+temere facere -
 uentulum facere (flabello) - to make some wind (with a fan)
 uerba facere - to say things, to take the floor (speaking)
 uolnus facere - to injure someone
+facere + PPT (missam)
+
+OBTINERE
+morem obtinere
+ingenium obtinere
+
+REFERRE
+gratiam referre
 
 DARE
 -----------
@@ -123,6 +146,7 @@ fidem dare -
 fabulam dare - to organize the staging of a play
 in manum dare - to give something directly to someone
 insidias dare - to set a trap
+iusiurandum dare -
 locum dare - to give someone else his place, to go away
 malum dare - to make someone's life hell
 mercedem dare - to pay someone for a job done
@@ -144,6 +168,7 @@ seruandum dare - to ask someone to guard, watch, keep something
 sic dare - to do something just like you just said, tought you would
 spatium dare - to give the necessary time to do something
 spectandum dare - to show something to someone
+ueniam dare -
 uerba dare - to speak empty words
 uirum dare - to give someone as a husband to someone
 uitio dare - to list something as a flaw
@@ -151,9 +176,13 @@ utendum dare - to lend something (for immediate use)
 uxorem dare - to give someone as a wife to someone
 
 PENDERE
-parui pendere - not to think much of something, to largely ignore it
+parui pendere - to not matter (quae dico parui pendunt)
+
+TOLLERE
+puerum tollere
 
 FERRE
+animo aequo ferre
 aegre ferre
 auxilium ferre
 condicionem ferre
@@ -178,6 +207,7 @@ consilium capere
 desiderium capere
 exemplum capere
 initium capere
+aliquem generum capere
 laborem capere
 magistrum capere
 miseriam capere
@@ -204,6 +234,7 @@ rem agere - to do business
 uitam agere - to live life
 
 GERERE
+morem gerere
 bellum gerere
 iras gerere
 
@@ -248,11 +279,17 @@ uera praedicare
 REDIRE
 ad ingenium redire
 ad pauca redire
+-------------------
+alicui animus redit
+
 -------
 hereditas ad aliquem redit
 
 CONICERE
 se in malum conicere
+
+COMMEREO
+culpam commereo
 
 ABDO
 rus se abdere
@@ -288,6 +325,7 @@ uitam perdere
 EXPEDIRE
 iram expedire
 aerumnis expedire
+crimine expedire
 
 RESTITUERE
 rursus in gratiam restituere
@@ -297,19 +335,120 @@ pietas iubet...
 
 ADDUCERE
 medicum adducere
+nutricem adducere
+partis ad malas adducere
 
 SCIRE
 certo scire
 
+AFFERRE
+sibi molestiam afferre
+
+EXCESSERE
+cura ex corde excessit
+
+EXIRE
+limen exire
+
+EXIGERE
+uitam exigere
+
+ACCIDERE
+ad genua accidere
+
+ORIOR
+initium oritur
+
+MORBUS
+morbus aggravescat
+morbum augere
+morbus amplior fit
+
+DOLOR
+dolor inuadit
+
+CONTEGERE
+iniuriam contegere
+
+OFFERRE
+iniuriam offerre
+opportune se offerre
+
+FIRMARE
+fidem firmare
+
+TENERE
+amor aliquem tenet
+consuetudo aliquem tenet
+satias aliquem tenet
+
+PRAETERIRE
+aliquid mali praeterire
+
+ADIRE
+aliquem adire
+
+UELLE
+aliquid aliquem uelle
+
+RENUMERARE
+dotem renumerare
+
+PRAECIDERE
+causas praecidere
+
+ALERE
+puerum alere
+
+ERRARE
+sui animi errare
+
+ADIUNGERE
+animum suum adiungere
+
+REUOLUERE
+in eadem uitam denuo reuoluere
+
+CONFINGERE
+(falsas) causas configere
+
+PROMOUERE
+parum promouere
+
+TUTARI
+mores tutari
+
+DESIDEO
+totum diem desidere
+
+CONTERERE
+totum diem conterere
+
+ADIMERE
+curas adimere
+
+EXTRAHERE
+ex aerumna extrahere
+
 -----
 res diuina
+dies festus
 filius unicus
 rursum prorsum cursare
-
+aut plus eo
+usque ad uesperum
+factum / admodum / profecto / sane
+noli fodere
+paucis (audi, te uolo)
+quid mea?
+mutatio fit - it changes everything, that's new!
+parui preti / haud magni preti
+ab orco mortuum
 -----------
 quorsum euadat, euenturum
 
-
+----
+profuit // immo offuit
 
 ----
 OLD
