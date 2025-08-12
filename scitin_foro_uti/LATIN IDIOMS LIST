@@ -8,6 +8,7 @@ crimini esse - to be susceptible to be held against someone
 curae esse - to be a source of concern
 dubium esse - to be uncertain, problematic
 extra noxiam esse -
+forte esse  -
 frugi (bonae) esse - to be a good/fruitful/useful person
 frustra esse - to be useless, in vain, a lost cause
 idem omnibus esse - to act the same with everyone
@@ -19,6 +20,7 @@ in alicuius potestate esse
 alicuius in rem esse - to help the affairs of someone, to favor the interests of someone
 indicio esse
 istic esse
+lucro esse
 male esse
 molestiae esse
 morae esse
@@ -158,6 +160,7 @@ condicionem ferre
 facile ferre
 gratiam ferre
 grauiter ferre
+iniurias ferre
 pedem ferre
 re ferre
 spem ferre
@@ -200,10 +203,15 @@ plus agere
 rem agere - to do business
 uitam agere - to live life
 
+GERERE
+bellum gerere
+iras gerere
+
 UENIRE
 in crimen uenire - to come to be accused
 in dubium uenire - to come to be in trouble
 in mentem uenire - to come to mind
+in magnum malum uenire -
 in peric(u)lum uenire - to come to be under test / face issues
 ------------
 rumor uenit - there are rumors that
@@ -219,6 +227,7 @@ finem orationis statuere
 
 INDUCERE
 animum inducere
+in animum inducere
 
 GAUDERE
 secum gaudere
@@ -273,9 +282,29 @@ culpa in aliquo haeret
 SUSCAPERE
 inimicitias suscapere
 
+PERDERE
+uitam perdere
+
+EXPEDIRE
+iram expedire
+aerumnis expedire
+
+RESTITUERE
+rursus in gratiam restituere
+
+IUBERE
+pietas iubet...
+
+ADDUCERE
+medicum adducere
+
+SCIRE
+certo scire
+
 -----
 res diuina
 filius unicus
+rursum prorsum cursare
 
 -----------
 quorsum euadat, euenturum
