@@ -3,6 +3,7 @@ alicui aegre esse
 non apud se esse - not to be oneself, to feel lost, unfocused, and absent-minded from emotion
 auxilio (ad)esse - to be there to helf
 alio animo esse
+alicui bene esse
 bono animo esse - to be confident
 fideli, benigno, clementi, peruicaci animo esse
 clam esse -
@@ -17,9 +18,11 @@ idem omnibus esse - to act the same with everyone
 in culpa esse -
 in diem esse -
 in manus esse
+in metu esse
 in mentem esse
 in mora esse
 in noxa esse
+in periclo esse
 in alicuius potestate esse
 alicuius in rem esse - to help the affairs of someone, to favor the interests of someone
 indicio esse
@@ -36,6 +39,9 @@ praesto esse
 rei esse
 signi sat esse
 usui esse
+tenui oratione esse
+scriptura leui esse
+alicui de + ABL esse (erat ei de ratiuncula)
 ----
 copia est
 de nihilo est
@@ -51,7 +57,8 @@ ab aliquo e nil pericli st
 spes est
 tempus est
 usus est
-
+quid lucrist
+alicui res cum aliquo est
 
 HABERE
 animum bonum habere -
@@ -60,13 +67,14 @@ aliquem eximium habere - to make an exception for someone
 fidem habere
 alicui (dis) gratiam habere
 gratum habere
-habere + PPRT (praepositam, segregatum)
+habere + PPRT (praepositam, segregatum, responsum)
 hospitem habere
 in loco habere
 in memoria habere
 iter habere
 ludibrio habere
 male habere
+minus habere
 necesse habere
 odio habere
 orationem habere
@@ -96,7 +104,11 @@ pessum ire - to sink to the bottom (of the sea)
 rus ire - to go to the farm, the countryside
 uisere ire -
 
+NEGARE
+se negare
+
 FACERE
+aequom facere
 assulas facere - make firewood out of something (door)
 auctionem facere - organize a public sale of private goods
 certiorem facere - to inform someone of some news, some fact
@@ -104,12 +116,14 @@ cognitionem facere
 compendi facere - to spare someone to effort of doing something
 contumeliam facere
 copiam facere - to give someone the necessary access to something / to do something
+fabulas facere
 facinus facere - to do something memorable, worthy of attention (in a good or bad way)
 imprudens facere -
 indicium facere
 iniuriam facere -
 insidias facere - to set a trap
 iter facere - to go somewhere, to make a trip somewhere
+lege facere
 magni facere - to think highly of something, to give it a lot of importance
 mentionem facere - to remind or suggest something to someone
 nuptias facere - to organize a wedding
@@ -198,6 +212,7 @@ uoluptatem ferre
 -------------
 natura fert (aetas, res, lubido, adulescentia)
 tempus fert
+fors fert
 
 CAPERE
 arbitrum capere
@@ -224,6 +239,9 @@ aliquem alicuius desiderium capit
 DUCERE
 uxorem ducere (domum) - to take someone as a wife
 
+PERSPICERE
+fidem in pecunia perspicere
+
 AGERE
 aetatem agere
 gratias agere - to say thanks
@@ -239,6 +257,8 @@ bellum gerere
 iras gerere
 
 UENIRE
+ad iudices uenire
+alicui usu uenire
 in crimen uenire - to come to be accused
 in dubium uenire - to come to be in trouble
 in mentem uenire - to come to mind
@@ -247,6 +267,9 @@ in peric(u)lum uenire - to come to be under test / face issues
 ------------
 rumor uenit - there are rumors that
 
+DEFRAUDARE
+genium suum defraudare
+
 AGITARE
 conuiuium agitare
 
@@ -254,11 +277,20 @@ LOQUI
 praefinito loqui
 
 STATUERE
-finem orationis statuere
+finem orationis statuere (= finem dicendi facere)
 
 INDUCERE
 animum inducere
 in animum inducere
+
+FLECTERE
+animum flectere
+
+RESTITUERE
+locum restituere
+
+ATTENDERE
+animum attendere
 
 GAUDERE
 secum gaudere
@@ -276,11 +308,15 @@ condicionem accipere
 PRAEDICARE
 uera praedicare
 
+PASCERE
+oculos pascere
+
 REDIRE
 ad ingenium redire
 ad pauca redire
 -------------------
 alicui animus redit
+adeo res redit
 
 -------
 hereditas ad aliquem redit
@@ -301,6 +337,7 @@ FUGERE
 e conspectu fugere
 
 DICERE
+alicui operam dicere
 causam dicere
 
 COEPERE
@@ -332,6 +369,10 @@ rursus in gratiam restituere
 
 IUBERE
 pietas iubet...
+lex iubet...
+
+ASSIMULARE
+se amicum assimulare
 
 ADDUCERE
 medicum adducere
@@ -352,6 +393,9 @@ limen exire
 
 EXIGERE
 uitam exigere
+
+INCIDERE
+in mentem incidere
 
 ACCIDERE
 ad genua accidere
@@ -390,6 +434,7 @@ aliquem adire
 
 UELLE
 aliquid aliquem uelle
+uxorem uelle
 
 RENUMERARE
 dotem renumerare
@@ -426,9 +471,40 @@ totum diem conterere
 
 ADIMERE
 curas adimere
+consuetudinem adimere
 
 EXTRAHERE
 ex aerumna extrahere
+
+RETRAHERE
+a studio retrahere
+
+TRANSDERE
+in otium transdere
+
+STARE
+alicuius opera stare
+
+TRACTARE
+artem (musicam) tractare
+
+SEDERE
+exaduorsum sedere
+
+ADIUTARE
+funus adiutare
+
+REICERE
+ad famem a studio reicere
+
+CORRADI
+munus corradi
+
+EXSTINGUERE
+formam exstinguere
+
+PERGERE
+recta pergere
 
 -----
 res diuina
@@ -444,11 +520,24 @@ quid mea?
 mutatio fit - it changes everything, that's new!
 parui preti / haud magni preti
 ab orco mortuum
+in medio
+per silentium
+amicus summus
+erilis filius
+natalis dies
+uirgo uiciniae
+facie egregia
+capillus passus
+uestitus turpis
+bonam bonis prognatam
+unum hoc scio
 -----------
-quorsum euadat, euenturum
+quo(rsum) euadat, euenturum
 
-----
+----SYN / ANT---
 profuit // immo offuit
+ducere et redducere
+incerto scio // non certum scio
 
 ----
 OLD
