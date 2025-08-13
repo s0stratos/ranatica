@@ -28,7 +28,7 @@ alicuius in rem esse - to help the affairs of someone, to favor the interests of
 indicio esse
 istic esse
 lucro esse
-male esse
+alicui male esse -
 molestiae esse
 morae esse
 odio esse
@@ -72,6 +72,7 @@ habere + PPRT (praepositam, segregatum, responsum)
 hospitem habere
 in loco habere
 in memoria habere
+item contra aliquem habere -
 iter habere
 ludibrio habere
 male habere
@@ -83,7 +84,7 @@ pro (filio/amico...) habere
 (omnem) rem habere - to have been told the whole story/contextma
 sat habere
 se male habere
-(bene, duriter) se habere
+(bene, parce ac duriter) se habere
 sermonem habere
 aliquem haud/numquam secus habere ac ...
 sibi habere
@@ -260,6 +261,13 @@ plus agere
 rem agere - to do business
 uitam agere - to live life
 
+AFFICERE
+aliquem cura afficere
+alique sollicitudine afficere
+
+INUENIRE
+argentum inuenire
+
 GERERE
 morem gerere
 bellum gerere
@@ -357,6 +365,10 @@ e conspectu fugere
 DICERE
 alicui operam dicere
 causam dicere
+aliquid in aliquem dicere
+
+COGITARE
+in animo iratus cogitare
 
 COEPERE
 iter coepere
