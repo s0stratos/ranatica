@@ -46,6 +46,7 @@ alicui de + ABL esse (erat ei de ratiuncula)
 copia est
 de nihilo est
 ex usu est
+satis ex sententia est
 id est
 in lucro est
 lubido est
@@ -107,6 +108,9 @@ uisere ire -
 NEGARE
 se negare
 
+CONFICERE
+nuptias conficere
+
 FACERE
 aequom facere
 assulas facere - make firewood out of something (door)
@@ -163,7 +167,7 @@ insidias dare - to set a trap
 iusiurandum dare -
 locum dare - to give someone else his place, to go away
 malum dare - to make someone's life hell
-mercedem dare - to pay someone for a job done
+mercedem dare - to pay someone for a job done, to pay a compensation (in justice)
 moram dare -
 mutuom dare - to lend money to someone
 nomen dare - to name someone
@@ -215,6 +219,7 @@ tempus fert
 fors fert
 
 CAPERE
+aliquid capere (tabellas, situlam, fustem, stimulum
 arbitrum capere
 cibum capere - to eat food
 coniecturam capere
@@ -222,17 +227,21 @@ consilium capere
 desiderium capere
 exemplum capere
 initium capere
+inimicitias capere
+aliquid in manus suas / in manum capere
 aliquem generum capere
 laborem capere
 magistrum capere
 miseriam capere
 alicuius odium capere
 patronam capere
+pignus capere
 praedam capere
 principium capere
 rationem capere
 tempus capere
 uorsoriam capere
+oppidum, urbem capere
 ----------------
 aliquem alicuius desiderium capit
 
@@ -295,15 +304,23 @@ animum attendere
 GAUDERE
 secum gaudere
 
+PERMITTERE
+eius iudicio omnia permittere
+
 COMMITTERE
 aliquid in fidem alicuius committere
 liberos commitere
 
 ADMITTERE
 aliquem intro admittere
+quid turpe in se admittere
 
 ACCIPERE
 condicionem accipere
+minas quique accipere [money]
+
+ADIPISCI
+iudicium adipisci
 
 PRAEDICARE
 uera praedicare
@@ -314,6 +331,7 @@ oculos pascere
 REDIRE
 ad ingenium redire
 ad pauca redire
+in gratiam redire
 -------------------
 alicui animus redit
 adeo res redit
@@ -324,8 +342,8 @@ hereditas ad aliquem redit
 CONICERE
 se in malum conicere
 
-COMMEREO
-culpam commereo
+COMMERERE
+culpam commerere
 
 ABDO
 rus se abdere
@@ -355,6 +373,7 @@ culpa in aliquo haeret
 
 SUSCIPERE
 inimicitias suscipere
+filiam suscipere
 
 PERDERE
 uitam perdere
@@ -363,6 +382,7 @@ EXPEDIRE
 iram expedire
 aerumnis expedire
 crimine expedire
+aliquid uerbo expedire
 
 RESTITUERE
 rursus in gratiam restituere
@@ -466,8 +486,17 @@ mores tutari
 DESIDEO
 totum diem desidere
 
+RESPONDERE
+uerbum uerbo respondere
+par pari respondere
+
+COMMENDERE
+alicui uitam suam commendere
+
+
 CONTERERE
 totum diem conterere
+operam frustra conterere
 
 ADIMERE
 curas adimere
@@ -506,6 +535,12 @@ formam exstinguere
 PERGERE
 recta pergere
 
+UOCARE
+ad cenam uocare
+
+REDDERE
+iudicium reddere
+
 -----
 res diuina
 dies festus
@@ -531,6 +566,10 @@ capillus passus
 uestitus turpis
 bonam bonis prognatam
 unum hoc scio
+praeter spem
+ibi plurimumst
+ut quom maxume / nunc quom maxume
+
 -----------
 quo(rsum) euadat, euenturum
 
