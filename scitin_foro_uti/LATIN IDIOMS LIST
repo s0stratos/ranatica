@@ -50,7 +50,8 @@ ex usu est
 satis ex sententia est
 id est
 in lucro est
-lubido est
+interuallum est
+(maior) lubido est
 nil est
 operae pretium est
 opus est +ABL
@@ -91,6 +92,15 @@ aliquem haud/numquam secus habere ac ...
 sibi habere
 uxorem habere - to be married
 
+EXIMERE
+se ex catenis eximere
+
+DELIGERE
+rostrum deligere
+
+DISCERE
+partis discere
+
 EXPLERE
 suam uoluptatem explere
 animum explere
@@ -117,6 +127,7 @@ FACERE
 aequom facere
 assulas facere - make firewood out of something (door)
 auctionem facere - organize a public sale of private goods
+capital facere -
 certiorem facere - to inform someone of some news, some fact
 cognitionem facere
 compendi facere - to spare someone to effort of doing something
@@ -124,6 +135,7 @@ contumeliam facere
 copiam facere - to give someone the necessary access to something / to do something
 fabulas facere
 facinus facere - to do something memorable, worthy of attention (in a good or bad way)
+finem facere
 imprudens facere -
 indicium facere
 iniuriam facere -
@@ -132,11 +144,14 @@ insidias facere - to set a trap
 iter facere - to go somewhere, to make a trip somewhere
 lege facere
 magni facere - to think highly of something, to give it a lot of importance
+medicinam facere -
 mentionem facere - to remind or suggest something to someone
+nequiter facere -
 nuptias facere - to organize a wedding
 officium suom facere - to do your job, what you are expected to do given your role (worker, father)
 opus facere - to do some effective work (focus of the result)
 palam facere - to make something public, to expose a secret
+participem facere -
 parui facere - to think poorly of something, to give it no importance
 pausam facere - to grant a break , pause
 periclum facere - to test someone
@@ -161,9 +176,11 @@ DARE
 -----------
 adoptandum dare
 consilium dare - to give advice
+cenas dare -
 copiam dare - to give someone the necessary access to something / to do something
 dono dare - to give as a gift, to gift something
 epulas dare - to organize a public banquet
+fabulas dare
 fidem dare -
 fabulam dare - to organize the staging of a play
 in manum dare - to give something directly to someone
@@ -180,6 +197,7 @@ obuiam dare - to have something set in front of you
 operae dare - to give some of your time to someone
 operam dare - to work for someone, to help him
 pessum dare - to make someone sink to the bottom (figuratively)
+partis dare -
 poenas dare - to make amend through punishment
 potestatem dare - to grant someone the ability, capacity to do something
 prae manu dare - to give access to some object
@@ -199,12 +217,20 @@ uxorem dare - to give someone as a wife to someone
 
 PENDERE
 parui pendere - to not matter (quae dico parui pendunt)
+nihili pendere -
 
 TOLLERE
 puerum tollere
 
 SUMERE
 diem sumere
+
+PRAEBERE
+quod edit praebere
+quo potet praebere
+
+CONCINNARE
+struices concinnare
 
 FERRE
 animo aequo ferre
@@ -225,6 +251,9 @@ uoluptatem ferre
 natura fert (aetas, res, lubido, adulescentia)
 tempus fert
 fors fert
+
+PERFERRE
+paupertatem (grauem) perferre
 
 CAPERE
 aliquid capere (tabellas, situlam, fustem, stimulum
@@ -261,11 +290,14 @@ fidem in pecunia perspicere
 
 AGERE
 aetatem agere
+comoediam agere
+fabulam (statariam) agere
 gratias agere - to say thanks
 id agere
 nil agere
 plus agere
 rem agere - to do business
+sat agere (satagere)
 uitam agere - to live life
 
 AFFICERE
@@ -343,6 +375,9 @@ uera praedicare
 PASCERE
 oculos pascere
 
+PROLOQUI
+mendacium proloqui
+
 REDIRE
 ad ingenium redire
 ad pauca redire
@@ -363,6 +398,12 @@ culpam commerere
 ABDO
 rus se abdere
 
+APPLICARE
+ad studium se applicare
+
+APPORTARE
+alicui nuntium apportare
+
 COMMEO
 in urbem commeare
 
@@ -373,6 +414,7 @@ DICERE
 alicui operam dicere
 causam dicere
 aliquid in aliquem dicere
+mendacium dicere
 
 COGITARE
 in animo iratus cogitare
@@ -428,6 +470,12 @@ nil auxili affere
 EXCESSERE
 cura ex corde excessit
 
+EXCUSSERE
+alicui lacrimas excussere
+
+NUNTIARE
+uoluptatem magnam nuntiare
+
 EXIRE
 limen exire
 
@@ -439,6 +487,8 @@ in mentem incidere
 
 ACCIDERE
 ad genua accidere
+-----
+malum ad malum accidit
 
 ORIOR
 initium oritur
@@ -606,6 +656,7 @@ sua sponte
 dixin hoc fore
 nec nil neque omnia haec
 ecce autem de integro
+standumst in lecto siquid de summo petas
 -----------
 quo(rsum) euadat, euenturum
 
@@ -613,7 +664,7 @@ quo(rsum) euadat, euenturum
 profuit // immo offuit
 ducere et redducere
 incerto scio // non certum scio
-
+educat recreatque > alit
 ----
 OLD
 
