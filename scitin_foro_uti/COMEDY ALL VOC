@@ -25088,10 +25088,10 @@ saccum			23155	1	1 +EQUIPMENT
 sacellum			23156	1	1 +DIMINUTIVE
 sacer			23157	1	1
 ----------------------------------------
-sacerdos			23158	1	1
-sacerdōs			23159	7	2
-sacerdōtem			23160	3	1
-sacerdōtī			23161	2	1
+sacerdos			23158	1	1 +JOB
+sacerdōs			23159	7	2 +JOB
+sacerdōtem			23160	3	1 +JOB
+sacerdōtī			23161	2	1 +JOB
 ----------------------------------------
 sacerrimus			23162	2	2 +SUPERL
 sacerrimō			23163	1	1 +SUPERL
