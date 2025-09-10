@@ -19924,20 +19924,20 @@ palūdem			18415	1	1
 -------------------------------------------
 pamphila			18416	2	1 +NAME
 pamphilam			18417	8	2 +NAME
-pamphilamne			18418	1	1 +NAME
+pamphilamne			18418	1	1 +NE +NAME
 pamphile			18419	40	2 +NAME
 pamphilippe			18420	3	1 +NAME
 pamphilippi			18421	1	1 +NAME
 pamphilippum		18422	2	1 +NAME
 pamphilippus		18423	1	1 +NAME
 pamphilum			18424	18	3 +NAME
-pamphilumne			18425	1	1 +NAME
+pamphilumne			18425	1	1 +NE +NAME
 pamphilus			18426	39	2 +NAME
 pamphilā			18427	1	1 +NAME
 pamphilī			18428	5	2 +NAME
-pamphilīque			18429	1	1 +NAME
+pamphilīque			18429	1	1 +QUE +NAME
 pamphilō			18430	13	2 +NAME
-pamphilōst			18431	1	1 +NAME
+pamphilōst			18431	1	1 +ST +NAME
 --------------------------------------------
 pampinī			18432	1	1
 -----------------------------------------
@@ -19952,12 +19952,14 @@ panthērīnum			18439	1	1
 panticesque			18440	1	1
 pantopōlium			18441	1	1
 panēgyris			18442	2	1
-papae			18443	12	8
+papae			18443	12	8 +INTERJ
 paphlagonēs			18444	1	1
-papillae			18445	1	1
-papillam			18446	2	2
-papillārum			18447	1	1
-papillās			18448	1	1
+------------------------------------------
+papillae			18445	1	1 +BODY
+papillam			18446	2	2 +BODY
+papillārum			18447	1	1 +BODY
+papillās			18448	1	1 +BODY
+------------------------------------------
 pappet			18449	1	1
 ------------------------------------------
 papāverem			18450	1	1 +PLANT
@@ -19965,22 +19967,22 @@ papāveremque		18451	1	1 +PLANT
 ------------------------------------------
 parant			18452	2	1
 -----------------------------------------
-parasitus				18453	9	9
+parasitus				18453	9	9 +JOB
 parasītandō			18454	1	1
 parasītaster			18455	1	1
 parasīte				18456	1	1
 parasīticae			18457	1	1
 parasīticās			18458	1	1
-parasītum			18459	20	8
-parasītus				18460	23	10
+parasītum			18459	20	8 +JOB
+parasītus				18460	23	10 +JOB
 parasītārier			18461	1	1
 parasītātiō			18462	1	1
-parasītī				18463	8	4
-parasītīs				18464	1	1
-parasītō				18465	7	4
-parasītōrum			18466	1	1
-parasītōs				18467	4	4
-parasītōsque		18468	1	1
+parasītī				18463	8	4 +JOB
+parasītīs				18464	1	1 +JOB
+parasītō				18465	7	4 +JOB
+parasītōrum			18466	1	1 +JOB
+parasītōs				18467	4	4 +JOB
+parasītōsque		18468	1	1 +QUE +JOB
 ------------------------------------------
 parat			18469	7	5
 paratragoedat			18470	1	1
@@ -20040,12 +20042,12 @@ paritūram			18523	1	1
 pariunt			18524	1	1
 pariēs			18525	1	1
 ---------------------------------
-parmeno			18526	21	3
-parmenō			18527	46	3
-parmenōne			18528	1	1
-parmenōnem			18529	6	1
-parmenōnis			18530	1	1
-parmenōnēs			18531	1	1
+parmeno			18526	21	3 +NAME
+parmenō			18527	46	3 +NAME
+parmenōne			18528	1	1 +NAME
+parmenōnem			18529	6	1 +NAME
+parmenōnis			18530	1	1 +NAME
+parmenōnēs			18531	1	1 +NAME
 -----------------------------------
 parra			18532	1	1
 ------------------------------------
@@ -20854,8 +20856,8 @@ perlecebrae			19311	1	1 +BRA
 perlegere			19312	1	1
 perlepidē			19313	1	1
 perlonginquum			19314	1	1
-perlongumst			19315	1	1
-perlongēst			19316	1	1
+perlongumst			19315	1	1 +ST
+perlongēst			19316	1	1 +ST
 perlubet			19317	2	2
 perlubēns			19318	2	1
 perlīberālis			19319	2	2
@@ -27672,8 +27674,8 @@ sīmulum			25543	1	1
 sīmulō			25544	1	1
 sīmus			25545	15	11
 sīn			25546	40	20 +NE
-sīnum			25547	1	1
-sīnus			25548	2	2
+sīnum			25547	1	1 +EQUIPMENT
+sīnus			25548	2	2 +EQUIPMENT
 -----------------------------------------
 sīquandō			25549	3	2
 sīquid			25550	23	7
@@ -27753,7 +27755,7 @@ sōricīnā		25611	1	1 +ANIMAL
 --------------------------------
 sōsia			25612	42	3
 sōsiae			25613	6	1
-sōsiaest		25614	1	1
+sōsiaest		25614	1	1 +ST
 sōsiam			25615	13	1
 sōsiā			25617	3	1
 --------------------------------
@@ -27770,7 +27772,7 @@ sūcō				25623	2	1
 sūdat			25624	1	1
 sūdor				25625	2	2
 sūduculum		25626	1	1
-sūdumst			25627	2	2
+sūdumst			25627	2	2 +ST
 sūdā				25628	1	1
 sūdābis			25629	1	1
 sūdātōriās		25630	1	1 +TOR +IUS
@@ -27818,12 +27820,12 @@ sūmō			25670	1	1
 sūnium			25671	1	1
 sūniī			25672	1	1
 sūniō			25673	1	1
-sūra			25674	1	1
-sūram			25675	1	1
+sūra			25674	1	1 +BODY
+sūram			25675	1	1 +BODY
 sūrsum			25676	6	6 +UORSUS
 sūrīs			25677	1	1
-sūs			25678	2	2
-sūsque			25679	1	1
+sūs			25678	2	2 +ANIMAL
+sūsque			25679	1	1 +QUE +ANIMAL
 --------------------------------------------
 sūtor			25680	2	1
 sūtrium			25681	1	1
@@ -27848,11 +27850,11 @@ sȳrō			25697	1	1
 t			25698	7	3
 ta			25699	1	1
 --------------------------------
-tabellae			25700	3	2
-tabellās			25701	29	5
-tabellīs				25702	7	5
-tabernam			25703	5	3
-tabernā			25704	1	1
+tabellae			25700	3	2 +EQUIPMENT
+tabellās			25701	29	5 +EQUIPMENT
+tabellīs				25702	7	5 +EQUIPMENT
+tabernam			25703	5	3 +PLACE
+tabernā			25704	1	1 +PLACE
 tabernāclō		25705	2	1 +SYNCOPE +CULUS +DIMINUTIVE
 tabernāculō		25706	1	1 +CULUS +DIMINUTIVE
 tabula			25707	1	1
@@ -27875,10 +27877,10 @@ taceās			25722	16	10
 taceō			25723	27	14
 tacita			25724	2	2
 tacitae			25725	2	1
-tacitaque		25726	1	1
+tacitaque		25726	1	1 +QUE
 tacitast			25727	1	1
 tacitum			25728	5	3
-tacitumst			25729	1	1
+tacitumst			25729	1	1 +ST
 taciturnissimum			25730	1	1
 taciturnitāte					25731	1	1 +TAT
 taciturnitātī					25732	1	1 +TAT
@@ -27905,7 +27907,7 @@ tacētō			25752	3	3 +IMPERATIVE
 --------------------------------
 taedet				25753	6	4
 taedēbat			25754	1	1
-taesumst			25755	1	1
+taesumst			25755	1	1 +ST
 --------------------------------
 taeterrime			25756	1	1
 taetrius				25757	1	1
@@ -28051,9 +28053,11 @@ tempestātem			25880	2	2 +TAT
 tempestātibus			25881	2	2 +TAT
 tempestātēs			25882	1	1 +TAT
 tempestīvō			25883	1	1
-templa			25884	1	1
-templīs			25885	1	1
-templīsque			25886	1	1
+-------------------------------------
+templa			25884	1	1 +PLACE
+templīs			25885	1	1 +PLACE
+templīsque			25886	1	1 +PLACE
+------------------------------------
 tempore			25887	19	12
 temporibus			25888	2	2
 temporis			25889	1	1
@@ -28216,8 +28220,8 @@ thais			26033	7	1
 thalassicust		26034	1	1 +ST +COLOR
 thalassicō			26035	1	1 +COLOR
 --------------------------------
-thalem			26036	2	2
-thalēs			26037	1	1
+thalem			26036	2	2 +NAME
+thalēs			26037	1	1 +NAME
 --------------------------------
 thasiō			26038	1	1
 --------------------------------
@@ -28306,7 +28310,7 @@ tibīst			26107	12	8
 ----------------------------------------
 tigillō			26108	1	1 +ARCHITECT
 ----------------------------------------
-tigna			26109	2	1
+tigna			26109	2	1 +ARCHITECT
 ---------------------------------------
 TIMEO
 ---------------------------------------
@@ -28448,7 +28452,7 @@ traduxtī			26227	1	1
 ---------------------------------------
 tragicae			26228	1	1 +ART
 tragicī			    26229	1	1 +ART
-tragicōmoedia		26230	2	1 +COMPOUND
+tragicōmoedia		26230	2	1 +COMPOUND +ART
 tragoediae			26231	1	1 +ART
 tragoediam			26232	2	2 +ART
 tragoediā			26233	4	3 +ART
@@ -28651,6 +28655,7 @@ trēs			26409	8	7
 ---------------------------------------
 trēsvirī			26410	1	1 +COMPOUND
 trēsvirōs			26411	1	1 +COMPOUND
+trīsvirōs			26430	1	1 +COMPOUND
 ---------------------------------------
 trīcās			26412	4	4
 trīcīs			26413	1	1
@@ -28672,7 +28677,6 @@ trīstēs			26427	3	3
 trīstī			26428	5	5
 trīstīsque			26429	1	1
 ---------------------------------------
-trīsvirōs			26430	1	1 +COMPOUND
 trītam			26431	1	1
 trītavus			26432	1	1 +COMPOUND
 --------------------------------------------------
