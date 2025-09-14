@@ -4674,7 +4674,7 @@ clandestīnō				4237	3	3
 ---------------------------------------------------
 classe			4238	1	1
 classiam			4239	1	1
-clatrāta			4240	1	1
+clatrāta			4240	1	1 +ATUS +EQUIPMENT
 claudam			4241	1	1
 claudi			4242	6	6
 claudier			4243	3	3
@@ -4693,40 +4693,44 @@ clepe			4253	1	1
 cleptae			4254	1	1
 cleareta			4247	1	1
 cleāretae			4255	1	1
-cliens			4256	1	1
-clientam			4257	2	1
-clientem			4258	1	1
-clientibus			4259	1	1
-clientum			4260	1	1
-clientārum			4261	1	1
-clientās			4262	1	1
-clientēlam			4263	2	2 +ELA
-clientēs			4264	1	1
-clientīs			4265	1	1
+-----------------------------------
+cliens			    4256	1	1 +JOB
+cliēns			    4268	4	4 +JOB
+clientam			4257	2	1 +JOB
+clientem			4258	1	1 +JOB
+clientibus			4259	1	1 +JOB
+clientum			4260	1	1 +JOB
+clientārum			4261	1	1 +JOB
+clientās			4262	1	1 +JOB
+clientēlam			4263	2	2 +ELA  +JOB
+clientēs			4264	1	1 +JOB
+clientīs			4265	1	1 +JOB
 ---------------------------------------
-clinia			4266	6	1 +NAME
+clinia			    4266	6	1 +NAME
 ---------------------------------------
 clitipho			4267	12	1 +NAME
 ---------------------------------------
-cliēns			4268	4	4
-cloācam			4269	1	1
-cloācīnae			4270	1	1
+cloācam			    4269	1	1 +BODY
+cloācīnae			4270	1	1 +GOD
+---------------------------------------
 clueant			4271	1	1
 cluear			4272	1	1
 clueat			4273	2	2
 cluent			4274	3	3
-cluentibus			4275	1	1
+cluentibus		4275	1	1
 clues			4276	1	1
+cluēs			4285	1	1
 cluet			4277	6	4
 clueās			4278	1	1
 clueō			4279	2	2
-clupeum			4280	2	2
-clupeus			4281	2	2
-clupeātus			4282	1	1
-clupeō			4283	1	1
-clutomēstoridysarchidēs			4284	1	1
-cluēs			4285	1	1
-clādēs			4286	2	2
+----------------------------------
+clupeum			4280	2	2 +EQUIPMENT
+clupeus			4281	2	2 +EQUIPMENT
+clupeātus		4282	1	1 +ATUS +EQUIPMENT
+clupeō			4283	1	1 +EQUIPMENT
+----------------------------------
+clutomēstoridysarchidēs			4284	1	1 +NAME
+clādēs			4286	2	2 +BAD
 -----------------------------------------
 clāmant			4287	2	2
 clāmat				4288	8	6
@@ -4762,14 +4766,14 @@ clārās			4316	1	1
 clārē			4317	11	10 +E
 clārō			4318	1	1
 -------------------------------------------
-clāvam			4319	1	1
-clāvem			4320	2	1
-clāvum			4321	1	1
-clāvās			4322	2	1
-clāvātor		4323	1	1 +TOR
-clāvīs			4324	3	3
-clāvō			4325	1	1
-clāvōs			4326	1	1
+clāvam			4319	1	1 +EQUIPMENT
+clāvem			4320	2	1 +EQUIPMENT
+clāvum			4321	1	1 +EQUIPMENT
+clāvās			4322	2	1 +EQUIPMENT
+clāvātor		4323	1	1 +TOR +EQUIPMENT
+clāvīs			4324	3	3 +EQUIPMENT
+clāvō			4325	1	1 +EQUIPMENT
+clāvōs			4326	1	1 +EQUIPMENT
 -----------------------------------------
 clēmentem			4327	1	1 +NT
 clēmenter			4328	4	4 +NT +TER
@@ -4792,8 +4796,8 @@ clītiphō					4341	17	1 +NAME
 clītiphōnem			4342	1		1 +NAME
 clītiphōnis			4343	5		1 +NAME
 ---------------------------------------------
-clīvum			4344	1	1
-clīvus			4345	1	1
+clīvum			4344	1	1 +PLACE
+clīvus			4345	1	1 +PLACE
 ---------------------------------------------
 clūrīnum			4346	1	1
 cn			4347	3	2
@@ -4895,10 +4899,10 @@ colacem			4436	1	1
 colax			4444	2	1
 colam			4437	1	1
 --------------------------------------
-colaphe			4438	1	1
-colaphīs			4439	3	3
-colaphō			4440	1	1
-colaphōs			4441	3	3
+colaphe			    4438	1	1 +SPORT
+colaphīs			4439	3	3 +SPORT
+colaphō			    4440	1	1 +SPORT
+colaphōs			4441	3	3 +SPORT
 ------------------------------------
 colas			4442	1	1
 colat			4443	1	1
