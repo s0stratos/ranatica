@@ -2557,37 +2557,38 @@ argūtārier			2364	1	1
 argūtē			2365	1	1
 argūtī			2366	1	1
 --------------------------------------
-arietat			2367	1	1 +ANIMAL
-ariete			2368	1	1 +ANIMAL
-arietem			2369	1	1 +ANIMAL
-arietēs			2370	1	1 +ANIMAL
-ariēs			2374	1	1 +ANIMAL
+arietat			    2367	1	1 +ARE +ANIMAL
+ariete			    2368	1	1 +ANIMAL
+arietem			    2369	1	1 +ANIMAL
+arietēs			    2370	1	1 +ANIMAL
+ariēs			    2374	1	1 +ANIMAL
 --------------------------------------
 aristarchī			2371	1	1 +NAME
 --------------------------------------
-aristophontes			2372	1	1 +NAME
-aristophontēs			2373	4	1 +NAME
+aristophontes		2372	1	1 +NAME
+aristophontēs		2373	4	1 +NAME
 --------------------------------------
-arma			2375	6	3
-armane			2376	1	1
-armiger			2377	1	1 +GERERE +COMPOUND
+arma			    2375	6	3
+armane			    2376	1	1
+armiger			    2377	1	1 +GERERE +COMPOUND
 armigerum			2378	2	1 +GERERE +COMPOUND
 armigerō			2379	3	1 +GERERE +COMPOUND
-armillae			2380	1	1 +ELLUS +EQUIPMENT
-armillās			2381	1	1 +ELLUS +EQUIPMENT
+armillae			2380	1	1 +ELLUS +DIMINUTIVE +EQUIPMENT
+armillās			2381	1	1 +ELLUS +DIMINUTIVE +EQUIPMENT
 armāmenta			2382	1	1  +MENTUM
 armāmentīs			2383	1	1  +MENTUM
 armāriola			2384	1	1
 armārium			2385	1	1
-armāriō			2386	2	2
-armātus			2387	1	1
-armātī			2388	2	2
-armīs			2389	7	7
+armāriō			    2386	2	2
+armātus			    2387	1	1
+armātī			    2388	2	2
+armīs			    2389	7	7
 --------------------------------------
 arrabōnem			2390	6	4
 arrabōnī			2391	4	2
 --------------------------------------
 arrige			2392	1	1
+--------------------------------------
 arripe			2393	1	1
 arripere		2394	2	2
 arriperem		2395	1	1
@@ -3327,7 +3328,7 @@ avārā			3069	1	1
 avārās			3070	1	1
 avārē			3071	2	2
 avārī			3072	1	1
-avēs				3073	3	2
+avēs				3073	3	2 +ANIMAL
 axitia			3079	1	1
 axum			3080	1	1
 aēneās			3081	1	1
