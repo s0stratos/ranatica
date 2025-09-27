@@ -1,12 +1,39 @@
-Ad. 1 (ia6) |  <post>quam | po<ē>|ta <sēn>|sit scrīp|<tū>ram | <su>am |
-Ad. 2 (ia6) |  {ab i}<nī>|quīs ob|ser<uā>|r(ī) et ad|uor<sā>|riōs |
+-------
+SYMBOLS
+-------
+foot :                  ||              | senēs |
+half foot :             {}              | {ab i}nī|quīs
+elided vowel:           ()              |  {rape}r(e) in |
+accented syllable :     <>              | <post>quam |
+speaker change :        [NAME]          |  [PROLOGUS] <post>quam |
+unmetrical s :          '               | {<qui>bu'} nunc |
+
+-------
+NOTES
+-------
+foot and half foot divisions follow syllable divisions
+| fer{t adu}|
+au|{t homi}nem |
+
+noteworthy are the following clusters
+- Vn|s
+- g|n
+- x|s   |cit max|sumam |
+
+elided vowels are counted as part of the half foot when written.
+this should be always done but especially important for monosyllabic words
+| {c(um) il}līs |
+|quam{n(e) homi}|
+
+Ad. 1 (ia6) |  [PROLOGUS] <post>quam | po<ē>|ta <sēn>|sit scrīp|<tū>ram | <su>am |
+Ad. 2 (ia6) |  {ab i}<nī>|quīs op|ser<uā>|r(ī) et ad|uor<sā>|riōs |
 Ad. 3 (ia6) |  {<ra>pe}r(e) in | pei<iō>|rem <par>|tem qu(am) āc|<tū>rī | <su>mus |
-Ad. 4 (ia6) |  in{<di>ci}|ō dē | {s(ē) <i>p}{s(e) <e>rit} | <uōs> {<e>ri}|tis <iū>|dicēs | (REVIEW)
+Ad. 4 (ia6) |  in{<di>ci}|ō dē | {s(ē) <ip>}{s(e) <e>rit} | <uōs> {<e>ri}|tis <iū>|dicēs |
 Ad. 5 (ia6) |  lau<dīn> | an {<ui>ti}|ō <dū>|cī <fac>|t(um) o<por>|teat |
 Ad. 6 (ia6) |  sy{napo}|thnes<con>|tes <dī>|philī | cō<moe>|diast |
 Ad. 7 (ia6) |  {eam} com|{mori}<en>|tīs <plau>|tus <fē>|cit <fā>|bulam |
 Ad. 8 (ia6) |  in <grae>|c(ā) {adu}<lē>|scēns est | quī lē|<nō>n(ī) <ē>|ripit |
-Ad. 9 (ia6) | {mere}<trī>|c(em) in <prī>|mā <fā>|bu{l(a) eum} | <plau>tus | <lo>cum |
+Ad. 9 (ia6) | {mere}<trī>|c(em). in <prī>|mā <fā>|bu{l(a) eum} | <plau>tus | <lo>cum |
 Ad. 10 (ia6) | relī|quit in|te{gr(um) eum hic} | locum | sūmpsit | sibi | (REVIEW)
 Ad. 11 (ia6) | {in a}del|phōs uer|bum dē | uerb(ō) ex|press(um) ex|stulit |
 Ad. 12 (ia6) | {eam} <nō>|s āc<tū>|rī {<su>mus} | <no>uam | per<nō>|scite |
@@ -37,7 +64,7 @@ Ad. 34 (ia6) | et {tibi} | ben(e) es|se sō|lī, cum | {sibi} sit | malē |
 Ad. 35 (ia6) | {<e>go} {<qui>a} | nōn {<re>di}|it <fī>|lius | quae <cō>|git(o) et |
 Ad. 36 (ia6) | {<qui>bu'} nunc | sol{<li>ci}|tor <rē>|bus {n(e) au}|t <il>l(e) <al>|serit |
 Ad. 37 (ia6) | aut us|piam | ce{cide}|rit aut | praefrē|gerit |
-Ad. 38 (ia6) | {ali}quid. | uāh. quem|quamn(e) {homi}|n(em) in {ani}|m(ō) īn{stitu}|er(e) aut |
+Ad. 38 (ia6) | {ali}quid. | uāh. quem|quam{n(e) homi}|n(em) in {ani}|m(ō) īn{stitu}|er(e) aut |
 Ad. 39 (ia6) | pa<rā>|re quod | sit <cā>|rius | qu(am) <i>psest| <si>bi |
 Ad. 40 (ia6) | <at>qu(e) ex | m(ē) hic <nā>|tus nō|n est {sed ex} | <frā>tr(e) {is <a>}|deo |
 Ad. 41 (ia6) | dis{simi}|lī {studi}|ōst {i(am) in}|d(e) a{b adu}|lēscen|tiā |
@@ -877,10 +904,10 @@ vēnisse clanculum per impluvium fūcum factum mulierī.
 at quem deum! ‘quī templa caelī summa sonitū concutit.’
 ego hoc homunciō nōn facerem? ego illud vērō ita fēcī, ac libēns.
 -------------------
-dum haec mēcum reputō, accersitur lavatum intereā virgō:
-iit lāvit rediit; deinde eam in lectō illae collocārunt.
-sto exspectans sīquid mī imperent. venit ūna, ‘heus tū’ inquit ‘Dōre,
-cape hoc flābellum, ventulum huic sīc facitō, dum lavāmur;
+Eun. 592 (ia7) | {d(um) haec} mē|cum {repu}|t(ō) accer|situr | lauā|t(um) in{tere}|ā uir|gō |
+Eun. 593 (ia7) | iit lāvit rediit; deinde eam in lectō illae collocārunt.
+Eun. 594 (ia7) | sto exspectans sīquid mī imperent. venit ūna, ‘heus tū’ inquit ‘Dōre,
+Eun. 595 (ia7) | cape hoc flābellum, ventulum huic sīc facitō, dum lavāmur;
 Eun. 596 (ia7) | {ubi} nōs | lā{ueri}|mus sī | uoles | lauā|t(o) ac{cipi}|ō tris|tis |
 Eun. 598 (ia7) qu(ī) esset | status | flābel|lulum | tenē|re t(e) asi|num tan|tum |
 Eun. 601 (ia7) intere|ā som|nus uir|gin(em) op|primī|t ego lī|mis spec|to |
