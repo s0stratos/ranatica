@@ -1,3 +1,7 @@
+ABITIO
+quid mihi scelesto tibi erat auscultatio, quidue hinc abitio, quidue in navem inscensio? [PL]
+propter eam haec turba atque abitio euenit. [TER]
+
 ADITIO
 quid tibi hanc aditio est? [PL]
 
@@ -12,10 +16,14 @@ at te, uicine, di deaeque perduint, cum tua amica cumque amationibus. [PL]
 spectatores, ad pudicos mores facta haec fabula est, neque in hac subigitationes sunt neque ulla amatio	nec pueri suppositio nec argénti circumductio, neque ubi amans adulescens scortum liberet clam suom patrem. [PL]
 
 ASCENSIO
+ad hirundininum nidum visa est simia ascensionem ut faceret admolirier... [PL]
 
-ASSENTATIO +DIM
+!ASSENTATIO +DIM
+ei mihi, ei mihi, istaec illum perdidit assentatio. [PL]
+uendo uel alias malacas, crapularias; cavillationes, adsentatiunculas ac perieratiunculas parasiticas [PL]
 
 AUSCULTATIO
+quid mihi scelesto tibi erat auscultatio, quidue hinc abitio, quidue in navem inscensio?
 
 CAPTIO
 uerum si plus dederis, referam, nihil in ea re captiost. [PL]
@@ -32,9 +40,10 @@ ei mihi ne corrumpantur cautiost. [TER]
 nunc mihi cautio est, ne meamet culpa meo amori obiexim moram. [PL]
 cum ego huius uerba interpretor, mihi cautiost, ne nucifrangibula excussit ex malis meis. [PL]
 
-CAUILLATIO
+!CAUILLATIO
 
 CERTATIO
+numquam uidi iniquius certationem comparatam quam haec hodie inter nos fuit. [TER]
 
 CIRCUMDUCTIO
 spectatores, ad pudicos mores facta haec fabula est, neque in hac subigitationes sunt neque ulla amatio nec pueri suppositio nec argénti circumductio, neque ubi amans adulescens scortum liberet clam suom patrem. [PL]
@@ -82,7 +91,7 @@ eugepae, edictiones aedilicias hic quidem habet. [PL]
 basilicas edictiones atque imperiosas habet. [PL]
 uobis, mulieres, hanc hábeo edictionem. [PL]
 
-EIULATIO
+!EIULATIO
 
 EMINATIO
 quae illaec eminatiost nam? [PL]
@@ -105,12 +114,15 @@ audireque eorumst operae pretium audaciam (nam inceptiost amentium, haud amantiu
 INDICATIO
 indica, fac pretium. // tua mers est, tua indicatiost. [PL]
 
+!INSCENSIO
+quid mihi scelesto tibi erat auscultatio, quidue hinc abitio, quidue in navem inscensio?
+
 INTEGRATIO
 amantium irae amoris integratiost. [TER]
 
-MORSIO +DIM
+!MORSIO +DIM
 
-MOSTRATIO
+!MOSTRATIO
 
 MUTATIO
 quid huc tibi reditiost? quid uestis mutatio? [TER]
@@ -123,7 +135,7 @@ quid tibi hanc curatio est rem, uerbero, aut muttitio? [PL]
 NOTIO
 quid tibi hanc notio est, inquam, amicam meam? [PL]
 
-OCCASIO +DIM
+!OCCASIO +DIM
 
 !OPTIO
 uir me habet pessumis despicatam modis,	nec mihi ius meum optinendi optio est. [PL]
@@ -135,9 +147,11 @@ honesta oratiost. [TER]
 occupas praeloqui quae mea oratiost. [PL]
 ibi tum eorum inpudentissuma oratiost "quis tu es? quis mihi es? quor meam tibi?"
 
-PALPATIO
+!PALPATIO
 
-POTATIO
+!PERIERATIO +DIM
+
+!POTATIO
 
 !RATIO +DIM
 num parua causa aut praua ratiost? [TER]
@@ -146,11 +160,11 @@ REDITIO
 quid huc tibi reditiost? [TER]
 quid illi reditio etiam huc fuit? [PL]
 
-RISIO
+!RISIO
 
-SALTATIO
+!SALTATIO
 
-SUAUISAUITATIO
+!SUAUISAUITATIO
 
 SUBIGITATIO
 spectatores, ad pudicos mores facta haec fabula est, neque in hac subigitationes sunt neque ulla amatio nec pueri suppositio nec argenti circumductio, neque ubi amans adulescens scortum liberet clam suom patrem. [PL]
