@@ -1,10 +1,13 @@
 ADIMERE
-metum adimere [TER]
+alicui (omnem) metum adimere [TER]
 curam argentariam adimere [TER]
+curas adimere [TER]
 alicui consuetudiem adimere [TER]
 alicui compedes adimere [PL]
 alicui abdomen adimere [PL]
-alicui aliquem adimere [nemo nisi mors] [TER]
+alicui loricam adimere [PL]
+alicui cistulam, aurum adimere [PL]
+alicui aliquem adimere [nemo nisi mors, orcus] [PL TER]
 aliqui id adimere qua causa uitam uiuere cupit [PL]
 diem adimere [nox] [PL]
 alicui [hominibus] diem adimere [aegritudo] [TER]
@@ -12,9 +15,11 @@ alicui [alteri] suom adimere [PL]
 alicui id adimere ne id quod uidit uiderit. [PL]
 animam adimere [aegritudo] [PL]
 alicui animam adimere [di] [PL]
+alicui spem adimere [TER]
+alicui nomen adimere [PL]
 diuiti adimere [TER] [=/= pauperi addere]
 
-DEUENIRE
+DEUENIRE [PL TER]
 in insidias deuenire [homo] [PL]
 (ad aliquem) domum deuenire [homo] [PL]
 ad mare deuenire [homo] [PL]
@@ -22,14 +27,62 @@ ad aliquem (furem, lenonem, danistam, matrem eius, praetorem) deuenire [homo] [P
 ad aliquem deuenire [tantum mali] [TER]
 noctu clanculum ad aliquem deuenire [homo] [PL]
 
-INSIDIAE
-alicui insidias dare
-alicui insidias facere
-alicui insidiae fiunt
-alicui insidias locare
-in insidias deuenire
-in insidiis esse
-ex insidiis aucupare
+INSIDIAE [PL TER]
+alicui insidias dare [PL]
+alicui insidias facere [PL TER]
+alicui insidiae fiunt [PL TER]
+alicui insidias locare [PL]
+in insidias deuenire [PL]
+in insidiis esse [TER]
+ex insidiis aucupare [PL]
+
+MOECHUS [PL TER]
+magnum moechum mulierum esse
+manufestus moechus [PL]
+moechus malacus cincinnatus umbraticulum tumpanotribam amare [PL]
+cum moecho esse [uxor] [PL]
+moecho abdomen adimere [PL]
+aliquem pro moecho conprendere et constringere [TER]
+aliquem pro moecho prendere [TER]
+minus hic moechorum est [PL]
+sic aliis moechis fit [PL]
+moechum manufestarium obtruncare [PL]
+nunc minatur sese id quod moechis solet [TER]
+moechum adoriri, qui formast fexor, qui omnis se amare credit, quaeque aspexerit mulier [PL]
+populi odium quidni noverim, magnidicum, cincinnatum, moechum unguentatum [PL]
+si nil impetres, ut te arbitretur sibi paratum moechum, si illam duxerit [TER]
+numquid videtur demutare alio atque uti	dixi esse vobis dudum hunc moechum militem [PL]
+
+NOXIA (NOXA, NOXIUS, INNOXIUS)
+in noxa esse [TER]
+manufesto inimicos in noxia tenere [PL]
+aliquem manufesto in noxia tenere [PL]
+noxia carere [PL]
+bene agitur pro noxia. [PL]
+unam (hanc) noxiam amittere [TER]
+unam noxiam missam facere [TER]
+noxiam amittere [PL]
+ob noxiam multa audire [PL]
+aliam noxiam cras commerere [PL]
+ob meritam noxiam amicum castigare [PL]
+amicum pro commerita noxia concastigare [PL]
+aliquem ob nullam noxiam uerberare [PL]
+extra noxiam esse [TER]
+noxiam defendere [TER]
+pro leuibus noxiis inter sese iras gerere [TER]
+quasi pro noxio urgere [PL]
+honor innoxiis apud uos est [PL]
+aliquem inopem atque innoxium ab se inridere [PL]
+innocens seruos atque innoxius [PL]
+amicum castigatum innoxium prosilire [PL]
+innoxium esse [PL]
+
+SECRETO [PL]
+aliquid in consilio secreto consultare [PL]
+aliquem secreto adiutare [PL]
+aliquid secum secreto agere [PL]
+aliquem secreto huc foras seducere [PL]
+est quod te uolo secreto [PL]
 
 ----------------------
 
