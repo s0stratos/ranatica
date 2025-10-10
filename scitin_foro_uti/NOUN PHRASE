@@ -22,6 +22,7 @@ aes alienum
 aes militare
 affinis publicis
 amator nouos
+amator maritus [PL] [amatores mariti]
 amica argentea (amica tua factast argentea)
 amica erilis
 amicus opportunus
@@ -100,7 +101,7 @@ cor acre
 cor facetiarum et doli plenum
 corium atrum
 corium puniceum
-corius crassus
+corius crassus [PL] [crassus corius redditust]
 corius pulcher
 corolla plectilis
 corona sacra
@@ -185,9 +186,10 @@ filius hospitalis
 filius unicus
 flos poetarum
 flos ueteris uini
+fluctus maritumi [PL] [fluctus ~ maritimos]
 fluuium ab urbe hau longule
 fluuium rapidum
-follis pugilatorius
+follis pugilatorius [PL] [follem pugilatorium]
 fores ferreae
 forma bona
 forma (praeter ceteras) honesta
@@ -207,6 +209,7 @@ frater patruelis (meus)
 frater uirginis
 frons tristis
 fundus alienus
+fur maritumus [PL] [fures maritimi]
 geminus surrupticius
 genus bonum (genere bono gnatus)
 genus funginum (fungino generest)
@@ -279,7 +282,7 @@ iniuria paterna
 ius collyricum
 ius publicum
 lacruma argentea
-liber caeleps
+liber caeleps [PL] [caelibem ~ liberum]
 limen inferum
 limen ferreum
 limen superum
@@ -302,26 +305,34 @@ manus dext(e)ra
 manus furtifica
 manus laeua
 manus oculata
+maritus damnosus [PL] [damnosos maritos]
+maritus nouos [PL TER] [cum nouo marito] [nouom maritum] [nouo' maritus]
 mensa plena
 mercatus de praeda
 metus erilis
 metus summus
 miles gloriosus
+miles maritumus [PL] [maritumi omnes milites]
 miles rhodius
+mollitia urbana [PL] [mollitia urbana]
 montes aurei
+mores maritumi [PL] [maritumis moribus]
 muliercula satis uenusta
 nasus acutus
+natio famelica [Pl] [famelica hominum natio]
+natio hominum [PL] [haec natio hominum] [famelica hominum natio]
 nauis cercurus
 nauis ex rhodo
 nauis magna
 nauis mercatoria
 nauis nostra
-nauis predatoria
+nauis peregrina [PL] [peregrina nauis]
+nauis praedatoria [PL] [nauis praedatoria] [nauis praedatoria]
 nauis qua aduecti sumus
 nauis salua
 negotium erile
 negotium malum
-negotium maritume
+negotium maritume [PL] [maritumis negotiis]
 nomen matris
 nomen meum
 nomen nugatorium
@@ -334,6 +345,7 @@ nox proxima (hac proxima nocte)
 nox tota (noctes totas)
 nummi aurei
 nummi lymphatici
+nupta noua [PL] [nouam nuptam]
 nuptias liberales
 nuptiae seruiles
 ocellus aureus
@@ -444,6 +456,7 @@ senex decrepitus
 senex fraudulentus
 senex imprudens
 senex malum
+senex maritus [PL] [senex ~ maritus]
 senex deorum odium atque hominum
 senex mali uiti probrique plenum
 senex recaluos
@@ -533,7 +546,11 @@ uirgo liberalis
 uirtus belli
 uis hostilis
 uita deorum
-uita rustica
+uita laboriosa [PL] [PRED]
+uita marituma [PL] [a uita marituma]
+uita rustica [PL] [uita ~ rustica]
+uita urbana [TER] [hanc clementem uitam urbanam]
+uita urbana clemens [TER] [hanc clementem uitam urbanam]
 uitium uini (uitio uini facere)
 uixillum uinarium
 uoltus tristis
