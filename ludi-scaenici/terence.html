@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Animated Rushing Symbol Demo</title>
+<style>
+/* 1. Emphasized elements — raised slightly */
+em {
+  position: relative;
+  padding-left: 0.1em;
+  top: -0.5em;
+}
+
+/* 2. Deemphasized elements — lighter gray */
+.elis {
+  font-size: 0.75em;
+  color: #888;
+}
+
+/* 3. Short elements — rushing symbol ABOVE and animated */
+.short {
+  position: relative;
+  display: inline-block;
+}
+
+.group {
+  display: inline-block;
+  position: relative;
+  padding: 0 0.0em;  /* small horizontal padding */
+  margin: 0 0.05em;
+  color: #404040;
+}
+
+.group::before {
+  content: "";
+  position: absolute;
+  top: -0.6em;          /* lift above letters */
+  left: 0;
+  right: 0;
+  height: 0.3em;        /* thickness of arc */
+  border-top: 1px solid black;
+  border-radius: 50% / 100%;  /* creates the gentle curve */
+
+}
+
+.short::before {
+  content: "»"; /* rushing symbol — can be ➤, ⏩, etc. */
+  position: absolute;
+  top: -0.2em;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.8em;
+  color: inherit;
+  
+  /* Animation */
+  animation: rush 1s linear infinite;
+}
+
+@keyframes rush {
+  0% {
+    transform: translate(-50%, 0) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translate(-20%, -0.2em) scale(1.3);
+    opacity: 0.7;
+  }
+  100% {
+    transform: translate(20%, 0) scale(1);
+    opacity: 0;
+  }
+}
+</style>
+</head>
+<body>
+<p>| sī <em>quis</em>|quamst quī | pla<em>cē</em>|re sē | <span class="group"><em class="short">stu</em>de</span>at | <em class="short">bo</em>nīs | --</p>
+<p>| quam <em>plū</em>|rumīs - | et <span class="group"><em class="short">mi</em>nu</span>|mē <em>mul</em>|tōs <em>lae</em>|dere - |</p>
+<p>| <em class="short">i</em>n hīs | po<em>ē</em>|t<span class="elis">a</span> hic <em>nō</em>|men <span class="group">profi</span>|<em>tē</em>tur | suom. |</p>
+<p>| tum sī|<em>quis</em> est | quī <em>dic</em>|t<span class="elis">um</span> in s<span class="elis">ē</span> in|clē<em>men</em>|tius | --</p>
+<p>| exī|stu<em>mā</em>|uit es|se - <em>sīc</em> | ex<em>sīs</em>|tumet - |</p>
+<p>| res<em>pōn</em>|sum nōn | <em>dic</em>t<span class="elis">um</span> es|se - <span class="group">quia</span> | <em>lae</em>sit | prior - |</p>
+<p>| quī <span class="group">bene</span> | uor<em>ten</em>|<span class="group">d<span class="elis">ō</span> et e</span>ās|dem scrī|<em>ben</em>dō | male |</p>
+<p>| ex <em>grae</em>|cīs <span class="group"><em class="short">bo</em>nīs</span> | la<em>tī</em>|nās <em>fē</em>|cit nōn | <em class="short">bo</em>nās. |</p>
+<p>| <em>ī</em>dem | me<em>nan</em>|drī <em>pas</em>|ma nunc | <em>nū</em>per | <em class="short">de</em>dit |</p>
+<p>| atqu<span class="elis">e</span> in | tē<em>sau</em>|rō <em>scrīp</em>|sit <em>caus</em>|sam <em>dī</em>|cere |</p>
+<p>| <span class="group"><em class="short">pri</em>u</span>s un|de <span class="group"><em class="short">pe</em>ti</span>|tur <em>au</em>|rum <em>quā</em> | rē sit | <em class="short">su</em>om |</p>
+<p>| <span class="group">quam <em>il</em></span>lic | quī <span class="group"><em class="short">pe</em>ti</span>|t <em>un</em>d<span class="elis">e</span> is | sit tē|<em>sau</em>rus | <em class="short">si</em>bi |</p>
+<p>| aut <em>un</em>|d<span class="elis">e</span> in <span class="group"><em class="short">pa</em>tri</span>|um <span class="group">monu</span>|<em>men</em>tum | per<em>uē</em>|nerit. |</p>
+<p>| <span class="group"><em>dehinc</em></span> nē | frūs<em>trē</em>|tur <em>ip</em>|se s<span class="elis">ē</span> aut | sīc <em>cō</em>|gitet. |</p>
+<p>| dē<em>fūn</em>|ctus iam | sum. <em>nī</em>|l est quod | <em>dī</em>cat | mihi. |</p>
+<p>| is <em>n<span class="elis">ē</span> er</em>|ret <span class="group"><em class="short">mo</em>ne</span>|<span class="elis">ō</span> et <em>dē</em>|sināt | la<em>ces</em>|sere. |</p>
+<p>| <span class="group"><em class="short">ha</em>be</span><span class="elis">ō</span> <span class="group"><em class="short">a</em>li</span>|a <em>mul</em>|ta quae | nunc con|dō<em>nā</em>|bitur |</p>
+<p>| quae prō|fe<em>ren</em>|tur post | sī <em>per</em>|get <em>lae</em>|dere | --</p>
+<p>| <span class="group">it<span class="elis">a</span> ut</span> <span class="group"><em class="short">fa</em>ce</span>|r<span class="elis">e</span> īns<span class="group"><em class="short">ti</em>tu</span>|it quam | nunc āc|<em>tū</em>rī | sumus | --</p>
+<p>| me<em>nan</em>|dr<span class="elis">ī</span> eu<em>nū</em>|cum. post|qu<span class="elis">am</span> ae<em>dī</em>|lēs <em>ē</em>|merunt |</p>
+<p>| per<em>fē</em>|cit <span class="group">sib<span class="elis">i</span> u</span>|t īn<span class="group">spici</span>|<em>und</em><span class="elis">ī</span> es|set <em>cō</em>|pia |</p>
+<p>| magis|<em>trā</em>tus | <span class="group">qu<span class="elis">om</span> ib<span class="elis">i</span> a</span><em>des</em>|set oc|<em>cep</em>tas|t agī. |</p>
+<p>| <em class="short">co</em>lax | me<em>nan</em>|drīs<span class="group">t in e</span>|ast <span class="group">para</span>|<em>sī</em>tus | <em class="short">co</em>lax |</p>
+<p>| et <em>mī</em>|les<span class="elis">s</span> glō|ri<em>ō</em>|<span class="group">sus. e</span>ās | sē nōn | <em class="short">ne</em>gat |</p>
+<p>| per<em>sō</em>|nās trāns|tu<em>lis</em>|s<span class="elis">e</span> in eu|nūcum | <em class="short">su</em>am |</p>
+<p>| ex <em>grae</em>|cā sed e|ās <em>fā</em>|bulās | <em>fac</em>tās | <em class="short">pri</em>us |</p>
+<p>| la<em>tī</em>|nās scis|se sē|s<span class="elis">ē</span> id uē|rō <em>per</em>|negat. |</p>
+<p>| quod sī | per<em>sō</em>|nīs īs|<span class="group">d<span class="elis">em</span> hui</span>c <em>ū</em>|tī nōn | <em class="short">li</em>cet |</p>
+<p>| quī <span class="group"><em class="short">ma</em>gi<span class="elis">s</span></span> | <em class="short">li</em>cet | cur<em>ren</em>|tem <em>ser</em>|uom <em>scrī</em>|bere |</p>
+<p>| <em class="short">bo</em>nās | mā<em>trō</em>|nās <span class="group"><em class="short">fa</em>ce</span>|re <span class="group">mere</span>|<em>trī</em>cēs | <em class="short">ma</em>lās |</p>
+<p>| <span class="group">para</span><em>sī</em>|t<span class="elis">um</span> e<em>dā</em>|cem glō|ri<em>ō</em>|sum <em>mī</em>|litem |</p>
+<p>| <span class="group"><em class="short">pu</em>e</span>rum | sup<em>pō</em>|nī <em>fal</em>|lī per | <em>ser</em>uom | <em class="short">se</em>nem |</p>
+<p>| a<em>mā</em>|r<span class="elis">e</span> ō<em>dis</em>|se sus|pi<em>cā</em>|rī. <em>dē</em>|nique | --</p>
+<p>| <em>nūl</em>lumst | iam <em>dic</em>|tum quod | nōn <em>dic</em>|tum sit | <em class="short">pri</em>us. |</p>
+<p>| <em>quā</em> r<span class="elis">ē</span> <em>ae</em>|quomst uōs | cog<em>nō</em>|scer<span class="elis">e</span> at|qu<span class="elis">e</span> ig<em>nō</em>|scere |</p>
+<p>| quae <span class="group"><em class="short">ue</em>te</span>|rēs fac|ti<em>tā</em>|runt sī | <em class="short">fa</em>ciunt | <em class="short">no</em>uī. |</p>
+<p>| da<span class="group">t<span class="elis">e</span> <em class="short">o</em>pe</span>|ram cum | si<em>len</em>|ti<span class="elis">ō</span> <span class="group"><em class="short">a</em>ni</span>|m<span class="elis">um</span> at<em>ten</em>|dite |</p>
+<p>| ut per|nos<em>cā</em>|tis quid | sib<span class="elis">i</span> eu|<em>nū</em>cus | <em class="short">ue</em>lit. |</p>
+
+</body>
+</html>
+</body>
+</html>
