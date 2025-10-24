@@ -40,7 +40,7 @@ TERENTI ADELPOE
 ------------------------------------
 
 [PROLOGUS]
-[DIUERBIA][1-25]
+[DIUERBIA][1-25][25]
 Ad. 1 (ia6) |  [PROLOGUS] <post>quam | po<ē>|ta <sēn>|sit scrīp|<tū>ram | <su>am |
 Ad. 2 (ia6) |  {ab i}<nī>|quīs op|ser<uā>|r(ī) et ad|uor<sā>|riōs |
 Ad. 3 (ia6) |  {<ra>pe}r(e) in | pei<iō>|rem <par>|tem qu(am) āc|<tū>rī | <su>mus |
@@ -566,9 +566,75 @@ Ad. 997 (tr7) | {habe}a|{t in i}stāc | fīnem | {faci}at | [MI] istuc(c) | rēc
 ------------------------------------
 TERENTI ANDRIA
 ------------------------------------
+[PROLOGUS][DIUERBIA][1-27][27]
+[DIUERBIA][28-174]
+[CANTATA][IA8][175-195]
+    [CANTATA][IA4][176]
+    [CANTATA][TR7][178-179]
+
+[DIUERBIA][196-198]
+[CANTATA][IA8][199-214]
+[DIUERBIA][215-226]
+[CANTATA][IA8][227]
+[CANTATA][TR7][228-233]
+[CANTATA][IA8][234-239]
+[CANTATA][IA4][240]
+[CANTATA][TR7][241-242]
+ia8
+ia4
+ia4
+ia8
+tr7
+ia8
+ia6
+ia7
+tr7
+ia8
+tr8
+ia8
+tr7
+ia6
+ia8
+[DIUERBIA][404-480]
+[MULTIS MODIS CANTATA][481-485]
+[DIUERBIA][404-486]
+[CANTATA][IA8][487-496]
+[DIUERBIA][497-498]
+[CANTATA][IA8][499-509]
+[CANTATA][TR7][510-516]
+517
+[CANTATA][TR7][518-523]
+[DIUERBIA][524-532]
+[CANTATA][IA8][533-536]
+537
+[DIUERBIA][538-574]
+[CANTATA][IA7][575-581]
+[CANTATA][IA8][582-604]
+605
+606 TR7
+TR8
+TR7
+[CANTATA][IA8][610-620]
+[CANTATA][TR7][621-624]
+[MMC][625-638a]
+[CANTATA][TR7]
+    [CANTATA][IA8]
+    [CANTATA][IA8]
+[DIUERBIA][655-681]
+[CANTATA][IA8][682-683]
+[CANTATA][IA7][684-715]
+[DIUERBIA][716-819]
+[CANTATA][TR7][820-860]
+[CANTATA][IA8][861-865]
+    [CANTATA][TR7][864]
+[DIUERBIA][866-895]
+[CANTATA][TR7][896-928]
+[CANTATA][IA8][929-958]
+[CANTATA][TR7][959-981]
+
 
 [PROLOGUS]
-[DIUERBIA]
+[DIUERBIA][1-27][27]
 An. 1 (ia6) | [PROLOGUS] po<ē>|ta quom | <prī>{m(um) <a>ni}|m(um) ad <scrī>|bend(um) <ap>|pulit |
 An. 2 (ia6) | id {<si>bi} | ne<gō>|tī <crē>|didit | <sō>lum | <da>rī |
 An. 3 (ia6) | {<po>pu}l(ō) ut | pla<cē>|rent quās | fē<cis>|set <fā>|bulās. |
@@ -597,7 +663,7 @@ An. 25 (ia6) | ut per|nōs<cā>|tis ec|<quid> {speī} | sit {re<li>}|cuom |
 An. 26 (ia6) | post<hāc> | quās {<fa>ci}|et {d(ē) <in>}|tegrō | cō<moe>|diās |
 An. 27 (ia6) | spec<tan>|d(ae) an ex|si<gen>|dae sint | <uō>bīs | <pri>us. |
 
-[DIUERBIA][28-174]
+[DIUERBIA][28-174][147]
 An. 28 (ia6) | [SI] uōs is|taec in|{tr(ō) au}fer|t(e). abī|te. sō|sia |
 An. 29 (ia6) | ades|dum pau|cīs tē | uolō. | [SO] dictum | putā |
 An. 30 (ia6) | nemp(e) ut | cūren|tur rēc|t(ē) haec. [SI] im|{m(ō) ali}ud. | [SO] quid est |
@@ -667,8 +733,21 @@ An. 159 (ia6) simul | scelerā|tus Dā|uos sī|quid con|silī |
 An. 161 (ia6) qu(em) ego crē|dō mani|bus pedi|busqu(e) ob|nix(e) om|nia |
 An. 164 (ia6) mala men|s malus ani|mus quem | quid(em) ego |sī sen|sero |
 An. 171 (ia6) cūrā|b(o) eā|mus nun|ci(am) in|tr(o) ī prae |sequar |
+An. 172 (ia6) | nōn {dubi}|umst quī|n uxō|rem nō|lit fī|lius. |
+An. 173 (ia6) | {ita} dā|uom {modo} | timē|re sēn|s(ī) {ubi} nūp|tiās |
+An. 174 (ia6) | futū|rās es|s(e) audī|uit. {sed ip#}|s(e) exit | forās. |
+
 
 [MUTATIS MODIS CANTATA]
+An. 175 (ia8) | mīrā|bar hoc(c) | sī sī|c abī|re{t et e}|rī sem|per lē|nitās |
+An. 176 (ia4) | uerē|bar quōr|s(um) ēuā|deret. |
+An. 177 (ia8) | quī post|qu(am) au{die}|rat nōn | dat(um) ī|rī fī|li(ō) ux|sōrem | suō |
+An. 178 (tr7) | numquam cuiquam nostrum uerbum fēcit neque id aegrē tulit.
+An. 179 (tr7) | at nunc faciet neque, ut opīnor, sine tuō magnō malō.
+An. 180 (tr7) | id uoluit nōs sīc necopīnantīs dūcī falsō gaudiō,
+An. 181 (tr7) | spērantīs iam āmōtō metū, interōscitantīs opprimī,
+An. 182 (tr7) | ne esset spatium cōgitandī ad disturbandās nūptiās:
+An. 183 (tr7) | astūtē. carnufex quae loquitur? erus est neque prōuīderam.
 An. 184 (ia8) dāu(e) hem | quid es|t eho d(um) ad | mē quid hic | uolt quid a|is quā |dē rē | rogas |
 An. 185 (ia8) {me#um} gnā|tum rū|mor es|t amā|r(e) id popu|lus cū|rat scī|licet |
 An. 192 (ia8) it(a) ā|iunt tum | sīquis | magis|trum cē|pit ad e|am r(em in|probum |
@@ -8750,7 +8829,11 @@ PLAUTI TRINUMMUS
 ------------------------------------------------------------------------------------------
 PLAUTI TRUCULENTUS
 
+
+
+
 [PROLOGUS]
+[DIUERBIA][1-21]
 Tru. 1 (ia6) | perpar|uam par|tem pos|tulat | plautus | locī |
 Tru. 1 (ia6) | dē uos|trīs mag|nīs at|qu(e) amoe|nīs moe|nibus |
 Tru. 1 (ia6) | atē|nās quō | {sine} ar|citec|tīs cōn|ferat. |
@@ -8775,7 +8858,7 @@ Tru. 1 (ia6) | quid mul|ta. †stūīc superet muliere†
 Tru. 1 (ia6) | †hiscum animā ad eum habentī erce teritur.†
 Tru. 1 (ia6) | ...
 
-[DIUERBIA]
+[DIUERBIA][22-94]
 Tru. 1 (ia6) | nōn <om>|nis <ae>|tās ad | perdis|<cen>dum | <sat> est |
 Tru. 1 (ia6) | am<an>|tī. {d(um) id}| per<dis>|cat quot | {<pe>re}at| <mo>dīs. |
 Tru. 1 (ia6) | {<ne>qu(e) e}am | {rati}<ō>|n(em) eap|s(e) umqu(am) <ē>|ducet | <ue>nus |
@@ -8854,7 +8937,7 @@ Tru. 1 (ia6) | lēgā|tus qu(ō) hinc | cum pū|blic(ō) im|{peri}ō | fuī. |
 Tru. 1 (ia6) | sed haec | quid(em) ei|ius as|{tapi}um (e)s|t ancil|lula |
 Tru. 1 (ia6) | c(um) eā | quo{qu(e) eti}|am {mihi} | fuit | commer|cium. |
 
-[CANTATA]
+[MULTIS MODIS CANTATA][95-101]
 ad fores auscultāte atque asseruāte aedīs,
 nē quis aduentor grauior abaetat quam adueniat,
 neu, quī manūs attulerit sterilīs intrō ad nōs,
@@ -8862,6 +8945,8 @@ grauidās forās exportet. nōuī hominum mōrēs;
 ita nunc adulēscentēs mōrātī sunt: quīnī aut
 sēnī adueniunt ad scorta congerrōnēs;
 cōnsulta sunt cōnsilia: quandō intrō aduēnērunt,
+
+[CANTATA][AN8][102-111]
 ūnus eōrum aliquī ōsculum amīcae usque oggerit, dum illī agant cēteri cleptae;
 sīn uident quempiam sē asseruāre, oblūdunt quī cūstōdem oblectent
 per ioculum et lūdum; dē nostrō saepe edunt: quod fartōrēs, faciunt.
@@ -8869,6 +8954,8 @@ fit pol hoc, et pars spectātōrum scītis pol haec uōs mē hau mentīrī,
 ibist ībus pugnae et uirtūtī dē praedōnibus praedam capere.
 at ecastor nōs rūrsum lepidē referimus grātiam fūribus nostrīs:
 nam ipsī uident cum eōrum aggerimus bona atque etiam ultrō ipsī aggerunt ad nōs.
+
+[MULTIS MODIS CANTATA][112-129]
 Mē illīs quidem haec uerberat uerbīs,
 nam ego hūc bona mea dēgessī.
 Commeminī, iam pol ego eumpse ad nōs, sī domī erit, mēcum addūcam.
@@ -8888,7 +8975,7 @@ peregrē quoniam aduenīs, cēna dētur.
 Bene dīcis benignēque uocās, Astapium. Amābō,
 sine mē īre, era quō iussīt. Eās. sed quid aīs. Quid uīs.
 
-[CANTATA][IA7]
+[CANTATA][IA7][130-208]
 | dīc {quō:: i}|ter in|ceptās | quis est | qu(em) arces|sis. ar|cilī|nem |
 | {mere}trī|cem. {mala} | tū fē|mina (e)s|{s ole}s un|d(e) es(s) dis|ciplī|nam. |
 | {manu}fē|stō men|dācī | ma{la te}|neō | tē. quid | i(am) amā|bō. |
@@ -8970,15 +9057,19 @@ nam tū quidem edepol noster ess etiam nunc, Dīniarce.
 Quam mox tē hūc recipis. Iam hīc erō: propest, profecta quō sum.
 Redi uērō āctūtum. ego interim hīc apud uōs opperībor.
 
-[CANTATA]
+[MULTIS MODIS CANTATA][209-212]
 Hahahae, requiēuī,
 quia intrō abiit odium meum.
 tandem sōla sum. nunc quidem meō arbitrātū
 loquar līberē quae uolam et quae libēbit.
+
+[CANTATA][IA8][213-216]
 huic hominī amantī mea era apud nōs naeniam dīxit domī,
 nam fundī et aedēs obligātae sunt ob Amōris praedium.
 uērum apud hunc mea era sua cōnsilia summa ēloquitur līberē,
 magisque adeō eī cōnsiliārius hic amīcust quam auxiliārius.
+
+[CANTATA][IA7][217-223]
 dum fuit, dedit; nunc nihil habet: quod habēbat nōs habēmus,
 iste id habet quod nōs habuimus. hūmānum facinus factumst.
 āctūtum fortūnae solent mūtārī, uaria uītast:
@@ -8986,10 +9077,14 @@ nōs dīuitem istum meminimus atque iste pauperēs nōs:
 uertērunt sēsē memoriae; stultus sit quī id mīrētur.
 sī eget, necessest nōs patī: amāuit, aequom eī factum est.
 piāculumst miserēre nōs hominum reī male gerentum.
+
+[DIUERBIA][224-227]
 bonis esse oportet dentibus lēnam probam,
 arripere ut quisquis ueniat blandēque alloquī,
 male corde cōnsultāre, bene linguā loquī.
 meretrīcem sentis similem esse condecet,
+
+[CANTATA][TR7][228-236]
 quemquem hominem attigerit, profectō eī aut malum aut damnum dare.
 numquam amātōris meretrīcem oportet causam nōscere,
 quīn, ubi nīl det, prō īnfrequente eum mittat mīlitiā domum.
@@ -8999,10 +9094,14 @@ is amātur hic apud nōs, quī quod dedit id oblītust datum.
 dum habeat, tum amet; ubi nīl habeat, alium quaestum coepiat.
 aequō animō, ipse sī nihil habeat, aliīs {quī:: ha}bent, det locum.
 probust amātor, quī relictīs rēbus rem perdit suam.
+
+[CANTATA][IA7][237-240]
 at nōs male agere praedicant uirī solēre sēcum,
 nōsque esse auārās. quī sumus. quid est quod male agimus tandem.
 nam ēcastor numquam satis dedit suae quisquam amīcae amātor,
 nec pol nōs satis accēpimus neque umquam ūlla satis poposcit.
+
+[DIUERBIA][241-247]
 nam quandō sterilis est amātor ab datīs,
 sī negat sē habēre quod det, sōlī crēdimus,
 nec satis accipimus, satis cum quod det nōn habet:
