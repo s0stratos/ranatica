@@ -1,3 +1,78 @@
+
+
+<COLLUS>
+collus collari caret  [PL]              //The neck is free from collar
+alicui collum opstringere  [PL]         //To strangle someone
+obstricto collo [PL]
+collum suom laqueo opstringere  [PL]    //To strangle oneself with a string
+collum alicuius circumplectere  [PL]    //To hug someone
+palliolum/pallium in collum conicere [PL]
+cruminam sibi de collo detrahere [PL]
+cruminam in collo collocare [PL]
+alicui in collo pendere [PL] (crepundia ~ puero)
+obtorto collo [PL]
+collum obtorquere [PL]
+alicui in collo tumet [PL] (uomica)
+aliquem in collum tollere [PL]
+actumst de collo meo [PL]
+alicui stanti collum decidere [PL]
+aliquem collo complecti [PL]
+alicui (tam diu) collum tenere [PL]
+alicui collo rem soluere [PL]
+alicui collum debere [PL]
+collum iniuriae praetorquere [PL]
+collus in columbari hau multo post erit [PL]
+nummum in collum (= in cruminam) imponere [PL]
+pecua collo obligare [PL]
+
+<CADERE>
+de equo cadere  [PL]
+ebrium cadere  [PL]
+
+<RAPERE>
+aliquid in peiiorem partem rapere [TER]
+
+<INDICIUM>
+indicio de se esse
+
+<CRURA>
+sibi crura diffringere (cadendo) [PL]
+
+<CERUICES>
+sibi ceruices diffringere (cadendo) [PL]
+euersas ceruices suas apstinere [TER]
+ceruices euertere [TER]
+neruo ceruices probare [PL]
+
+<CIRCUMDARE>
+torquem circumdare brachiis [PL]
+
+<AUFERRE>
+manum auferre
+argentum auferre
+
+
+
+<MANUS>
+manum apstinere [PL TER]
+manum mordicus arripere [PL]    //To bite one's hand off
+manum auferre
+cedo manum [PL]                 //Give your hand //Gimme your hand
+manum dare [PL]
+em manum [PL]
+aliquem manu emittere [PL TER]
+(altera) manu aliquid ferre [PL]
+alicui manus ad papillas ferre [PL]
+manum protollere [PL]
+manus ostendere [PL]
+alicui manum adire [PL]
+alicui manum sub uestimenta ad corpus ferre [PL]
+aliquid ex alicuius manu accipere [PL]
+manum in sinum alicui inserere [TER]
+alicui aliquid paullum prae manu dare (unde utatur) [TER]
+uxor quid faciat in manu non est mea [TER]
+
+
 ADIMERE
 alicui (omnem) metum adimere [TER]
 curam argentariam adimere [TER]
@@ -385,7 +460,7 @@ quo potet praebere - give someone something to drink (alcohol)
 CONCINNARE
 struices concinnare
 
-FERRE
+<FERRE>
 aliquid aequo animo ferre (= aequo animo pati) - to remain calm through hardships, to bear something calmly
 aliquid aegre ferre - to be unhappy with something
 alicui auxilium ferre - to help someone
@@ -445,8 +520,10 @@ oppidum, urbem capere - to take/capture a city
 ----------------
 aliquem alicuius desiderium capit - the desire of something takes hold of someone
 
-DUCERE
+<DUCERE>
 uxorem ducere (domum) - to take someone as a wife
+aliquid uitio ducere (=/= aliquid laudere)
+
 
 PERSPICERE
 fidem in pecunia perspicere
