@@ -7,7 +7,7 @@ and especially the latin of roman comedy.
 - Contains resources for **games and activities** to learn and rehearse latin.
 
 ## LUDI SCAENICI
-- Contains resources about technicalities on comedy (structure, meter)
+- Contains resources about **technical aspects of roman comedy** (structure, meter)
 - Contains resources about writing roman comedies
 
 ## RANATICA 
@@ -17,16 +17,17 @@ and especially the latin of roman comedy.
 - Ex: QUESTIONS IN LATIN
 
 ## SCITIN FORO UTI
-- Contains resources on latin vocabulary, idioms and expressions.
+- Contains resources on latin **vocabulary, idioms and expressions**.
 - Ex: APUD SE ESSE
 
 ## SCRIPTA EXADUORSUM STATUTA
-- Contains parallel Latin and Greek resources
+- Contains **parallel Latin and Greek** resources
+- Also contains some resources about Greek Comedy
 
 ## STRUCTURA UERBORUM
-- Contains resources on about a simple sentence structure annotation system
+- Contains resources on about a **simple sentence structure annotation system**
 - Also contains texts annotated using that system
 
 ## UAE ME QUI RECENS IN FORUM SUM DELATUS
-- Contains resources on addressing specific topics in latin.
+- Contains resources on **speaking about specific topics** in latin.
 - Ex: PREPARING FOOD
