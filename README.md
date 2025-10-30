@@ -1,21 +1,32 @@
 
 # RANATICA SOSTRATI
+The ranatica is a resource to learn and study roman latin 
+and especially the latin of roman comedy.
 
 ## LUDI
-contains language drills
+- Contains resources for **games and activities** to learn and rehearse latin.
+
+## LUDI SCAENICI
+- Contains resources about technicalities on comedy (structure, meter)
+- Contains resources about writing roman comedies
 
 ## RANATICA 
-contains notes about various grammatical phenomena 
+- Contains resources on **latin grammar and language history**.
+- Has in part a **construction-based approach** to grammar.
+- Also approaches grammatical constructions as **communication strategies**.
+- Ex: QUESTIONS IN LATIN
 
 ## SCITIN FORO UTI
-contains notes about latin idioms and expressions
+- Contains resources on latin vocabulary, idioms and expressions.
+- Ex: APUD SE ESSE
 
-## SCRIPTA EXADUORDUM STATUTA
-contains notes about parallel Latin and Greek texts
+## SCRIPTA EXADUORSUM STATUTA
+- Contains parallel Latin and Greek resources
 
-## UERBORUM STRUCTURA
-contains notes about a simple sentence structure annotation system
-as well as annotated texts using that system
+## STRUCTURA UERBORUM
+- Contains resources on about a simple sentence structure annotation system
+- Also contains texts annotated using that system
 
 ## UAE ME QUI RECENS IN FORUM SUM DELATUS
-contains notes about expressing specific things in latin
+- Contains resources on addressing specific topics in latin.
+- Ex: PREPARING FOOD
