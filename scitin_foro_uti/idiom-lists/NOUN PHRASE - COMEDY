@@ -2,24 +2,46 @@ ab laeua
 ad laeuam
 ad dext(e)ram
 ad sinist(e)ram
+---------------------
+<ADULESCENS>
+---------------------
+adulescens non aequos
+adulescens captiuos
+adulescens corruptus
 adulescens de summo loco
+adulescens de genere summo
 adulescens erilis
 adulescens fortis
+adulescens infelix
+adulescens ingenuus
 adulescens rerum inperitus
+adulescens genere summo
+adulescens liber
 adulescens libere eductus
 adulescens luxu perditus
 adulescens optumus
 adulescens rubicundus
+aduslecens uinulentus
 adulescens (docte) uorsutus
 adulescentula captiua
 adulescentulus alienus
+adulescentulus insanus
 adulescentulus liberalis
+adulescentulus rhodius
+adulescentulus stultus
+adulescentulus unicus
+---------------------
 aedes dotales
 aedes quasi aureae (quia confulgebant)
 aedes sacrae
 aedes uenales
+---------------------
+<AES>
+---------------------
 aes alienum
 aes militare
+aes usurarium
+---------------------
 affinis publicis
 amator nouos
 amator maritus [PL] [amatores mariti]
@@ -46,7 +68,9 @@ arabia penitissuma
 arma aurea
 armatus uirtute belli
 ars duellica
+auis pennata [PL]
 auis sinistra
+auis squamosa [PL]
 aures benignae (benignis auribus)
 aures uociuae
 auspicium liquidum
@@ -62,10 +86,10 @@ cadus (ueteris) uini
 caelum splendore plenum
 canis alienus
 canis ater
-caput atrum
+caput atrum [PL] (=/= canum & rutilum)
 caput apertum
 caput candidum
-caput canum
+caput canum [PL] (=/= rutilum & atrum)
 caput carum
 caput comptum
 caput crebrum
@@ -75,7 +99,7 @@ caput obuolutum
 caput opertum
 caput quassans
 caput rasum
-caput rutilum
+caput rutilum [PL] (=/= canum & atrum)
 caput tuom
 carbo ater
 causa liberalis
@@ -363,6 +387,7 @@ fanum ueneris
 fauces penitae
 fauonius serenus
 femur laeuom
+ferox formà
 fides bona
 fides erilis
 fidicina hilara
@@ -386,16 +411,22 @@ fluuium ab urbe hau longule
 fluuium rapidum
 follis pugilatorius [PL] [follem pugilatorium]
 fores ferreae
+forma aetatula
 forma bona
+forma complacita
+forma digna
 forma (praeter ceteras) honesta
 forma egregia
 forma eximia
 forma expetenda
+forma honesta
 forma lepida
 forma liberalis
 forma luculenta
 forma mala
 forma regia
+forma scitula
+forma summa
 frater (germanus) geminus
 frater germanus
 frater meus
@@ -517,6 +548,7 @@ nasus acutus
 natio famelica [Pl] [famelica hominum natio]
 natio hominum [PL] [haec natio hominum] [famelica hominum natio]
 nauis cercurus
+nauis confracta (est) [PL]
 nauis ex rhodo
 nauis magna
 nauis mercatoria
@@ -574,6 +606,9 @@ pallium misellum
 pallium nutricis
 paniculum tectorium
 panis ater
+panis luteus [PL]
+panis puniceus [PL]
+panis purpureus [PL]
 parasitus meus
 parasitus tuos
 pater durus
@@ -598,6 +633,8 @@ periclum miserrumum
 permities erilis
 pilum catapultarium
 pisciculi minuti
+piscis pennatus [PL]
+piscus squamosus [PL]
 pix atra
 plus plaustrorum
 porcus sacer (porci sacres)
@@ -723,10 +760,14 @@ uespera prima
 uia plana
 uia publica
 uidulus cum auro atque argento multo
+uidulus e ferro factus
+uidulus e robigine factus
+uidulus rutilus
+uidulus tenuis
 uincla escaria
 uincla lenta
-uinum album
-uinum atrum
+uinum album [PL] (=/= atrum)
+uinum atrum [PL] (=/= album)
 uinum chium
 uinum graecum
 uinum merum
