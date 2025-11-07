@@ -28976,32 +28976,32 @@ tōnstrīnīs			26670	1	1 +INA  +JOB +PLACE
 tōnsus			    26671	1	1
 tōnsōrem			26672	1	1 +TOR +JOB
 ---------------------------------------
-tōta			26673	8	7
-tōtae			26674	4	3
-tōtam			26675	11	9
-tōtast			26676	2	2
-tōtum			26677	23	14
-tōtus			26678	15	12
-tōtust			26679	1	1
-tōtā			26680	4	4
-tōtās			26681	3	3
-tōtīs			26682	5	5
-tōtō			26683	2	2
-tōtōs			26684	3	3
+tōta			26673	8	7   +l+TÒTUS
+tōtae			26674	4	3   +l+TÒTUS
+tōtam			26675	11	9   +l+TÒTUS
+tōtast			26676	2	2   +l+TÒTUS
+tōtum			26677	23	14  +l+TÒTUS
+tōtus			26678	15	12  +l+TÒTUS
+tōtust			26679	1	1   +l+TÒTUS
+tōtā			26680	4	4   +l+TÒTUS
+tōtās			26681	3	3   +l+TÒTUS
+tōtīs			26682	5	5   +l+TÒTUS
+tōtō			26683	2	2   +l+TÒTUS
+tōtōs			26684	3	3   +l+TÒTUS
 ----------------------------------
 tūber			26686	1	1 +BODY
 ----------------------------------
-tū				26685	1660	26
-tūn			    26687	61	    24 +NE
-tūne			26688	28	    18 +NE
-tūque		    26689	2	    2 +QUE
-tūte			26695	76	    25 +REDUPL
-tūtemet	        26696	1	    1 +REDUPL +MET
-tūtin			26697	2	    2 +REDUPL +NE
+tū				26685	1660	26  +l+TÙ
+tūn			    26687	61	    24  +l+TÙ +NE
+tūne			26688	28	    18  +l+TÙ +NE
+tūque		    26689	2	    2   +l+TÙ +QUE
+tūte			26695	76	    25  +l+TÙ +REDUPL
+tūtemet	        26696	1	    1   +l+TÙ +REDUPL +MET
+tūtin			26697	2	    2   +l+TÙ +REDUPL +NE
 ----------------------------------
-tūre			26690	2	2 +EQUIPMENT
-tūris			26691	1	1 +EQUIPMENT
-tūs			    26692	3	3 +EQUIPMENT
+tūre			26690	2	2   +l+TÙS +EQUIPMENT
+tūris			26691	1	1   +l+TÙS +EQUIPMENT
+tūs			    26692	3	3   +l+TÙS +EQUIPMENT
 ----------------------------------
 tūtandam			26693	2	2 +ND
 tūtantur			26694	1	1
@@ -29029,18 +29029,18 @@ tūtōst			26718	2	2
 u			26719	3	2
 uaeso			26720	1	1
 ---------------------------------------
-ubi					26722	745	26
-ubicumque		    26723	6	5 +CUMQUE
-ubinam			    26724	8	7 +NAM
-ubinamst			26725	4	3 +NAM +ST
-ubique				26726	4	4 +IQUE
-ubist				26727	11	7 +ST
-ubiubi				26728	1	1 +REDUPL
-ubiubī				26729	1	1 +REDUPL
-ubivīs				26730	2	2 +VIS
-ubī					26732	27	13
-ubīcumque		    26733	1	1 +CUMQUE
-ubīst				26734	2	2 +ST
+ubi					26722	745	26  +l+UBÌ
+ubicumque		    26723	6	5   +l+UBÌ +CUMQUE
+ubinam			    26724	8	7   +l+UBÌ +NAM
+ubinamst			26725	4	3   +l+UBÌ +NAM +ST
+ubique				26726	4	4   +l+UBÌ +IQUE
+ubist				26727	11	7   +l+UBÌ +ST
+ubiubi				26728	1	1   +l+UBÌ +REDUPL
+ubiubī				26729	1	1   +l+UBÌ +REDUPL
+ubivīs				26730	2	2   +l+UBÌ +VIS
+ubī					26732	27	13  +l+UBÌ
+ubīcumque		    26733	1	1   +l+UBÌ +CUMQUE
+ubīst				26734	2	2   +l+UBÌ +ST
 ---------------------------------------
 uc			26735	1	1
 udradāit			26736	1	1
@@ -29062,23 +29062,23 @@ ulcīscitur			26749	1	1
 ulcīscāre			26750	3	3
 ulcīscī			26751	9	9
 ---------------------------------------
-ulixem			26752	5	2 +NAME
-ulixēs			26753	4	3 +NAME
+ulixem			26752	5	2 +NAME +GREEK
+ulixēs			26753	4	3 +NAME +GREEK
 ---------------------------------------
 ullam			26754	1	1
 ullī			26755	1	1
 ---------------------------------------
-ulmeae			26756	1	1 +EUS +PLANT
-ulmeam			26757	1	1 +EUS +PLANT
-ulmeārum		26758	1	1 +EUS +PLANT
-ulmeās			26759	1	1 +EUS +PLANT
-ulmeī			26760	1	1 +EUS +PLANT
-ulmeīs			26761	3	3 +EUS +PLANT
-ulmeōs			26762	1	1 +EUS +PLANT
-ulmitrība		26763	1	1 +PLANT +COMPOUND
-ulmum			26764	1	1 +PLANT
-ulmōrum			26765	1	1 +PLANT
-ulmōs			26766	1	1 +PLANT
+ulmeae			26756	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeam			26757	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeārum		26758	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeās			26759	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeī			26760	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeīs			26761	3	3 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmeōs			26762	1	1 +l+ULMEUS +r+ULMUS +EUS +PLANT
+ulmitrība		26763	1	1 +l+ULMITRÌBA +r+ULMUS +PLANT +COMPOUND
+ulmum			26764	1	1 +l+ULMUS +PLANT
+ulmōrum			26765	1	1 +l+ULMUS+PLANT
+ulmōs			26766	1	1 +l+ULMUS +PLANT
 ---------------------------------------
 ulnōrum			26767	1	1
 ulpicīque			26768	1	1
@@ -29243,22 +29243,22 @@ utut		26893	16	11 +REDUPL
 utī			26894	89	24
 utīne		26895	2	2 +NE
 ---------------------------------------
-UXOR
+UXÒR
 ---------------------------------------
-uxor			26896	116	18 +FAMILY
-uxorcula		26897	2	1 +CULUS +DIMINUTIVE +FAMILY
-uxōr			26898	3	3 +FAMILY
-uxōre			26899	29	12 +FAMILY
-uxōrem			26900	234	23 +FAMILY
-uxōremst		26901	1	1 +ST +FAMILY
-uxōribus		26902	1	1 +FAMILY
-uxōris			26903	18	8 +RIUS +FAMILY
-uxōriā			26904	1	1 +RIUS +FAMILY
-uxōriō			26905	2	2 +RIUS +FAMILY
-uxōrēs			26906	7	5 +FAMILY
-uxōrī			26907	38	9 +FAMILY
-uxōrīn			26908	1	1 +NE +FAMILY
-uxōrīst			26909	1	1 +FAMILY
+uxor			26896	116	18  +l+UXÒR +FAMILY
+uxorcula		26897	2	1   +l+UXORCULA +r+UXÒR +CULUS +DIMINUTIVE +FAMILY
+uxōr			26898	3	3   +l+UXÒR +FAMILY
+uxōre			26899	29	12  +l+UXÒR +FAMILY
+uxōrem			26900	234	23  +l+UXÒR +FAMILY
+uxōremst		26901	1	1   +l+UXÒR +ST +FAMILY
+uxōribus		26902	1	1   +l+UXÒR +FAMILY
+uxōris			26903	18	8   +l+UXÒRIUS +r+UXÒR +RIUS +FAMILY
+uxōriā			26904	1	1   +l+UXÒRIUS +r+UXÒR +RIUS +FAMILY
+uxōriō			26905	2	2   +l+UXÒRIUS +r+UXÒR +RIUS +FAMILY
+uxōrēs			26906	7	5   +l+UXÒR +FAMILY
+uxōrī			26907	38	9   +l+UXÒR +FAMILY
+uxōrīn			26908	1	1   +l+UXÒR +NE +FAMILY
+uxōrīst			26909	1	1   +l+UXÒR +ST +FAMILY
 ---------------------------------------
 vacent			26911	1	1
 vacuum			26912	2	2
@@ -29744,39 +29744,39 @@ victōrēs			27366	2	1
 vicārium			27367	2	2
 vicāriō				27368	1	1
 --------------------------------------
-vide			27369	66	22
-videam			27370	22	14
-videant			27371	4	4
-videar			27372	3	3
-videat			27373	10	7
-videlicet			27374	7	5
-videlicēt			27375	1	1
-viden			27376	39	16 +NE
-videnda			27377	1	1 +ND
-videndum			27378	2	2 +ND
-videndumst			27379	3	3 +ND +ST
-videndī			27380	5	4 +ND
-vident			27381	12	7
-vidente			27382	1	1
-videntur			27383	14	11
-videor			27384	35	17
-vides			27385	6	5
-videt			27386	25	16
-videtque			27387	1	1
-videāmur			27388	1	1
-videāmus			27389	1	1
-videāre			27390	2	2
-videās			27391	26	17
-videātis			27392	1	1
-videātur			27393	7	7
-videō			27394	224	26
-videōn			27395	8	7 +NE
-videōne			27396	1	1 +NE
+vide			27369	66	22  +l+VIDÈRE +r+VID
+videam			27370	22	14  +l+VIDÈRE +r+VID
+videant			27371	4	4   +l+VIDÈRE +r+VID
+videar			27372	3	3   +l+VIDÈRE +r+VID
+videat			27373	10	7   +l+VIDÈRE +r+VID
+videlicet		27374	7	5   +l+VIDÈRE +l+LICET +UNIVERBATION
+videlicēt		27375	1	1   +l+VIDÈRE +l+LICET +UNIVERBATION
+viden			27376	39	16  +l+VIDÈRE +r+VID +NE
+videnda			27377	1	1   +l+VIDÈRE +r+VID +ND
+videndum		27378	2	2   +l+VIDÈRE +r+VID +ND
+videndumst		27379	3	3   +l+VIDÈRE +r+VID +ND +ST
+videndī			27380	5	4   +l+VIDÈRE +r+VID +ND
+vident			27381	12	7   +l+VIDÈRE +r+VID
+vidente			27382	1	1   +l+VIDÈRE +r+VID
+videntur		27383	14	11  +l+VIDÈRE +r+VID
+videor			27384	35	17  +l+VIDÈRE +r+VID
+vides			27385	6	5   +l+VIDÈRE +r+VID
+videt			27386	25	16  +l+VIDÈRE +r+VID
+videtque		27387	1	1   +l+VIDÈRE +r+VID
+videāmur		27388	1	1   +l+VIDÈRE +r+VID
+videāmus		27389	1	1   +l+VIDÈRE +r+VID
+videāre			27390	2	2   +l+VIDÈRE +r+VID
+videās			27391	26	17  +l+VIDÈRE +r+VID
+videātis		27392	1	1   +l+VIDÈRE +r+VID
+videātur		27393	7	7   +l+VIDÈRE +r+VID
+videō			27394	224	26  +l+VIDÈRE +r+VID
+videōn			27395	8	7   +l+VIDÈRE +r+VID +NE
+videōne			27396	1	1   +l+VIDÈRE +r+VID +NE
 ------------------------------------------------------
-vidua			27397	7	3 +FAMILY
-viduae			27398	1	1 +FAMILY
-viduam			27399	4	4 +FAMILY
-viduitās			27400	1	1 +TAT +FAMILY
+vidua			27397	7	3   +l+VIDUUS +r+VIDU +FAMILY
+viduae			27398	1	1   +l+VIDUUS +r+VIDU +FAMILY
+viduam			27399	4	4   +l+VIDUUS +r+VIDU +FAMILY
+viduitās		27400	1	1   +l+VIDUITÀS +r+VIDU +TAT +FAMILY
 ------------------------------------------
 vidulum			27401	1	1 +EQUIPMENT
 ------------------------------------------
