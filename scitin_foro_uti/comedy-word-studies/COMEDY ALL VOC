@@ -10885,19 +10885,19 @@ fecere			10110	1	1
 fecerit			10111	1	1
 fecit			10112	6	6
 ------------------------------------
-fefellerit			10113	1	1
-fefellit			10114	4	3
+fefellerit		10113	1	1
+fefellit		10114	4	3
 fefellī			10115	1	1
 ------------------------------------
 fel			10116	3	2
 felle		10117	2	2
 ------------------------------------
-femine			10118	1	1 +BODY
-femur			10119	3	2 +BODY
+femine			    10118	1	1 +l+FEMUR +BODY
+femur			    10119	3	2 +l+FEMUR +BODY
 ------------------------------------
-fenestra				10120	1	1  +ARCHITECT
-fenestram				10121	2	2  +ARCHITECT
-fenestrāsque			10122	1	1 +QUE +ARCHITECT
+fenestra			10120	1	1 +l+FENESTRA +ARCHITECT
+fenestram			10121	2	2 +l+FENESTRA +ARCHITECT
+fenestrāsque		10122	1	1 +l+FENESTRA +QUE +ARCHITECT
 ------------------------------------
 fer			10123	12	10
 ferae			10124	2	1
@@ -10992,12 +10992,12 @@ ferīre			10209	1	1
 ferīrī			10210	1	1
 ferō			10211	29	17
 ------------------------------------------
-ferōcem			10212	2	2  +OC
-ferōcior		10213	2	2  +OC +COMPAR
-ferōciter		10214	1	1  +OC +ITER
-ferōcēs			10215	2	2 +OC
-ferōcīs			10216	1	1 +OC
-ferōx			10217	3	3 +OC
+ferōcem			10212	2	2 +l+FERÒX +r+FER +OC
+ferōcior		10213	2	2 +l+FERÒX +r+FER +OC +COMPAR
+ferōciter		10214	1	1 +l+FERÒX +r+FER +OC +ITER
+ferōcēs			10215	2	2 +l+FERÒX +r+FER +OC
+ferōcīs			10216	1	1 +l+FERÒX +r+FER +OC
+ferōx			10217	3	3 +l+FERÒX +r+FER +OC
 ------------------------------------------
 festus			10218	1	1
 ------------------------------------------
@@ -11028,13 +11028,13 @@ fide			10240	5	5
 fidem			10241	111	25
 fidemque			10242	4	4
 --------------------------------------
-fidibus			10243	2	2 +MUSIC
-fidicina		10244	8	3 +MUSIC
-fidicinam		10245	21	4 +MUSIC
-fidiciniō		10246	1	1 +MUSIC
-fidicinā		10247	6	2 +MUSIC
-fidicinās		10248	2	2 +MUSIC
-fidium			10249	1	1 +MUSIC
+fidibus			10243	2	2 +l+FIDÈS +r+FIDI +MUSIC
+fidicina		10244	8	3 +l+FIDICINA +r+FIDI +r+CAN +COMPOUND +MUSIC
+fidicinam		10245	21	4 +l+FIDICINA +r+FIDI +r+CAN +COMPOUND +MUSIC
+fidiciniō		10246	1	1 +l+FIDICINIUS +r+FIDI +r+CAN +COMPOUND +IUS +MUSIC
+fidicinā		10247	6	2 +l+FIDICINA +r+FIDI +r+CAN +COMPOUND +MUSIC
+fidicinās		10248	2	2 +l+FIDICINA +r+FIDI +r+CAN +COMPOUND +MUSIC
+fidium			10249	1	1 +l+FIDÈS +r+FIDI +MUSIC
 -------------------------------------
 fidē			10250	41	21
 fidēlem			10251	8	5
@@ -11123,6 +11123,7 @@ flexū			10333	1	1
 fleō			10334	1	1
 floccum			10335	1	1
 floccī			10336	18	10
+------------------------------------------
 fluctuat			10337	2	2
 fluctuāre			10338	1	1
 fluunt			10339	2	2
@@ -11153,13 +11154,14 @@ flāgitī			    10361	14	12
 ---------------------------------------------------
 flāgritribae			10362	1	1 +COMPOUND
 flāre			10363	1	1
-flē			10364	3	3
 flēmina			10365	1	1
-flēns			10366	5	3
-flēre			10367	2	2
-flēs			10368	2	1
-flētur			10369	1	1
-flēverīs			10370	1	1
+---------------------------------------------------
+flē			    10364	3	3   +l+FLÈRE +r+FLÈ +EMOTION
+flēns			10366	5	3   +l+FLÈRE +r+FLÈ +NT +EMOTION
+flēre			10367	2	2   +l+FLÈRE +r+FLÈ +EMOTION
+flēs			10368	2	1   +l+FLÈRE +r+FLÈ +EMOTION
+flētur			10369	1	1   +l+FLÈRE +r+FLÈ +EMOTION
+flēverīs		10370	1	1   +l+FLÈRE +r+FLÈ +EMOTION
 ---------------------------------
 flōre			10371	2	2
 flōrentem		10372	2	2
@@ -11371,6 +11373,7 @@ frētum			10565	1	1
 frētus			10566	10	7
 frētī			10567	3	3
 frētōs			10568	1	1
+------------------------------------
 frīgefactās			10569	2	2 +FACERE +COMPOUND
 frīgent			10570	1	1
 frīget			10571	3	2
@@ -11413,19 +11416,19 @@ frūstrātuī			10603	1	1
 frūstrētur			10604	1	1
 fu			10605	1	1
 fua			10606	1	1
-fuam			10607	1	1
-fuant			10608	3	3
-fuat			10609	12	9
-fueram			10610	3	3
-fuerant			10611	4	2
-fuerat			10612	27	13
-fuerim			10613	8	8
-fuerint			10614	8	6
-fueris			10615	2	2
-fuerit			10616	31	17
-fuerās			10617	1	1
-fuerīs			10618	14	8
-fuerō			10619	4	4
+fuam			10607	1	1 +l+ESSE +r+FU +lr+ES
+fuant			10608	3	3 +l+ESSE +r+FU +lr+ES
+fuat			10609	12	9 +l+ESSE +r+FU +lr+ES
+fueram			10610	3	3 +l+ESSE +r+FU +lr+ES
+fuerant			10611	4	2 +l+ESSE +r+FU +lr+ES
+fuerat			10612	27	13 +l+ESSE +r+FU +lr+ES
+fuerim			10613	8	8 +l+ESSE +r+FU +lr+ES
+fuerint			10614	8	6 +l+ESSE +r+FU +lr+ES
+fueris			10615	2	2 +l+ESSE +r+FU +lr+ES
+fuerit			10616	31	17 +l+ESSE +r+FU +lr+ES
+fuerās			10617	1	1 +l+ESSE +r+FU +lr+ES
+fuerīs			10618	14	8 +l+ESSE +r+FU +lr+ES
+fuerō			10619	4	4 +l+ESSE +r+FU +lr+ES
 --------------------------------------
 fuga				10620	2	2
 fugae			10621	2	2
@@ -11472,16 +11475,16 @@ fugām			10661	1	1
 fugāverit		10662	1	1
 fugāx			10663	1	1 +AC
 ------------------------------------
-fuimus			10664	7	5
-fuisse			10665	39	15
-fuissem		    10666	1	1
-fuissent		10667	1	1
-fuisset			10668	2	1
-fuistis			10669	1	1
-fuistī			10670	19	11
-fuistīn			10671	1	1 +NE
-fuit			10672	218	26
-fuitne			10673	1	1 +NE
+fuimus			10664	7	5 +l+ESSE +r+FU +lr+ES
+fuisse			10665	39	15 +l+ESSE +r+FU +lr+ES
+fuissem		    10666	1	1 +l+ESSE +r+FU +lr+ES
+fuissent		10667	1	1 +l+ESSE +r+FU +lr+ES
+fuisset			10668	2	1 +l+ESSE +r+FU +lr+ES
+fuistis			10669	1	1 +l+ESSE +r+FU +lr+ES
+fuistī			10670	19	11 +l+ESSE +r+FU +lr+ES
+fuistīn			10671	1	1 +l+ESSE +r+FU +lr+ES +NE
+fuit			10672	218	26 +l+ESSE +r+FU +lr+ES
+fuitne			10673	1	1 +l+ESSE +r+FU +lr+ES +NE
 -------------------------------------
 fulciō			10674	1	1
 fulgurītae		10675	1	1
@@ -11533,40 +11536,41 @@ furcillēs		10716	1	1 +EQUIPMENT
 furcā			10717	2	2 +EQUIPMENT
 furcīs			10718	1	1 +EQUIPMENT
 ------------------------------------
-furfuribus			10719	1	1
-furfurēs			10720	1	1
+furfuribus		10719	1	1   +l+FURFUR +FOOD +PLANT +CEREAL
+furfurēs		10720	1	1   +l+FURFUR +FOOD +PLANT +CEREAL
 ----------------------------------
-furnum			10721	1	1
-furnō			10722	1	1
-furēs			10723	1	1
-furī			10724	1	1
+furnum			10721	1	1   +l+FURNUS +EQUIPMENT
+furnō			10722	1	1   +l+FURNUS +EQUIPMENT
+----------------------------------
+fūrēs			10723	1	1   +l+FÙR +JOB +CRIME
+fūrī			10724	1	1   +l+FÙR +JOB +CRIME
 --------------------------------------
-fustem			10725	4	3
-fustibus			10726	6	3
-fustitudinās			10727	1	1
-fustī			10728	4	3
-fustīs			10729	1	1
-fustīst			10730	1	1 +ST
+fūstem			10725	4	3   +l+FÙSTIS +r+FÙSTI +EQUIPMENT
+fūstibus		10726	6	3   +l+FÙSTIS +r+FÙSTI +EQUIPMENT
+fūstitudinās	10727	1	1   +l+FÙSTITUDINUS +r+FÙSTI +r+TUND +COMPOUND
+fūstī			10728	4	3   +l+FÙSTIS +r+FÙSTI +EQUIPMENT
+fūstīs			10729	1	1   +l+FÙSTIS +r+FÙSTI +EQUIPMENT
+fūstīst			10730	1	1   +l+FÙSTIS +r+FÙSTI +ST +EQUIPMENT
 ----------------------------------
-futtilē			10731	1	1
-futtilī			10732	1	1
+futtilē			10731	1	1   +l+FUTTILIS +r+FÙT
+futtilī			10732	1	1   +l+FUTTILIS +r+FÙT
 -----------------------------------
-futūra			10733	11	10
-futūrae			10734	2	1
-futūram			10735	3	3
-futūrast		10736	1	1 +ST
-futūrum			10737	32	16
-futūrumst		10738	12	8 +ST
-futūrus			10739	2	2
-futūrās			10740	2	1
-futūrī			10741	3	2
-futūrōs			10742	1	1
-fuās			10743	4	3
-fuāt			10744	1	1
-fuēre			10745	13	9
-fuērunt			10746	3	3
-fuī			    10747	76	25
-fuīt			10748	5	4
+futūra			10733	11	10  +l+ESSE +r+FU +lr+ES
+futūrae			10734	2	1   +l+ESSE +r+FU +lr+ES
+futūram			10735	3	3   +l+ESSE +r+FU +lr+ES
+futūrast		10736	1	1   +l+ESSE +r+FU +lr+ES +ST
+futūrum			10737	32	16  +l+ESSE +r+FU +lr+ES
+futūrumst		10738	12	8   +l+ESSE +r+FU +lr+ES +ST
+futūrus			10739	2	2   +l+ESSE +r+FU +lr+ES
+futūrās			10740	2	1   +l+ESSE +r+FU +lr+ES
+futūrī			10741	3	2   +l+ESSE +r+FU +lr+ES
+futūrōs			10742	1	1   +l+ESSE +r+FU +lr+ES
+fuās			10743	4	3   +l+ESSE +r+FU +lr+ES
+fuāt			10744	1	1   +l+ESSE +r+FU +lr+ES
+fuēre			10745	13	9   +l+ESSE +r+FU +lr+ES
+fuērunt			10746	3	3   +l+ESSE +r+FU +lr+ES
+fuī			    10747	76	25  +l+ESSE +r+FU +lr+ES
+fuīt			10748	5	4   +l+ESSE +r+FU +lr+ES
 ------------------------------------------
 fābula				10749	12	9 +ART
 fābulae			    10750	17	12 +ART
@@ -14893,16 +14897,16 @@ lactāssēs			13822	1	1
 lactīst			13823	1	1
 lacum			13824	4	3
 ------------------------------------
-lacōnicam			13825	1	1 +ICUS
-lacōnicum			13826	1	1 +ICUS
-lacōnēs			13827	1	1
+lacōnicam		13825	1	1 +l+LACÒNICUS +r+LACÒN +ICUS +GEOGRAPHY +GREEK
+lacōnicum		13826	1	1 +l+LACÒNICUS +r+LACÒN +ICUS +GEOGRAPHY +GREEK
+lacōnēs			13827	1	1 +l+LACÒ +r+LACÒN +GEOGRAPHY +GREEK
 ------------------------------------
-laedat			13828	1	1
-laedere			13829	3	2
-laederet			13830	1	1
-laedit			13831	2	2
-laedunt			13832	1	1
-laesit			13833	1	1
+laedat			13828	1	1 +l+LAEDERE +r+LAED
+laedere			13829	3	2 +l+LAEDERE +r+LAED
+laederet		13830	1	1 +l+LAEDERE +r+LAED
+laedit			13831	2	2 +l+LAEDERE +r+LAED
+laedunt			13832	1	1 +l+LAEDERE +r+LAED
+laesit			13833	1	1 +l+LAEDERE +r+LAED +SI-PERFECT
 ------------------------------------
 laeta			13834	4	2
 laetae			13835	1	1
@@ -15147,9 +15151,9 @@ legiōnī			14060	3	3 +JOB
 -----------------------------------
 lem			14061	1	1
 -----------------------------------
-lembum			14062	4	3 +EQUIPMENT
-lembus			14063	2	1 +EQUIPMENT
-lembō			14064	2	2 +EQUIPMENT
+lembum			14062	4	3 +l+LEMBUS +GREEK +EQUIPMENT +SHIP
+lembus			14063	2	1 +l+LEMBUS +GREEK +EQUIPMENT +SHIP
+lembō			14064	2	2 +l+LEMBUS +GREEK +EQUIPMENT +SHIP
 -----------------------------------
 lemniscōs			14065	1	1
 lemniselenem			14066	1	1 +COMPOUND
@@ -18385,35 +18389,35 @@ nānctī			16957	1	1
 nāre			16958	1	1
 nāribus			16959	1	1
 ----------------------------------------
-nārrandum			16960	4	4 +ND
-nārrandī			16961	1	1 +ND
-nārrandō			16962	1	1 +ND
-nārrant			16963	3	3
-nārrat			16964	14	10
-nārratque			16965	1	1
-nārrem			16966	5	5
-nārrent			16967	1	1
-nārret			16968	8	5
-nārrā			16969	8	6
-nārrābat			16970	1	1
-nārrābit			16971	3	3
-nārrābunt			16972	1	1
-nārrābō			16973	9	8
-nārrāre			16974	12	10
-nārrās			16975	27	10
-nārrāstī			16976	2	2 +SYNCPERFECT
-nārrātiōnis			16977	1	1
-nārrātur			16978	1	1
-nārrātō			16979	2	2
-nārrāveris			16980	1	1
-nārrāverō			16981	2	2
-nārrāvisse			16982	1	1
-nārrāvistī			16983	1	1
-nārrāvit			16984	7	5
-nārrāvī			16985	3	3
-nārrēmus			16986	1	1
-nārrēs			16987	1	1
-nārrō			16988	5	5
+nārrandum			16960	4	4   +l+NÀRRÀRE +r+NÀRR +ÀRE +ND
+nārrandī			16961	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE +ND
+nārrandō			16962	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE +ND
+nārrant			    16963	3	3   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrat			    16964	14	10  +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārratque			16965	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrem			    16966	5	5   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrent			    16967	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārret			    16968	8	5   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrā			    16969	8	6   +l+NÀRRÀRE +r+NÀRR +ÀRE +IMPERATIVE
+nārrābat			16970	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrābit			16971	3	3   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrābunt			16972	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrābō			    16973	9	8   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāre			    16974	12	10  +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrās			    16975	27	10  +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāstī			16976	2	2   +l+NÀRRÀRE +r+NÀRR +ÀRE +SYNCPERFECT
+nārrātiōnis			16977	1	1   +l+NÀRRÀTIÒ +r+NÀRRÀ +r+NÀRR +TIÒ
+nārrātur			16978	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrātō			    16979	2	2   +l+NÀRRÀRE +r+NÀRR +ÀRE +IMPERATIVE
+nārrāveris			16980	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāverō			16981	2	2   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāvisse			16982	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāvistī			16983	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāvit			16984	7	5   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrāvī			    16985	3	3   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrēmus			16986	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrēs			    16987	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
+nārrō			    16988	5	5   +l+NÀRRÀRE +r+NÀRR +ÀRE
 ----------------------------------------
 nārīs			16989	1	1
 nāscētur			16990	1	1
@@ -18477,12 +18481,12 @@ nēglēxit			17045	1	1
 nēmine				17046	2	2
 nēminem				17047	35	18
 nēminemne			17048	1	1 +NE
-nēmini					17049	1	1
+nēmini				17049	1	1
 nēminis				17050	2	2
-nēminī					17051	18	12
-nēmo					17052	3	2
-nēmō					17053	89	25
-nēmōn					17054	2	2 +NE
+nēminī				17051	18	12
+nēmo				17052	3	2
+nēmō				17053	89	25
+nēmōn				17054	2	2 +NE
 nēmōst				17055	13	8 +ST
 -----------------------------------------
 nēniam			17056	1	1
@@ -18524,7 +18528,7 @@ nīcobūlī				17088	1	1 +NAME
 ---------------------------------------
 nīctō			17089	1	1
 ---------------------------------------
-nīcēratum			17090	1	1 +NAME +ADULESCENS
+nīcēratum			17090	1	1 +NAME +GREEK +ADULESCENS
 ---------------------------------------
 nīdor			17091	1	1
 nīdum			17092	1	1
@@ -18669,24 +18673,27 @@ nōvērunt			17222	1	1
 nōvī			17223	91	25
 nōvīn			17224	1	1 +NE
 ----------------------------------------
-nūbant			17225	2	2
-nūbat			17226	4	4
-nūbent			17227	1	1
-nūbere			17228	5	5
-nūberet			17229	1	1
-nūbet			17230	7	4
-nūbilam			17231	1	1 +BILIS
-nūbis			17232	1	1
-nūbit			17233	1	1
-nūbitur			17234	1	1
-nūbunt			17235	1	1
-nūbēs			17236	1	1
-nūda			17237	1	1
-nūdius			17238	1	1
-nūdum			17239	1	1
-nūdus			17240	2	2
-nūdō			17241	1	1
-nūdōs			17242	1	1
+nūbant			17225	2	2 +l+NÙBERE +r+NÙB +FAMILY
+nūbat			17226	4	4 +l+NÙBERE +r+NÙB +FAMILY
+nūbent			17227	1	1 +l+NÙBERE +r+NÙB +FAMILY
+nūbere			17228	5	5 +l+NÙBERE +r+NÙB +FAMILY
+nūberet			17229	1	1 +l+NÙBERE +r+NÙB +FAMILY
+nūbet			17230	7	4 +l+NÙBERE +r+NÙB +FAMILY
+nūbilam			17231	1	1 +l+NÙBILIS +r+NÙB +ILIS +FAMILY
+nūbis			17232	1	1 +l+NÙBERE +r+NÙB +FAMILY
+nūbit			17233	1	1 +l+NÙBERE +r+NÙB +FAMILY
+nūbitur			17234	1	1 +l+NÙBERE +r+NÙB +FAMILY
+nūbunt			17235	1	1 +l+NÙBERE +r+NÙB +FAMILY
+----------------------------------------
+nūbēs			17236	1	1 +l+NÙBÈS +r+NÙB +NATURE
+----------------------------------------
+nūda			17237	1	1 +l+NÙDUS +rNÙD +BODY
+nūdum			17239	1	1 +l+NÙDUS +rNÙD +BODY
+nūdus			17240	2	2 +l+NÙDUS +rNÙD +BODY
+nūdō			17241	1	1 +l+NÙDUS +rNÙD +BODY
+nūdōs			17242	1	1 +l+NÙDUS +rNÙD +BODY
+---------------------------------------
+nūdius			17238	1	1 +l+NÙDIUS +r+NUNC +r+DIÙS +UNIVERBATION +TEMPORAL
 ---------------------------------------
 nūgae					17243	11	9
 nūgivēndīs			17244	1	1
