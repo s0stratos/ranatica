@@ -1443,12 +1443,12 @@ agrestis			1351	3	2
 --------------------------------------
 agrigentīnus			1353	1	1
 --------------------------------------
-agricolae		1352	1	1 +COLERE +COMPOUND
-agrum			1354	15	7
-agrumque		1355	1	1 +QUE
-agrī			1356	2	2
-agrō			1357	7	4
-agrōque			1358	1	1 +QUE
+agricolae		1352	1	1 +l+AGRICOLA +r+AGER +r+COLERE +COMPOUND +AGRICULTURE +JOB
+agrum			1354	15	7 +l+AGER +AGRICULTURE +PLACE
+agrumque		1355	1	1 +l+AGER +QUE +AGRICULTURE +PLACE
+agrī			1356	2	2 +l+AGER +AGRICULTURE +PLACE
+agrō			1357	7	4 +l+AGER +AGRICULTURE +PLACE
+agrōque			1358	1	1 +l+AGER +QUE +AGRICULTURE +PLACE
 --------------------------------------
 agunda			1359	1	1 +ND
 agundae			1360	2	1 +ND
@@ -1498,7 +1498,7 @@ alam			1399	3	2
 alanna			1400	1	1
 alat			1401	2	2
 --------------------------------------
-albicapillus	1402	1	1 +COMPOUND +BODY
+albicapillus	1402	1	1 +COMPOUND +BODY +COLOR
 albino			1403	2	2
 albitūdinem		1404	1	1 +TUDIN
 album			1405	1	1
@@ -1510,14 +1510,14 @@ alcesimarchus			1409	1	1
 --------------------------------------
 alcesimus			1410	1	1
 --------------------------------------
-alcmēna				1411	1	1 +NAME
-alcmēnam			1412	1	1 +NAME
-alcumena			1413	1	1 +NAME
-alcumēna			1415	11	2 +NAME
-alcumēnae			1416	8	1 +NAME
-alcumēnam			1417	5	2 +NAME
-alcumēnā			1418	6	1 +NAME
-alcumēnās			1419	1	1 +NAME
+alcmēna				1411	1	1 +NAME +GREEK
+alcmēnam			1412	1	1 +NAME +GREEK
+alcumena			1413	1	1 +NAME +GREEK
+alcumēna			1415	11	2 +NAME +GREEK
+alcumēnae			1416	8	1 +NAME +GREEK
+alcumēnam			1417	5	2 +NAME +GREEK
+alcumēnā			1418	6	1 +NAME +GREEK
+alcumēnās			1419	1	1 +NAME +GREEK
 --------------------------------------
 alcumeus			1414	1	1
 --------------------------------------
@@ -1535,10 +1535,10 @@ alere			1428	4	4
 aleret			1429	1	1
 aleum			1430	1	1
 --------------------------------------
-alexander			1431	1	1 +NAME
-alexandrum			1432	1	1 +NAME
-alexandrī			1433	1	1 +NAME
-alexandrīna			1434	1	1 +NAME +INUS
+alexander			1431	1	1 +NAME +GREEK
+alexandrum			1432	1	1 +NAME +GREEK
+alexandrī			1433	1	1 +NAME +GREEK
+alexandrīna			1434	1	1 +NAME +GREEK +INUS
 --------------------------------------
 algeās			1435	1	1
 algeō			1436	1	1
@@ -30425,12 +30425,6 @@ vīgintī			27987	61	13 +NUMERAL
 vīle			27988	2	2
 vīlem			27989	1	1
 vīlest			27990	2	2 +ST
-----------------------------------
-vīlice			27991	1	1 +FAMILY +JOB
-vīlicum			27992	10	2 +FAMILY +JOB
-vīlicus			27993	6	2 +FAMILY +JOB
-vīlicō			27994	15	3 +FAMILY +JOB
-----------------------------------
 vīlior			27995	1	1
 vīlis			27996	2	2
 vīlissimum			27997	1	1
@@ -30440,14 +30434,20 @@ vīlitātī			28000	1	1 +TAT
 vīlius			28001	2	2
 vīliōribus			28002	1	1
 vīliōrēs			28003	1	1
---------------------------------------
-vīlla			28004	1	1 +PLACE
-vīllam			28005	16	10 +PLACE
-vīllamst		28006	1	1 +ST +PLACE
-vīllā			28007	1	1 +PLACE
-vīllāst			28008	1	1 +ST +PLACE
--------------------------------------
 vīlī			28009	2	2
+----------------------------------
+vīlice			27991	1	1 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
+vīlicum			27992	10	2 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
+vīlicus			27993	6	2 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
+vīlicō			27994	15	3 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
+----------------------------------
+vīlla			28004	1	1 +l+VÌLLA +r+VÌLL +PLACE +AGRICULTURE
+vīllam			28005	16	10 +l+VÌLLA +r+VÌLL +PLACE +AGRICULTURE
+vīllamst		28006	1	1 +l+VÌLLA +r+VÌLL +ST +PLACE +AGRICULTURE
+vīllā			28007	1	1 +l+VÌLLA +r+VÌLL +PLACE +AGRICULTURE
+vīllāst			28008	1	1 +l+VÌLLA +r+VÌLL +ST +PLACE +AGRICULTURE
+-------------------------------------
+
 vīn			28010	62	21 +NE
 vīna			28011	1	1
 vīnctam			28012	1	1
