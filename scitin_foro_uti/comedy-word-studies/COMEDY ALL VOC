@@ -796,7 +796,7 @@ adjūnxerīs			739	1	1
 adjūrat			740	1	1
 adjūret			741	1	1
 adjūrābat			742	1	1
-adjūrāstī			743	1	1
+adjūrāstī			743	1	1 +SYNCPERFECT
 adjūrāt			744	1	1
 adjūrō			745	5	3
 adjūtem			746	1	1
@@ -822,7 +822,7 @@ adminiclum			764	1	1 +SYNCOPE
 ------------------------------------------
 administrem			765	1	1
 administrāret			766	1	1
-administrāstī			767	1	1
+administrāstī			767	1	1 +SYNCPERFECT
 admisceās			768	1	1
 admiscē			769	1	1
 admiscētur			770	1	1
@@ -850,7 +850,7 @@ admonēs			791	1	1
 admordēre			792	2	2
 admoveat			793	1	1
 admutilābit			794	1	1
-admutilāstī			795	1	1
+admutilāstī			795	1	1 +SYNCPERFECT
 admutilētur			796	1	1
 admīror			797	1	1
 admīrātus			798	1	1
@@ -1567,7 +1567,7 @@ aliquanto			1457	1	1
 aliquantulum			1458	3	3 +DIMINUTIVE
 aliquantum			1459	11	9
 aliquantō			1460	8	7
-aliquem			1461	22	13
+aliquem			1461	23	13
 aliquibus			1462	1	1
 aliquid			1463	85	24
 aliquis			1464	23	15
@@ -1652,7 +1652,7 @@ allēgat			1537	1	1
 allēgent			1538	1	1
 allēgābō			1539	1	1
 allēgārunt			1540	1	1
-allēgāssemaliquem			1541	1	1
+allēgāssem			1541	1	1
 allēgātum			1542	1	1
 allēgātū			1543	1	1
 allēgāverō			1544	1	1
@@ -1676,7 +1676,7 @@ alterae			1560	5	4
 alteram			1561	27	12
 alterast			1562	1	1
 --------------------------------------
-altercāstī			1563	1	1
+altercāstī			1563	1	1 +SYNCPERFECT
 altercātiō			1564	1	1
 alterius			1565	1	1
 alternae			1566	1	1
@@ -1911,7 +1911,7 @@ amāsset			1778	1	1
 amāssint			1779	1	1
 amāssis			1780	1	1
 amāssō			1781	2	1
-amāstī			1782	1	1
+amāstī			1782	1	1 +SYNCPERFECT
 amāt			1783	3	2
 amāta			1784	1	1
 amāte			1785	1	1
@@ -3515,7 +3515,7 @@ benignō				3233	3		2
 benignōs				3234	1		1
 ------------------------------------------
 beās				3238	1	1
-beāstī				3239	1	1
+beāstī				3239	1	1 +SYNCPERFECT
 beātam			    3240	1	1
 beātus				3241	4	4
 beātust			    3242	1	1
@@ -4946,7 +4946,7 @@ collitus			4476	1	1
 collocat			4477	3	3
 collocem			4478	2	2
 collocet			4479	2	2
-collocuplētāstī			4480	1	1
+collocuplētāstī			4480	1	1 +SYNCPERFECT
 collocā			4481	1	1
 collocāre			4482	2	2
 collocārunt			4483	1	1
@@ -5847,7 +5847,7 @@ contumēliōsius			5359	1	1
 contundam			5360	1	1
 contuor			5361	2	2
 conturbābunt			5362	2	2
-conturbāstī			5363	1	1
+conturbāstī			5363	1	1 +SYNCPERFECT
 contuī			5364	3	2
 contābēfacit			5365	1	1 +FACERE +COMPOUND
 contābēscit			5366	1	1
@@ -6777,7 +6777,7 @@ cōgitāre			6211	8	6
 cōgitārent			6212	1	1
 cōgitārās			6213	1	1
 cōgitās			6214	10	6
-cōgitāstī			6215	1	1
+cōgitāstī			6215	1	1 +SYNCPERFECT
 cōgitāta			6216	1	1
 cōgitātumst			6217	2	2 +ST
 cōgitātē			6218	3	3
@@ -6999,7 +6999,7 @@ cōnservum			6429	4	4
 cōnservus			6430	6	1
 cōnservā			6431	1	1
 cōnservās			6432	1	1
-cōnservāstī			6433	1	1
+cōnservāstī			6433	1	1 +SYNCPERFECT
 cōnservāvit			6434	1	1
 cōnservī			6435	3	3
 cōnservīs			6436	2	2
@@ -7250,7 +7250,7 @@ cūrāsse			6676	1	1
 cūrāssint			6677	1	1
 cūrāssis			6678	1	1
 cūrāssīs			6679	2	2
-cūrāstī			6680	2	2
+cūrāstī			6680	2	2 +SYNCPERFECT
 cūrāta			6681	2	2
 cūrātam			6682	1	1
 cūrāte			6683	9	7
@@ -7569,7 +7569,7 @@ diciōnem			6980	2	2
 dicta			6981	46	19
 dictast			6982	2	2 +ST
 dictitat			6983	2	2
-dictitāstī			6984	1	1
+dictitāstī			6984	1	1 +SYNCPERFECT
 dictitātam			6985	1	1
 dictitātur			6986	1	1
 dictiōst			6987	1	1 +ST
@@ -7979,7 +7979,7 @@ dormītum				7375	5	4
 dormītāre				7376	1	1
 dormītārent			    7377	1	1
 dormītās				7378	1	1
-dormītāstī			    7379	1	1
+dormītāstī			    7379	1	1 +SYNCPERFECT
 dormītātor			    7380	2	1
 dormīvisset			    7381	1	1
 ------------------------------------------
@@ -9606,8 +9606,8 @@ errābō			8904	2	1
 errāns			8905	3	3
 errāre			8906	2	2
 errās			8907	11	8
-errāsse			8908	1	1
-errāstī			8909	2	2
+errāsse			8908	1	1 +SYNCPERFECT
+errāstī			8909	2	2 +SYNCPERFECT
 errāta			8910	1	1
 errātiō			8911	1	1
 errātiōnis			8912	1	1
@@ -10393,7 +10393,7 @@ extulit			9642	1	1
 extulī			9643	1	1
 extumēre			9644	1	1
 exturbā			9645	1	1
-exturbāstī			9646	1	1
+exturbāstī			9646	1	1 +SYNCPERFECT
 exturbāvit			9647	3	2
 exturbēs			9648	1	1
 exturbō			9649	1	1
@@ -10678,7 +10678,7 @@ factae			9914	6	6
 factam			9915	7	6
 factast			9916	3	3
 factitārunt			9917	1	1
-factitāstī			9918	1	1
+factitāstī			9918	1	1 +SYNCPERFECT
 factitāvit			9919	1	1
 factitāvī			9920	1	1
 factius			9921	1	1
@@ -11083,8 +11083,8 @@ firmus			10293	1	1
 firmā			10294	1	1
 firmāre			10295	1	1
 firmās			10296	1	1
-firmāsset			10297	1	1
-firmāstī			10298	1	1
+firmāsset			10297	1	1 +SYNCPERFECT
+firmāstī			10298	1	1 +SYNCPERFECT
 firmātam			10299	1	1
 firmāvit			10300	1	1
 firmē			10301	1	1
@@ -13265,7 +13265,7 @@ impetrārunt			12257	1	1
 impetrārī			12258	4	4
 impetrās			12259	3	3
 impetrāssere			12260	4	4
-impetrāstī			12261	2	2
+impetrāstī			12261	2	2 +SYNCPERFECT
 impetrātum			12262	6	5
 impetrāverō			12263	1	1
 impetrāvimus			12264	1	1
@@ -13534,7 +13534,7 @@ incommodīs			12510	2	2
 inconciliat			12511	1	1
 inconciliāre			12512	1	1
 inconciliāret			12513	1	1
-inconciliāstīn			12514	1	1
+inconciliāstīn			12514	1	1 +NE +SYNCPERFECT
 incontinentem			12515	1	1
 increpant			12516	1	1
 increpitāvit			12517	1	1
@@ -13543,7 +13543,7 @@ increpuī			12519	1	1
 incrēbrāvit			12520	1	1
 incrēbrēscunt			12521	1	1
 incrēdibile			12522	2	1 +BILIS
-incrēdibilest			12523	1	1 +BILIS
+incrēdibilest			12523	1	1 +BILIS +ST
 incrēdibilia			12524	1	1 +BILIS
 incrēdibilis			12525	1	1 +BILIS
 incrēdibilī			12526	2	2 +BILIS
@@ -14114,7 +14114,7 @@ interrogat				13080	1	1
 interrogem			13081	1	1
 interrogāre			13082	1	1
 interrogās			13083	2	2
-interrogāstī			13084	1	1
+interrogāstī			13084	1	1 +SYNCPERFECT
 interrogāvit			13085	1	1
 interrogō				13086	3	3
 ------------------------------------------
@@ -14728,8 +14728,8 @@ jūdiciō			13658	2	1
 jūdicum			13659	1	1
 jūdicāre			13660	3	3
 jūdicās			13661	2	2
-jūdicāsse			13662	1	1
-jūdicāstī			13663	1	1
+jūdicāsse			13662	1	1 +SYNCPERFECT
+jūdicāstī			13663	1	1 +SYNCPERFECT
 jūdicātam			13664	1	1
 jūdicātum			13665	1	1
 jūdicātus			13666	1	1
@@ -16225,10 +16225,10 @@ mandat			15034	2	1
 mandābō			15035	1	1
 mandāre			15036	3	3
 mandās			15037	1	1
-mandāsse			15038	1	1
-mandāssem			15039	1	1
-mandāsset			15040	1	1
-mandāstī			15041	1	1
+mandāsse			15038	1	1 +SYNCPERFECT
+mandāssem			15039	1	1 +SYNCPERFECT
+mandāsset			15040	1	1 +SYNCPERFECT
+mandāstī			15041	1	1 +SYNCPERFECT
 mandāta			15042	9	6
 mandātae			15043	3	2
 mandātam			15044	2	1
@@ -16542,30 +16542,30 @@ memoriast			15314	1	1 +ST
 memoriter			15315	6	6 +ITER
 memoriā			15316	9	7
 -------------------------------------------
-memorā				15317	6	6
-memorābam		15318	1	1
-memorābat			15319	1	1
-memorābile			15320	4	4 +BILIS
-memorābilest		15321	1	1 +BILIS
-memorābimus		15322	1	1
-memorābō			15323	1	1
-memorādum		15324	3	2  +IMPERATIVE +DUM
-memorāmus		15325	1	1
-memorāre			15326	5	4
-memorārier			15327	2	2
-memorārēs			15328	1	1
-memorārī				15329	3	3
-memorās				15330	21	13
-memorāstī			15331	1	1
-memorātur			15332	1	1
-memorātuī			15333	1	1
-memorātīs			15334	1	1
-memorātō			15335	2	2
-memorātū			15336	1	1
-memorāvisse			15337	1	1
-memorāvit			15338	1	1
-memorēs			15339	2	2
-memorō			15340	1	1
+memorā				15317	6	6 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorābam		    15318	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorābat			15319	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorābile			15320	4	4 +l+MEMORÀBILIS +MEMORÀRE +r+MEMOR +r+MEM +BILIS
+memorābilest		15321	1	1 +l+MEMORÀBILIS +MEMORÀRE +r+MEMOR +r+MEM +BILIS +ST
+memorābimus		    15322	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorābō			15323	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorādum		    15324	3	2 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE +IMPERATIVE +DUM
+memorāmus		    15325	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorāre			15326	5	4 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorārier			15327	2	2 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorārēs			15328	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorārī			15329	3	3 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorās				15330	21	13 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorāstī			15331	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE +SYNCPERFECT
+memorātur			15332	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorātuī			15333	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorātīs			15334	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorātō			15335	2	2 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorātū			15336	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorāvisse			15337	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorāvit			15338	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorēs			    15339	2	2 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
+memorō			    15340	1	1 +l+MEMORÀRE +r+MEMOR +r+MEM +ÀRE
 -------------------------------------------
 menaechme			15341	18	1 +VOCATIVE +NAME +GREEK +FICTIONAL +ADULESCENS +MAIN
 menaechmum			15342	8	1 +NAME +GREEK +FICTIONAL +ADULESCENS +MAIN
@@ -18401,7 +18401,7 @@ nārrābunt			16972	1	1
 nārrābō			16973	9	8
 nārrāre			16974	12	10
 nārrās			16975	27	10
-nārrāstī			16976	2	2
+nārrāstī			16976	2	2 +SYNCPERFECT
 nārrātiōnis			16977	1	1
 nārrātur			16978	1	1
 nārrātō			16979	2	2
@@ -18742,8 +18742,8 @@ nūntiāret			17292	3	3
 nūntiārēs			17293	1	1
 nūntiārī			17294	2	1
 nūntiās			17295	7	6
-nūntiāstī			17296	1	1
-nūntiāstīn			17297	1	1
+nūntiāstī			17296	1	1 +SYNCPERFECT
+nūntiāstīn			17297	1	1 +NE +SYNCPERFECT
 nūntiāt			17298	1	1
 nūntiāte			17299	2	2
 nūntiātum			17300	2	2
@@ -18799,7 +18799,7 @@ nūtrīcī			17345	3	3 +TRIX
 nūtrīx			17346	9	7 +TRIX
 nūtrīxque			17347	1	1 +TRIX
 -----------------------------------------------
-nūtāsse			17348	1	1
+nūtāsse			17348	1	1 +SYNCPERFECT
 nūtō			17349	1	1
 o			17350	11	7
 ob			17351	196	26
@@ -18871,12 +18871,12 @@ oblectā			17416	1	1
 oblectābam			17417	1	1
 oblectābās			17418	1	1
 oblectābō			17419	1	1
-oblectāstī			17420	1	1
+oblectāstī			17420	1	1 +SYNCPERFECT
 oblectāvī			17421	1	1
 oblectēs			17422	1	1
 oblectō			17423	1	1
 obligā			17424	1	1
-obligāsse			17425	1	1
+obligāsse			17425	1	1 +SYNCPERFECT
 obligāta			17426	1	1
 obligātae			17427	1	1
 oblinam			17428	1	1
@@ -19006,7 +19006,7 @@ obsiet			17545	1	1
 obsignant			17546	1	1
 obsignat			17547	1	1
 obsignā			17548	1	1
-obsignāstī			17549	1	1
+obsignāstī			17549	1	1 +SYNCPERFECT
 obsignāta			17550	2	1
 obsignātam			17551	3	2
 obsignātast			17552	1	1
@@ -19382,7 +19382,7 @@ officiō			17906	4	4 +COMPOUND
 offirmā			17907	1	1
 offirmābit			17908	1	1
 offirmāre			17909	2	2
-offirmāstīn			17910	1	1
+offirmāstīn			17910	1	1 +NE +SYNCPERFECT
 offirmātum			17911	2	1
 offirmātō			17912	1	1
 offirmō			17913	1	1
@@ -19640,12 +19640,12 @@ oppugnandō			18143	1	1
 oppugnant			18144	1	1
 oppugnāre			18145	1	1
 oppugnās			18146	1	1
-oppugnāssere			18147	1	1
+oppugnāssere			18147	1	1 +SYNCPERFECT
 oppugnātum			18148	2	2
 oppēgit			18149	1	1
 oppōnam			18150	1	1
 ops			18151	1	1
-opscūrāsse			18152	1	1
+opscūrāsse			18152	1	1 +SYNCPERFECT
 opstant			18153	1	1
 opstent			18154	1	1
 opstetrīx			18155	1	1 +TRIX
@@ -20139,8 +20139,8 @@ parārit			18606	1	1
 parārī			18607	3	3
 parārīs			18608	1	1
 parās			18609	2	2
-parāsse			18610	1	1
-parāstī			18611	2	2
+parāsse			18610	1	1 +SYNCPERFECT
+parāstī			18611	2	2 +SYNCPERFECT
 parāta			18612	15	15
 parātae			18613	7	7
 parātam			18614	2	2
@@ -21939,7 +21939,7 @@ postillāc			20252	2	1
 postilēna			20253	1	1 +LENA
 postpartōribus			20254	1	1
 postprincipiō			20255	1	1
-postputāsse			20256	1	1
+postputāsse			20256	1	1 +SYNCPERFECT
 ------------------------------------
 postquam			20257	162	25
 postquamst			20258	1	1 +ST
@@ -22263,7 +22263,7 @@ praenestīnum			20537	1	1 +GEOGRAPHY
 praenestīnus			20538	1	1 +GEOGRAPHY
 praenestīnīs			20539	1	1 +GEOGRAPHY
 -----------------------------------------
-praenārrāsse			20540	1	1
+praenārrāsse			20540	1	1 +SYNCPERFECT
 --------------------------------------
 praeoccupābō			20541	1	1
 --------------------------------------
@@ -22510,8 +22510,8 @@ probus			20768	23	11
 probust			20769	3	3
 probāre			20770	3	3
 probās			20771	4	4
-probāsse			20772	1	1
-probāstis			20773	1	1
+probāsse			20772	1	1 +SYNCPERFECT
+probāstis			20773	1	1 +SYNCPERFECT
 probē			20774	91	23
 probēs			20775	1	1
 probēst			20776	1	1
@@ -23321,7 +23321,7 @@ putāre			21526	2	2
 putārit			21527	1	1
 putārīs			21528	1	1
 putās			21529	18	11
-putāstī			21530	2	2
+putāstī			21530	2	2 +SYNCPERFECT
 putāt			21531	1	1
 putātis			21532	1	1
 putātur			21533	1	1
@@ -24059,7 +24059,7 @@ recipiātis			22210	1	1
 recipiō			22211	3	3
 recipī			22212	2	2
 recitā			22213	3	3
-recitāstī			22214	1	1
+recitāstī			22214	1	1 +SYNCPERFECT
 recitātō			22215	1	1
 reclūdat			22216	1	1
 reclūde			22217	1	1
@@ -24595,19 +24595,19 @@ resolvī			22722	2	2
 ----------------------------------------
 resonāt			22723	1	1
 ----------------------------------------
-respectās			22724	2	2
-respectō			22725	1	1
-respexis			22726	2	2
-respexīt			22727	1	1
-respice			22728	23	14
-respicere			22729	2	2
-respiciam			22730	1	1
-respiciat			22731	1	1
-respiciet			22732	3	3
-respicis			22733	5	4
-respiciunt			22734	3	3
-respiciās			22735	2	2
-respiciō			22736	2	2
+respectās			22724	2	2 +l+RESPICERE +r+SPEC +p+RE +FREQUENTATIVE
+respectō			22725	1	1 +l+RESPICERE +r+SPEC +p+RE +FREQUENTATIVE
+respexis			22726	2	2 +l+RESPICERE +r+SPEC +p+RE
+respexīt			22727	1	1 +l+RESPICERE +r+SPEC +p+RE
+respice			    22728	23	14 +l+RESPICERE +r+SPEC +p+RE +IMPERATIVE
+respicere			22729	2	2 +l+RESPICERE +r+SPEC +p+RE
+respiciam			22730	1	1 +l+RESPICERE +r+SPEC +p+RE
+respiciat			22731	1	1 +l+RESPICERE +r+SPEC +p+RE
+respiciet			22732	3	3 +l+RESPICERE +r+SPEC +p+RE
+respicis			22733	5	4 +l+RESPICERE +r+SPEC +p+RE
+respiciunt			22734	3	3 +l+RESPICERE +r+SPEC +p+RE
+respiciās			22735	2	2 +l+RESPICERE +r+SPEC +p+RE
+respiciō			22736	2	2 +l+RESPICERE +r+SPEC +p+RE
 ----------------------------------------
 respondeam			22737	5	5 +l+RESPONDÈRE +r+SPOND +p+RE
 respondeat			22738	7	5 +l+RESPONDÈRE +r+SPOND +p+RE
@@ -24632,10 +24632,10 @@ respondētōte		22756	1	1 +l+RESPONDÈRE +r+SPOND +p+RE +IMPERATIVE
 respondī			22757	3	3 +l+RESPONDÈRE +r+SPOND +p+RE
 responsīs			22758	1	1 +l+RESPONDÈRE +r+SPOND +p+RE
 ----------------------------------------
-respēxīs			22759	1	1
-respīrem			22760	1	1
-respīrā			22761	1	1
-respīrāre			22762	1	1
+respēxīs			22759	1	1 +l+RESPICERE +r+SPEC +p+RE
+respīrem			22760	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE
+respīrā			    22761	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE +IMPERATIVE
+respīrāre			22762	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE
 respōnsant			22763	1	1
 respōnset			22764	1	1
 respōnsiōnēs			22765	1	1
@@ -24853,8 +24853,8 @@ rogāmus			22945	2	2
 rogāre			22946	14	10
 rogāret			22947	1	1
 rogās			22948	70	24
-rogāsne			22949	1	1
-rogāsse			22950	1	1
+rogāsne			22949	1	1 +NE
+rogāsse			22950	1	1 +SYNCPERFECT
 rogātās			22951	1	1
 rogātō			22952	5	4
 rogātūru's			22953	1	1 +S
@@ -26346,7 +26346,7 @@ somniat			24308	4	4
 somnium			24309	14	7
 somniābam			24310	1	1
 somniās			24311	8	6
-somniāstī			24312	2	2
+somniāstī			24312	2	2 +SYNCPERFECT
 somniātis			24313	1	1
 somniāvit			24314	3	3
 somniāvī			24315	5	3
@@ -28251,7 +28251,7 @@ therapontigone			26051	1	1
 therapontigonus			26052	3	1
 therapontigonō			26053	1	1
 --------------------------------
-thermopotāstī			26054	1	1 +COMPOUND
+thermopotāstī			26054	1	1  +SYNCPERFECT +COMPOUND
 thermopōlium			26055	1	1  +COMPOUND +PLACE
 thermopōliō				26056	2	2  +COMPOUND +PLACE
 --------------------------------
@@ -29946,9 +29946,9 @@ vitia				27557	5	4
 vitiat				27558	3	3 +ARE
 vitium			27559	19	12
 vitiumst		27560	2	1 +ST
-vitiārat			27561	3	2 +ARE
+vitiārat			27561	3	2 +ARE +SYNCPERFECT
 vitiāre			27562	1	1 +ARE
-vitiāstī			27563	1	1 +ARE
+vitiāstī			27563	1	1 +ARE +SYNCPERFECT
 vitiātae			27564	1	1 +ARE
 vitiātam		27565	3	2 +ARE
 vitiāverat		27566	1	1 +ARE
@@ -31244,7 +31244,7 @@ ATER
 ---------------------------------------
 ēnumerem			28712	1	1
 ēnumerārī			28713	1	1
-ēnumerāstī			28714	1	1
+ēnumerāstī			28714	1	1 +SYNCPERFECT
 ---------------------------------------
 ēnumquam			28715	7	5
 ---------------------------------------
@@ -31670,7 +31670,7 @@ insidiīs				12934	2	2
 īnstēs			29102	1	1
 īnstīgem			29103	1	1
 īnstīgā			29104	1	1
-īnstīgāstī			29105	1	1
+īnstīgāstī			29105	1	1 +SYNCPERFECT
 īnstīgēmus			29106	1	1
 īnstō			29107	1	1
 īnsuerit			29108	1	1
@@ -31871,7 +31871,7 @@ insidiīs				12934	2	2
 ōrās			29287	18	13
 ōrāsque			29288	2	2
 ōrāssis			29289	1	1
-ōrāstī			29290	2	2
+ōrāstī			29290	2	2 +SYNCPERFECT
 ōrāta			29291	2	1
 ōrātam			29292	1	1
 ōrātis			29293	1	1
