@@ -2585,19 +2585,19 @@ armīs			    2389	7	7
 arrabōnem			2390	6	4
 arrabōnī			2391	4	2
 --------------------------------------
-arrige			2392	1	1 l+ARRIGERE r+REG p+AD +IMPERATIVE
-arrēxit			2404	1	1 l+ARRIGERE r+REG p+AD
+arrige			2392	1	1 +l+ARRIGERE +r+REG p+AD +IMPERATIVE
+arrēxit			2404	1	1 +l+ARRIGERE +r+REG p+AD
 --------------------------------------
-arripe			2393	1	1 l+ARRIPERE r+RAP p+AD +IMPERATIVE
-arripere		2394	2	2 l+ARRIPERE r+RAP p+AD
-arriperem		2395	1	1 l+ARRIPERE r+RAP p+AD
-arripiam		2396	1	1 l+ARRIPERE r+RAP p+AD
-arripit			2397	1	1 l+ARRIPERE r+RAP p+AD
-arripiāmus		2398	1	1 l+ARRIPERE r+RAP p+AD
-arripiō			2399	2	2 l+ARRIPERE r+RAP p+AD
-arripuit		2400	2	2 l+ARRIPERE r+RAP p+AD
-arripuī			2401	1	1 l+ARRIPERE r+RAP p+AD
-arripī			2402	1	1 l+ARRIPERE r+RAP p+AD
+arripe			2393	1	1 +l+ARRIPERE +r+RAP p+AD +IMPERATIVE
+arripere		2394	2	2 +l+ARRIPERE +r+RAP p+AD
+arriperem		2395	1	1 +l+ARRIPERE +r+RAP p+AD
+arripiam		2396	1	1 +l+ARRIPERE +r+RAP p+AD
+arripit			2397	1	1 +l+ARRIPERE +r+RAP p+AD
+arripiāmus		2398	1	1 +l+ARRIPERE +r+RAP p+AD
+arripiō			2399	2	2 +l+ARRIPERE +r+RAP p+AD
+arripuit		2400	2	2 +l+ARRIPERE +r+RAP p+AD
+arripuī			2401	1	1 +l+ARRIPERE +r+RAP p+AD
+arripī			2402	1	1 +l+ARRIPERE +r+RAP p+AD
 ---------------------------------
 arroget			2403	1	1
 --------------------------------
@@ -7950,34 +7950,34 @@ dorias			7351	4	1
 dorio			7352	2	1
 dorippa			7353	1	1
 ----------------------------------------
-dormiam				    7354	4	4
-dormiat				    7355	2	2
-dormientī				7356	1	1
-dormientīs			    7357	3	3 +NT +IACCUSATIVE
-dormierunt			    7358	1	1
-dormiet				    7359	1	1
-dormit					7360	6	4
-dormitandī			    7361	1	1
-dormiunt				7362	5	4
-dormiās				    7363	3	3
-dormiēns				7364	5	3
-dormiō					7365	2	1
-dormībō				    7366	1	1
-dormīmus			    7367	1	1
-dormīre				    7368	2	2
-dormīs					7369	3	3
-dormīt					7370	1	1
-dormītandumst	        7371	1	1 +ND +ST
-dormītat				7372	1	1
-dormītet				7373	2	1
-dormītis				7374	1	1
-dormītum				7375	5	4
-dormītāre				7376	1	1
-dormītārent			    7377	1	1
-dormītās				7378	1	1
+dormiam				    7354	4	4 +l+DORMÌRE +r+DORM 
+dormiat				    7355	2	2 +l+DORMÌRE +r+DORM 
+dormientī				7356	1	1 +l+DORMÌRE +r+DORM +NT
+dormientīs			    7357	3	3 +l+DORMÌRE +r+DORM +NT +IACCUSATIVE
+dormierunt			    7358	1	1 +l+DORMÌRE +r+DORM 
+dormiet				    7359	1	1 +l+DORMÌRE +r+DORM 
+dormit					7360	6	4 +l+DORMÌRE +r+DORM 
+dormitandī			    7361	1	1 +l+DORMÌRE +r+DORM +ND
+dormiunt				7362	5	4 +l+DORMÌRE +r+DORM 
+dormiās				    7363	3	3 +l+DORMÌRE +r+DORM 
+dormiēns				7364	5	3 +l+DORMÌRE +r+DORM +NT
+dormiō					7365	2	1 +l+DORMÌRE +r+DORM 
+dormībō				    7366	1	1 +l+DORMÌRE +r+DORM 
+dormīmus			    7367	1	1 +l+DORMÌRE +r+DORM 
+dormīre				    7368	2	2 +l+DORMÌRE +r+DORM 
+dormīs					7369	3	3 +l+DORMÌRE +r+DORM 
+dormīt					7370	1	1 +l+DORMÌRE +r+DORM 
+dormītandumst	        7371	1	1 +l+DORMÌRE +r+DORM +ND +ST
+dormītat				7372	1	1 +l+DORMÌTÀRE +r+DORM +FREQUENTATIVE 
+dormītet				7373	2	1 +l+DORMÌTÀRE +r+DORM +FREQUENTATIVE 
+dormītis				7374	1	1 +l+DORMÌRE +r+DORM 
+dormītum				7375	5	4 +l+DORMÌRE +r+DORM 
+dormītāre				7376	1	1 +l+DORMÌTÀRE +r+DORM +FREQUENTATIVE 
+dormītārent			    7377	1	1 +l+DORMÌTÀRE +r+DORM +FREQUENTATIVE 
+dormītās				7378	1	1 +l+DORMÌTÀRE +r+DORM +FREQUENTATIVE 
 dormītāstī			    7379	1	1 +SYNCPERFECT
-dormītātor			    7380	2	1
-dormīvisset			    7381	1	1
+dormītātor			    7380	2	1 +l+DORMÌTÀTOR +r+DORMÌTÀ +r+DORM +FREQUENTATIVE +TÒR
+dormīvisset			    7381	1	1 +l+DORMÌRE +r+DORM 
 ------------------------------------------
 dorsum		    7382	2	2 +BODY
 dorsus			7383	1	1 +BODY
@@ -24896,9 +24896,9 @@ romanis			22959	1	1
 ropemod			22960	1	1
 rosa			22961	4	4
 -------------------------
-rota			22962	1	1 l+rota
-rotula			22963	1	1 l+rota +ULUS +DIMINUTIVE
-rotā			22964	2	2 l+rota
+rota			22962	1	1 +l+rota
+rotula			22963	1	1 +l+rota +ULUS +DIMINUTIVE
+rotā			22964	2	2 +l+rota
 -------------------------
 ru			22965	1	1
 ruant			22966	1	1
