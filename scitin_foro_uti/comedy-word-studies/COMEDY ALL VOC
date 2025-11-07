@@ -22251,19 +22251,19 @@ praemī			20527	1	1
 praemīsistī			20528	1	1
 praemīsit			20529	2	2
 -----------------------------------------
-praemōnstrā			    20530	1	1
-praemōnstrābitur		20531	1	1
-praemōnstrās			20532	1	1
-praemōnstrātor			20533	1	1
-praemōnstrāvit			20534	1	1
-praemōnstrō			    20535	1	1
+praemōnstrā			    20530	1	1 +l+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE +IMPERATIVE
+praemōnstrābitur		20531	1	1 +l+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE
+praemōnstrās			20532	1	1 +l+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE
+praemōnstrātor			20533	1	1 +l+PRAEMÒNSTRÀTOR +r+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE +TOR
+praemōnstrāvit			20534	1	1 +l+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE
+praemōnstrō			    20535	1	1 +l+PRAEMÒNSTRÀRE +r+MÒNSTR +p+PRAE +ÀRE
 -----------------------------------------
 praenestinus			20536	5	5 +GEOGRAPHY
 praenestīnum			20537	1	1 +GEOGRAPHY
 praenestīnus			20538	1	1 +GEOGRAPHY
 praenestīnīs			20539	1	1 +GEOGRAPHY
 -----------------------------------------
-praenārrāsse			20540	1	1 +SYNCPERFECT
+praenārrāsse			20540	1	1 +l+PRAENÀRRÀRE +r+NÀRR +p+PRAE +SYNCPERFECT
 --------------------------------------
 praeoccupābō			20541	1	1
 --------------------------------------
@@ -22342,20 +22342,20 @@ praestāre			20611	2	2
 praestīgiae			20612	1	1
 praestīgiātrīx			20613	1	1 +TRIX
 ---------------------------------------------
-praestō			20614	9	8
-praestōst		20622	5	3 +ST
+praestō			        20614	9	8   +l+PRAESTÒ
+praestōst		        20622	5	3   +l+PRAESTÒ +ST
 --------------------------------------------
-praestōlābar			20615	1	1
-praestōlābimur		20616	1	1
-praestōlābor			20617	1	1
-praestōlābātur			20618	1	1
-praestōlāre				20619	2	1
-praestōlārier			20620	1	1
-praestōlāta				20621	1	1
+praestōlābar			20615	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlābimur		    20616	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlābor			20617	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlābātur			20618	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlāre				20619	2	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlārier			20620	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
+praestōlāta				20621	1	1   +l+PRAESTÒLÀRÌ +r+PRAESTÒ
 ---------------------------------------
-praesāgit				20623	1	1
-praesāgībat			20624	1	1
-praesāgītur			20625	1	1
+praesāgit				20623	1	1   +l+PRAESÀGÌRE +r+SÀG +p+PRAE
+praesāgībat			    20624	1	1   +l+PRAESÀGÌRE +r+SÀG +p+PRAE
+praesāgītur			    20625	1	1   +l+PRAESÀGÌRE +r+SÀG +p+PRAE
 ----------------------------------------
 praesēns			20626	15	11
 praesēnserant			20627	1	1
@@ -30193,21 +30193,21 @@ vānitātis			27773	1	1 +TAT
 vānitūdine		27774	1	1 +TUDIN
 vānum				27775	1	1
 ----------------------------------------
-vāpulandum		    27776	2	2 +VAPULO +ND
-vāpulandō		    27777	3	3 +VAPULO +ND
-vāpulat				27778	2	2 +VAPULO
-vāpulem			    27779	4	3 +VAPULO
-vāpulet				27780	6	6 +VAPULO
-vāpulā				27781	5	4 +VAPULO
-vāpulābis			27782	7	6 +VAPULO
-vāpulābit			27783	4	3 +VAPULO
-vāpulāre			27784	2	2 +VAPULO
-vāpulārim			27785	1	1 +VAPULO
-vāpulāris			27786	1	1 +VAPULO
-vāpulāt				27787	1	1 +VAPULO
-vāpulātum		    27788	1	1 +VAPULO
-vāpulēs			    27789	1	1 +VAPULO
-vāpulō				27790	4	4 +VAPULO
+vāpulandum		    27776	2	2 +l+VÀPULÀRE +ND
+vāpulandō		    27777	3	3 +l+VÀPULÀRE +ND
+vāpulat				27778	2	2 +l+VÀPULÀRE
+vāpulem			    27779	4	3 +l+VÀPULÀRE
+vāpulet				27780	6	6 +l+VÀPULÀRE
+vāpulā				27781	5	4 +l+VÀPULÀRE
+vāpulābis			27782	7	6 +l+VÀPULÀRE
+vāpulābit			27783	4	3 +l+VÀPULÀRE
+vāpulāre			27784	2	2 +l+VÀPULÀRE
+vāpulārim			27785	1	1 +l+VÀPULÀRE
+vāpulāris			27786	1	1 +l+VÀPULÀRE
+vāpulāt				27787	1	1 +l+VÀPULÀRE
+vāpulātum		    27788	1	1 +l+VÀPULÀRE
+vāpulēs			    27789	1	1 +l+VÀPULÀRE
+vāpulō				27790	4	4 +l+VÀPULÀRE
 ----------------------------------------
 vārum			27791	1	1
 -------------------------------------------------
@@ -30408,33 +30408,33 @@ vīdistīn			27974	6	5 +NE
 vīdistīne			27975	2	2
 vīdit			27976	24	9
 ---------------------------------------
-vīdule			27977	1	1 +EQUIPMENT
-vīdulum		    27978	29	1 +EQUIPMENT
-vīdulus			27979	7	1 +EQUIPMENT
-vīdulī			27980	3	1 +EQUIPMENT
-vīdulō			27981	9	3 +EQUIPMENT
-vīdulōst		27982	1	1 +EQUIPMENT
+vīdule			27977	1	1 +l+VÌDULUS +EQUIPMENT +FISHING
+vīdulum		    27978	29	1 +l+VÌDULUS +EQUIPMENT +FISHING
+vīdulus			27979	7	1 +l+VÌDULUS +EQUIPMENT +FISHING
+vīdulī			27980	3	1 +l+VÌDULUS +EQUIPMENT +FISHING
+vīdulō			27981	9	3 +l+VÌDULUS +EQUIPMENT +FISHING
+vīdulōst		27982	1	1 +l+VÌDULUS +ST +EQUIPMENT +FISHING
 -------------------------------------
-vīdēre			27983	1	1
-vīdī			27984	112	25
-vīdīn			27985	1	1 +NE
-vīdīt			27986	1	1
+vīdēre			27983	1	1 +l+VIDÈRE +r+VID
+vīdī			27984	112	25 +l+VIDÈRE +r+VID
+vīdīn			27985	1	1 +l+VIDÈRE +r+VID +NE
+vīdīt			27986	1	1 +l+VIDÈRE +r+VID
 --------------------------------------
-vīgintī			27987	61	13 +NUMERAL
+vīgintī			27987	61	13 +l+VÌGINTÌ +NUMERAL
 --------------------------------------
-vīle			27988	2	2
-vīlem			27989	1	1
-vīlest			27990	2	2 +ST
-vīlior			27995	1	1
-vīlis			27996	2	2
-vīlissimum			27997	1	1
-vīlissimust			27998	1	1 +ST
-vīlitās			27999	1	1 +TAT
-vīlitātī			28000	1	1 +TAT
-vīlius			28001	2	2
-vīliōribus			28002	1	1
-vīliōrēs			28003	1	1
-vīlī			28009	2	2
+vīle			27988	2	2 +l+VÌLIS +r+VÌLI +MONEY
+vīlem			27989	1	1 +l+VÌLIS +r+VÌLI +MONEY
+vīlest			27990	2	2 +l+VÌLIS +r+VÌLI +ST +MONEY
+vīlior			27995	1	1 +l+VÌLIS +r+VÌLI +COMPARATIVE +MONEY
+vīlis			27996	2	2 +l+VÌLIS +r+VÌLI +MONEY
+vīlissimum		27997	1	1 +l+VÌLIS +r+VÌLI +SUPERLATIVE +MONEY
+vīlissimust		27998	1	1 +l+VÌLIS +r+VÌLI +SUPERLATIVE +ST +MONEY
+vīlitās			27999	1	1 +l+VÌLITÀS +r+VÌLI +TAT +MONEY
+vīlitātī		28000	1	1 +l+VÌLITÀS +r+VÌLI +TAT +MONEY
+vīlius			28001	2	2 +l+VÌLIS +r+VÌLI +SUPERLATIVE +MONEY
+vīliōribus		28002	1	1 +l+VÌLIS +r+VÌLI +COMPARATIVE +MONEY
+vīliōrēs		28003	1	1 +l+VÌLIS +r+VÌLI +COMPARATIVE +MONEY
+vīlī			28009	2	2 +l+VÌLIS +r+VÌLI +MONEY
 ----------------------------------
 vīlice			27991	1	1 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
 vīlicum			27992	10	2 +l+VÌLICUS +r+VÌLL +ICUS +FAMILY +JOB +AGRICULTURE
@@ -30447,8 +30447,7 @@ vīllamst		28006	1	1 +l+VÌLLA +r+VÌLL +ST +PLACE +AGRICULTURE
 vīllā			28007	1	1 +l+VÌLLA +r+VÌLL +PLACE +AGRICULTURE
 vīllāst			28008	1	1 +l+VÌLLA +r+VÌLL +ST +PLACE +AGRICULTURE
 -------------------------------------
-
-vīn			28010	62	21 +NE
+vīn			    28010	62	21 +NE
 vīna			28011	1	1
 vīnctam			28012	1	1
 vīnctum			28013	5	4
