@@ -22625,29 +22625,29 @@ profēstōs			20816	1	1
 profūsu's			20817	1	1 +S
 progredītur			20818	1	1
 --------------------------------------
-prohibeam			20819	2	2
-prohibeant			20820	5	5
-prohibendam			20821	1	1 +ND
-prohibent			20822	1	1
-prohibeor			20823	1	1
-prohibessit			20824	1	1
-prohibessīs			20825	1	1
-prohibet			20826	13	8
-prohibeās			20827	4	4
-prohibuerit			20828	1	1
-prohibuit			20829	1	1
-prohibuī			20830	1	1
-prohibē			20831	1	1
-prohibēbant			20832	1	1
-prohibēbis			20833	1	1
-prohibēbit			20834	1	1
-prohibēbunt			20835	1	1
-prohibēbō			20836	2	2
-prohibēre			20837	5	5
-prohibēs			20838	2	2
-prohibēte			20839	1	1
-prohibētur			20840	1	1
-prohibētō			20841	1	1
+prohibeam			20819	2	2 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibeant			20820	5	5 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibendam			20821	1	1 +l+PROHIBÈRE +r+HAB +p+PRO +ND
+prohibent			20822	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibeor			20823	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibessit			20824	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibessīs			20825	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibet			20826	13	8 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibeās			20827	4	4 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibuerit			20828	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibuit			20829	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibuī			20830	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibē			    20831	1	1 +l+PROHIBÈRE +r+HAB +p+PRO +IMPERATIVE
+prohibēbant			20832	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēbis			20833	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēbit			20834	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēbunt			20835	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēbō			20836	2	2 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēre			20837	5	5 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēs			20838	2	2 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibēte			20839	1	1 +l+PROHIBÈRE +r+HAB +p+PRO +IMPERATIVE
+prohibētur			20840	1	1 +l+PROHIBÈRE +r+HAB +p+PRO
+prohibētō			20841	1	1 +l+PROHIBÈRE +r+HAB +p+PRO +IMPERATIVE
 --------------------------------------
 proin			20842	22	16
 proinde			20843	36	15
@@ -22666,10 +22666,10 @@ pronuper			20851	1	1 +PER +TIME
 prope			20852	40	19 +TIME +SPACE
 propest			20881	2	2 +ST +TIME +SPACE
 --------------------------------------
-propediem			20853	6	4 +TIME
+propediem			20853	6	4 +TIME +UNIVERBATION
 --------------------------------------
-propemodum			20854	15	15 +APPROX
-propemōdō			20855	1	1 +APPROX
+propemodum			20854	15	15 +APPROX +UNIVERBATION
+propemōdō			20855	1	1 +APPROX +UNIVERBATION
 --------------------------------------
 properant			20856	1	1
 properantem			20857	3	3
@@ -22735,8 +22735,8 @@ proptereā			20912	29	13 +PROPTER +UNIVERBATION
 proptereāque	20913	1	1 +PROPTER +UNIVERBATION +QUE
 ----------------------------------------
 propudium			20914	3	3
-propudiōsa			20915	1	1
-propudiōse			20916	1	1
+propudiōsa			20915	1	1 +ÒSUS +È
+propudiōse			20916	1	1 +ÒSUS +È
 ----------------------------------------
 propīnet			20917	1	1
 propīnō			20918	3	2
@@ -22978,9 +22978,11 @@ prōlocūtus			21139	1	1
 prōlogum			21140	2	2
 prōlogī			21141	1	1
 prōlogīs			21142	1	1
+-------------------------------
 prōloquar			21143	3	2
 prōloquor			21144	1	1
 prōloquī			21145	17	13
+-------------------------------
 prōlue			21146	1	1
 prōlātae			21147	2	1
 prōlātiōnis			21148	1	1
@@ -23010,23 +23012,25 @@ prōmeruī			21166	1	1
 prōmerēs			21167	1	1
 prōmis			    21168	1	1
 prōmiscam			21169	3	3
-prōmissa			21170	5	5
-prōmissum			21171	4	3
-prōmissī			21172	1	1
-prōmistīn			21173	1	1
-prōmittam			21174	1	1
-prōmittat			21175	2	2
-prōmitte			21176	7	5
-prōmittere			21177	6	3
-prōmittet			21178	2	2
-prōmittier			21179	1	1
-prōmittimus			21180	1	1
-prōmittis			21181	2	2
-prōmittit			21182	3	3
-prōmittitis			21183	1	1
-prōmittunt			21184	2	1
-prōmittēbās			21185	2	2
-prōmittō			21186	8	7
+-------------------------------
+prōmissa			21170	5	5 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmissum			21171	4	3 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmissī			21172	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmistīn			21173	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittam			21174	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittat			21175	2	2 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmitte			21176	7	5 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittere			21177	6	3 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittet			21178	2	2 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittier			21179	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittimus			21180	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittis			21181	2	2 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittit			21182	3	3 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittitis			21183	1	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittunt			21184	2	1 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittēbās			21185	2	2 +l+PRÒMITTERE +r+MITT +p+PRÒ
+prōmittō			21186	8	7 +l+PRÒMITTERE +r+MITT +p+PRÒ
+-------------------------------
 prōmitur			21187	1	1
 prōmitō			21188	1	1
 prōmonētō			21189	1	1
