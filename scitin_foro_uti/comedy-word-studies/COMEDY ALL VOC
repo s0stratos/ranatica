@@ -63,38 +63,38 @@ abdōmen			22	2	2 +l+ABDÒMEN +BODY
 ------------------------------------
 abe			    50	1	1
 ------------------------------------
-abeam			51	18	13 +r+I
-abeant			52	3	3 +r+I
-abeat			53	18	9 +r+I
+abeam			51	18	13 +r+I +p+AB
+abeant			52	3	3 +r+I +p+AB
+abeat			53	18	9 +r+I +p+AB
 -------------------------------------
-aberat			54	3	2 +r+ES
-aberis			55	1	1 +r+ES
-aberit			56	4	3 +r+ES
-aberunt			58	1	1
-abesse			59	6	5
-abesset			60	1	1
-abest			61	20	14
-abeundum			62	1	1 +ND
-abeundī			63	1	1 +ND
-abeunt			64	4	4
-abeuntem			65	1	1 +NT
-abeuntis			66	1	1 +NT
-abeuntēs			67	1	1 +NT
-abeuntīs			68	1	1 +NT +IACCUSATIVE
-abeāmus			69	15	11
-abeās			70	19	13
-abeō			71	60	22
+aberat			54	3	2 +r+ES +p+AB
+aberis			55	1	1 +r+ES +p+AB
+aberit			56	4	3 +r+ES +p+AB
+aberunt			58	1	1 +r+ES +p+AB
+abesse			59	6	5 +r+ES +p+AB
+abesset			60	1	1 +r+ES +p+AB
+abest			61	20	14 +r+ES +p+AB
+abeundum			62	1	1  +r+I +p+AB +ND
+abeundī			63	1	1  +r+I +p+AB +ND
+abeunt			64	4	4 +r+I +p+AB
+abeuntem			65	1	1 +r+I +p+AB +NT
+abeuntis			66	1	1 +r+I +p+AB +NT
+abeuntēs			67	1	1 +r+I +p+AB +NT
+abeuntīs			68	1	1 +r+I +p+AB +NT +IACCUSATIVE
+abeāmus			69	15	11 +r+I +p+AB
+abeās			70	19	13 +r+I +p+AB
+abeō			71	60	22 +r+I +p+AB
 ----------------------------------
-aberrāvit		57	1	1 +r+ERR
+aberrāvit		57	1	1 +r+ERR +p+AB
 ----------------------------------
-abhibendu's			72	1	1 +ND +S +r+HAB
+abhibendu's			72	1	1 +r+HAB +p+AB +ND +S
 -----------------------------------
 abhinc			73	8	8 +r+H
 ------------------------------------
-abhorrentī			74	1	1 +r+HORR
-abhorret			75	1	1 +r+HORR
-abhorreō			76	1	1 +r+HORR
-abhorrēre			77	1	1 +r+HORR
+abhorrentī			74	1	1 +r+HORR +p+AB
+abhorret			75	1	1 +r+HORR +p+AB
+abhorreō			76	1	1 +r+HORR +p+AB
+abhorrēre			77	1	1 +r+HORR +p+AB
 -----------------------------------
 abi			    78	74	21
 abiciam			79	1	1
