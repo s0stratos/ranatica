@@ -2118,9 +2118,9 @@ annōrum			1964	4	4
 annōs			1965	28	17
 --------------------------------------------------
 annūtat			1966	1	1
-antaeō			1967	1	1
-antamynides			1968	1	1
-antamȳnidēs			1969	1	1
+antaeō			1967	1	1 +NAME
+antamynides		1968	1	1 +NAME
+antamȳnidēs		1969	1	1 +NAME
 ante			1970	133	26
 antecesseris			1971	1	1
 antecessit			1972	1	1
@@ -3706,15 +3706,15 @@ byn			3399	2	1
 bynu			3400	1	1
 bynuthi			3401	1	1
 ------------------------------------
-byrria			3402	7	1
-byrriam			3403	1	1
+byrria			3402	7	1 +NAME
+byrriam			3403	1	1 +NAME
 ------------------------------------
-bājolus			3405	1	1
-bājolāre			3406	1	1
-bājulābō			3407	1	1
+bājolus			3405	1	1 +JOB
+bājolāre		3406	1	1 +JOB
+bājulābō		3407	1	1 +JOB
 ------------------------------------
-bālant			3408	1	1
-bālitantēs			3409	1	1
+bālant			3408	1	1 +ANIMAL
+bālitantēs		3409	1	1 +FREQUENTATIVE +ANIMAL
 -------------------------------------
 bēlua				3410	4	4 +ANIMAL
 bēluae				3411	1	1 +ANIMAL
@@ -3811,13 +3811,17 @@ caelī			3491	2	2
 caelō			3492	10	7
 caenum			3493	2	2
 caenō			3494	5	4
+--------------------------------------
 caeruleōs			3495	1	1 +COLOR
 caerulās			3496	1	1 +COLOR
-caesare			3497	1	1
-caesariātus			3498	1	1
-caesariēs			3499	1	1
+------------------------------------
+caesare			3497	1	1 +MISTAKE
+caesariātus		3498	1	1 +BODY +HAIR
+caesariēs		3499	1	1 +BODY +HAIR
+-------------------------------------
 caesiam			3500	1	1 +COLOR
 caesius			3501	1	1 +COLOR
+-------------------------------------
 caesum			3502	2	2
 caesīcium			3503	1	1
 -------------------------------------------
@@ -3832,9 +3836,10 @@ calamitātis			3509	1	1 +TAT
 calamum			3510	1	1
 calamō			3511	1	1
 calcem			3512	1	1
-calceolāriī			3513	1	1
-calceātīs			3514	1	1
-calceōs			3515	1	1
+-----------------------------------------
+calceolāriī		3513	1	1 +EQUIPMENT
+calceātīs		3514	1	1 +EQUIPMENT
+calceōs			3515	1	1 +EQUIPMENT
 ---------------------------------------
 calchā			3516	1	1 +NAME
 calchās			3517	1	1 +NAME
@@ -3855,8 +3860,8 @@ calefīerī			3528	1	1 +FACERE +COMPOUND
 calendīs			3529	1	1
 calent			3530	1	1
 calet			3531	4	4
-calicem			3532	1	1
-calicēsque			3533	1	1
+calicem			3532	1	1 +EQUIPMENT
+calicēsque		3533	1	1 +EQUIPMENT
 -----------------------------------------------
 calidam			3534	1	1
 calidum			3536	9	6
@@ -3937,62 +3942,63 @@ campōs			3596	1	1
 ------------------------------------
 cancer			3597	1	1
 ------------------------------------
-candida			3598	1	1 +IDUS
-candidum			3599	1	1 +IDUS
-candidā			3600	2	2 +IDUS
-candidātus			3601	1	1
-candidātās			3602	1	1
-candidē			3603	1	1
-candidō			3604	1	1
-candēfacere	    3605	1	1 +FACERE +COMPOUND
-candōrem			3606	1	1
-candōribus			3607	1	1
-cane			3608	1	1
-canem			3609	10	9
-canes			3610	3	2
+candida			3598	1	1 +IDUS +COLOR
+candidum			3599	1	1 +IDUS +COLOR
+candidā			3600	2	2 +IDUS +COLOR
+candidātus			3601	1	1 +COLOR
+candidātās			3602	1	1 +COLOR
+candidē			3603	1	1 +COLOR
+candidō			3604	1	1 +COLOR
+candēfacere	    3605	1	1 +FACERE +COMPOUND +COLOR
+candōrem			3606	1	1 +COLOR
+candōribus			3607	1	1 +COLOR
+cane			3608	1	1 +ANIMAL
+canem			3609	10	9 +ANIMAL
+canes			3610	3	2 +ANIMAL
 caneth			3611	1	1
 cani			3612	1	1
-canis			3613	5	4
-cantandō			3614	1	1 +ND
-cantantem			3615	1	1 +NT
-cantat			3616	3	3
-cantent			3617	3	3
+canis			3613	5	4 +ANIMAL
+--------------------------------------
+cantandō			3614	1	1 +ND +ART +MUSIC
+cantantem			3615	1	1 +NT +ART +MUSIC
+cantat			    3616	3	3 +ART +MUSIC
+cantent			    3617	3	3 +ART +MUSIC
 ----------------------------------------------
-canthara			3618	6	31
-cantharam			3619	1	1
-cantharum			3620	8	6
-cantharus			3621	3	3
-cantharīs			3622	2	2
-cantharō			3623	3	3
-cantherīnō			3624	1	1
-canthērius			3625	1	1
-canthēriīs			3626	1	1
-canthēriō			3627	1	1
+canthara			3618	6	31 +NAME
+cantharam			3619	1	1 +NAME
+cantharum			3620	8	6 +EQUIPEMENT
+cantharus			3621	3	3 +EQUIPEMENT
+cantharīs			3622	2	2 +EQUIPEMENT
+cantharō			3623	3	3 +EQUIPEMENT
+cantherīnō			3624	1	1 +ANIMAL
+canthērius			3625	1	1 +ANIMAL
+canthēriīs			3626	1	1 +ANIMAL
+canthēriō			3627	1	1 +ANIMAL
 ----------------------------------------------
-cantilēnam		3628	1	1 +LENA
-cantitēs			3629	1	1
-cantiō				3630	2	2
-cantiōnem		3631	2	1
-cantor				3632	4	4 +TOR
-cantrīcēs			3633	1	1 +TRIX
-cantābat			3634	1	1
-cantārem			3635	1	1
-cantāret			3636	1	1
-cantārī				3637	1	1
-cantās				3638	1	1
-cantātum			3639	1	1
-cantō				3640	1	1
-cantōrēs			3641	1	1 +TOR
-cantū				3642	1	1
+cantilēnam		    3628	1	1 +LENA +ART +MUSIC
+cantitēs			3629	1	1 +ART +MUSIC
+cantiō				3630	2	2 +ART +MUSIC
+cantiōnem		    3631	2	1 +ART +MUSIC
+cantor				3632	4	4 +TOR +ART +MUSIC
+cantrīcēs			3633	1	1 +TRIX +ART +MUSIC
+cantābat			3634	1	1 +ART +MUSIC
+cantārem			3635	1	1 +ART +MUSIC
+cantāret			3636	1	1 +ART +MUSIC
+cantārī				3637	1	1 +ART +MUSIC
+cantās				3638	1	1 +ART +MUSIC
+cantātum			3639	1	1 +ART +MUSIC
+cantō				3640	1	1 +ART +MUSIC
+cantōrēs			3641	1	1 +TOR +ART +MUSIC
+cantū				3642	1	1 +ART +MUSIC
+canōrā			3648	1	1 +ART +MUSIC
 -----------------------------------------
-canālem			3643	1	1 +ALIS +EQUIPMENT
+canālem			    3643	1	1 +ALIS +EQUIPMENT
 canālīs				3644	1	1 +ALIS +EQUIPMENT
 -----------------------------------------
 canēs				3645	10	7 +ANIMAL
-canīculam		3646	1	1 +ULUS +DIMINUTIVE +ANIMAL
-canīnam			3647	1	1 +INUS +ANIMAL
+canīculam		    3646	1	1 +ULUS +DIMINUTIVE +ANIMAL
+canīnam			    3647	1	1 +INUS +ANIMAL
 -----------------------------------
-canōrā			3648	1	1
 cape				3649	33	15 +IMPERATIVE
 capedum			3650	1	1 +IMPERATIVE +DUM
 capere			3651	17	13
@@ -4108,11 +4114,11 @@ caput			3755	70	23 +BODY
 capās			3756	1	1
 capī			3757	1	1
 ----------------------------------------------
-carbunculus			3758	1	1 +CULUS +DIMINUTIVE
-carbōnibus			3759	2	2
-carbōnārium		    3760	1	1 +ARIUS
-carbōnēs			3761	1	1
-carbōst				3762	1	1 +ST
+carbunculus			3758	1	1 +CULUS +DIMINUTIVE +NATURE
+carbōnibus			3759	2	2 +NATURE
+carbōnārium		    3760	1	1 +ARIUS +NATURE +JOB
+carbōnēs			3761	1	1 +NATURE
+carbōst				3762	1	1 +ST +NATURE
 ----------------------------------------------
 carcer				3763	1	1 +PLACE +CRIME
 carcere			    3764	4	4 +PLACE +CRIME
@@ -4246,7 +4252,7 @@ catēnīs			3868	3	2 +EQUIPMENT
 -------------------------------------------
 catī			3869	2	2
 caudeam			3870	2	1
-caudex			3871	1	1
+caudex			3871	1	1 +PLANT +INSULT
 caudicālī			3872	1	1
 -------------------------------------------
 caupōnius		3874	1	1 +IUS +JOB
@@ -4380,9 +4386,9 @@ cernit			3987	1	1
 cernitur			3988	4	4
 cernō			3989	2	2
 ------------------------------------------
-cerrītus			3990	3	3
-cerrītā			3991	1	1
-cerrītīs			3992	1	1
+cerrītus			3990	3	3 +HEALTH
+cerrītā			    3991	1	1 +HEALTH
+cerrītīs			3992	1	1 +HEALTH
 ------------------------------------------
 certa						3993	15	11
 certast						3995	1		1 +ST
@@ -4415,12 +4421,12 @@ certātim			4011	1	1 +TIM
 certātiōnem			4012	1	1 +TION
 -----------------------------------------
 cerumst			4021	1	1
-cerva			4022	1	1
-cervam			4023	1	1
-cervum			4024	1	1
-cervīcēs			4025	2	2
-cervō			4026	1	1
-cerēs			4027	2	2
+cerva			4022	1	1 +ANIMAL
+cervam			4023	1	1 +ANIMAL
+cervum			4024	1	1 +ANIMAL
+cervīcēs		4025	2	2 +BODY
+cervō			4026	1	1 +ANIMAL
+cerēs			4027	2	2 +GOD
 -----------------------------------------
 cessant			4028	2	2
 cessat			4029	4	4
@@ -4530,27 +4536,27 @@ chyl			4116	1	1
 chōth			4117	1	1
 ci			4118	1	1
 -----------------------------------------
-cibi			4119	1	1
-cibique			4120	1	1 +QUE
-cibo			4121	1	1
-cibum			4122	21	13
-cibus			4123	5	5
-cibust			4124	1	1 +ST
-cibāria			4125	1	1 +ARIUS
-cibāriam		4126	1	1 +ARIUS
-cibātus			4127	1	1 +ATUS
-cibī			4128	3	3
-cibō			4129	14	10
-cibōst			4130	1	1 +ST
+cibi			4119	1	1 +FOOD
+cibique			4120	1	1 +QUE +FOOD
+cibo			4121	1	1 +FOOD
+cibum			4122	21	13 +FOOD
+cibus			4123	5	5 +FOOD
+cibust			4124	1	1 +ST +FOOD
+cibāria			4125	1	1 +ARIUS +FOOD
+cibāriam		4126	1	1 +ARIUS +FOOD
+cibātus			4127	1	1 +ATUS +FOOD
+cibī			4128	3	3 +FOOD
+cibō			4129	14	10 +FOOD
+cibōst			4130	1	1 +ST +FOOD
 -----------------------------------------
 ciccum			4132	1	1
-cicer			4133	1	1
+cicer			4133	1	1 +PLANT +FOOD
 -----------------------------------------
 cicatrīcēs				4131	1	1 +TRIX
 cicātrīcēs				4134	1	1 +TRIX
 cicātrīcōsum		4135	1	1 +TRIX +ÒSUS
 -----------------------------------------
-cicōnia			4136	1	1
+cicōnia			4136	1	1 +ANIMAL
 -----------------------------------------
 ciet			4137	2	2
 -----------------------------------------
@@ -4564,9 +4570,9 @@ cinaedum		4143	2	2   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 cinaedus		4144	3	3   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 cinaedōs		4145	2	2   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 -------------------------------------------
-cincinnātum			4146	2	2 +ATUS
-cincinnātus			4147	1	1 +ATUS
-cincinnōs				4148	1	1
+cincinnātum			4146	2	2 +ATUS +BODY +BEAUTY
+cincinnātus			4147	1	1 +ATUS +BODY +BEAUTY
+cincinnōs			4148	1	1 +BODY +BEAUTY
 -------------------------------------------
 cinere				4149	1	1
 cinerem			4150	1	1
@@ -6248,8 +6254,8 @@ crux			    5678	6	5
 ---------------------------------------
 crābrōnēs			5679	1	1 +ANIMAL
 ---------------------------------------
-crāpulam			5680	3	3 +HEALTH +ALCOHOL
-crāpulāriās		    5681	1	1 +ÀRIUS +HEALTH +ALCOHOL
+crāpulam			5680	3	3 +HEALTH +ALCOHOL +SLEEP
+crāpulāriās		    5681	1	1 +ÀRIUS +HEALTH +ALCOHOL +SLEEP
 ---------------------------------------
 crās					5682	48	17
 crāstinam			    5683	1	1 +INUS
@@ -7562,7 +7568,7 @@ des			6938	1	1
 despexe			6939	1	1
 desquāmā			6940	1	1
 det			6941	47	19
-deterrimum			6942	1	1
+deterrimum			6942	1	1 +SUPERLATIVE
 detha			6943	1	1
 detrustī			6944	1	1
 deum			6945	26	18
@@ -8800,7 +8806,7 @@ dēterminābō			8109	1	1
 dēterream			8110	1	1
 dēterrendō			8111	1	1
 dēterreō			8112	1	1
-dēterrima			8113	1	1
+dēterrima			8113	1	1 +SUPERLATIVE
 dēterruissem			8114	1	1
 dēterruī			8115	1	1
 dēterrēbit			8116	1	1
@@ -9718,7 +9724,7 @@ essem			8943	19	10
 essent			8944	18	13
 esset			8945	107	25
 essetne			8946	2	2
-essevideō			8947	1	1
+essevideō			8947	1	1 +MISTAKE
 essitābunt			8948	1	1
 essitās			8949	1	1
 essum			8950	2	2
@@ -9763,10 +9769,10 @@ eucliōnem		    8985	2	1 +NAME
 eucliōnis			8986	3	1 +NAME
 eucliōnī			8987	3	1 +NAME
 -----------------------------------------
-eugae			8988	41	17
-euge			8989	1	1
-eugepae			8990	8	6
-euhoe			8991	1	1
+eugae			8988	41	17 +INTERJ
+euge			8989	1	1 +INTERJ
+eugepae			8990	8	6 +INTERJ
+euhoe			8991	1	1 +INTERJ
 eum			8992	259	26
 eumpse			8993	7	4
 eumque			8994	12	9
@@ -9946,7 +9952,7 @@ exdorsuā			9148	1	1 +r+DORS +p+EX +ÀRE +IMPERATIVE +FOOD
 exeam			9149	2	2
 exeant			9150	2	2
 exeat			9151	6	5
-exedendum			9152	1	1 +ND
+exedendum		9152	1	1 +ND
 exedent			9153	1	1
 exedint			9154	1	1
 exedor			9155	1	1
@@ -10092,12 +10098,12 @@ exorta			9287	3	3
 exortus			9288	1	1
 exortī			9289	1	1
 ---------------------------------------
-exossat			9290	1	1 +EX +ARE +BODY +FOOD
-exossābitur		9291	1	1 +EX +ARE +BODY +FOOD
-exossābō		9292	1	1 +EX +ARE +BODY +FOOD
-exossāre		9293	1	1 +EX +ARE +BODY +FOOD
-exossās			9294	1	1 +EX +ARE +BODY +FOOD
-exossātum		9295	1	1 +EX +ARE +BODY +FOOD
+exossat			9290	1	1 +EX +ÀRE +BODY +FOOD
+exossābitur		9291	1	1 +EX +ÀRE +BODY +FOOD
+exossābō		9292	1	1 +EX +ÀRE +BODY +FOOD
+exossāre		9293	1	1 +EX +ÀRE +BODY +FOOD
+exossās			9294	1	1 +EX +ÀRE +BODY +FOOD
+exossātum		9295	1	1 +EX +ÀRE +BODY +FOOD
 ---------------------------------------
 expalliātus		9296	1	1 +EX +ATUS +EQUIPMENT +CLOTHES
 ---------------------------------------
@@ -10315,9 +10321,9 @@ exscreā			9495	1	1
 exscrīpta			9496	1	1
 exscrīptōs			9497	1	1
 -------------------------------------------
-exsculpe			9498	1	1
-exsculpere		9499	1	1
-exsculpsī			9500	1	1
+exsculpe			9498	1	1 +r+SCALP +p+EX
+exsculpere		    9499	1	1 +r+SCALP +p+EX
+exsculpsī			9500	1	1 +r+SCALP +p+EX
 ---------------------------------------
 exsecūta			9501	1	1 +l+EXSEQUÌ +r+SEQU +p+EX
 exsequar			9502	4	4 +l+EXSEQUÌ +r+SEQU +p+EX
@@ -10331,6 +10337,7 @@ exsequī			    9509	12	10 +l+EXSEQUÌ +r+SEQU +p+EX
 exsequīst			9510	1	1 +l+EXSEQUÌ +r+SEQU +p+EX +ST
 ---------------------------------------
 exsercīrent			9511	1	1
+---------------------------------------
 exsicāsque			9512	1	1
 exsignāverō			9513	1	1
 exsilia			9514	1	1
@@ -14124,8 +14131,8 @@ interbibere			13001	1	1 +l+INTERBIBERE +r+BIB +p+INTER
 --------------------------------
 interbītat			13002	1	1 +l+INTERBÌTERE +r+BAET +p+INTER +DEATH
 --------------------------------
-intercesserit			13003	1	1
-intercessisse			13004	1	1
+intercesserit		13003	1	1
+intercessisse		13004	1	1
 intercessit			13005	1	1
 intercipit			13006	1	1
 interclūde			13007	1	1
@@ -15467,19 +15474,19 @@ liquōrēs			14256	1	1 +r+LIQU +ÒS
 -----------------------------------------
 litem			    14257	1	1
 -----------------------------------
-litterae		14258	4	2
-litteram		14259	2	2
-litteras		14260	1	1
-litterā			14261	1	1
-litterārium	    14262	1	1
-litterārum		14263	3	3
-litterās		14264	9	7
-litterāsque	    14265	1	1
-litterāta		14266	1	1
-litterātast		14267	1	1
-litterātus		14268	2	2
-litterātās		14269	1	1
-litterīs		14270	7	5
+litterae		14258	4	2 +TEXT
+litteram		14259	2	2 +TEXT
+litteras		14260	1	1 +TEXT
+litterā			14261	1	1 +TEXT
+litterārium	    14262	1	1 +TEXT
+litterārum		14263	3	3 +TEXT
+litterās		14264	9	7 +TEXT
+litterāsque	    14265	1	1 +TEXT
+litterāta		14266	1	1 +TEXT
+litterātast		14267	1	1 +ST +TEXT
+litterātus		14268	2	2 +TEXT
+litterātās		14269	1	1 +TEXT
+litterīs		14270	7	5 +TEXT
 -----------------------------------
 litāre			14271	1	1
 litātiōnem			14272	1	1
@@ -16579,7 +16586,7 @@ megaribus			15252	1	1
 megaronides			15253	1	1
 megarēs			15254	1	1
 megarōnidēs			15255	5	1
-mehercle			15256	5	4
+mehercle			15256	5	4 +GOD
 -------------------------------------------
 mei			15257	3	2
 meis			15258	1	1
@@ -16875,7 +16882,7 @@ meruisse			15511	7	6
 meruistis			15512	1	1
 meruistī			15513	5	4
 meruit			15514	1	1
-merula			15515	3	3
+merula			15515	3	3 +ANIMAL
 merulea			15516	1	1
 merum			15517	8	6
 merumst			15518	1	1
@@ -17116,15 +17123,15 @@ miseriās			15737	8	7
 miseriīs			15738	6	6
 miseriōrem			15739	2	2 +COMPARATIVE
 misero			15740	1	1
-miserrima			15741	1	1
-miserrimum			15742	2	2
-miserrimus			15743	5	5
-miserrimust			15744	1	1
-miserrimē			15745	1	1
-miserrimīs			15746	1	1
-miserrimōs			15747	1	1
-miserrumam			15748	1	1
-miserrumum			15749	1	1
+miserrima			15741	1	1 +SUPERLATIVE
+miserrimum			15742	2	2 +SUPERLATIVE
+miserrimus			15743	5	5 +SUPERLATIVE
+miserrimust			15744	1	1 +SUPERLATIVE
+miserrimē			15745	1	1 +SUPERLATIVE
+miserrimīs			15746	1	1 +SUPERLATIVE
+miserrimōs			15747	1	1 +SUPERLATIVE
+miserrumam			15748	1	1 +SUPERLATIVE
+miserrumum			15749	1	1 +SUPERLATIVE
 miserum			15750	61	25
 miserumque			15751	1	1
 miserumst			15752	1	1
@@ -20444,9 +20451,9 @@ pauperibus			18774	2	2
 pauperiem			18775	4	3
 pauperis			18776	2	2
 pauperiē			18777	1	1
-pauperiōris			18778	1	1
-pauperiōrum			18779	1	1
-pauperrimum			18780	1	1
+pauperiōris			18778	1	1 +COMPARATIVE
+pauperiōrum			18779	1	1 +COMPARATIVE
+pauperrimum			18780	1	1 +SUPERLATIVE
 paupertās			18781	5	4 +TÀT
 paupertāte			18782	2	2 +TÀT
 paupertātem			18783	6	6 +TÀT
@@ -21596,24 +21603,24 @@ PINSO
 	+ITO
 	+TORENSIS
 --------------------------------------
-pinsitant				19809	1		1	+ITO
-pinsētur				19810	1		1
-pistillum				19835	1		1 	+DIMINUTIVE +TILLUM
-pistor					19842	1		1 	+TOR
-pistrilla					19843	1		1 	+TRILLA
-pistrīnum				19844	10	5	+TRINUS
-pistrīnō				19845	5		5	+TRINUS
-pistrīnōrum			19846	1		1 	+TRINUS
-pistō						19847	1		1
-pistōre					19848	1		1 	+TOR
-pistōrem				19849	1		1 	+TOR
-pistōrensibus		19850	1		1 	+TORENSIS
-pistōrensium		19851	1		1 	+TORENSIS
-pistōrum				19852	1		1 	+TOR
-pistōrēs				19853	2		2 	+TOR
-pistōrī					19854	1		1 	+TOR
+pinsitant				19809	1		1	+ITO +FOOD
+pinsētur				19810	1		1 +FOOD
+pistillum				19835	1		1 	+DIMINUTIVE +TILLUM +FOOD
+pistor					19842	1		1 	+TOR +FOOD
+pistrilla					19843	1		1 	+TRILLA +FOOD
+pistrīnum				19844	10	5	+TRINUS +FOOD
+pistrīnō				19845	5		5	+TRINUS +FOOD
+pistrīnōrum			19846	1		1 	+TRINUS +FOOD
+pistō						19847	1		1 +FOOD
+pistōre					19848	1		1 	+TOR +FOOD
+pistōrem				19849	1		1 	+TOR +FOOD
+pistōrensibus		19850	1		1 	+TORENSIS +FOOD
+pistōrensium		19851	1		1 	+TORENSIS +FOOD
+pistōrum				19852	1		1 	+TOR +FOOD
+pistōrēs				19853	2		2 	+TOR +FOOD
+pistōrī					19854	1		1 	+TOR +FOOD
 --------------------------------------
-pithēcium			19855	2	2
+pithēcium			19855	2	2 +ANIMAL +INSULT
 --------------------------------------
 piu's			19856	1	1 +S
 pium			19857	1	1
@@ -21714,11 +21721,11 @@ plesidippus			19942	1	1
 pleusiclēs			19943	6	1
 plicātrīcem			19944	1	1 +TRIX
 -------------------------------------
-pluet			19945	1	1 +SKY
-pluit				19946	2	2 +SKY
-plūerat			20012	1	1 +SKY
+pluet			19945	1	1 +SKY +NATURE
+pluit				19946	2	2 +SKY +NATURE
+plūerat			20012	1	1 +SKY +NATURE
 -------------------------------------
-plumbeum		19947	1	1 +NATURE +EUS
+plumbeum		19947	1	1 +EUS +NATURE
 plumbeus			19948	2	2 +EUS +NATURE
 plumbeās			19949	1	1 +EUS +NATURE
 plumbeīs			19950	1	1 +EUS +NATURE
@@ -21798,10 +21805,10 @@ PLUMA
 	+EUS
 	+TILIS
 --------------------------------------
-plūma				20013	2	2
-plūmatile			20014	1	1 +TILIS
-plūmeā			20015	1	1 +EUS
-plūmā				20016	1	1
+plūma				20013	2	2 +ANIMAL
+plūmatile			20014	1	1 +TILIS +ANIMAL
+plūmeā			20015	1	1 +EUS +ANIMAL
+plūmā				20016	1	1 +ANIMAL
 ----------------------------------
 PLUS
 	+CULUS
@@ -21831,12 +21838,12 @@ plūsque			20038	3	3 +QUE
 ------------------------------------------
 po			20039	1	1
 ------------------------------------------
-podagrōsī			20040	1	1 +ÒSUS
-podagrōsīs			20041	1	1 +ÒSUS
+podagrōsī			20040	1	1 +ÒSUS +HEALTH
+podagrōsīs			20041	1	1 +ÒSUS +HEALTH
 ------------------------------------------
-poenae			20042	1	1
-poenā			20047	1	1
-poenās			20048	6	6
+poenae			20042	1	1 +JUSTICE
+poenā			20047	1	1 +JUSTICE
+poenās			20048	6	6 +JUSTICE
 ------------------------------------------
 poene			20043	1	1 +GEOGRAPHY
 poeniceō		20044	1	1 +ICUS +EUS +GEOGRAPHY
@@ -28131,8 +28138,8 @@ taedet				25753	6	4
 taedēbat			25754	1	1
 taesumst			25755	1	1 +ST
 --------------------------------
-taeterrime			25756	1	1
-taetrius				25757	1	1 +COMPARATIVE
+taeterrime			25756	1	1 +SUPERLATIVE
+taetrius			25757	1	1 +COMPARATIVE
 taetriōrem			25758	1	1 +COMPARATIVE
 --------------------------------
 talenta			25759	12	8 +MONEY
@@ -29083,17 +29090,17 @@ tuōst			26584	2	2 +ST
 tux				26565	1	1 +INTERJ
 ---------------------------------------
 tympanotrībam	26585	1	1 +COMPOUND
-tympanum			26586	1	1
+tympanum		26586	1	1
 ---------------------------------------
 tyndare			26587	6	1 +NAME
-tyndarum			26588	6	1 +NAME
-tyndarus			26589	4	1 +NAME
+tyndarum		26588	6	1 +NAME
+tyndarus		26589	4	1 +NAME
 tyndarō			26590	2	1 +NAME
 ---------------------------------------
 tyranne			26591	1	1 +JOB
-tyrannus			26592	1	1 +JOB
+tyrannus		26592	1	1 +JOB
 ---------------------------------------
-tābēscit			26593	2	2
+tābēscit		26593	2	2
 tābēscō			26594	1	1
 ---------------------------------------
 tāctiō			26595	4	3 +TION
@@ -29899,7 +29906,7 @@ veteribus			27307	1	1
 veteris			27308	7	6
 veternus			27309	1	1
 veternōsus			27310	1	1 +ÒSUS
-veterrimus			27311	1	1
+veterrimus			27311	1	1 +SUPERLATIVE
 veterātor			27312	2	2
 veterēs			27313	11	7
 veterī			27314	2	2
