@@ -1043,7 +1043,7 @@ adversa			906	1	1
 adversae			907	1	1
 adversandō			908	1	1
 adverser			909	1	1
-adversitōrēs			910	1	1
+adversitōrēs			910	1	1 +TÒR
 adversum			911	47	15 +UORSUS
 adversus				912	11	10 +UORSUS
 adversā				913	4	3  +UORSUS
@@ -3142,7 +3142,7 @@ audītum			2860	3	3
 audītāvī		2861	1	1 +FREQUENTATIVE
 audītīs			2862	1	1
 audītō			2863	2	2
-audītōrēs			2864	1	1
+audītōrēs			2864	1	1 +TÒR
 audītū			2865	1	1
 audītūra			2866	1	1 +r+AUD
 audīverim			2867	1	1
@@ -5449,7 +5449,7 @@ compresserat			4873	5	2
 compresserit			4874	1	1
 compressisse			4875	2	2
 compressit			4876	4	3
-compressiōnēs			4877	1	1
+compressiōnēs			4877	1	1 +TIÒN
 compressān			4878	1	1 +NE
 compressī			4879	1	1
 compressōris			4880	1	1
@@ -5662,11 +5662,11 @@ condemnātī			5076	1	1
 condemnāverō			5077	1	1
 condiam			5078	2	2
 condiciō			5079	8	7
-condiciōne			5080	2	2
-condiciōnem			5081	14	8
-condiciōnis			5082	1	1
-condiciōnum			5083	1	1
-condiciōnēs			5084	2	2
+condiciōne			5080	2	2 +IÒN
+condiciōnem			5081	14	8 +IÒN
+condiciōnis			5082	1	1 +IÒN
+condiciōnum			5083	1	1 +IÒN
+condiciōnēs			5084	2	2 +IÒN
 condictor			5085	1	1
 condictus			5086	1	1
 condidicistis			5087	1	1
@@ -5826,16 +5826,16 @@ conquinīscitō			5238	1	1 +SC
 conquiēscere			5239	1	1 +r+QUIÈ +SC
 conquiēscitō			5240	1	1 +r+QUIÈ +SC
 --------------------------------
-conquīstōrēs			5241	2	1
-conquīstōrēs			5242	1	1
+conquīstōrēs			5241	2	1 +TÒR
+conquīstōrēs			5242	1	1 +TÒR
 cōnsciu's			5243	1	1 +S
-cōnscreābor			5244	1	1
+cōnscreābor			5244	1	1 +BODY
 cōnscripstī			5245	1	1
 cōnsidium			5246	1	1
 cōnspe			5247	1	1
-cōnspicillō			5248	1	1
+cōnspicillō			5248	1	1 +PLACE
 cōnstitūeram			5249	1	1
-cōnsucidam			5250	1	1
+cōnsucidam			5250	1	1 +BEAUTY
 cōnsuetae			5251	1	1
 ---------------------------------------
 contechinātus			5252	1	1
@@ -5960,7 +5960,7 @@ conturbāstī			5363	1	1 +SYNCPERFECT
 contuī			5364	3	2
 contābēfacit			5365	1	1 +FACERE +COMPOUND
 contābēscit			5366	1	1 +SC
-contāgiōne			5367	1	1
+contāgiōne			5367	1	1 +IÒN
 contāminet			5368	1	1
 contāminārī			5369	1	1
 contāmināsse			5370	1	1
@@ -6759,8 +6759,8 @@ cēnseō		6080	1	1
 cēnset			6081	5	5
 cēnseās			6082	19	12
 cēnseō			6083	77	23
-cēnsiōne			6084	1	1
-cēnsiōnem			6085	1	1
+cēnsiōne			6084	1	1 +TIÒN
+cēnsiōnem			6085	1	1 +TIÒN
 cēnsuit			6086	2	2
 cēnsus			6087	1	1
 cēnsuī			6088	9	7
@@ -7534,8 +7534,8 @@ datātim			6820	1	1 +TIM
 datī			6821	2	2
 datīs			6822	3	2
 datō			6823	18	9
-datōrēs			6824	3	3
-datōrī			6825	1	1
+datōrēs			6824	3	3 +TÒR
+datōrī			6825	1	1 +TÒR
 datū			6826	1	1
 datūrae			6827	1	1
 datūram			6828	1	1
@@ -7697,7 +7697,7 @@ dicdum			6976	1	1 +IMPERATIVE +DUM
 diceae			6977	1	1
 diceam			6978	1	1
 dicent			6979	1	1
-diciōnem			6980	2	2
+diciōnem			6980	2	2 +IÒN
 dicta			6981	46	19
 dictast			6982	2	2 +ST
 dictitat			6983	2	2 +FREQUENTATIVE
@@ -9945,7 +9945,7 @@ exciam			9059	1	1
 excidisse			9060	2	2
 excidit			9061	4	3
 excidium			9062	1	1
-excidiōnem			9063	1	1
+excidiōnem			9063	1	1 +IÒN
 excidāt			9064	1	1
 excidērunt			9065	3	3
 excidīt			9066	2	2
@@ -9970,7 +9970,7 @@ exclūdētur			9084	1	1
 exclūdī			9085	2	2
 exclūsissimus			9086	1	1 +SUPERLATIVE
 exclūsit			9087	3	3
-exclūsiōne			9088	1	1
+exclūsiōne			9088	1	1 +TIÒN
 exclūsus			9089	1	1
 exclūsust			9090	1	1
 exclūsī			9091	1	1
@@ -10880,7 +10880,7 @@ factās			9934	1	1
 factī			9935	8	7
 factīs			9936	41	19
 factō			9937	24	13
-factōrēs			9938	1	1
+factōrēs			9938	1	1 +TÒR
 factōst			9939	12	12
 factū			9940	7	7
 factūra			9941	1	1
@@ -11001,11 +11001,11 @@ famī			10049	1	1 +HEALTH +FOOD
 -------------------------------------
 fandō			10050	2	2
 fannio			10051	2	2
-farferī			10052	1	1
+farferī			10052	1	1 +PLANT
 fartem			10053	1	1
 fartim			10054	1	1 +TIM
-fartōrēs			10055	2	2
-farīnā			10056	1	1
+fartōrēs			10055	2	2 +TÒR +JOB
+farīnā			10056	1	1 +FOOD
 fasciīs			10057	1	1
 fascēs			10058	1	1
 fassa			10059	2	2
@@ -11043,12 +11043,12 @@ faustum			10089	1	1
 fautrīx			10090	2	2 +TRÌC
 faveae			10091	1	1
 faveō			10092	1	1
-favitōribus			10093	1	1
-favitōrum			10094	1	1
-favitōrēs			10095	1	1
+favitōribus			10093	1	1 +TÒR
+favitōrum			10094	1	1 +TÒR
+favitōrēs			10095	1	1 +TÒR
 favēte			10096	1	1
-favīllae			10097	1	1
-favōnius			10098	2	2
+favīllae			10097	1	1 +NATURE
+favōnius			10098	2	2 +NATURE
 ------------------------------------
 faxim			10099	12	8 +l+FACERE +r+FAC
 faxint			10100	19	11  +l+FACERE +r+FAC
@@ -12222,7 +12222,7 @@ gestībant			11161	1	1
 gestīre			11162	1	1
 gestīs			11163	2	2
 gestō			11164	2	1
-gestōrēs			11165	1	1
+gestōrēs			11165	1	1 +TÒR
 gestū			11166	1	1
 -----------------------------------
 geta				11167	59	2  +NAME +SERVUS
@@ -12827,8 +12827,8 @@ hodiēst			11671	4	3 +ST +TIME +UNIVERBATION
 holera			11672	2	2 +PLANT +FOOD
 holeribus		11673	1	1 +PLANT +FOOD
 holerum		    11674	2	2 +PLANT +FOOD
-holitōrēs		11675	1	1 +JOB +PLANT +FOOD
-holitōrī		11676	1	1 +JOB +PLANT +FOOD
+holitōrēs		11675	1	1 +TÒR +JOB +PLANT +FOOD
+holitōrī		11676	1	1 +TÒR +JOB +PLANT +FOOD
 holus			11677	1	1 +PLANT +FOOD
 ------------------------------------
 homin			11678	1	1 +NE
@@ -15371,12 +15371,12 @@ lege			14052	2	1
 legerēs			14053	1	1
 legis			14054	1	1
 ---------------------------------
-legiō			14055	1	1 +JOB
-legiōne			14056	4	2 +JOB
-legiōnem		14057	8	6 +JOB
-legiōnibus	    14058	2	1 +JOB
-legiōnēs		14059	15	5 +JOB
-legiōnī			14060	3	3 +JOB
+legiō			14055	1	1 +IÒN +JOB
+legiōne			14056	4	2 +IÒN +JOB
+legiōnem		14057	8	6 +IÒN +JOB
+legiōnibus	    14058	2	1 +IÒN +JOB
+legiōnēs		14059	15	5 +IÒN +JOB
+legiōnī			14060	3	3 +IÒN +JOB
 -----------------------------------
 lem			14061	1	1
 -----------------------------------
@@ -15918,7 +15918,7 @@ lēgibus			14530	13	9
 ---------------------------------------------
 lēgirupa		14531	2	2 +r+LÈG +r+RUP +COMPOUND
 lēgirupam		14532	2	2 +r+LÈG +r+RUP +COMPOUND
-lēgirupiōnem	14533	1	1 +r+LÈG +r+RUP +COMPOUND
+lēgirupiōnem	14533	1	1 +r+LÈG +r+RUP +COMPOUND +IÒN
 ---------------------------------------------
 lēgum			14534	2	2
 lēgātum			14535	1	1
@@ -16053,8 +16053,8 @@ līberōsque		14657	1	1 +QUE +FAMILY
 lībram			14658	1	1 +EQUIPMENT
 ------------------------------------------------------
 lībrius			14659	1	1
-līctor			14660	1	1
-līctōrēs			14661	2	2
+līctor			14660	1	1 +TÒR
+līctōrēs		14661	2	2 +TÒR
 līmem			14662	1	1
 līmen			14663	9	8
 līmina			14664	1	1
@@ -17808,7 +17808,7 @@ mānserō			16235	1	1
 mānsisset			16236	1	1
 mānsistī			16237	2	2
 mānsit			16238	2	2
-mānsiōnēs			16239	1	1
+mānsiōnēs			16239	1	1 +TIÒN
 mānsum			16240	1	1
 mānsuētem			16241	2	1
 mānsuētīque			16242	1	1
@@ -18074,7 +18074,7 @@ mūcidum			16476	1	1
 mūcidus			16477	1	1
 ------------------------------------------
 mūla			16478	1	1 +ANIMAL
-mūliōnēs		16479	2	2 +ION +ANIMAL +JOB
+mūliōnēs		16479	2	2 +IÒN +ANIMAL +JOB
 mūlī			16480	1	1 +ANIMAL
 mūlōs			16481	2	2 +ANIMAL
 ------------------------------------------
@@ -18668,7 +18668,7 @@ nārrābō			    16973	9	8   +l+NÀRRÀRE +r+NÀRR +ÀRE
 nārrāre			    16974	12	10  +l+NÀRRÀRE +r+NÀRR +ÀRE
 nārrās			    16975	27	10  +l+NÀRRÀRE +r+NÀRR +ÀRE
 nārrāstī			16976	2	2   +l+NÀRRÀRE +r+NÀRR +ÀRE +SYNCPERFECT
-nārrātiōnis			16977	1	1   +l+NÀRRÀTIÒ +r+NÀRRÀ +r+NÀRR +TIÒ
+nārrātiōnis			16977	1	1   +l+NÀRRÀTIÒ +r+NÀRRÀ +r+NÀRR +TIÒN
 nārrātur			16978	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
 nārrātō			    16979	2	2   +l+NÀRRÀRE +r+NÀRR +ÀRE +IMPERATIVE
 nārrāveris			16980	1	1   +l+NÀRRÀRE +r+NÀRR +ÀRE
@@ -19276,8 +19276,8 @@ obserī			17538	1	1
 obsessor			17539	1	1 +TÒR
 obsideant			17540	1	1
 obsideātur			17541	1	1
-obsidium			17542	3	2
-obsidiōne			17543	3	3
+obsidium			17542	3	2 +WAR
+obsidiōne			17543	3	3 +IÒN +WAR
 obsidēre			17544	2	2
 obsiet			17545	1	1
 obsignant			17546	1	1
@@ -19338,29 +19338,29 @@ obstō			17596	1	1
 obsēverīs			17597	1	1
 obsēvistī			17598	1	1
 -------------------------------------------
-obsōnant			17599	1	1
-obsōnat			    17600	1	1
-obsōnium			17601	9	6
-obsōniumque			17602	1	1
-obsōniīs			17603	1	1
-obsōniō			    17604	3	3
-obsōnā			    17605	2	2
-obsōnābās			17606	1	1
-obsōnābō			17607	2	2
-obsōnāre			17608	3	3
-obsōnārier			17609	1	1
-obsōnārī			17610	2	2
-obsōnāte			17611	1	1
-obsōnātum			17612	6	6
-obsōnātumst			17613	3	3
-obsōnātust			17614	1	1
-obsōnātō			17615	1	1
-obsōnātōrem			17616	1	1 +TÒR
-obsōnātū			17617	3	2
-obsōnāvit			17618	2	2
-obsōnāvī			17619	1	1
-obsōnī			    17620	4	4
-obsōnō			    17621	1	1
+obsōnant			17599	1	1 +FOOD
+obsōnat			    17600	1	1 +FOOD
+obsōnium			17601	9	6 +FOOD
+obsōniumque			17602	1	1 +FOOD
+obsōniīs			17603	1	1 +FOOD
+obsōniō			    17604	3	3 +FOOD
+obsōnā			    17605	2	2 +FOOD
+obsōnābās			17606	1	1 +FOOD
+obsōnābō			17607	2	2 +FOOD
+obsōnāre			17608	3	3 +FOOD
+obsōnārier			17609	1	1 +FOOD
+obsōnārī			17610	2	2 +FOOD
+obsōnāte			17611	1	1 +FOOD
+obsōnātum			17612	6	6 +FOOD
+obsōnātumst			17613	3	3 +FOOD
+obsōnātust			17614	1	1 +FOOD
+obsōnātō			17615	1	1 +FOOD
+obsōnātōrem			17616	1	1 +TÒR +FOOD
+obsōnātū			17617	3	2 +FOOD
+obsōnāvit			17618	2	2 +FOOD
+obsōnāvī			17619	1	1 +FOOD
+obsōnī			    17620	4	4 +FOOD
+obsōnō			    17621	1	1 +FOOD
 --------------------------------------------
 obtaedēscat			17622	1	1 +SC
 obtemperant			17623	1	1
@@ -19625,13 +19625,13 @@ odiōsās		17872	2	2 +ÒSUS
 odiōsē			17873	3	2 +ÒSUS +È
 odiōsī			17874	1	1 +ÒSUS
 ---------------------------------------
-odor			17875	2	2
-odōre			17876	6	4
-odōrem			17877	1	1
-odōrāns			17878	1	1
-odōrāre			17879	1	1
-odōrēs			17880	2	2
-odōs			17881	4	3
+odor			17875	2	2 +SENSES
+odōre			17876	6	4 +SENSES
+odōrem			17877	1	1 +SENSES
+odōrāns			17878	1	1 +SENSES
+odōrāre			17879	1	1 +SENSES
+odōrēs			17880	2	2 +SENSES
+odōs			17881	4	3 +SENSES
 ---------------------------------------
 oedipō			17882	1	1 +NAME
 oedipus		17883	1	1 +NAME
@@ -19694,38 +19694,38 @@ ohē			17931	4	4
 oiei			17932	1	1
 oieī			17933	2	2
 -----------------------------------------
-olant			17934	3	2
-olea			17935	1	1
-olefactū			17936	1	1 +FACERE +COMPOUND
-olent			17937	5	5
-olentem			17938	1	1
-olere			17939	1	1
-oles			17940	1	1
-olet			17941	9	8
-oleum			17942	4	3
-oleāriī			17943	1	1
-oleō			17944	3	3
+olant			17934	3	2 +SENSES
+olea			17935	1	1 +FOOD +JOB
+olefactū		17936	1	1 +FACERE +COMPOUND +SENSES
+olent			17937	5	5 +SENSES
+olentem			17938	1	1 +SENSES
+olere			17939	1	1 +SENSES
+oles			17940	1	1 +SENSES
+olet			17941	9	8 +SENSES
+oleum			17942	4	3 +FOOD +JOB
+oleāriī			17943	1	1 +FOOD +JOB
+oleō			17944	3	3 +FOOD +JOB
 olfactā			17945	1	1 +COMPOUND
-olfactāre			17946	1	1 +COMPOUND
-olfēceris			17947	1	1 +COMPOUND
-olfēcissem			17948	1	1 +COMPOUND
+olfactāre			17946	1	1 +COMPOUND +SENSES
+olfēceris			17947	1	1 +COMPOUND +SENSES
+olfēcissem			17948	1	1 +COMPOUND +SENSES
 ---------------------------------------
-olympiae			17949	1	1
-olympicō			17950	1	1
-olympiō			17951	2	1
+olympiae			17949	1	1 +GEOGRAPHY
+olympicō			17950	1	1 +GEOGRAPHY +SPORT
+olympiō			17951	2	1 +NAME
 olympisce			17952	1	1
-olympiō			17953	5	1
-olympiōnem			17954	1	1
-olympiōnī			17955	2	1
-olympiōs			17956	1	1
+olympiō			17953	5	1 +NAME
+olympiōnem			17954	1	1 +NAME
+olympiōnī			17955	2	1 +NAME
+olympiōs			17956	1	1 +GEOGRAPHY +SPORT
 ---------------------------------------
-olēre			17957	1	1
-olēs			17958	1	1
-olēt			17959	1	1
+olēre			17957	1	1 +SENSES
+olēs			17958	1	1 +SENSES
+olēt			17959	1	1 +SENSES
 ---------------------------------------
-olīvum			17960	1	1 +PLANT
-olīvās			17961	1	1 +PLANT
-olīvī			17962	2	2 +PLANT
+olīvum			17960	1	1 +PLANT +FOOD
+olīvās			17961	1	1 +PLANT +FOOD
+olīvī			17962	2	2 +PLANT +FOOD
 ---------------------------------------
 omissam			17963	1	1
 omissiōrēs			17964	1	1
@@ -19761,7 +19761,7 @@ omoedia			17993	1	1
 omphalae			17994	1	1
 omīserō			17995	1	1
 on			17996	1	1
-onagrōst			17997	1	1
+onagrōst			17997	1	1 +ANIMAL
 ------------------------------------------
 onera			17998	1	1
 onerandus			17999	1	1
@@ -19836,11 +19836,11 @@ opiparē					18061	1	1  +COMPOUND
 opiparīsque				18062	1	1 +QUE +COMPOUND
 opis							18063	4	4
 ---------------------------------------
-opitulārier			18064	1	1 +HELP
-opitulārī				18065	1	1 +HELP
-opitulāta				18066	1	1 +HELP
-opitulātum			18067	1	1 +HELP
-opitulōr				18068	1	1 +HELP
+opitulārier			18064	1	1 +COMPOUND +HELP
+opitulārī				18065	1	1 +COMPOUND +HELP
+opitulāta				18066	1	1 +COMPOUND +HELP
+opitulātum			18067	1	1 +COMPOUND +HELP
+opitulōr				18068	1	1 +COMPOUND +HELP
 ----------------------------------
 oporteat			18069	6	6
 oportent			18070	1	1
@@ -19877,7 +19877,7 @@ oppidumst			18098	1	1 +ST
 oppidī			18099	4	4
 oppidīs			18100	1	1
 oppidō			18101	40	20
-oppignerāre			18102	1	1
+oppignerāre			18102	1	1 +MONEY
 oppii			18103	1	1
 --------------------------------------
 opplet			18104	1	1
@@ -19903,7 +19903,7 @@ oppresset			18121	1	1
 oppressisset			18122	1	1
 oppressit			18123	3	3
 oppressiunculae			18124	1	1 +CULUS +DIMINUTIVE
-oppressiōnem			18125	1	1
+oppressiōnem			18125	1	1 +TIÒN
 oppressās			18126	1	1
 opprimar			18127	1	1
 opprimat			18128	5	4
@@ -20052,10 +20052,10 @@ opīmitātēs			18268	2	2
 opīmā			18269	1	1
 opīmē			18270	1	1
 opīniō			18271	1	1
-opīniōne			18272	6	6
-opīniōnem			18273	2	2
-opīniōnēs			18274	1	1
-opīniōst			18275	2	2
+opīniōne			18272	6	6 +IÒN
+opīniōnem			18273	2	2 +IÒN
+opīniōnēs			18274	1	1 +IÒN
+opīniōst			18275	2	2 +IÒN +ST
 opīnor			18276	110	25
 opīnābar			18277	1	1
 opīnāre			18278	1	1
@@ -20202,10 +20202,10 @@ pallā			18396	3	2 +EQUIPMENT +CLOTHES
 pallās			18397	3	2 +EQUIPMENT +CLOTHES
 pallēs			18398	3	3
 pallōrem			18399	1	1
-palma			18400	1	1
-palmam			18401	5	5
-palmā			18402	1	1
-palmārium			18403	1	1
+palma			18400	1	1 +BODY
+palmam			18401	5	5 +BODY
+palmā			18402	1	1 +BODY
+palmārium			18403	1	1 +PLANT
 palpum			    18404	1	1
 palpā			    18405	1	1 +r+PALP +ÀRE
 palpābitur			18406	1	1 +r+PALP +ÀRE
@@ -20289,7 +20289,7 @@ parcere			18473	3	3
 parceret			18474	1	1
 parcet			18475	2	1
 parcior			18476	1	1 +COMPARATIVE
-parciprōmī			18477	1	1
+parciprōmī			18477	1	1 +COMPOUND
 parcissimum			18478	1	1 +SUPERLATIVE
 parcum			18479	4	3
 parcunt			18480	2	2
@@ -21270,13 +21270,15 @@ perpulistī			19410	1	1
 perpulit			19411	1	1
 perpulī			19412	2	2
 perputem			19413	1	1
-perpōtāvisse			19414	1	1
-perpōtāvī			19415	1	1
+-----------------------------------------
+perpōtāvisse			19414	1	1 +p+PER +INTENSITY
+perpōtāvī			19415	1	1 +p+PER +INTENSITY
+--------------------------------------
 perpūrigātīs			19416	1	1
 perquam			19417	3	3
 perque			19418	12	5
 perquīrunt			19419	1	1
-perquīsitōrēs			19420	1	1
+perquīsitōrēs			19420	1	1 +TÒR
 perreptāvī			19421	3	3
 perrēxī			19422	1	1
 persa			19423	3	1 +GEOGRAPHY
@@ -21656,16 +21658,16 @@ phīdippō			19761	2	1 +NAME +GREEK
 phō			19762	1	1
 phȳ			19763	1	1
 piam			19764	1	1
-pice			19765	2	2
-picem			19766	1	1
+pice			19765	2	2 +PLANT
+picem			19766	1	1 +PLANT
 picta			19767	2	2
 pictam			19768	3	3
-pictor			19769	3	3
+pictor			19769	3	3 +TÒR
 pictum			19770	5	4
-pictōrēs			19771	1	1
-pictūra			19772	3	3
-pictūrae			19773	1	1
-pictūrā			19774	2	2
+pictōrēs			19771	1	1 +TÒR
+pictūra			19772	3	3 +ÙRA
+pictūrae			19773	1	1 +ÙRA
+pictūrā			19774	2	2 +ÙRA
 ------------------------------------
 piem			19775	1	1
 pietās			19776	9	7 +TÀT
@@ -21762,19 +21764,19 @@ PINSO
 pīnsitant				19809	1		1	+ITO +FOOD +FREQUENTATIVE
 pīnsētur				19810	1		1 +FOOD
 pistillum				19835	1		1 	+DIMINUTIVE +TILLUM +FOOD
-pistor					19842	1		1 	+TOR +FOOD
-pistrilla					19843	1		1 	+TRILLA +FOOD
-pistrīnum				19844	10	5	+TRINUS +FOOD
-pistrīnō				19845	5		5	+TRINUS +FOOD
-pistrīnōrum			19846	1		1 	+TRINUS +FOOD
+pistor					19842	1		1 	+TÒR +FOOD
+pistrilla					19843	1		1 	+TRILLA +FOOD  +PLACE
+pistrīnum				19844	10	5	+TRINUS +FOOD +PLACE
+pistrīnō				19845	5		5	+TRINUS +FOOD  +PLACE
+pistrīnōrum			19846	1		1 	+TRINUS +FOOD +PLACE
 pistō						19847	1		1 +FOOD
-pistōre					19848	1		1 	+TOR +FOOD
-pistōrem				19849	1		1 	+TOR +FOOD
-pistōrēnsibus		19850	1		1 	+TORENSIS +FOOD
-pistōrēnsium		19851	1		1 	+TORENSIS +FOOD
-pistōrum				19852	1		1 	+TOR +FOOD
-pistōrēs				19853	2		2 	+TOR +FOOD
-pistōrī					19854	1		1 	+TOR +FOOD
+pistōre					19848	1		1 	 +TÒR +FOOD
+pistōrem				19849	1		1 	 +TÒR +FOOD
+pistōrēnsibus		19850	1		1 	+ +TÒR +ENSIS +FOOD
+pistōrēnsium		19851	1		1 	+ +TÒR +ENSIS +FOOD
+pistōrum				19852	1		1 	 +TÒR +FOOD
+pistōrēs				19853	2		2 	 +TÒR +FOOD
+pistōrī					19854	1		1 	 +TÒR +FOOD
 --------------------------------------
 pithēcium			19855	2	2 +ANIMAL +INSULT
 --------------------------------------
@@ -24618,10 +24620,10 @@ refrēgit			22421	1	1+l+REFRINGERE +r+FRAG +p+RE
 refrīxerit			22422	1	1
 regere			22423	1	1
 ----------------------------------
-regiōne			    22424	2	2
-regiōnem			22425	2	1
-regiōnibus			22426	7	6
-regiōnēs			22427	6	5
+regiōne			    22424	2	2 +IÒN
+regiōnem			22425	2	1 +IÒN
+regiōnibus			22426	7	6 +IÒN
+regiōnēs			22427	6	5 +IÒN
 ----------------------------------
 regredere			22428	1	1
 regrediōr			22429	1	1
@@ -24659,9 +24661,9 @@ relicuus			22459	1	1
 relicuī			22460	1	1
 relicuīst			22461	1	1
 relicuō			22462	1	1
-religiō			22463	2	2
-religiōne			22464	1	1
-religiōnem			22465	1	1
+religiō			22463	2	2 +IÒN
+religiōne			22464	1	1 +IÒN
+religiōnem			22465	1	1 +IÒN
 religiōsa			22466	1	1 +ÒSUS
 religiōsae			22467	1	1 +ÒSUS
 religiōst			22468	1	1 +ST
@@ -24992,7 +24994,7 @@ respīrā			    22761	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE +IMPERATIVE
 respīrāre			22762	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE
 respōnsant			22763	1	1
 respōnset			22764	1	1
-respōnsiōnēs			22765	1	1
+respōnsiōnēs			22765	1	1 +TIÒN
 respōnsum			22766	5	5
 respōnsumst			22767	2	2
 respōnsāre			22768	1	1
@@ -26963,8 +26965,8 @@ spōnsa			24530	2	2
 spōnsae			24531	2	2
 spōnsam			24532	4	4
 spōnsast			24533	1	1
-spōnsiō			24534	1	1
-spōnsiōne			24535	1	1
+spōnsiō			24534	1	1 +TIÒN
+spōnsiōne			24535	1	1 +TIÒN
 spōnsā			24536	1	1
 spūtātor			24537	1	1 +TÒR
 spūtō			24538	1	1
@@ -27181,10 +27183,10 @@ studia			24712	1	1
 studium		24713	5	4
 studiumst		24714	1	1
 studiīs			24715	1	1
-studiō			24716	11	8
-studiōne		24717	1	1
+studiō			24716	11	8 +IÒN
+studiōne		24717	1	1 +IÒN
 studiōrum	24718	1	1
-studiōst		24719	1	1
+studiōst		24719	1	1 +IÒN
 studiōsus		24720	1	1 +ÒSUS
 studiōsē		24721	4	4 +ÒSUS +È
 studuerit		24722	1	1
@@ -27783,10 +27785,10 @@ suspicētur			25260	1	1
 suspicō			25261	1	1
 suspēnsō			25262	1	1
 suspīciō			25263	10	9
-suspīciōne			25264	6	5
-suspīciōnem			25265	8	7
-suspīciōnēs			25266	2	2
-suspīciōst			25267	3	3
+suspīciōne			25264	6	5 +IÒN
+suspīciōnem			25265	8	7 +IÒN
+suspīciōnēs			25266	2	2 +IÒN
+suspīciōst			25267	3	3 +IÒN
 suspīciōsī			25268	1	1 +ÒSUS
 suspīritum			25269	2	2
 suspīritūs			25270	1	1
@@ -28241,11 +28243,11 @@ sūrīs			25677	1	1
 sūs			    25678	2	2 +ANIMAL
 sūsque			25679	1	1 +QUE +ANIMAL
 --------------------------------------------
-sūtor			25680	2	1 +EQUIPMENT +CLOTHES +JOB
+sūtor			25680	2	1 +TÒR +EQUIPMENT +CLOTHES +JOB
 sūtrium			25681	1	1 +GEOGRAPHY
 sūtēlās			25682	1	1 +ÈLA
 sūtēlīs			25683	1	1 +ÈLA
-sūtōrēs			25684	1	1 +EQUIPMENT +CLOTHES +JOB
+sūtōrēs			25684	1	1 +TÒR +EQUIPMENT +CLOTHES +JOB
 --------------------------------
 sȳcophanta				25685	9	7
 sȳcophantae			25686	2	2
@@ -31895,7 +31897,7 @@ _____________________________________
 īnfecta			28893	6	5
 īnfectum			28894	5	5
 īnfectā			28895	1	1
-īnfectōrēs			28896	1	1
+īnfectōrēs			28896	1	1 +TÒR +JOB +CLOTHES +EQUIPMENT
 īnferam			28897	1	1
 īnferiōrem			28898	1	1 +COMPARATIVE
 īnferre			28899	1	1
