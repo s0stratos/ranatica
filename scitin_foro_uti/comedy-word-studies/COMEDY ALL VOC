@@ -28735,17 +28735,17 @@ tibicinae			26096	1	1  +COMPOUND +MUSIC +JOB
 tibiis				26097	6	6 +MUSIC +EQUIPMENT
 -------------------------------------------
 ti			26093	2	2
-tibi			26094	1476	27 +IAMBIC_ABBR
-tibimet			26098	1	1 +MET
-tibine			26099	4	4 +NE +IAMBIC_ABBR
-tibinē			26100	1	1 +NE +IAMBIC_ABBR
-tibique			26101	7	6 +QUE +IAMBIC_ABBR
-tibis			26102	1	1
-tibist			26103	5	5 +ST
-tibī			26104	124	23
-tibīn			26105	1	1 +NE
-tibīque			26106	2	2 +QUE
-tibīst			26107	12	8
+tibi			26094	1476	27 +PPRON +IAMBIC_ABBR
+tibimet			26098	1	1 +PPRON +MET
+tibine			26099	4	4 +PPRON +NE +IAMBIC_ABBR
+tibinē			26100	1	1 +PPRON +NE +IAMBIC_ABBR
+tibique			26101	7	6 +PPRON +QUE +IAMBIC_ABBR
+tibis			26102	1	1 +PPRON
+tibist			26103	5	5 +PPRON +ST
+tibī			26104	124	23 +PPRON
+tibīn			26105	1	1 +PPRON +NE
+tibīque			26106	2	2 +PPRON +QUE
+tibīst			26107	12	8 +PPRON
 ----------------------------------------
 tigillō			26108	1	1 +ARCHITECT
 ----------------------------------------
@@ -29030,7 +29030,7 @@ trādō			26338	2	2
 ---------------------------------------
 trādūxistī			26339	1	1
 ---------------------------------------
-trāgulam			26340	3	3
+trāgulam			26340	3	3 +EQUIPMENT +WEAPON
 ---------------------------------------
 trāloquī			26341	1	1
 ---------------------------------------
@@ -29291,10 +29291,10 @@ tusculum		26551	1	1 +CULUS +DIMINUTIVE +EQUIPMENT
 ---------------------------------------
 tuscō			26552	2	2 +GEOGRAPHY
 ---------------------------------------
-tussiat			26553	1	1 +HEALTH
-tussiendō		26554	1	1 +ND +HEALTH
-tussīre			26555	1	1 +HEALTH
-tussīs			26556	1	1 +HEALTH
+tussiat			26553	1	1 +HEALTH +BODY_MOVEMENT
+tussiendō		26554	1	1 +ND +HEALTH +BODY_MOVEMENT
+tussīre			26555	1	1 +HEALTH +BODY_MOVEMENT
+tussīs			26556	1	1 +HEALTH +BODY_MOVEMENT
 ---------------------------------------
 tutor			26557	1	1
 ---------------------------------------
@@ -29353,19 +29353,19 @@ tālis			26602	1	1 +ALIS
 tālēs			26603	1	1 +ALIS
 tālī			26604	10	9 +ALIS
 ---------------------------------------
-tālīs			26605	3	3
-tālōs			26606	12	8
+tālīs			26605	3	3 +EQUIPMENT +BODY +ANIMAL
+tālōs			26606	12	8 +EQUIPMENT +BODY +ANIMAL
 ---------------------------------------
 tās			26607	1	1
 tāt			26608	1	1
 ---------------------------------------
-tē				26609	2274	26
-tēd			26617	52		19
-tēn			26638	7	4 +NE
-tēne			26639	5	5 +NE
-tēque		26640	21	15 +QUE
-tēst			26644	5	4 +ST
-tēte			26645	5	4 +REDUPL
+tē				26609	2274	26 +PPRON
+tēd			26617	52		19 +PPRON
+tēn			26638	7	4  +PPRON +NE
+tēne			26639	5	5  +PPRON +NE
+tēque		26640	21	15  +PPRON +QUE
+tēst			26644	5	4  +PPRON +ST
+tēte			26645	5	4  +PPRON +REDUPL
 tī				26646	1	1
 ---------------------------------------
 tēcta			26610	3	3 +ARCHITECT
@@ -29422,7 +29422,7 @@ tībīcinī			26656	1	1 +MUSIC +JOB
 tīmarchidēs			26657	1	1
 ---------------------------------------
 tīmōrūmenon			26658	1	1
-tīs			26659	4	4
+tīs			26659	4	4 +PPRON
 ---------------------------------------
 tītānum			26660	1	1
 tītānī			26661	1	1
@@ -29962,7 +29962,7 @@ verberibus			27132	7	6
 verberā			27133	1	1
 verberābere			27134	1	1
 verberābilissume			27135	1	1 +BILIS +SUPERLATIVE +VOCATIVE
-verberābundī			27136	1	1
+verberābundī			27136	1	1 +BUNDUS
 verberābō			27137	1	1
 verberāre			27138	5	4
 verberārem			27139	1	1
