@@ -369,8 +369,8 @@ acceptam			301	1	1
 acceptaque			302	3	2 +QUE
 acceptior			303	1	1 +COMPARATIVE
 acceptissimus			304	1	1 +SUPERLATIVE
-acceptor			305	1	1
-acceptrīcī			306	1	1
+acceptor			305	1	1 +TÒR
+acceptrīcī			306	1	1 +TRÌC
 acceptum			307	6	4
 acceptumst			308	2	2
 acceptus			309	3	3
@@ -574,7 +574,7 @@ accūsāre			487	1	1 +r+CAUS +p+AD
 accūsārī			488	2	1 +r+CAUS +p+AD
 accūsās			    489	2	2 +r+CAUS +p+AD
 accūsātam			490	1	1 +r+CAUS +p+AD
-accūsātrīx			491	1	1 +r+CAUS +p+AD +TRIX
+accūsātrīx			491	1	1 +r+CAUS +p+AD +TRÌC
 accūsātum			492	1	1 +r+CAUS +p+AD
 accūsāvit			493	1	1 +r+CAUS +p+AD
 accūsāvī			494	1	1 +r+CAUS +p+AD
@@ -871,10 +871,10 @@ adjūrāt			744	1	1
 adjūrō			745	5	3
 adjūtem			746	1	1
 adjūtor				747	6	5 +TOR
-adjūtrīce			748	2	2 +TRIX
-adjūtrīcēs			749	1	1 +TRIX
-adjūtrīx			750	4	3 +TRIX
-adjūtrīxque		751	1	1 +TRIX +QUE
+adjūtrīce			748	2	2 +TRÌC
+adjūtrīcēs			749	1	1 +TRÌC
+adjūtrīx			750	4	3 +TRÌC
+adjūtrīxque		751	1	1 +TRÌC +QUE
 adjūtum			752	2	2
 adjūtā			753	3	3
 adjūtābilem			754	1	1 +BILIS
@@ -943,8 +943,8 @@ admōvī			810	1	1
 ----------------------------------------------------
 adoptandum		    812	3	1   +l+ADOPTÀRE +r+OPT +p+AD +ND
 adoptat				813	3	2   +l+ADOPTÀRE +r+OPT +p+AD
-adoptātīcium		814	1	1   +l+ADOPTÀRE +r+OPT +p+AD +ICIUS
-adoptātīcius		815	1	1   +l+ADOPTÀRE +r+OPT +p+AD +ICIUS
+adoptātīcium		814	1	1   +l+ADOPTÀRE +r+OPT +p+AD +ÌCIUS
+adoptātīcius		815	1	1   +l+ADOPTÀRE +r+OPT +p+AD +ÌCIUS
 adoptāvit			816	3	1   +l+ADOPTÀRE +r+OPT +p+AD
 adoptāvī			817	1	1   +l+ADOPTÀRE +r+OPT +p+AD
 adoptō			    818	1	1   +l+ADOPTÀRE +r+OPT +p+AD
@@ -1052,7 +1052,7 @@ adversārier			915	2	2
 adversārium			916	1	1
 adversārius			917	1	1
 adversārī			918	5	5
-adversātrīx			919	1	1 +TRIX
+adversātrīx			919	1	1 +TRÌC
 adversātum			920	1	1
 adversātur			921	2	1
 adversātus			922	1	1
@@ -1111,7 +1111,7 @@ advorsāriīs			974	1	1
 advorsāriōs			975	2	2
 advorsārī			976	3	2
 advorsās			977	1	1
-advorsātrīx			978	1	1 +TRIX
+advorsātrīx			978	1	1 +TRÌC
 advorsī			979	1	1
 advorsūrōs			980	1	1
 advorte			981	4	1
@@ -1815,7 +1815,7 @@ amat			1619	56	24
 amatne			1620	1	1 +NE
 amatōrī			1621	1	1
 ambae			1622	27	11
-ambestrīcēs			1623	1	1
+ambestrīcēs			1623	1	1 +TRÌC
 ambigunt			1624	1	1
 ambiguum			1625	2	2
 ambiguō			1626	1	1
@@ -1997,8 +1997,8 @@ amātiōnibus			1787	1	1 +TIÒN
 amātiōst			1788	2	2 +TIÒN
 amātor			1789	42	18 +TÒR
 amātorculōs			1790	1	1 +TÒR +CULUS +DIMINUTIVE
-amātrīcem			1791	1	1 +TRIX
-amātrīx			1792	1	1 +TRIX
+amātrīcem			1791	1	1 +TRÌC
+amātrīx			1792	1	1 +TRÌC
 amātur			1793	2	2
 amātō			1794	2	2
 amātōr			1795	2	2 +TÒR
@@ -2812,7 +2812,7 @@ assentāris			2519	1	1
 assentārī			2520	5	4
 assentātiunculās		2521	1	1 +TIÒN +CULUS
 assentātiō				2522	1	1 +TIÒN
-assentātrīx				2523	1	1 +TRIX
+assentātrīx				2523	1	1 +TRÌC
 --------------------------------------
 assequar			2524	1	1 +l+ASSEQUÌ +r+SEQU +p+AD
 assequere			2525	2	2 +l+ASSEQUÌ +r+SEQU +p+AD
@@ -3905,7 +3905,7 @@ caesiam			3500	1	1 +COLOR
 caesius			3501	1	1 +COLOR
 -------------------------------------
 caesum			3502	2	2
-caesīcium			3503	1	1
+caesīcium			3503	1	1 +ÌCIUS
 -------------------------------------------
 calamistrum			3504	1	1 +EQUIPMENT
 calamistrāte		3505	1	1 +EQUIPMENT
@@ -4061,7 +4061,7 @@ cantitēs			3629	1	1 +ART +MUSIC
 cantiō				3630	2	2 +TIÒN +ART +MUSIC
 cantiōnem		    3631	2	1 +TIÒN +ART +MUSIC
 cantor				3632	4	4 +TÒR +ART +MUSIC
-cantrīcēs			3633	1	1 +TRIX +ART +MUSIC
+cantrīcēs			3633	1	1 +TRÌC +ART +MUSIC
 cantābat			3634	1	1 +ART +MUSIC
 cantārem			3635	1	1 +ART +MUSIC
 cantāret			3636	1	1 +ART +MUSIC
@@ -4633,9 +4633,9 @@ cibōst			4130	1	1 +ST +FOOD
 ciccum			4132	1	1
 cicer			4133	1	1 +PLANT +FOOD
 -----------------------------------------
-cicatrīcēs				4131	1	1 +TRIX
-cicātrīcēs				4134	1	1 +TRIX
-cicātrīcōsum		4135	1	1 +TRIX +ÒSUS
+cicatrīcēs				4131	1	1 +TRÌC
+cicātrīcēs				4134	1	1 +TRÌC
+cicātrīcōsum		4135	1	1 +TRÌC +ÒSUS
 -----------------------------------------
 cicōnia			4136	1	1 +ANIMAL
 -----------------------------------------
@@ -4701,7 +4701,7 @@ circumsistitis			4178	1	1
 -----------------------------------------------
 circumspectat				4179	2	2 +r+SPEC +p+CIRCUM +FREQUENTATIVE
 circumspectābam		        4180	1	1 +r+SPEC +p+CIRCUM +FREQUENTATIVE
-circumspectātrīx			4181	1	1 +r+SPEC +p+CIRCUM +TRIX
+circumspectātrīx			4181	1	1 +r+SPEC +p+CIRCUM +TRÌC
 circumspectō				4182	2	2 +r+SPEC +p+CIRCUM +FREQUENTATIVE
 circumspextī				4183	1	1 +r+SPEC +p+CIRCUM
 circumspexī					4184	1	1 +r+SPEC +p+CIRCUM
@@ -4736,7 +4736,7 @@ cistellam					4207	15	    3 +ELLUS +EQUIPMENT
 cistellula					4208	3		2 +ELLUS +ULUS +DIMINUTIVE +EQUIPMENT
 cistellulā					4209	1		1 +ELLUS +ULUS +DIMINUTIVE +EQUIPMENT
 cistellā					4210	2		1 +ELLUS +EQUIPMENT
-cistellātrīcēs			    4211	1		1 +ELLUS +TRIX +EQUIPMENT
+cistellātrīcēs			    4211	1		1 +ELLUS +TRÌC +EQUIPMENT
 cistulam					4212	6		3 +ULUS +DIMINUTIVE +EQUIPMENT
 cistulā						4213	2		2 +ULUS +DIMINUTIVE +EQUIPMENT
 cistulāst					4214	1		1 +ULUS +DIMINUTIVE +EQUIPMENT
@@ -5493,7 +5493,7 @@ compōnere			4917	1	1
 compōnit			4918	1	1
 compōnāmus			4919	1	1
 compōnī			4920	2	2
-compōtrīx			4921	1	1 +TRIX
+compōtrīx			4921	1	1 +TRÌC
 comēderit			4922	1	1
 comēderīs			4923	1	1
 comēdit			4924	2	1
@@ -5794,7 +5794,7 @@ conicitō			5208	2	2
 coniciās			5209	2	2
 coniciō			5210	2	2
 conjectem			5211	1	1
-conjectrīcī			5212	1	1
+conjectrīcī			5212	1	1 +TRÌC
 conjectum			5213	1	1
 conjectōre			5214	1	1 +TÒR
 conjectōrem			5215	1	1 +TÒR
@@ -5851,7 +5851,7 @@ contempsisse			5272	1	1
 contempsistī			5273	1	1
 contempsī			5274	2	2
 contemptim			5275	2	2 +TIM
-contemptrīcem			5276	1	1 +TRIX
+contemptrīcem			5276	1	1 +TRÌC
 contemptus			5277	2	2
 ---------------------------------------
 contemplat			5259	1	1
@@ -5983,7 +5983,7 @@ conventam			5386	3	3
 conventum			5387	4	3
 conventus			5388	1	1
 conventās			5389	1	1
-conventīciīs			5390	1	1 +ICIUS
+conventīciīs			5390	1	1 +ÌCIUS
 conventīs			5391	1	1
 conventō			5392	2	2
 conventūram			5393	1	1
@@ -7065,7 +7065,7 @@ cōnfīnia			6371	1	1
 cōnfīnxērunt			6372	2	1
 cōnfūdit			6373	1	1
 cōnfūgistī			6374	1	1
-cōnfūsīcium			5169	1	1
+cōnfūsīcium			5169	1	1 +ÌCIUS
 cōnfūtābitur			6375	1	1
 cōnfūtāverim			6376	1	1
 cōnfūtāvit			6377	1	1
@@ -7336,8 +7336,8 @@ cūnctās			6630	1	1
 cūnctī			6631	3	2
 cūnctīs			6632	1	1
 cūnctōs			6633	1	1
-cūnās			6634	3	1
-cūnīs			6635	3	3
+cūnās			6634	3	1 +EQUIPMENT
+cūnīs			6635	3	3 +EQUIPMENT
 cūr			6636	142	24
 cūra			6637	11	8
 cūrae			6638	5	5
@@ -7405,16 +7405,16 @@ cūrētur			6699	6	6
 cūrīs			6700	1	1
 cūrō			6701	11	8
 ---------------------------------------------
-cūstōdem			6702	8	5 +CUSTOS
+cūstōdem			6702	8	5 +CUSTOS +JOB
 cūstōdiam			6703	2	2 +CUSTOS +IA
 cūstōdit			6704	1	1 +CUSTOS +IRE
 cūstōdiā			6705	2	2 +CUSTOS +IA
 cūstōdiīsque		6706	1	1 +CUSTOS +IA +QUE
 cūstōdēlam			6707	4	3 +CUSTOS +ÈLA
 cūstōdēlā			6708	1	1 +CUSTOS +ÈLA
-cūstōdēs			6709	4	2 +CUSTOS
-cūstōdī				6710	3	2 +CUSTOS
-cūstōs				6711	13	9 +CUSTOS
+cūstōdēs			6709	4	2 +CUSTOS +JOB
+cūstōdī				6710	3	2 +CUSTOS +JOB
+cūstōs				6711	13	9 +CUSTOS +JOB
 ----------------------------------------
 cȳrēnās			    6712	2	1 +GEOGRAPHY
 cȳrēnēnsis			6713	2	1 +ENSIS +GEOGRAPHY
@@ -7710,7 +7710,7 @@ dictumst			6989	9	7 +ST
 dictus			6990	1	1
 dictust			6991	2	2 +ST
 dictātor			6992	1	1 +TÒR
-dictātrīx			6993	1	1 +TRIX
+dictātrīx			6993	1	1 +TRÌC
 dictātōrem			6994	1	1 +TÒR
 dictīs			6995	42	20
 dictō			6996	20	10
@@ -8262,7 +8262,7 @@ dēbeātur			7509	1	1
 dēbeō			7510	12	6
 dēbilia			7511	1	1 +BILIS
 dēbilis			7512	1	1 +BILIS
-dēblaterāvistī			7513	1	1
+dēblaterāvistī			7513	1	1 +SPEECH
 dēbuit			7514	3	2
 dēbuī			7515	2	1
 dēbēbat			7516	1	1
@@ -8572,18 +8572,18 @@ dēlūsistis			7812	1	1
 dēlūsistī			7813	1	1
 dēlūsum			7814	1	1
 dēlūsī			7815	1	1
-dēmaenete			7816	1	1
-dēmaenetum			7817	7	1
-dēmaenetus			7818	3	1
-dēmaenetī			7819	1	1
-dēmaenetō			7820	1	1
+dēmaenete			7816	1	1 +NAME
+dēmaenetum			7817	7	1 +NAME
+dēmaenetus			7818	3	1 +NAME
+dēmaenetī			7819	1	1 +NAME
+dēmaenetō			7820	1	1 +NAME
 dēmam			7821	4	4
-dēmarchus			7822	1	1
-dēmarchō			7823	1	1
+dēmarchus			7822	1	1 +NAME
+dēmarchō			7823	1	1 +NAME
 dēme			7824	2	2
 -----------------------------------
-dēmea			7825	5	1
-dēmeam			7826	1	1
+dēmea			7825	5	1 +NAME
+dēmeam			7826	1	1 +NAME
 ----------------------------------
 dēmentem			7827	1	1
 dēmentia			7828	1	1
@@ -8595,10 +8595,10 @@ dēmeā			7833	26	1
 dēmigrent			7834	1	1
 dēminuam			7835	1	1
 dēminuī			7836	1	1
-dēmiphō			7837	21	3
-dēmiphōnem			7838	1	1
-dēmiphōnī			7839	1	1
-dēmissīciīs			7840	1	1
+dēmiphō			7837	21	3 +NAME
+dēmiphōnem			7838	1	1 +NAME
+dēmiphōnī			7839	1	1 +NAME
+dēmissīciīs			7840	1	1 +ÌCIUS +EQUIPMENT +CLOTHES
 dēmissīs			7841	3	2
 dēmit			7842	1	1
 dēmitō			7843	1	1
@@ -11040,7 +11040,7 @@ faucēs			10086	2	2 +BODY
 faucīs			10087	2	2 +BODY +IACCUSATIVE
 fausta			10088	2	2
 faustum			10089	1	1
-fautrīx			10090	2	2 +TRIX
+fautrīx			10090	2	2 +TRÌC
 faveae			10091	1	1
 faveō			10092	1	1
 favitōribus			10093	1	1
@@ -12433,7 +12433,7 @@ gubernat				11349	1	1 +JOB
 gubernator				11350	1	1 +TÒR +JOB
 gubernābunt			    11351	1	1  +JOB
 gubernātor				11352	3	2 +TÒR +JOB
-gubernātrīx				11353	1	1 +TRIX +JOB
+gubernātrīx				11353	1	1 +TRÌC +JOB
 gubernātōrem			11354	2	1 +TÒR +JOB
 --------------------------------------------
 gubulim			11355	1	1
@@ -16964,27 +16964,27 @@ meret			15466	4	3
 -------------------------------------------
 +MERETRIX
 -------------------------------------------
-meretrix			15467	15	11 +TRIX +JOB +SEX
-meretrīce			15468	2	2 +TRIX +JOB +SEX
-meretrīcem			15469	33	14 +TRIX +JOB +SEX
-meretrīcemne		15470	1	1 +TRIX +NE +JOB +SEX
-meretrīciae			15471	1	1 +TRIX +IUS +JOB +SEX
-meretrīciam			15472	1	1 +TRIX +IUS +JOB +SEX
-meretrīcibus		15473	3	2 +TRIX +JOB +SEX
-meretrīcis			15474	1	1 +TRIX +JOB +SEX
-meretrīcium			15475	4	4 +TRIX +IUS +JOB +SEX
-meretrīcius			15476	2	2 +TRIX +IUS +JOB +SEX
-meretrīciā			15477	1	1 +TRIX +IUS +JOB +SEX
-meretrīciē			15478	1	1 +TRIX +IUS +E +JOB +SEX
-meretrīciīs			15479	2	2 +TRIX +IUS +JOB +SEX
-meretrīciōs			15480	1	1 +TRIX +IUS +JOB +SEX
-meretrīculae		15481	3	3 +TRIX +ULUS +DIMINUTIVE +JOB +SEX
-meretrīculās		15482	1	1 +TRIX +ULUS +DIMINUTIVE +JOB +SEX
-meretrīculīs		15483	1	1 +TRIX +ULUS +DIMINUTIVE +JOB +SEX
-meretrīcum			15484	8	5 +TRIX +JOB +SEX
-meretrīcēs			15485	14	7 +TRIX +JOB +SEX
-meretrīcī			15486	5	3 +TRIX +JOB +SEX
-meretrīx			15487	22	12 +TRIX +JOB +SEX
+meretrīx			15467	15	11 +TRÌC +JOB +SEX
+meretrīce			15468	2	2 +TRÌC +JOB +SEX
+meretrīcem			15469	33	14 +TRÌC +JOB +SEX
+meretrīcemne		15470	1	1 +TRÌC +NE +JOB +SEX
+meretrīciae			15471	1	1 +TRÌC +IUS +JOB +SEX
+meretrīciam			15472	1	1 +TRÌC +IUS +JOB +SEX
+meretrīcibus		15473	3	2 +TRÌC +JOB +SEX
+meretrīcis			15474	1	1 +TRÌC +JOB +SEX
+meretrīcium			15475	4	4 +TRÌC +IUS +JOB +SEX
+meretrīcius			15476	2	2 +TRÌC +IUS +JOB +SEX
+meretrīciā			15477	1	1 +TRÌC +IUS +JOB +SEX
+meretrīciē			15478	1	1 +TRÌC +IUS +E +JOB +SEX
+meretrīciīs			15479	2	2 +TRÌC +IUS +JOB +SEX
+meretrīciōs			15480	1	1 +TRÌC +IUS +JOB +SEX
+meretrīculae		15481	3	3 +TRÌC +ULUS +DIMINUTIVE +JOB +SEX
+meretrīculās		15482	1	1 +TRÌC +ULUS +DIMINUTIVE +JOB +SEX
+meretrīculīs		15483	1	1 +TRÌC +ULUS +DIMINUTIVE +JOB +SEX
+meretrīcum			15484	8	5 +TRÌC +JOB +SEX
+meretrīcēs			15485	14	7 +TRÌC +JOB +SEX
+meretrīcī			15486	5	3 +TRÌC +JOB +SEX
+meretrīx			15487	22	12 +TRÌC +JOB +SEX
 -------------------------------------------
 mergās			15488	1	1
 mergīs			15489	1	1
@@ -17355,7 +17355,7 @@ moderābor			15829	1	1
 moderāre			15830	1	1
 moderārier			15831	2	2
 moderārī			15832	4	4
-moderātrīx			15833	1	1 +TRIX
+moderātrīx			15833	1	1 +TRÌC
 moderēs			15834	1	1
 modesta			15835	2	2
 modestiam			15836	1	1
@@ -17460,7 +17460,7 @@ monendō			15926	1	1
 monent			15927	2	2
 monerulae			15928	1	1
 monet			15929	6	6
-monetrīx			15930	1	1 +TRIX
+monetrīx			15930	1	1 +TRÌC
 moneās			15931	4	4
 moneātis			15932	1	1
 moneātur			15933	1	1
@@ -18552,8 +18552,8 @@ novārum			16878	2	2
 novās			16879	7	3
 novē			16880	1	1
 novī			16881	12	10
-novīciae			16882	1	1
-novīcium			16883	2	2
+novīciae		16882	1	1 +ÌCIUS
+novīcium		16883	2	2 +ÌCIUS
 novō			16884	3	2
 novōrum			16885	1	1
 novōs			16886	2	2
@@ -18638,8 +18638,8 @@ nurūs				16948	1	1 +FAMILY
 nusquam			16949	50	22 +NEGATIVE_WORD +UNIVERBATION
 nusquamst		16950	6	5 +ST +NEGATIVE_WORD +UNIVERBATION
 ----------------------------------------
-nutrix			16951	4	4 +FAMILY +JOB
-nvtrix			16952	1	1 +FAMILY +JOB
+nūtrīx			16951	4	4 +TRÌC +FAMILY +JOB
+nūtrīx			16952	1	1 +TRÌC +FAMILY +JOB
 ----------------------------------------
 nycchō			16953	1	1
 ----------------------------------------
@@ -19064,15 +19064,15 @@ nūtāsse			17348	1	1 +r+NÙT +FREQUENTATIVE +SYNCPERFECT
 nūtō			17349	1	1 +r+NÙT +FREQUENTATIVE
 ----------------------------------------
 nūtrīcant			17338	1	1
-nūtrīce			17339	4	2 +TRIX
-nūtrīcem			17340	11	7 +TRIX
-nūtrīcis			17341	1	1 +TRIX
+nūtrīce			17339	4	2 +TRÌC
+nūtrīcem			17340	11	7 +TRÌC
+nūtrīcis			17341	1	1 +TRÌC
 nūtrīcāre			17342	1	1
 nūtrīcātū			17343	1	1
-nūtrīcēs			17344	2	2 +TRIX
-nūtrīcī			17345	3	3 +TRIX
-nūtrīx			17346	9	7 +TRIX
-nūtrīxque			17347	1	1 +TRIX
+nūtrīcēs			17344	2	2 +TRÌC
+nūtrīcī			17345	3	3 +TRÌC
+nūtrīx			17346	9	7 +TRÌC
+nūtrīxque			17347	1	1 +TRÌC
 -----------------------------------------------
 o			17350	11	7
 ob			17351	196	26
@@ -19163,7 +19163,7 @@ oblongīs			17433	2	1
 obloquere			17434	4	3
 obloquī			17435	1	1
 oblāta			17436	1	1
-oblātrātrīcem			17437	1	1 +TRIX
+oblātrātrīcem			17437	1	1 +TRÌC
 oblātum			17438	1	1
 oblātumst			17439	1	1
 oblītum			17440	4	4
@@ -19311,10 +19311,10 @@ obsorbuī			17571	1	1
 obstant			17572	1	1
 obstat			17573	3	3
 obstet			17574	2	1
-obstetrix			17575	1	1 +TRIX
-obstetrīcem			17576	6	2 +TRIX
-obstetrīcis			17577	1	1 +TRIX
-obstetrīx			17578	1	1 +TRIX
+obstetrīx			17575	1	1 +TRÌC
+obstetrīcem			17576	6	2 +TRÌC
+obstetrīcis			17577	1	1 +TRÌC
+obstetrīx			17578	1	1 +TRÌC
 obstinātē			17579	2	2
 obstināvit			17580	1	1
 obstipuistī			17581	1	1
@@ -19933,7 +19933,7 @@ ops			18151	1	1
 opscūrāsse			18152	1	1 +SYNCPERFECT
 opstant			18153	1	1
 opstent			18154	1	1
-opstetrīx			18155	1	1 +TRIX
+opstetrīx			18155	1	1 +TRÌC
 opstipuīstī			18156	1	1
 opstiterit			18157	1	1
 opstitisse			18158	1	1
@@ -21332,7 +21332,7 @@ persuādēre			19470	3	3
 persuādērēs			19471	1	1
 persuādērī			19472	1	1
 persuāsit			19473	4	3
-persuāstrīcēs			19474	1	1 +TRIX
+persuāstrīcēs			19474	1	1 +TRÌC
 persuāsumst			19475	1	1
 persuāsū			19476	1	1
 -------------------------------------------
@@ -21875,7 +21875,7 @@ plectilis			19940	1	1
 plectitur			19941	1	1
 plesidippus			19942	1	1
 pleusiclēs			19943	6	1
-plicātrīcem			19944	1	1 +TRIX
+plicātrīcem			19944	1	1 +TRÌC
 -------------------------------------
 pluet			19945	1	1 +SKY +NATURE
 pluit				19946	2	2 +SKY +NATURE
@@ -22394,7 +22394,7 @@ praebēn			20387	1	1 +NE
 praebērier			20388	3	2
 praebērī			20389	2	2
 praebēs			20390	2	2
-praecantrīcī			20391	1	1 +TRIX
+praecantrīcī			20391	1	1 +TRÌC
 praecautō			20392	1	1
 praecavendum			20393	1	1 +ND
 praecaveō			20394	1	1
@@ -22649,12 +22649,12 @@ praestringat			20605	1	1 +l+PRAESTRINGERE +r+STRING +p+PRAE
 praestringit			20606	1	1 +l+PRAESTRINGERE +r+STRING +p+PRAE
 ---------------------------------------
 praestrīgiātor			20607	2	2 +TÒR
-praestrīgiātrīx			20608	1	1 +TRIX
+praestrīgiātrīx			20608	1	1 +TRÌC
 praestrīgiātōr			20609	2	2 +TÒR
 praestābilius			20610	1	1 +BILIS
 praestāre			20611	2	2
 praestīgiae			20612	1	1
-praestīgiātrīx			20613	1	1 +TRIX
+praestīgiātrīx			20613	1	1 +TRÌC
 ---------------------------------------------
 praestō			        20614	9	8   +l+PRAESTÒ
 praestōst		        20622	5	3   +l+PRAESTÒ +ST
@@ -26252,7 +26252,7 @@ serviō			23868	1	1
 servit			23869	7	3
 servitiumst			23870	1	1
 servitiō			23871	1	1
-servitrīcium			23872	1	1 +TRIX +IUM
+servitrīcium			23872	1	1 +ÌCIUS
 servitus			23873	2	2 +TUT
 servitūs			23874	7	5 +TUT
 servitūte			23875	8	3 +TUT
@@ -26307,7 +26307,7 @@ servāstis			23917	1	1
 servāta			23918	3	3
 servātam			23919	1	1
 servāte			23920	4	2
-servātrīx			23921	1	1 +TRIX
+servātrīx			23921	1	1 +TRÌC
 servātum			23922	9	9
 servātur			23923	3	3
 servātō			23924	2	2
@@ -26887,8 +26887,8 @@ sphaeriō			24464	1	1
 sphingī			24465	1	1
 spicit			24466	1	1
 spiciō			24467	1	1
-spinter			24468	8	1
-spinturnīcium			24469	1	1
+spinter			24468	8	1 +EQUIPMENT +JEWEL
+spinturnīcium			24469	1	1 +DIMINUTIVE +ANIMAL
 spissam			24470	1	1
 spissigradissimōs			24471	1	1 +COMPOUND +SUPERLATIVE
 spissum			24472	1	1
@@ -26946,7 +26946,7 @@ spērās			24513	8	6
 spērāsse			24514	1	1
 spērātam			24515	2	2
 spērāte			24516	2	2
-spērātrīx			24517	1	1 +TRIX
+spērātrīx			24517	1	1 +TRÌC
 spērāverint			24518	1	1
 spērāverit			24519	1	1
 spērāvit			24520	1	1
@@ -27075,8 +27075,8 @@ stimuleum			24626	1	1 +EUS +EQUIPMENT
 stimulor			24627	1	1
 stimulum			24628	4	4 +EQUIPMENT
 stimulus			24629	2	2 +EQUIPMENT
-stimulātrīcem		24630	1	1 +TRIX
-stimulātrīcī		24631	1	1 +TRIX
+stimulātrīcem		24630	1	1 +TRÌC
+stimulātrīcī		24631	1	1 +TRÌC
 stimulīs			24632	3	3 +EQUIPMENT
 stimulō			    24633	2	2 +EQUIPMENT
 stimulōrum			24634	3	3 +EQUIPMENT
@@ -27340,7 +27340,7 @@ subigit			24848	4	4
 subigitāre			24849	4	4 +FREQUENTATIVE
 subigitāret			24850	1	1 +FREQUENTATIVE
 subigitātiōnēs		24851	1	1 +TIÒN
-subigitātrīx		24852	1	1 +TRIX
+subigitātrīx		24852	1	1 +TRÌC
 subigitō			24853	1	1 +FREQUENTATIVE
 subigor			24854	1	1
 subigunt			24855	2	2
@@ -27635,8 +27635,8 @@ suppositiōne		25117	1	1 +TIÒN
 suppositiōnem		25118	1	1 +TIÒN
 suppositiōnemque	25119	1	1 +TIÒN +QUE
 suppositum			25120	1	1
-suppositīcium		25121	1	1 +ICIUS
-suppostrīx			25122	1	1 +TRIX
+suppositīcium		25121	1	1 +ÌCIUS
+suppostrīx			25122	1	1 +TRÌC
 supposuit			25123	2	2
 supposīvit			25124	2	2
 supposīvī			25125	1	1
@@ -27685,9 +27685,9 @@ surgō			25164	1	1
 surpiculīs			25165	1	1
 surpit			25166	1	1
 surpuit			25167	4	1
-surrepticiī				25168	1	1 +ICIUS
-surreptīcius			25169	1	1 +ICIUS
-surreptīciō			25170	1	1 +ICIUS
+surrepticiī				25168	1	1 +ÌCIUS
+surreptīcius			25169	1	1 +ÌCIUS
+surreptīciō			25170	1	1 +ÌCIUS
 surripere			25171	2	2
 surriperent			25172	1	1
 surripiam			25173	1	1
@@ -27713,9 +27713,9 @@ surruptus			25192	2	1
 surruptust			25193	1	1
 surruptās			25194	1	1
 surruptāsque			25195	1	1
-surruptīcium			25196	1	1 +ICIUS
-surruptīcius			25197	1	1 +ICIUS
-surruptīciās			25198	1	1 +ICIUS
+surruptīcium			25196	1	1 +ÌCIUS
+surruptīcius			25197	1	1 +ÌCIUS
+surruptīciās			25198	1	1 +ÌCIUS
 surruptō			25199	1	1
 surruptūrum			25200	1	1
 surrupuisse			25201	6	2
@@ -29411,7 +29411,7 @@ tītānī			26661	1	1
 tōnsilia			26662	2	2
 tōnsitārī			26663	1	1
 tōnsor			    26664	1	1 +TÒR +JOB
-tōnstrīcem			26665	3	1 +TRIX +JOB
+tōnstrīcem			26665	3	1 +TRÌC +JOB
 tōnstrīna			26666	1	1 +INA  +JOB +PLACE
 tōnstrīnam			26667	2	1 +INA  +JOB +PLACE
 tōnstrīnā			26668	2	2 +INA  +JOB +PLACE
@@ -30170,7 +30170,7 @@ victitāmus			27349	1	1 +FREQUENTATIVE
 victitāre			27350	2	2 +FREQUENTATIVE
 victitās			27351	1	1 +FREQUENTATIVE
 victor			27352	3	3 +TÒR
-victrīxque			27353	1	1 +TRIX +QUE
+victrīxque			27353	1	1 +TRÌC +QUE
 victum			27354	3	3
 victumās			27355	1	1
 victus			27356	7	5
@@ -31601,7 +31601,7 @@ ATER
 ēmissust		28632	1	1 +ST
 ēmissē			28633	1	1
 ēmissēt			28634	1	1
-ēmissīciīs		28635	1	1 +CIUS
+ēmissīciīs		28635	1	1 +ÌCIUS
 ---------------------------------------
 ēmittam			28639	4	4
 ēmittar			28640	1	1
@@ -32338,7 +32338,7 @@ in insidias deuenire
 ōrātiōnī		29300	3	3 +TIÒN
 ōrātiōst		29301	6	4 +TIÒN
 ōrātor			29302	6	4 +TÒR
-ōrātrīcem		29303	1	1 +TRIX
+ōrātrīcem		29303	1	1 +TRÌC
 ōrātu's			29304	1	1 +S
 ōrātum			29305	6	5
 ōrātur			29306	1	1
