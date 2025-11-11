@@ -1170,10 +1170,10 @@ ae			1030	2	2
 aeacidīnīs			1031	1	1 +NAME
 aed			1032	1	1
 -------------------------------------------
-aede				1033	2	2 +ARCHITECT
-aedem				1034	11	5 +ARCHITECT
-aedibus			    1035	85	21 +ARCHITECT
-aedibust			1036	1	1 +ARCHITECT
+aede				1033	2	2 +ARCHITECT +PLACE
+aedem				1034	11	5 +ARCHITECT +PLACE
+aedibus			    1035	85	21 +ARCHITECT +PLACE
+aedibust			1036	1	1 +ST +ARCHITECT +PLACE
 aediculae			1037	1	1 +CULUS +DIMINUTIVE +ARCHITECT
 aediculam			1038	1	1 +CULUS +DIMINUTIVE +ARCHITECT
 aedificantur		1039	1	1 +FACERE +COMPOUND +ARCHITECT
@@ -1184,47 +1184,48 @@ aedificātiō			1043	2	2 +FACERE +ARCHITECT
 aedificātās			1044	1	1 +FACERE +COMPOUND +ARCHITECT
 aedificātō			1045	1	1 +FACERE +COMPOUND +IMPERATIVE +ARCHITECT
 aedilib			1046	2	2
-aedilibus			1047	4	3
-aeditumum			1048	1	1
-aedium			1049	13	7
-aedēs			1050	41	17
-aedīlem			1051	1	1 +ILIS
-aedīlibus			1052	1	1 +ILIS
-aedīliciās			1053	1	1 +ILIS
-aedīlis			1054	1	1 +ILIS
-aedīlitātem			1055	1	1 +ILIS +TAT
+aedilibus			1047	4	3 +JOB
+aeditumum			1048	1	1 +JOB
+aedium			1049	13	7 +PLACE
+aedēs			1050	41	17 +PLACE
+aedīlem			1051	1	1 +ILIS +JOB
+aedīlibus			1052	1	1 +ILIS +JOB
+aedīliciās			1053	1	1 +ILIS +ICIUS +JOB
+aedīlis			1054	1	1 +ILIS +JOB
+aedīlitātem			1055	1	1 +ILIS +TAT +JOB
 aedīlium			1056	1	1 +ILIS
-aedīlēs			1057	3	3 +ILIS
-aedīlīs			1058	1	1 +ILIS
-aedīs			1059	167	25
-aeger			1060	1	1
-aegra			1061	2	2
-aegram			1062	4	2
-aegrast			1063	1	1
-aegrimōnia			1064	1	1 +MÒNI +IA
-aegrimōniā			1065	1	1 +MÒNI +IA
-aegritūdine			1066	10	9 +TUDIN
-aegritūdinem			1067	4	3 +TUDIN
-aegritūdinum			1068	1	1 +TUDIN
-aegritūdinumst			1069	1	1 +TUDIN +ST
-aegritūdō			1070	13	9 +TUDIN
-aegrius			1071	2	2
-aegrum			1072	1	1
-aegrē			1073	40	16
-aegrēque			1074	1	1 +QUE
-aegrēst			1075	8	7
-aegrī			1076	1	1
-aegrōta			1077	1	1
-aegrōtam			1078	1	1
-aegrōtant			1079	2	1
-aegrōtum			1080	3	2
-aegrōtus			1081	1	1
-aegrōtā			    1082	1	1
-aegrōtāre			1083	1	1
-aegrōtāvī			1084	1	1
-aegrōtī			    1085	1	1
-aegrōtīs			1086	2	2
-aegrōtōs			1087	1	1
+aedīlēs			1057	3	3 +ILIS +JOB
+aedīlīs			1058	1	1 +ILIS +IACCUSATIVE +JOB
+aedīs			1059	167	25 +IACCUSATIVE +PLACE
+----------------------------------------
+aeger			1060	1	1 +HEALTH
+aegra			1061	2	2 +HEALTH
+aegram			1062	4	2 +HEALTH
+aegrast			1063	1	1 +HEALTH
+aegrimōnia			1064	1	1 +MÒNI +IA +HEALTH
+aegrimōniā			1065	1	1 +MÒNI +IA +HEALTH
+aegritūdine			1066	10	9 +TUDIN +HEALTH
+aegritūdinem			1067	4	3 +TUDIN +HEALTH
+aegritūdinum			1068	1	1 +TUDIN +HEALTH
+aegritūdinumst			1069	1	1 +TUDIN +ST +HEALTH
+aegritūdō			1070	13	9 +TUDIN +HEALTH
+aegrius			1071	2	2 +HEALTH
+aegrum			1072	1	1 +HEALTH
+aegrē			1073	40	16 +HEALTH
+aegrēque			1074	1	1 +QUE +HEALTH
+aegrēst			1075	8	7 +HEALTH
+aegrī			1076	1	1 +HEALTH
+aegrōta			1077	1	1 +HEALTH
+aegrōtam			1078	1	1 +HEALTH
+aegrōtant			1079	2	1 +HEALTH
+aegrōtum			1080	3	2 +HEALTH
+aegrōtus			1081	1	1 +HEALTH
+aegrōtā			    1082	1	1 +HEALTH
+aegrōtāre			1083	1	1 +HEALTH
+aegrōtāvī			1084	1	1 +HEALTH
+aegrōtī			    1085	1	1 +HEALTH
+aegrōtīs			1086	2	2 +HEALTH
+aegrōtōs			1087	1	1 +HEALTH
 -----------------------------------------
 aegyptiam			1088	2	1 +GEOGRAPHY
 aegyptum			1089	1	1 +GEOGRAPHY
@@ -1281,7 +1282,7 @@ aerumnōsam				1137	1	1 +l+AERUMNÒSUS +r+AERUMN +ÒSUS
 aerumnōsissimum		    1138	1	1 +l+AERUMNÒSUS +r+AERUMN +ÒSUS +SUPERLATIVE
 aerumnōsās				1139	1	1 +l+AERUMNÒSUS +r+AERUMN +ÒSUS
 --------------------------------------
-aes			            1140	8	5
+aes			            1140	8	5 +MONEY +NATURE
 --------------------------------------
 aeschine				1141	14	1 +VOCATIVE +NAME +ADULESCENS
 aeschinum			    1142	6	2 +NAME +ADULESCENS
