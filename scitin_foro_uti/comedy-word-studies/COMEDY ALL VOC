@@ -175,21 +175,21 @@ abnūtō			139	1	1 +FREQUENTATIVE +BODY_MOVEMENT
 abortiōnī			140	1	1 +TIÒN
 abortum			141	1	1
 ------------------------------
-abrepta			142	1	1
-abreptae			143	1	1
-abreptam			144	2	1
-abreptum			145	1	1
-abripiat			146	1	1
-abripiet			147	1	1
-abripite			148	1	1
-abripiēre			149	1	1
-abripuit			150	1	1
-abripuī			    151	1	1
-abripī			    152	2	2
+abrepta			    142	1	1 +r+RAP +p+AB
+abreptae			143	1	1 +r+RAP +p+AB
+abreptam			144	2	1 +r+RAP +p+AB
+abreptum			145	1	1 +r+RAP +p+AB
+abripiat			146	1	1 +r+RAP +p+AB
+abripiet			147	1	1 +r+RAP +p+AB
+abripite			148	1	1 +r+RAP +p+AB
+abripiēre			149	1	1 +r+RAP +p+AB
+abripuit			150	1	1 +r+RAP +p+AB
+abripuī			    151	1	1 +r+RAP +p+AB
+abripī			    152	2	2 +r+RAP +p+AB
 ------------------------------
 abrogant			153	1	1
 ------------------------------
-abrādī			    154	1	1
+abrādī			    154	1	1 +r+RÀD +p+AB+REMOVE +BEAUTY
 ------------------------------------
 abscesserat			156	1	1
 abscesserit			157	4	2
@@ -2367,11 +2367,12 @@ applaudere			2122	1	1 +l+APPLAUDERE +r+PLAUD +p+AD
 applaudite			2123	2	2 +l+APPLAUDERE +r+PLAUD +p+AD
 applaudāmus			2124	1	1 +l+APPLAUDERE +r+PLAUD +p+AD
 --------------------------------------
-applicant			2125	2	2
-applicat			2126	2	1
-applicāre			2127	1	1
-applicāsse			2128	1	1
-applīcāverīs			2129	1	1
+applicant			2125	2	2 +r+PLIC +p+AD
+applicat			2126	2	1 +r+PLIC +p+AD
+applicāre			2127	1	1 +r+PLIC +p+AD
+applicāsse			2128	1	1 +r+PLIC +p+AD
+applīcāverīs		2129	1	1 +r+PLIC +p+AD
+-------------------------------
 apportant			2130	1	1
 apportat			2131	2	2
 apportet			2132	3	3
@@ -5414,9 +5415,11 @@ complexum			4833	2	2
 complexus			4834	2	1
 complexust			4835	1	1
 complexōs			4836	2	1
-complicandīs		4837	1	1
-complicō			4838	1	1
-complusculōs		4839	2	2  +CULUS +DIMINUTIVE
+-------------------------------------------
+complicandīs		4837	1	1 +r+PLIC +p+CON
+complicō			4838	1	1 +r+PLIC +p+CON
+--------------------------------------------
+complusculōs		4839	2	2 +CULUS +DIMINUTIVE
 complēbantur		4840	1	1
 complēbāt			4841	1	1
 complēbātur			4842	1	1
@@ -6186,10 +6189,10 @@ corruptēlam			5552	1	1 +r+RUP +p+CON +ÈLA
 corruptō			5553	1	1 +l+CORRUMPERE +r+RUP +p+CON
 corruptōrem			5554	1	1 +l+CORRUMPERE +r+RUP +p+CON +TÒR
 ---------------------------------------
-corrādet			5555	1	1
-corrāditur			5556	1	1
-corrādī			5557	1	1
-corrāsī			5558	1	1
+corrādet		5555	1	1 +r+RÀD +p+CON+ASSEMBLE
+corrāditur		5556	1	1 +r+RÀD +p+CON+ASSEMBLE
+corrādī			5557	1	1 +r+RÀD +p+CON+ASSEMBLE
+corrāsī			5558	1	1 +r+RÀD +p+CON+ASSEMBLE
 ---------------------------------------
 corrēctor		5559	1	1
 corrēpere		5560	1	1
@@ -7899,10 +7902,10 @@ disperībit			7159	1	1
 dispessīs			7160	1	1
 dispicere			7161	1	1
 dispiciam			7162	1	1
-displiceat			7163	1	1
-displiceō			7164	2	2
-displicēbit			7165	1	1
-dispudet			7166	3	3
+displiceat			7163	1	1 +r+PLAC
+displiceō			7164	2	2 +r+PLAC
+displicēbit			7165	1	1 +r+PLAC
+dispudet			7166	3	3 +r+PUD
 dispulsōs			7167	1	1
 disputant			7168	1	1
 disputem			7169	1	1
@@ -8949,7 +8952,9 @@ dētēxitque			8154	1	1
 dētōnsa			8155	1	1
 dēvehit			8156	1	1
 dēvehor			8157	1	1
-dēvellisse			8158	1	1
+----------------------------------------------
+dēvellisse			8158	1	1 +r+VELL +p+DÈ+REMOVE
+---------------------------------------------
 dēveniam			8159	1	1
 dēveniat			8160	2	2
 dēvenit			8161	4	3
@@ -10301,10 +10306,12 @@ expiāre			9380	1	1
 expleam			9381	1	1
 expleant			9382	1	1
 expleat			9383	1	1
-explicent			9384	1	1
-explicātam			9385	1	1
-explicāvī			9386	1	1
-explicēs			9387	1	1
+---------------------------------------------
+explicent			9384	1	1 +r+PLIC +p+EX
+explicātam			9385	1	1 +r+PLIC +p+EX
+explicāvī			9386	1	1 +r+PLIC +p+EX
+explicēs			9387	1	1 +r+PLIC +p+EX
+----------------------------------------------
 explānā			9388	1	1
 explē			9389	2	1
 explēmentum			9390	1	1 +MENTUM
@@ -11297,19 +11304,22 @@ flamma			10320	1	1 +NATURE
 flammam			10321	1	1 +NATURE
 flammā			10322	2	2 +NATURE
 flammāriī		10323	1	1 +ÀRIUS +JOB
-fleam			10324	4	3
-flectere			10325	1	1
-flector			10326	1	1
-flendō			10327	1	1
-flent			10328	1	1
-flentem			10329	2	2
-flentemque			10330	1	1
-flentēs			10331	2	2
-flet			10332	1	1
-flexū			10333	1	1
-fleō			10334	1	1
-floccum			10335	1	1
-floccī			10336	18	10
+------------------------------
+flectere		10325	1	1 +r+FLECT
+flector			10326	1	1 +r+FLECT
+flexū			10333	1	1 +r+FLECT
+-------------------------------
+fleam			10324	4	3 +r+FLE +BODY +BODY_MOVEMENT
+flendō			10327	1	1 +r+FLE +BODY +BODY_MOVEMENT
+flent			10328	1	1 +r+FLE +BODY +BODY_MOVEMENT
+flentem			10329	2	2 +r+FLE +BODY +BODY_MOVEMENT
+flentemque		10330	1	1 +r+FLE +BODY +BODY_MOVEMENT
+flentēs			10331	2	2 +r+FLE +BODY +BODY_MOVEMENT
+flet			10332	1	1 +r+FLE +BODY +BODY_MOVEMENT
+fleō			10334	1	1 +r+FLE +BODY +BODY_MOVEMENT
+------------------------------------
+floccum			10335	1	1 +ANIMAL
+floccī			10336	18	10 +ANIMAL
 ------------------------------------------
 fluctuat			10337	2	2
 fluctuāre			10338	1	1
@@ -13508,9 +13518,10 @@ impiāvī			12283	1	1
 impiō			12284	1	1
 impiōrum			12285	1	1
 impleantur			12286	1	1
-implicat			12287	2	2
-implicitus			12288	1	1
-implicīscier			12289	1	1
+----------------------------------------
+implicat			12287	2	2 +r+PLIC +p+IN
+implicitus			12288	1	1 +r+PLIC +p+IN
+implicīscier		12289	1	1 +r+PLIC +p+EX +SC
 ------------------------------------------
 impluat			12290	1	1
 impluit			12291	1	1
@@ -14365,7 +14376,9 @@ intertrāxerō			13091	1	1
 intertrīmentō			13092	1	1 +MENTUM
 interturbat			13093	1	1
 interturbā			13094	1	1
-intervellī			13095	1	1
+------------------------------------------
+intervellī			13095	1	1 +r+VELL +p+INTER
+------------------------------------------
 intervenit			13096	4	4
 interveniunt			13097	1	1
 interventum			13098	1	1
@@ -19676,7 +19689,9 @@ offirmāstīn			17910	1	1 +NE +SYNCPERFECT
 offirmātum			17911	2	1
 offirmātō			17912	1	1
 offirmō			17913	1	1
-offlectam			17914	1	1
+--------------------------------------
+offlectam			17914	1	1 +r+FLECT
+-------------------------------------
 offrēnātum			17915	1	1
 offuit			17916	2	2
 offundit			17917	1	1
@@ -21386,7 +21401,9 @@ perturbāvī			19513	1	1
 perturbēs			19514	1	1
 pertūsum			19515	1	1
 pervelim			19516	3	3
-pervellit			19517	1	1
+-------------------------------------
+pervellit			19517	1	1 +r+VELL +p+PER
+-------------------------------------
 pervenant			19518	1	1
 pervenat			19519	1	1
 pervenit			19520	1	1
@@ -21884,7 +21901,7 @@ plectilis			19940	1	1
 plectitur			19941	1	1
 plesidippus			19942	1	1
 pleusiclēs			19943	6	1
-plicātrīcem			19944	1	1 +TRÌC
+plicātrīcem			19944	1	1 +r+PLIC +TRÌC
 -------------------------------------
 pluet			19945	1	1 +SKY +NATURE
 pluit				19946	2	2 +SKY +NATURE
@@ -24624,7 +24641,7 @@ referātur			22416	1	1
 referētur			22417	4	4
 referīre			22418	1	1
 referō			22419	10	6
-reflexit			22420	1	1
+reflexit			22420	1	1 +r+FLECT
 ----------------------------------
 refrēgit			22421	1	1+l+REFRINGERE +r+FRAG +p+RE
 ----------------------------------
@@ -25273,11 +25290,11 @@ ruunt			22988	3	3
 ruās			22989	1	1
 ruīnae			22990	1	1
 rābōnem			22991	1	1 +JOKE
-rādēbat			22992	1	1
-rādīcibus			22993	1	1
-rādīcitus			22994	2	1
-rādīcēs			22995	1	1 +PLANT
-rādīx			22996	1	1 +PLANT
+rādēbat			22992	1	1 +r+RÀD
+rādīcibus		22993	1	1 +r+RÀDÌC +PLANT
+rādīcitus		22994	2	1 +r+RÀDÌC +ITUS +ADVERB
+rādīcēs			22995	1	1 +r+RÀDÌC +PLANT
+rādīx			22996	1	1 +r+RÀDÌC +PLANT
 rāmentā			22997	3	2 +MENTUM
 rāmentō			22998	1	1 +MENTUM
 rāmitēs			22999	2	2 +BODY
@@ -27627,26 +27644,28 @@ suppetit			25090	2	2
 suppetiās			25091	6	4
 suppetunt			25092	2	2
 suppingī			25093	1	1
-supplex			25094	3	3
-supplicandum			25095	1	1 +ND
-supplicat			25096	3	3
-supplicem			25097	2	2
-supplicet			25098	1	1
-supplicia			25099	1	1
-supplicium			25100	14	8
-suppliciīs			25101	1	1
-supplicābunt			25102	1	1
-supplicābō			25103	4	4
-supplicāns			25104	2	2
-supplicāre			25105	4	3
-supplicāri			25106	1	1
-supplicāsque			25107	1	1
-supplicāssīs			25108	1	1
-supplicātum			25109	2	2
-supplicātūrum			25110	1	1
-supplicēs			25111	1	1
-supplicī			25112	8	8
-supplicō			25113	2	2
+_________________________________
+supplex			    25094	3	3 +r+PLIC +p+SUB
+supplicandum		25095	1	1 +r+PLIC +p+SUB +ND
+supplicat			25096	3	3 +r+PLIC +p+SUB
+supplicem			25097	2	2 +r+PLIC +p+SUB
+supplicet			25098	1	1 +r+PLIC +p+SUB
+supplicia			25099	1	1 +r+PLIC +p+SUB
+supplicium			25100	14	8 +r+PLIC +p+SUB +IUM
+suppliciīs			25101	1	1 +r+PLIC +p+SUB +IUM
+supplicābunt		25102	1	1 +r+PLIC +p+SUB
+supplicābō			25103	4	4 +r+PLIC +p+SUB
+supplicāns			25104	2	2 +r+PLIC +p+SUB
+supplicāre			25105	4	3 +r+PLIC +p+SUB
+supplicāri			25106	1	1 +r+PLIC +p+SUB
+supplicāsque		25107	1	1 +r+PLIC +p+SUB
+supplicāssīs		25108	1	1 +r+PLIC +p+SUB
+supplicātum			25109	2	2 +r+PLIC +p+SUB
+supplicātūrum		25110	1	1 +r+PLIC +p+SUB
+supplicēs			25111	1	1 +r+PLIC +p+SUB
+supplicī			25112	8	8 +r+PLIC +p+SUB
+supplicō			25113	2	2 +r+PLIC +p+SUB
+------------------------------------------
 supposita			25114	2	2
 suppositicius		25115	1	1 +ICIUS
 suppositiō			25116	1	1 +TIÒN
@@ -29832,8 +29851,10 @@ velle			27009	59	21
 vellem			27010	29	15
 vellent			27011	3	3
 vellet			27012	5	4
-vellicat			27013	1	1 +FREQUENTATIVE
-vellicent			27014	1	1 +FREQUENTATIVE
+-------------------------------------
+vellicat			27013	1	1  +r+VELL +FREQUENTATIVE
+vellicent			27014	1	1  +r+VELL +FREQUENTATIVE
+--------------------------------------
 vellēs			27015	9	8
 velut			27016	7	6
 veluti			27017	2	2
@@ -30095,7 +30116,7 @@ vestiant			27260	1	1 +EQUIPMENT +CLOTHES
 vestiat			27261	1	1 +EQUIPMENT +CLOTHES
 vestibulum			27262	1	1 +BUL +ARCHITECTURE
 vestis			27264	4	3 +EQUIPMENT +CLOTHES
-vestiplica			27263	1	1 +PLICARE +JOB +EQUIPMENT +CLOTHES
+vestiplica			27263	1	1 +r+PLIC +COMPOUND +JOB +EQUIPMENT +CLOTHES
 ------------------------------------------
 vester			27258	9	7
 vestra				27265	24	16
@@ -31318,8 +31339,10 @@ ATER
 āvehit			28375	4	4
 āvehitque			28376	1	1
 āvehī			28377	1	1
-āvellere			28378	2	2
-āvellī			28379	1	1
+--------------------------------
+āvellere		28378	2	2 +r+VELL +p+À+REMOVE
+āvellī			28379	1	1 +r+VELL +p+À+REMOVE
+--------------------------------
 āverrat			28380	1	1
 āversārī			28381	1	1
 āvertere			28382	1	1
@@ -31760,15 +31783,15 @@ ATER
 ērumpat			28749	1	1 +l+ÈRUMPERE +r+RUP +p+EX
 ērumpere		28750	1	1 +l+ÈRUMPERE +r+RUP +p+EX
 -------------------------------------
-ērādicābam			28751	1	1
-ērādīcent				28752	2	2
-ērādīcet				28753	1	1
-ērādīcitus				28754	1	1
-ērādīcābō			28755	1	1
-ērādīcārest			28756	1	1
-ērādīcārier			28757	1	1
-ērādīcās				28758	1	1
-ērādīcātus			28759	1	1
+ērādicābam			28751	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcent			28752	2	2 +r+RÀDÌC +p+EX +ÀRE
+ērādīcet			28753	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcitus			28754	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcābō			28755	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcārest			28756	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcārier			28757	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcās			28758	1	1 +r+RÀDÌC +p+EX +ÀRE
+ērādīcātus			28759	1	1 +r+RÀDÌC +p+EX +ÀRE
 ---------------------------------------
 ērēpsistī			28760	1	1
 ēs			28761	525	26
@@ -31808,7 +31831,8 @@ ATER
 -----------------------------------------------
 ēucliōnis			28795	1	1 +NAME
 -----------------------------------------------
-ēvellam			28796	1	1
+ēvellam			28796	1	1 +r+VELL +p+EX+REMOVE
+-----------------------------------------------
 ēvenant			28797	1	1
 ēvenat			28798	2	2
 ēveniant			28799	6	5
