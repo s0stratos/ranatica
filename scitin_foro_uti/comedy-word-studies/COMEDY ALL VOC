@@ -18416,8 +18416,8 @@ nicobulus			16759	1	1	+NAME +SENEX
 --------------------------------------
 nicodemus			16760	2	1
 --------------------------------------
-nictent			16761	1	1
-nictet			16762	1	1
+nictent			16761	1	1 +BODY +BODY_MOVEMENT
+nictet			16762	1	1 +BODY +BODY_MOVEMENT
 --------------------------------------
 nigrīs			16763	1	1 +COLOR
 ----------------------------------------
@@ -23987,15 +23987,15 @@ quaestiō			21818	1	1 +TIÒN
 quaestiōne			21819	6	5 +TIÒN
 quaestiōnem			21820	1	1 +TIÒN
 quaestiōnī			21821	3	1 +TIÒN
-quaestum			21822	22	12
-quaestus			21823	9	6
-quaestuī			21824	1	1
-quaestuōsa			21825	1	1 +ÒSUS
+quaestum			21822	22	12 +BUSINESS
+quaestus			21823	9	6 +BUSINESS
+quaestuī			21824	1	1 +BUSINESS
+quaestuōsa			21825	1	1 +ÒSUS +BUSINESS
 quaestī			21826	4	3
 quaestōrem			21827	1	1 +TÒR
 quaestōribus		21828	3	1 +TÒR
-quaestū			21829	5	3
-quaestūs			21830	1	1
+quaestū			21829	5	3 +BUSINESS
+quaestūs			21830	1	1 +BUSINESS
 quaesīstī			21831	1	1
 quaesītiōne			21832	1	1 +TIÒN
 quaesītum			21833	6	6
@@ -24203,7 +24203,7 @@ quālibet			22023	1	1 +ALIS
 quālis			22024	11	9 +ALIS
 quālī			22025	1	1 +ALIS
 quālīne			22026	1	1 +ALIS
-quālīs			22027	1	1 +ALIS
+quālīs			22027	1	1 +ALIS +EQUIPMENT
 quānam			22028	1	1 +NAM
 quāpiam			22029	1	1 +PIAM
 quāpropter		22030	22	14 +PROPTER +UNIVERBATION
@@ -24297,11 +24297,11 @@ quōvīs			22103	10	7 +VÌS
 ---------------------------------------
 r			22104	5	4
 ---------------------------------------
-rabiēs			22105	2	2
-rabiōsa			22106	1	1 +ÒSUS
-rabiōsam			22107	1	1 +ÒSUS
-rabiōsum			22108	1	1 +ÒSUS
-rabiōsus			22109	1	1 +ÒSUS
+rabiēs			22105	2	2 +HEALTH
+rabiōsa			22106	1	1 +ÒSUS +HEALTH
+rabiōsam			22107	1	1 +ÒSUS +HEALTH
+rabiōsum			22108	1	1 +ÒSUS +HEALTH
+rabiōsus			22109	1	1 +ÒSUS +HEALTH
 ---------------------------------------
 rabōnem			22110	1	1
 ---------------------------------------
@@ -24352,8 +24352,8 @@ ratae			22154	1	1
 ratem			22155	4	3
 ratis			22156	2	2
 ---------------------------------------
-ratiunculam			22157	2	2 +CULUS +DIMINUTIVE
-ratiunculā			22158	1	1 +CULUS +DIMINUTIVE
+ratiunculam			22157	2	2 +CULUS +DIMINUTIVE +MONEY
+ratiunculā			22158	1	1 +CULUS +DIMINUTIVE +MONEY
 ratiō			22159	13	9 +TIÒN
 ratiōcinor			22160	1	1
 ratiōne			22161	11	8 +TIÒN
@@ -24379,7 +24379,7 @@ rebītet			22178	2	1 +l+REBÌTERE +r+BAET +p+RE
 rebītās			22179	1	1 +l+REBÌTERE +r+BAET +p+RE
 rebītō			22180	1	1 +l+REBÌTERE +r+BAET +p+RE
 ----------------------------------
-recalvum			22181	1	1
+recalvum			22181	1	1 +BODY +HEALTH +BEAUTY
 reccidit			22182	1	1
 reccidēbant			22183	1	1
 recclūsitque			22184	1	1
@@ -24710,7 +24710,7 @@ relīquisset			22497	1	1
 relīquit			22498	16	12
 relīquēre			22499	2	2
 relīquī			22500	13	11
-rem			22501	611	27
+rem			22501	611	27 +MONEY +BUSINESS
 remedium			22502	7	4
 remediō			22503	2	2
 remelīginēs			22504	1	1
@@ -25000,9 +25000,11 @@ respondī			22757	3	3 +l+RESPONDÈRE +r+SPOND +p+RE
 respōnsīs			22758	1	1 +l+RESPONDÈRE +r+SPOND +p+RE
 ----------------------------------------
 respēxīs			22759	1	1 +l+RESPICERE +r+SPEC +p+RE
-respīrem			22760	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE
-respīrā			    22761	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE +IMPERATIVE
-respīrāre			22762	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE
+-----------------------------------------
+respīrem			22760	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE +BODY +BODY_MOVEMENT
+respīrā			    22761	1	1 +l+RESPÌRÀRE +r+SPÌR +p+RE +IMPERATIVE +BODY +BODY_MOVEMENT
+respīrāre			22762	1	1 +l+RESPÌRÀRE +r+SPÌR +p+REY +BODY_MOVEMENT
+----------------------------------------
 respōnsant			22763	1	1
 respōnset			22764	1	1
 respōnsiōnēs			22765	1	1 +TIÒN
@@ -25236,9 +25238,9 @@ romanis			22959	1	1
 ropemod			22960	1	1
 rosa			22961	4	4
 -------------------------
-rota			22962	1	1 +l+rota
-rotula			22963	1	1 +l+rota +ULUS +DIMINUTIVE
-rotā			22964	2	2 +l+rota
+rota			22962	1	1 +l+rota +EQUIPMENT
+rotula			22963	1	1 +l+rota +ULUS +DIMINUTIVE +EQUIPMENT
+rotā			22964	2	2 +l+rota +EQUIPMENT
 -------------------------
 ru			22965	1	1
 ruant			22966	1	1
@@ -25247,13 +25249,15 @@ rubicundum			22968	1	1 +CUNDUS +COLOR
 rubicundus			22969	1	1 +CUNDUS +COLOR
 rubicundō			22970	1	1 +CUNDUS +COLOR
 rubōrem			22971	1	1 +COLOR
-ructus			22972	1	1
-ructāre			22973	1	1
+----------------------------------
+ructus			22972	1	1 +BODY +BODY_MOVEMENT
+ructāre			22973	1	1 +BODY +BODY_MOVEMENT
+----------------------------------
 rudest			22974	1	1
 ruere			22975	3	3
 ruerem			22976	1	1
 rum			22977	2	2
-rumicem			22978	1	1
+rumicem			22978	1	1 +PLANT
 -----------------------------------
 rumpam			    22979	3	3 +l+RUMPERE +r+RUP
 rumpere			    22980	1	1 +l+RUMPERE +r+RUP
@@ -25272,11 +25276,11 @@ rābōnem			22991	1	1 +JOKE
 rādēbat			22992	1	1
 rādīcibus			22993	1	1
 rādīcitus			22994	2	1
-rādīcēs			22995	1	1
-rādīx			22996	1	1
+rādīcēs			22995	1	1 +PLANT
+rādīx			22996	1	1 +PLANT
 rāmentā			22997	3	2 +MENTUM
 rāmentō			22998	1	1 +MENTUM
-rāmitēs			22999	2	2
+rāmitēs			22999	2	2 +BODY
 rārās			23000	1	1
 rārē			23001	1	1
 rārō			23002	5	3
@@ -27058,11 +27062,11 @@ sternere			24603	1	1
 sternite			24604	2	2
 sternī			    24606	1	1
 ----------------------------------
-sternuās			24605	1	1
+sternuās			24605	1	1 +BODY +BODY_MOVEMENT
 ----------------------------------
-stertere			24607	1	1
-stertit			    24608	2	2
-stertās			    24609	1	1
+stertere			24607	1	1 +BODY +BODY_MOVEMENT
+stertit			    24608	2	2 +BODY +BODY_MOVEMENT
+stertās			    24609	1	1 +BODY +BODY_MOVEMENT
 ----------------------------------
 steterat			24610	1	1
 stetisse			24611	3	2
@@ -32281,6 +32285,7 @@ in insidias deuenire
 ōmināre			29225	1	1
 ōminātor			29226	1	1
 ōminī			29227	1	1
+-----------------------------------------
 ōra			29228	3	3
 ōram			29229	2	2
 ōrandī			29230	1	1 +ND
@@ -32290,6 +32295,7 @@ in insidias deuenire
 ōrantem			29234	1	1 +NT
 ōrantī			29235	1	1 +NT
 ōrat			29236	23	16
+-----------------------------------------
 ōrdine			29237	21	15
 ōrdinem			29238	3	3
 ōrdinest			29239	1	1
@@ -32299,11 +32305,13 @@ in insidias deuenire
 ōrdinī			29243	2	2
 ōrdītur			29244	1	1
 ōrdō			29245	1	1
+-----------------------------------------
 ōre			    29246	19	12 +BODY
 ōrem			29247	3	3
 ōrest			29248	1	1 +BODY
 ōret			29249	3	3
 ōris			29250	2	2 +BODY
+-----------------------------------------
 ōrnandī			29251	1	1 +ND
 ōrnantur			29252	3	2
 ōrnet			29253	1	1
@@ -32327,6 +32335,7 @@ in insidias deuenire
 ōrnātū			29271	15	10
 ōrnātūs			29272	1	1
 ōrnō			29273	1	1
+-----------------------------------------
 ōrā			29274	3	3
 ōrābam			29275	1	1
 ōrābat			29276	4	4
@@ -32375,6 +32384,7 @@ in insidias deuenire
 ōrēs			29319	8	7
 ōrō			29320	40	18
 ōrōque			29321	1	1
+-----------------------------------------
 ōs			29322	51	21 +BODY
 ōsa			29323	1	1
 ōscitātur			29324	1	1
