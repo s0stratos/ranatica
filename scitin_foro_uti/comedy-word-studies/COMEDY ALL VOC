@@ -20763,8 +20763,8 @@ pelleō			18917	1	1
 pellio			18918	1	1
 pellis			18919	2	2
 pellitō			18920	1	1
-pelliō			18921	1	1
-pelliōnis			18922	1	1
+pelliō			18921	1	1 +ÌON +JOB
+pelliōnis			18922	1	1 +ÌON +JOB
 pellās			18923	1	1
 pellēgī			18924	1	1
 pellētur			18925	1	1
@@ -32117,6 +32117,7 @@ in insidias deuenire
 īnstitūta			29080	1	1
 īnstitūtumst			29081	1	1
 īnstitūī			29082	2	2
+------------------------------------
 īnstruam			29083	1	1
 īnstrue			29084	1	1
 īnstruere			29085	2	2
@@ -32124,13 +32125,15 @@ in insidias deuenire
 īnstruunt			29087	1	1
 īnstruuntur			29088	1	1
 īnstruī			29089	1	1
-īnstrēnuus			29090	1	1
-īnstrēnuī			29091	1	1
 īnstrūcta			29092	2	2
 īnstrūximus			29093	1	1
 īnstrūxistī			29094	3	2
 īnstrūxit			29095	2	2
 īnstrūxī			29096	3	3
+----------------------------------------
+īnstrēnuus			29090	1	1
+īnstrēnuī			29091	1	1
+---------------------------------------
 īnstā			29097	1	1
 īnstābit			29098	1	1
 īnstābunt			29099	1	1
