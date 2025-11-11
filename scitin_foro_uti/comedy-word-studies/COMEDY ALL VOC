@@ -4961,9 +4961,9 @@ cognātōrum			4394	1	1 +r+GNÀ +p+CON +FAMILY
 cognātōs			4395	5	3 +r+GNÀ +p+CON +FAMILY
 cognōmenta			4396	1	1 +r+GNÒ +p+CON +MENTUM
 cognōmentum			4397	2	2 +r+GNÒ +p+CON +MENTUM
-cognōmine			4398	1	1
-cognōminis			4399	1	1
-cognōminēs			4400	1	1
+cognōmine			4398	1	1 +MEN
+cognōminis			4399	1	1 +MEN
+cognōminēs			4400	1	1 +MEN
 cognōrint			4401	1	1
 cognōrit			4402	1	1
 cognōrīs			4403	2	2
@@ -5108,8 +5108,8 @@ columbae			4531	1	1 +ANIMAL
 columbam			4532	2	2 +ANIMAL
 columbum			4533	1	1
 columem			4534	1	1
-columen			4535	4	4
-columine			4536	2	2
+columen			4535	4	4 +MEN
+columine			4536	2	2 +MEN
 columnam			4537	2	2
 columnātum			4538	1	1
 columnīs			4539	1	1
@@ -6420,15 +6420,15 @@ crētānōs		5750	1	1 +ÀNUS +GEOGRAPHY
 crībrum			5752	3	3 +EQUIPMENT
 crībrō			5753	1	1 +EQUIPMENT
 ---------------------------------------
-crīmen			5754	3	3 +r+CRÌM +CRIME
-crīmina			5755	1	1 +r+CRÌM +CRIME
-crīmine			5756	2	2 +r+CRÌM +CRIME
-crīmināret		5757	1	1 +r+CRÌM +ÀRE +CRIME
-crīminārētur	5758	1	1 +r+CRÌM +ÀRE +CRIME
-crīminātust		5759	1	1 +r+CRÌM +ÀRE +ST +CRIME
-crīminātōrem	5760	1	1 +r+CRÌM +ÀRE +TÒR +CRIME
-crīminī			5761	1	1 +r+CRÌM +CRIME
-crīminīn		5762	1	1 +r+CRÌM +NE +CRIME
+crīmen			5754	3	3 +r+CRÌM +MEN +CRIME
+crīmina			5755	1	1 +r+CRÌM +MEN +CRIME
+crīmine			5756	2	2 +r+CRÌM +MEN +CRIME
+crīmināret		5757	1	1 +r+CRÌM +MEN +ÀRE +CRIME
+crīminārētur	5758	1	1 +r+CRÌM +MEN +ÀRE +CRIME
+crīminātust		5759	1	1 +r+CRÌM +MEN +ÀRE +ST +CRIME
+crīminātōrem	5760	1	1 +r+CRÌM +MEN +ÀRE +TÒR +CRIME
+crīminī			5761	1	1 +r+CRÌM +MEN +CRIME
+crīminīn		5762	1	1 +r+CRÌM +MEN +NE +CRIME
 ---------------------------------------
 crīnīs			5763	2	2 +BODY
 ---------------------------------------
@@ -11340,8 +11340,8 @@ flāgitātōrem		10360	1	1 +TÒR
 flāgitī			    10361	14	12
 ---------------------------------------------------
 flāgritribae		10362	1	1 +COMPOUND
-flāre			    10363	1	1
-flēmina			    10365	1	1
+flāre			    10363	1	1 +BODY +BODY_MOVEMENT
+flēmina			    10365	1	1 +HEALTH
 ---------------------------------------------------
 flē			    10364	3	3   +l+FLÈRE +r+FLÈ +EMOTION
 flēns			10366	5	3   +l+FLÈRE +r+FLÈ +NT +EMOTION
@@ -16061,8 +16061,8 @@ lībrius			14659	1	1
 līctor			14660	1	1 +TÒR
 līctōrēs		14661	2	2 +TÒR
 līmem			14662	1	1
-līmen			14663	9	8
-līmina			14664	1	1
+līmen			14663	9	8 +MEN +ARCHITECTURE
+līmina			14664	1	1 +MEN +ARCHITECTURE
 līmite			14665	1	1
 līmitēs			14666	1	1
 līmulīs			14667	1	1
@@ -16071,16 +16071,16 @@ līmum			14668	1	1
 līmācēs			14670	1	1 +ANIMAL
 -----------------------------------
 līmā			14669	1	1 +EQUIPMENT
-līmāret			14671	1	1
-līmārēs			14672	1	1
-līmāvī			14673	1	1
+līmāret			14671	1	1 +EQUIPMENT
+līmārēs			14672	1	1 +EQUIPMENT
+līmāvī			14673	1	1 +EQUIPMENT
 līmīs			14674	2	2
 -----------------------------------
-līneam			14675	2	2
-līneā			14676	1	1
-līneātam			14677	1	1
+līneam			14675	2	2 +EQUIPMENT
+līneā			14676	1	1 +EQUIPMENT
+līneātam		14677	1	1 +EQUIPMENT
 -----------------------------------
-līnum			14678	2	1 +PLANT
+līnum			14678	2	1 +PLANT +EQUIPMENT
 -----------------------------------
 līquimus			14679	1	1
 līquitur			14680	1	1
@@ -16200,8 +16200,8 @@ lūdōs			14781	32	20
 lūgubrī			14782	2	2
 lūgēre			14783	1	1
 ---------------------------------------------
-lūmen			14784	3	2
-lūmine			14785	1	1
+lūmen			14784	3	2 +MEN
+lūmine			14785	1	1 +MEN
 ---------------------------------------------
 lūna			14786	2	2 +NATURE +SKY
 lūnae			14787	1	1 +NATURE +SKY
@@ -17885,7 +17885,7 @@ mēst			16319	2	2 +PPRON +ST
 mī			16321	753	26 +PPRON
 -------------------------------------
 mēdēa			16296	1	1
-mēlīnum			16297	1	1
+mēlīnum			16297	1	1 +FOOD +PLANT +COLOR
 mēns			16301	3	3
 -----------------------------------
 mēnsa			16302	2	2 +EQUIPMENT
@@ -18504,9 +18504,9 @@ nocērier		16833	1	1 +r+NOC
 ----------------------------------------
 nolītō			16835	1	1
 ----------------------------------------
-nomen			16836	1	1
+nomen			16836	1	1 +MEN
 nominat			16837	1	1
-nomine			16838	1	1
+nomine			16838	1	1 +MEN
 ----------------------------------------
 noenum			16834	1	1
 non				16839	9	4
@@ -18856,13 +18856,13 @@ nōlītō			17137	1	1 +NEGATIVE_WORD +UNIVERBATION
 nōlītō			17138	1	1 +NEGATIVE_WORD +UNIVERBATION
 nōlō			17139	93	26 +NEGATIVE_WORD +UNIVERBATION
 ---------------------------------------
-nōmen				17140	140	26
+nōmen				17140	140	26 +MEN
 nōmina			17141	11	7
 nōminandī		17142	1	1
 nōminant			17143	1	1
 nōminat			17144	15	9
-nōmine			17145	23	13
-nōminem			17146	4	4
+nōmine			17145	23	13 +MEN
+nōminem			17146	4	4 +MEN
 nōminer			17147	1	1
 nōminest			17148	1	1 +ST
 nōminet			17149	3	2
@@ -22617,7 +22617,7 @@ praerōdat			20565	1	1
 praerōdātis			20566	1	1
 praescripstī			20567	1	1
 praescīsse			20568	1	1
-praesegmina			20569	1	1
+praesegmina			20569	1	1  +MEN +BODY
 praesente			20570	23	12
 praesentem			20571	2	2
 praesentia			20572	2	2
@@ -23610,9 +23610,9 @@ pulpāmentum			21466	3	3 +MENTUM +ANIMAL +FOOD
 pulpāmentī			21467	1	1 +MENTUM +ANIMAL +FOOD
 pulpāmentīs			21468	1	1 +MENTUM +ANIMAL +FOOD
 ------------------------------------
-pultem			21477	3	2
-pultiphagus			21478	1	1 +COMPOUND +JOKE
-pultiphagōnidēs			21479	1	1 +COMPOUND +JOKE
+pultem			21477	3	2 +FOOD
+pultiphagus			21478	1	1 +COMPOUND +JOKE +FOOD
+pultiphagōnidēs			21479	1	1 +COMPOUND +JOKE +FOOD
 ------------------------------------
 pulsant			    21469	1	1   +l+PULSÀRE +r+PELL +FREQUENTATIVE
 pulsat			    21470	1	1   +l+PULSÀRE +r+PELL +FREQUENTATIVE
@@ -23670,7 +23670,7 @@ putā			21521	4	4
 putābam			21522	3	1
 putābit			21523	1	1
 putābās			21524	1	1
-putāmina			21525	1	1
+putāmina			21525	1	1 +MEN +PLANT +ANIMAL
 putāre			21526	2	2
 putārit			21527	1	1
 putārīs			21528	1	1
@@ -26758,16 +26758,16 @@ sonitū			24328	5	4
 sontēs			24329	1	1
 sophoclidisca			24330	3	1
 sophrona			24331	3	2
-sopor			24332	2	2
-sopōrem			24333	1	1
-sopōrī			24334	2	2
-sorbent			24335	1	1
-sorbet			24336	2	1
-sorbeās			24337	1	1
+sopor			24332	2	2 +SLEEP
+sopōrem			24333	1	1 +SLEEP
+sopōrī			24334	2	2 +SLEEP
+sorbent			24335	1	1 +BODY +BODY_MOVEMENT
+sorbet			24336	2	1 +BODY +BODY_MOVEMENT
+sorbeās			24337	1	1 +BODY +BODY_MOVEMENT
 sorbilāns		24338	1	1
 sorbilō			24339	1	1
-sorbitiōne		24340	1	1 +TIÒN
-sorbēreque		24341	1	1
+sorbitiōne		24340	1	1 +TIÒN +BODY +BODY_MOVEMENT
+sorbēreque		24341	1	1 +BODY +BODY_MOVEMENT
 sordere			24342	1	1
 sordet			24343	1	1
 sordidae			24344	3	3
@@ -26839,7 +26839,7 @@ sparāx			24400	2	1 +NAME +SERVUS
 spatium			24401	9	6
 spatiō			24402	4	4
 speciem			24403	6	3
-specimen			24404	3	3
+specimen			24404	3	3 +MEN
 specitur			24405	2	2
 speciē			24406	4	4
 speciēque			24407	1	1 +QUE
@@ -26998,7 +26998,7 @@ st			24546	20	10
 sta			24547	1	1
 stabile			24548	1	1 +BILIS
 stabilest			24549	1	1 +BILIS
-stabilimenta			24550	1	1  +BILIS+MENTUM
+stabilimenta			24550	1	1  +BILIS +MENTUM
 stabilis			24551	1	1 +BILIS
 stabilius			24552	1	1 +BILIS
 stabilīvit			24553	1	1 +BILIS
@@ -27437,7 +27437,7 @@ subterfūgī			24920	1	1 +COMPOUND +p+SUBTER
 subtrahāt			24921	1	1
 subtrīstis			24922	1	1 +p+SUB+INTENSITY
 subtrītae			24923	1	1
-subtēmen			24924	2	2 +EQUIPMENT
+subtēmen			24924	2	2 +MEN +EQUIPMENT
 subvectābant			24925	1	1
 subveniat			24926	2	2
 subveniet			24927	1	1
@@ -28025,12 +28025,12 @@ sēgregātum			25467	1	1
 sēgregēs			25468	2	2
 sēgregō			25469	1	1
 sēligitō			25470	1	1
-sēmen			25471	1	1
+sēmen			25471	1	1 +MEN
 sēmentem			25472	1	1
 sēmentium			25473	1	1
 sēmidoctum			25474	1	1 +COMPOUND
-sēmine			25475	2	2
-sēminis			25476	1	1
+sēmine			25475	2	2 +MEN
+sēminis			25476	1	1 +MEN
 sēminiō			25477	1	1
 sēminātust			25478	1	1 +ST +COMPOUND
 sēmisomnae			25479	1	1 +r+SEM +r+SOP +COMPOUND +SLEEP
@@ -29896,13 +29896,13 @@ ventrī			27072	6	6 +BODY
 ventrīs			27073	2	2 +BODY
 ---------------------------------------
 ventulum		27074	2	2 +ULUS +DIMINUTIVE
-ventum			27075	9	6
+ventum			27075	9	6 +NATURE +SKY +NATURE +SKY
 ventumst			27076	5	3
 ventus			27077	12	7
 ventust			27078	1	1
 ventī			27079	2	2
 ventīsque			27080	1	1
-ventō			27081	4	4
+ventō			27081	4	4 +NATURE +SKY
 ventūram			27082	4	3
 ventūru's			27083	1	1 +S
 ventūrum			27084	8	6
@@ -29985,8 +29985,8 @@ verberōnem			27155	1	1
 verbivēlitātiōnem			27156	1	1 +COMPOUND +TIÒN
 verbum			27157	69	21
 verbumst			27158	3	3
-verbēnam			27159	1	1
-verbēnās			27160	1	1
+verbēnam			27159	1	1 +PLANT
+verbēnās			27160	1	1 +PLANT
 verbī			27161	3	3
 verbīs			27162	92	25
 verbīst			27163	2	2
@@ -30009,10 +30009,10 @@ veritum			27179	1	1
 veritus			27180	6	3
 veritust			27181	1	1
 ---------------------------------------
-verna				27182	3	1
-vernāculum		27183	1	1 +CUL
-vernās				27184	1	1
-vernīlitāte			27185	1	1 +TÀT
+verna				27182	3	1 +FAMILY
+vernāculum		27183	1	1 +CUL +FAMILY
+vernās				27184	1	1 +FAMILY
+vernīlitāte			27185	1	1 +TÀT +FAMILY
 ------------------------------------
 verrat			27186	1	1
 verrī				27187	1	1
@@ -30024,8 +30024,8 @@ versibus			27191	2	2
 versicapillus			27192	1	1 +COMPOUND +BODY
 versipellem			27194	2	2 +COMPOUND +BODY
 versor			27195	1	1
-versum			27196	4	3
-versus			27197	1	1
+versum			27196	4	3 +TEXT
+versus			27197	1	1 +TEXT
 versā			27198	1	1
 versābere			27199	1	1
 versābātur			27200	1	1
@@ -30039,8 +30039,8 @@ versēs			27207	1	1
 versīs			27208	1	1
 versō			27209	1	1
 versōriam			27210	2	2
-versū			27211	1	1
-versūs			27212	3	3
+versū			27211	1	1 +TEXT
+versūs			27212	3	3 +TEXT
 versūtiōr			27213	1	1 +COMPARATIVE
 versūtum			27214	1	1
 versūtus			27215	3	3
@@ -32280,11 +32280,11 @@ in insidias deuenire
 ōlim		29221	68	23  +TIME
 ōlimst		29222	1	1 +ST +TIME
 --------------------------------------
-ōmen			29223	6	5
-ōmine			29224	3	3
+ōmen			29223	6	5 +MEN
+ōmine			29224	3	3 +MEN
 ōmināre			29225	1	1
 ōminātor			29226	1	1
-ōminī			29227	1	1
+ōminī			29227	1	1 +MEN
 -----------------------------------------
 ōra			29228	3	3
 ōram			29229	2	2
