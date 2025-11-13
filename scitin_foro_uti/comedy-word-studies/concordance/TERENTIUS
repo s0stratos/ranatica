@@ -3198,15 +3198,13 @@ flagitiis et eundem indicas: uterque in te exempla edent.
 [PARMENO] nullus sum. [PUTIAS] hic pro illo munere tibi honos est habitus: abeo.
 [PARMENO] egomet meo indicio miser quasi sorex hodie perii.	
 
-GNATHO THRASO PARMENO
-
 [GNATO] quid nunc? qua spe aut quo consilio huc imu'? quid coeptas, thraso?
 [THRASO] egone? ut thaidi me dedam et faciam quod iubeat. [GNATO] quid est?
 [THRASO] qui minu' quam hercules seruiuit omphalae? [GNATO] exemplum placet.
 utinam tibi conmitigari uideam sandalio caput!	
 sed fores crepuerunt ab ea. [THRASO] perii: quid hoc autemst mali?	
 hunc ego numquam uideram etiam: quidnam hic properans prosilit?
-chaerea parmeno gnatho thraso	
+
 [CAEREA] o populares, ecqui' me hodie uiuit fortunatior?
 nemo hercle quisquam; nam in me plane di potestatem suam	
 omnem ostendere quoi tam subito tot congruerint commoda.	
@@ -3274,7 +3272,7 @@ numquam etiam fui usquam quin me omnes amarent plurimum.
 
 ---------------------------------------------------------------------------------------------
 
-PHORMIO
+[PHORMIO]
 	
 [PROLOGUS] postquam poeta uetu' poetam non potest
 retrahere a studio et transdere hominem in otium,	
@@ -3513,8 +3511,6 @@ meliore et callidiore. [PAEDRIA] fiet sedulo.
 [GETA] nunc prior adito tu, ego in insidiis hic ero	
 succenturiatu', siquid deficias. [PAEDRIA] age.
 
-ACTUS II	
-demipho phaedria geta	
 [DEMIPO] itane tandem uxorem duxit antipho iniussu meo?
 nec meum imperium—ac mitto imperium—, non simultatem meam	
 reuereri saltem! non pudere! o facinus audax, o geta	
@@ -3753,11 +3749,6 @@ percontatum ibo ad portum, quoad se recipiat.—
 [GETA] at ego antiphonem quaeram, ut quae acta hic sint sciat.	
 sed eccum ipsum uideo in tempore huc se recipere.
 
-
-ACTUS III	
-
-ANTIPHO GETA
-
 [ANTIPO] enimuero, antipho, multimodis cum istoc animo es uituperandus:
 itane te hinc abisse et uitam tuam tutandam aliis dedisse!	
 alios tuam rem credidisti mage quam tete animum aduorsuros?	
@@ -3828,7 +3819,7 @@ iste me fefellit, ego isti nihilo sum aliter ac fui.
 sed utut haec sunt, tamen hoc faciam: cras mane argentum mihi	
 miles dare se dixit: si mi prior tu attuleri', phaedria,	
 mea lege utar, ut potior sit qui prior ad dandumst. uale.	
-phaedria antipho geta	
+
 [PAEDRIA] quid faciam? unde ego nunc tam subito huic argentum inueniam miser,
 quoi minu' nihilost? quod, hic si pote fuisset exorarier
 triduom hoc, promissum fuerat. [ANTIPO] itane hunc patiemur, geta,
@@ -4031,10 +4022,6 @@ uolo ipsiu' quoque uoluntate haec fieri, ne se eiectam praedicet.
 [DEMIPO] idem ego istuc facere possum. [CREMES] mulier mulieri mage conuenit.
 [DEMIPO] rogabo. [CREMES] ubi illas nunc ego reperire possim cogito.
 
-ACTUS V
-
-SOPHRONA CHREMES	
-
 [SOPRONA] quid agam? quem mi amicum inueniam misera? aut quoi consilia haec referam?
 aut unde auxilium petam?	
 nam uereor era ne ob meum suasum indigne iniuria adficiatur:
@@ -4130,9 +4117,7 @@ di nos respiciunt: gnatam inueni nuptam cum tuo filio. [DEMIPO] hem
 quo pacto potuit? [CREMES] non sati' tutus est ad narrandum hic locus.
 [DEMIPO] at tu intro abi. [CREMES] heus ne filii quidem hoc nostri resciscant uolo.
 
-ANTIPHO
-	
-laetus sum, utut meae res sese habent, fratri optigisse quod uolt.
+[ANTIPHO laetus] sum, utut meae res sese habent, fratri optigisse quod uolt.
 quam scitumst eius modi in animo parare cupiditates	
 quas, quom res aduorsae sient, paullo mederi possis!	
 hic simul argentum repperit, cura sese expediuit;	
@@ -4664,10 +4649,6 @@ omnis esse iniquas: haud pol mequidem; nam numquam secus
 habui illam ac si ex me esset gnata, nec qui hoc mi eueniat scio;	
 nisi pol filium multimodis iam exspecto ut redeat domum.
 
-ACTUS III	
-
-PAMPHILUS PARMENO MYRRINA
-	
 [PAMPILUS] nemini plura acerba credo esse ex amore homini umquam oblata
 quam mi. heu me infelicem, hancin ego uitam parsi perdere!	
 hacin causa ego eram tanto opere cupidu' redeundi domum! hui	
@@ -4723,7 +4704,7 @@ seruom ilico introisse dicent sostratae,
 aliquid tulisse comminiscentur mali	
 capiti atque aetati illorum morbu' qui auctu' sit:	
 era in crimen ueniet, ego uero in magnum malum.
-sostrata parmeno PAMPHILUS	
+
 [SOSTRATA] nescioquid iamdudum audio hic tumultuari misera:	
 male metuo ne philumenae mage morbus adgrauescat:	
 quod te, aesculapi, et te, salus, nequid sit huius oro.	
@@ -4750,9 +4731,7 @@ i sodes intro, consequar iam te, mea mater. [SOSTRATA] fiat.—
 [PAMPILUS] tu pueris curre, parmeno, obuiam atque is onera adiuta.
 [PARMENO] quid? non sciunt ipsi uiam domum qua ueniant? [PAMPILUS] cessas?
 
-PAMPHILUS	
-
-nequeo mearum rerum initium ullum inuenire idoneum	
+[PAMPILUS] nequeo mearum rerum initium ullum inuenire idoneum
 unde exordiar narrare quae necopinanti accidunt;	
 partim quae perspexi hisce oculis, partim quae accepi auribus:	
 qua me propter exanimatum citius eduxi foras.	
@@ -4810,15 +4789,15 @@ hinc ablegandu' dum parit philumena.
 PARMENO SOSIA PAMPHILUS	
 
 [PARMENO] ain tu tibi hoc incommodum euenisse iter?
-[SOSTRATA] non hercle uerbis, parmeno, dici potest	
+[SOSIA] non hercle uerbis, parmeno, dici potest
 tantum quam re ipsa nauigare incommodumst.	
-[PARMENO] itan est? [SOSTRATA] o fortunate, nescis quid mali
+[PARMENO] itan est? [SOSIA] o fortunate, nescis quid mali
 praeterieris qui numquam es ingressus mare.	
 nam alias ut mittam miserias, unam hanc uide:
 dies triginta aut plus eo in naui fui	
 quom interea semper mortem exspectabam miser;	
 ita usque aduorsa tempestate usi sumus.	
-[PARMENO] odiosum. [SOSTRATA] haud clam me est. denique hercle aufugerim
+[PARMENO] odiosum. [SOSIA] haud clam me est. denique hercle aufugerim
 potius quam redeam, si eo mihi redeundum sciam.
 [PARMENO] olim quidem te causae inpellebant leues,
 quod nunc minitare facere, ut faceres, sosia.	
@@ -4912,10 +4891,6 @@ quae dico parui pendunt. porto hoc iurgium
 ad uxorem quoius haec fiunt consilio omnia,	
 atque in eam hoc omne quod mihi aegrest euomam.
 
-ACTUS IV	
-
-MYRRINA PHIDIPPUS
-	
 [MURRINA] perii, quid agam? quo me uortam? quid uiro meo respondebo
 misera? nam audiuisse uocem pueri uisust uagientis;	
 ita corripuit derepente tacitu' sese ad filiam.	
@@ -4977,8 +4952,6 @@ neque detractum ei tum quicquamst qui posset post nosci qui siet;
 ipse eripuit ui, in digito quem habuit, uirgini abiens anulum.	
 simul uereor pamphilum ne orata nostra nequeat diutius
 celare, quom sciet alienum puerum tolli pro suo.	
-
-SOSTRATA PAMPHILUS LACHES	
 
 [SOSTRATA] non clam me est, gnate mi, tibi me esse suspectam, uxorem tuam	
 propter meos mores hinc abisse, etsi ea dissimulas sedulo.	
@@ -5208,8 +5181,6 @@ nam si est ut haec nunc pamphilum uere ab se segregarit,
 scit sibi nobilitatem ex eo et rem natam et gloriam esse:	
 referet gratiam ei unaque nos sibi opera amicos iunget.	
 
-PARMENO BACCHIS
-
 [PARMENO] edepol ne meam erus esse operam deputat parui preti,	
 qui ob rem nullam misit frustra ubi totum desedi diem,
 myconium hospitem dum exspecto in arce callidemidem.	
@@ -5228,9 +5199,7 @@ tantumne est? [BACCIS] tantum: aderit continuo hoc ubi ex te audiuerit.
 sed cessas? [PARMENO] minime equidem; nam hodie mihi potestas haud datast;	
 ita cursando atque ambulando totum hunc contriui diem.
 
-BACCHIS
-
-quantam obtuli aduentu meo laetitiam pamphilo hodie!	
+[BACCIS] quantam obtuli aduentu meo laetitiam pamphilo hodie!
 quot commodas res attuli! quot autem ademi curas!	
 gnatum ei restituo, qui paene harunc ipsiusque opera periit;	
 uxorem, quam numquam est ratus posthac se habiturum, reddo;	
