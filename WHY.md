@@ -45,7 +45,7 @@ with very normal wordings.
 
 ## COMEDY IN A LIVING ART 
 
-Unlike other texts which are meant to be read and enjoyed alone, 
+Unlike other texts that are meant to be read and enjoyed alone, 
 comedy is meant to be played and shared
 listened to by a crowd
 
