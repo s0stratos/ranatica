@@ -1,37 +1,58 @@
-<GRATIA>
-alicui gratiam (magnam, maxumam) habere [PL, TER]
-alicui gratiam referre [PL, TER]
-in gratiam ex inimicitia reuenire [PL]
-in gratiam redire [PL, TER]
-in gratiam restituere [TER]
-in gratiam inire [PL, TER]
+<AUFERRE>
+manum auferre
+argentum auferre
 
-<IUS>
-aliquem in ius uocare [PL]
-in ius ire [PL, TER]
-in ius ambulare [PL, TER]
-suom ius postulare [TER]
-ius est (aliquid ita facere) [PL, TER]
-ius iurandum dare [PL]
+<CADERE>
+de equo cadere  [PL]
+ebrium cadere  [PL]
 
-<EXSUGERE>
-alicui sanguinem exsūgere [PL]
-alicuiius sanguinem exsūgēre [PL]
+<CAPUT>
+caput ardescit [PL]
+caput ardet [PL]
+caput comminere [PL]
+caput deponere [PL]
+cassidem in caput dormire [PL]
+caput diminuere [PL, TER]
+cum aliquo caput limare [PL]
+caput quassare [PL]
+caput tollere [PL]
 
-<SORBERE>
-sanguinem hominum sorbēre [PL]
+<CERUICES>
+sibi ceruices diffringere (cadendo) [PL]
+euersas ceruices suas apstinere [TER]
+ceruices euertere [TER]
+neruo ceruices probare [PL]
 
-<SPUTARE>
-sanguinem spūtāre
+<CIRCUMDARE>
+torquem circumdare brachiis [PL]
 
-<EBIBERE>
-alicui sanguinem ēbibere
+<COLLUS>
+collus collari caret  [PL]              //The neck is free from collar
+alicui collum opstringere  [PL]         //To strangle someone
+obstricto collo [PL]
+collum suom laqueo opstringere  [PL]    //To strangle oneself with a string
+collum alicuius circumplectere  [PL]    //To hug someone
+palliolum/pallium in collum conicere [PL]
+cruminam sibi de collo detrahere [PL]
+cruminam in collo collocare [PL]
+alicui in collo pendere [PL] (crepundia ~ puero)
+obtorto collo [PL]
+collum obtorquere [PL]
+alicui in collo tumet [PL] (uomica)
+aliquem in collum tollere [PL]
+actumst de collo meo [PL]
+alicui stanti collum decidere [PL]
+aliquem collo complecti [PL]
+alicui (tam diu) collum tenere [PL]
+alicui collo rem soluere [PL]
+alicui collum debere [PL]
+collum iniuriae praetorquere [PL]
+collus in columbari hau multo post erit [PL]
+nummum in collum (= in cruminam) imponere [PL]
+pecua collo obligare [PL]
 
-<SANGUIS>
-sanguis integer
-plēnus sanguinis
-guttam sanguinis haud habēre
-sine sanguine fierī
+<CRURA>
+sibi crura diffringere (cadendo) [PL]
 
 <DIES>
 it dies [PL]
@@ -78,56 +99,83 @@ numquam ullo die adaeque ridere [PL]
 tot res tantas in unum diem concludere [TER]
 noctes et dies stertere
 
-<COLLUS>
-collus collari caret  [PL]              //The neck is free from collar
-alicui collum opstringere  [PL]         //To strangle someone
-obstricto collo [PL]
-collum suom laqueo opstringere  [PL]    //To strangle oneself with a string
-collum alicuius circumplectere  [PL]    //To hug someone
-palliolum/pallium in collum conicere [PL]
-cruminam sibi de collo detrahere [PL]
-cruminam in collo collocare [PL]
-alicui in collo pendere [PL] (crepundia ~ puero)
-obtorto collo [PL]
-collum obtorquere [PL]
-alicui in collo tumet [PL] (uomica)
-aliquem in collum tollere [PL]
-actumst de collo meo [PL]
-alicui stanti collum decidere [PL]
-aliquem collo complecti [PL]
-alicui (tam diu) collum tenere [PL]
-alicui collo rem soluere [PL]
-alicui collum debere [PL]
-collum iniuriae praetorquere [PL]
-collus in columbari hau multo post erit [PL]
-nummum in collum (= in cruminam) imponere [PL]
-pecua collo obligare [PL]
+<EBIBERE>
+alicui sanguinem ēbibere
 
-<CADERE>
-de equo cadere  [PL]
-ebrium cadere  [PL]
+<EXSUGERE>
+alicui sanguinem exsūgere [PL]
+alicuiius sanguinem exsūgēre [PL]
 
-<RAPERE>
-aliquid in peiiorem partem rapere [TER]
+<GRATIA>
+alicui gratiam (magnam, maxumam) habere [PL, TER]
+alicui gratiam referre [PL, TER]
+in gratiam ex inimicitia reuenire [PL]
+in gratiam redire [PL, TER]
+in gratiam restituere [TER]
+in gratiam inire [PL, TER]
 
 <INDICIUM>
 indicio de se esse
 
-<CRURA>
-sibi crura diffringere (cadendo) [PL]
+<IUS>
+aliquem in ius uocare [PL]
+in ius ire [PL, TER]
+in ius ambulare [PL, TER]
+suom ius postulare [TER]
+ius est (aliquid ita facere) [PL, TER]
+ius iurandum dare [PL]
 
-<CERUICES>
-sibi ceruices diffringere (cadendo) [PL]
-euersas ceruices suas apstinere [TER]
-ceruices euertere [TER]
-neruo ceruices probare [PL]
+<LIMARE>
+cum aliquo caput limare [PL]
 
-<CIRCUMDARE>
-torquem circumdare brachiis [PL]
+<QUASSARE>
+caput quassare [PL]
+aulam quassare [PL]
 
-<AUFERRE>
-manum auferre
-argentum auferre
+<RAPERE>
+aliquid in peiiorem partem rapere [TER]
+
+<SANGUIS>
+sanguis integer
+plēnus sanguinis
+guttam sanguinis haud habēre
+sine sanguine fierī
+
+<SORBERE>
+sanguinem hominum sorbēre [PL]
+
+<SPUTARE>
+sanguinem spūtāre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <MANUS>
 manum apstinere [PL TER]
