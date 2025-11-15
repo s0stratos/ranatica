@@ -1,3 +1,47 @@
+<ABDERE>
+rus se abdere
+ex conspectu eri sui se abdere
+
+<ADIMERE>
+alicui (omnem) metum adimere [TER]
+curam argentariam adimere [TER]
+curas adimere [TER]
+alicui consuetudiem adimere [TER]
+alicui compedes adimere [PL]
+alicui abdomen adimere [PL]
+alicui loricam adimere [PL]
+alicui cistulam, aurum adimere [PL]
+alicui aliquem adimere [nemo nisi mors, orcus] [PL TER]
+aliqui id adimere qua causa uitam uiuere cupit [PL]
+diem adimere [nox] [PL]
+alicui [hominibus] diem adimere [aegritudo] [TER]
+alicui [alteri] suom adimere [PL]
+alicui id adimere ne id quod uidit uiderit. [PL]
+animam adimere [aegritudo] [PL]
+alicui animam adimere [di] [PL]
+alicui spem adimere [TER]
+alicui nomen adimere [PL]
+diuiti adimere [TER] [=/= pauperi addere]
+
+<APPLICARE>
+se ad studium (musicum) applicare
+animum ad studium/aliquid applicare
+se ad aliquid/aliquem applicare
+
+<APPORTARE>
+alicui alia arma apportare
+alicui malum apportare
+alicui (ali/ec)quid boni/mali/noui apportare
+alicui rem nouam apportare
+alicui magnas diuitias domum apportare
+alicui thensaurum mali apportare
+alicui nuntium (aduentu suo) apportare
+alicui aliquem manu (lingua) apportare
+alicui tantum bonum (a portu) apportare
+alicui paullum lucri quantum ei damnum apportare
+alicui nouam comoediam apportare
+alicui alicuius aduentum apportare
+
 <AUFERRE>
 manum auferre
 argentum auferre
@@ -102,6 +146,71 @@ noctes et dies stertere
 <EBIBERE>
 alicui sanguinem ēbibere
 
+<ESSE>
+alicui aegre esse
+non apud se esse - not to be oneself, to feel lost, unfocused, and absent-minded from emotion
+auxilio (ad)esse - to be there to helf
+alio animo esse
+alicui bene esse
+bono animo esse - to be confident
+fideli, benigno, clementi, peruicaci animo esse
+clam esse -
+crimini esse - to be susceptible to be held against someone
+curae esse - to be a source of concern
+dubium esse - to be uncertain, problematic
+extra noxiam esse -
+forte esse  -
+frugi (bonae) esse - to be a good/fruitful/useful person
+frustra esse - to be useless, in vain, a lost cause
+idem omnibus esse - to act the same with everyone
+in culpa esse -
+in diem esse -
+in manus esse
+in metu esse
+in mentem esse
+in mora esse
+in noxa esse
+alicui in ore esse -
+in periclo esse
+in alicuius potestate esse
+alicuius in rem esse - to help the affairs of someone, to favor the interests of someone
+indicio esse
+istic esse
+lucro esse
+alicui male esse -
+molestiae esse
+morae esse
+odio esse
+operae esse //
+operae pretium esse
+par esse
+praesto esse
+rei esse
+signi sat esse
+usui esse
+tenui oratione esse
+scriptura leui esse
+alicui de + ABL esse (erat ei de ratiuncula)
+----
+copia est
+de nihilo est
+ex usu est
+satis ex sententia est
+id est
+in lucro est
+interuallum est
+(maior) lubido est
+nil est
+operae pretium est
+opus est +ABL
+opus est +PPT (non est opus prolato hoc)
+ab aliquo e nil pericli st
+spes est
+tempus est
+usus est
+quid lucrist
+alicui res cum aliquo est
+
 <EXSUGERE>
 alicui sanguinem exsūgere [PL]
 alicuiius sanguinem exsūgēre [PL]
@@ -147,36 +256,6 @@ sanguinem hominum sorbēre [PL]
 <SPUTARE>
 sanguinem spūtāre
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <MANUS>
 manum apstinere [PL TER]
 manum mordicus arripere [PL]    //To bite one's hand off
@@ -196,26 +275,7 @@ manum in sinum alicui inserere [TER]
 alicui aliquid paullum prae manu dare (unde utatur) [TER]
 uxor quid faciat in manu non est mea [TER]
 
-<ADIMERE>
-alicui (omnem) metum adimere [TER]
-curam argentariam adimere [TER]
-curas adimere [TER]
-alicui consuetudiem adimere [TER]
-alicui compedes adimere [PL]
-alicui abdomen adimere [PL]
-alicui loricam adimere [PL]
-alicui cistulam, aurum adimere [PL]
-alicui aliquem adimere [nemo nisi mors, orcus] [PL TER]
-aliqui id adimere qua causa uitam uiuere cupit [PL]
-diem adimere [nox] [PL]
-alicui [hominibus] diem adimere [aegritudo] [TER]
-alicui [alteri] suom adimere [PL]
-alicui id adimere ne id quod uidit uiderit. [PL]
-animam adimere [aegritudo] [PL]
-alicui animam adimere [di] [PL]
-alicui spem adimere [TER]
-alicui nomen adimere [PL]
-diuiti adimere [TER] [=/= pauperi addere]
+
 
 <DEUENIRE> [PL TER]
 in insidias deuenire [homo] [PL]
@@ -344,70 +404,7 @@ se in fugam penetrare [PL]
 se ad plures penetrare [PL]
 se penetrare ubi est damni conciliabulum [PL]
 
-<ESSE>
-alicui aegre esse
-non apud se esse - not to be oneself, to feel lost, unfocused, and absent-minded from emotion
-auxilio (ad)esse - to be there to helf
-alio animo esse
-alicui bene esse
-bono animo esse - to be confident
-fideli, benigno, clementi, peruicaci animo esse
-clam esse -
-crimini esse - to be susceptible to be held against someone
-curae esse - to be a source of concern
-dubium esse - to be uncertain, problematic
-extra noxiam esse -
-forte esse  -
-frugi (bonae) esse - to be a good/fruitful/useful person
-frustra esse - to be useless, in vain, a lost cause
-idem omnibus esse - to act the same with everyone
-in culpa esse -
-in diem esse -
-in manus esse
-in metu esse
-in mentem esse
-in mora esse
-in noxa esse
-alicui in ore esse -
-in periclo esse
-in alicuius potestate esse
-alicuius in rem esse - to help the affairs of someone, to favor the interests of someone
-indicio esse
-istic esse
-lucro esse
-alicui male esse -
-molestiae esse
-morae esse
-odio esse
-operae esse //
-operae pretium esse
-par esse
-praesto esse
-rei esse
-signi sat esse
-usui esse
-tenui oratione esse
-scriptura leui esse
-alicui de + ABL esse (erat ei de ratiuncula)
-----
-copia est
-de nihilo est
-ex usu est
-satis ex sententia est
-id est
-in lucro est
-interuallum est
-(maior) lubido est
-nil est
-operae pretium est
-opus est +ABL
-opus est +PPT (non est opus prolato hoc)
-ab aliquo e nil pericli st
-spes est
-tempus est
-usus est
-quid lucrist
-alicui res cum aliquo est
+
 
 <HABERE>
 animum bonum habere -
@@ -580,7 +577,7 @@ diem obire
 quod edit praebere - give someone something to eat
 quo potet praebere - give someone something to drink (alcohol)
 
-CONCINNARE
+<CONCINNARE>
 struices concinnare
 
 <FERRE>
@@ -795,29 +792,6 @@ de aliqua re quid commerere
 malum commerere
 nihil commerere
 
-SE ABDERE
-rus se abdere
-ex conspectu eri sui se abdere
-
-<APPLICARE>
-se ad studium (musicum) applicare
-animum ad studium/aliquid applicare
-se ad aliquid/aliquem applicare
-
-<APPORTARE>
-alicui alia arma apportare
-alicui malum apportare
-alicui (ali/ec)quid boni/mali/noui apportare
-alicui rem nouam apportare
-alicui magnas diuitias domum apportare
-alicui thensaurum mali apportare
-alicui nuntium (aduentu suo) apportare
-alicui aliquem manu (lingua) apportare
-alicui tantum bonum (a portu) apportare
-alicui paullum lucri quantum ei damnum apportare
-alicui nouam comoediam apportare
-alicui alicuius aduentum apportare
-
 <COMMEO>
 in urbem commeare
 
@@ -847,58 +821,58 @@ argumentum narrare
 <HAERERE>
 culpa in aliquo haeret
 
-SUSCIPERE
+<SUSCIPERE>
 inimicitias suscipere
 filiam suscipere
 
-PERDERE
+<PERDERE>
 uitam perdere
 
-EXPEDIRE
+<EXPEDIRE>
 iram expedire
 aerumnis expedire
 crimine expedire
 aliquid uerbo expedire
 
-RESTITUERE
+<RESTITUERE>
 rursus in gratiam restituere
 
-IUBERE
+<IUBERE>
 pietas iubet...
 lex iubet...
 
-ASSIMULARE
+<ASSIMULARE>
 se amicum assimulare
 
-ADDUCERE
+<ADDUCERE>
 medicum adducere - to fetch a doctor
 nutricem adducere - to fetch a wet-nurse
 partis ad malas adducere - to lead participants (in something) to a bad conclusion
 
-SCIRE
+<SCIRE>
 certo scire
 
-AFFERRE
+<AFFERRE>
 sibi molestiam afferre
 nil auxili affere
 
-EXCESSERE
+<EXCESSERE>
 cura ex corde excessit
 
-EXCUSSERE
+<EXCUSSERE>
 alicui lacrimas excussere
 
-NUNTIARE
+<NUNTIARE>
 uoluptatem magnam nuntiare
 alicui salutem propitiam nuntiare
 
-EXIRE
+<EXIRE>
 limen exire
 
-EXIGERE
+<EXIGERE>
 uitam exigere
 
-INCIDERE
+<INCIDERE>
 in mentem incidere
 
 <ACCIDERE>
@@ -923,48 +897,48 @@ dolor inuadit
 <CONTEGERE>
 iniuriam contegere
 
-OFFERRE
+<OFFERRE>
 iniuriam offerre
 opportune se offerre
 
-FIRMARE
+<FIRMARE>
 fidem firmare
 
-CONFERRE
+<CONFERRE>
 exemplum conferre
 
-TENERE
+<TENERE>
 amor aliquem tenet
 lex aliquem tenet
 consuetudo aliquem tenet
 satias aliquem tenet
 
-PRAETERIRE
+<PRAETERIRE>
 aliquid mali praeterire
 
-ADIRE
+<ADIRE>
 aliquem adire
 
-UELLE
+<UELLE>
 aliquid aliquem uelle
 uxorem uelle
 
-RENUMERARE
+<RENUMERARE>
 dotem renumerare
 
-PRAECIDERE
+<PRAECIDERE>
 causas praecidere
 
-ALERE
+<ALERE>
 puerum alere
 
-ERRARE
+<ERRARE>
 sui animi errare
 
-ADIUNGERE
+<ADIUNGERE>
 animum suum adiungere
 
-REUOLUERE
+<REUOLUERE>
 in eadem uitam denuo reuoluere
 
 <CONFINGERE>
@@ -983,24 +957,24 @@ totum diem desidere
 uerbum uerbo respondere
 par pari respondere
 
-COMMENDERE
+<COMMENDERE>
 alicui uitam suam commendere
 
-ADESSE
+<ADESSE>
 ad ndum benignitas adest
 
-CONTERERE
+<CONTERERE>
 totum diem conterere
 operam frustra conterere
 
-ADIMERE
+<ADIMERE>
 curas adimere
 consuetudinem adimere
 
-EXTRAHERE
+<EXTRAHERE>
 ex aerumna extrahere
 
-RETRAHERE
+<RETRAHERE>
 a studio retrahere
 
 <TRANSDERE>
