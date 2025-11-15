@@ -1,3 +1,11 @@
+<IUS>
+aliquem in ius uocare [PL]
+in ius ire [PL, TER]
+in ius ambulare [PL, TER]
+suom ius postulare [TER]
+ius est (aliquid ita facere) [PL, TER]
+ius iurandum dare [PL]
+
 <EXSUGERE>
 alicui sanguinem exsūgere [PL]
 alicuiius sanguinem exsūgēre [PL]
@@ -113,8 +121,6 @@ torquem circumdare brachiis [PL]
 manum auferre
 argentum auferre
 
-
-
 <MANUS>
 manum apstinere [PL TER]
 manum mordicus arripere [PL]    //To bite one's hand off
@@ -134,8 +140,7 @@ manum in sinum alicui inserere [TER]
 alicui aliquid paullum prae manu dare (unde utatur) [TER]
 uxor quid faciat in manu non est mea [TER]
 
-
-ADIMERE
+<ADIMERE>
 alicui (omnem) metum adimere [TER]
 curam argentariam adimere [TER]
 curas adimere [TER]
@@ -156,7 +161,7 @@ alicui spem adimere [TER]
 alicui nomen adimere [PL]
 diuiti adimere [TER] [=/= pauperi addere]
 
-DEUENIRE [PL TER]
+<DEUENIRE> [PL TER]
 in insidias deuenire [homo] [PL]
 (ad aliquem) domum deuenire [homo] [PL]
 ad mare deuenire [homo] [PL]
@@ -164,7 +169,7 @@ ad aliquem (furem, lenonem, danistam, matrem eius, praetorem) deuenire [homo] [P
 ad aliquem deuenire [tantum mali] [TER]
 noctu clanculum ad aliquem deuenire [homo] [PL]
 
-INSIDIAE [PL TER]
+<INSIDIAE> [PL TER]
 alicui insidias dare [PL]
 alicui insidias facere [PL TER]
 alicui insidiae fiunt [PL TER]
@@ -173,7 +178,7 @@ in insidias deuenire [PL]
 in insidiis esse [TER]
 ex insidiis aucupare [PL]
 
-MOECHUS [PL TER]
+<MOECHUS> [PL TER]
 magnum moechum mulierum esse
 manufestus moechus [PL]
 moechus malacus cincinnatus umbraticulum tumpanotribam amare [PL]
@@ -190,7 +195,7 @@ populi odium quidni noverim, magnidicum, cincinnatum, moechum unguentatum [PL]
 si nil impetres, ut te arbitretur sibi paratum moechum, si illam duxerit [TER]
 numquid videtur demutare alio atque uti	dixi esse vobis dudum hunc moechum militem [PL]
 
-NOXIA (NOXA, NOXIUS, INNOXIUS)
+<NOXIA> (NOXA, <NOXIUS>, <INNOXIUS>)
 in noxa esse [TER]
 manufesto inimicos in noxia tenere [PL]
 aliquem manufesto in noxia tenere [PL]
@@ -214,7 +219,7 @@ innocens seruos atque innoxius [PL]
 amicum castigatum innoxium prosilire [PL]
 innoxium esse [PL]
 
-SECRETO [PL]
+<SECRETO> [PL]
 aliquid in consilio secreto consultare [PL]
 aliquem secreto adiutare [PL]
 aliquid secum secreto agere [PL]
@@ -223,11 +228,11 @@ est quod te uolo secreto [PL]
 
 ----------------------
 
-INTRARE
+<INTRARE>
 intra limen intrare [PL]
 
 ----------
-CONCLUDERE
+<CONCLUDERE>
 ----------
 aliquem in cellam aliquam cum aliquo concludere
 aliquem hoc concludere
@@ -249,7 +254,7 @@ aliquem in carcere conclusum habere
 uolcanum in cornu concludere
 
 ---------
-EXCLUDERE
+<EXCLUDERE>
 ---------
 aliquem foras excludere
 aliquem hinc foras excludere (prae amore)
@@ -260,7 +265,7 @@ aliquem iterum istinc excludere
 (alicui) oculum excludere
 
 ---------
-OCCLUDERE
+<OCCLUDERE>
 ---------
 aedis occludere (pessulis, repagulis) - close the house's door
 arcam occludere - close the chest
@@ -272,7 +277,7 @@ linguam occludere - cause someone/oneself to stop talking
 lubidinem occludere - cause someone's/one's lust to go away
 
 ---------
-PENETRARE
+<PENETRARE>
 ---------
 pedem intra aedis penetrare [PL]
 pedem intra portam penetrare [PL]
@@ -283,7 +288,7 @@ se in fugam penetrare [PL]
 se ad plures penetrare [PL]
 se penetrare ubi est damni conciliabulum [PL]
 
-ESSE
+<ESSE>
 alicui aegre esse
 non apud se esse - not to be oneself, to feel lost, unfocused, and absent-minded from emotion
 auxilio (ad)esse - to be there to helf
@@ -348,7 +353,7 @@ usus est
 quid lucrist
 alicui res cum aliquo est
 
-HABERE
+<HABERE>
 animum bonum habere -
 dubium habere //
 aliquem eximium habere - to make an exception for someone
@@ -377,20 +382,20 @@ aliquem haud/numquam secus habere ac ...
 sibi habere
 uxorem habere - to be married
 
-EXIMERE
+<EXIMERE>
 se ex catenis eximere
 
-DELIGERE
+<DELIGERE>
 rostrum deligere
 
-DISCERE
+<DISCERE>
 partis discere
 
-EXPLERE
+<EXPLERE>
 suam uoluptatem explere
 animum explere
 
-IRE
+<IRE>
 aduorsum ire  - to go to meet someone halfway
 ante ire - to act before, to anticipate
 domum ire - to go home
@@ -402,13 +407,13 @@ pessum ire - to sink to the bottom (of the sea)
 rus ire - to go to the farm, the countryside
 uisere ire -
 
-NEGARE
+<NEGARE>
 se negare
 
-CONFICERE
+<CONFICERE>
 nuptias conficere
 
-FACERE
+<FACERE>
 aequom facere
 assulas facere - make firewood out of something (door)
 auctionem facere - organize a public sale of private goods
@@ -452,11 +457,11 @@ uerba facere - to say things, to take the floor (speaking)
 uolnus facere - to injure someone
 facere + PPT (missam)
 
-OBTINERE
+<OBTINERE>
 morem obtinere
 ingenium obtinere
 
-DARE
+<DARE>
 -----------
 adoptandum dare
 consilium dare - to give advice
@@ -502,20 +507,20 @@ uitio dare - to list something as a flaw
 utendum dare - to lend something (for immediate use)
 uxorem dare - to give someone as a wife to someone
 
-PENDERE
+<PENDERE>
 parui pendere - to not matter (quae dico parui pendunt)
 nihili pendere -
 
-TOLLERE
+<TOLLERE>
 puerum tollere - to keep a child, to accept to raise it
 
-SUMERE
+<SUMERE>
 diem sumere
 
-OBIRE
+<OBIRE>
 diem obire
 
-PRAEBERE
+<PRAEBERE>
 quod edit praebere - give someone something to eat
 quo potet praebere - give someone something to drink (alcohol)
 
@@ -587,10 +592,10 @@ uxorem ducere (domum) - to take someone as a wife
 aliquid uitio ducere (=/= aliquid laudere)
 
 
-PERSPICERE
+<PERSPICERE>
 fidem in pecunia perspicere
 
-AGERE
+<AGERE>
 aetatem agere - to live, to spend one's life
 comoediam agere - to play a comedy
 fabulam (statariam) agere - to play a (not too action-packed) comedy
@@ -603,15 +608,15 @@ rem agere - to work on an affair, on a deal, on something
 sat agere (satagere) - to keep busy, to have one's hand full
 uitam agere - to live, to spend one's life
 
-AFFICERE
+<AFFICERE>
 aliquem cura afficere - to cause someone to worry
 aliquem sollicitudine afficere - to cause someone to worry
 
-INUENIRE
+<INUENIRE>
 argentum inuenire - to find (necessary) money for something
 gnatam inuenire - to find, identify a (lost) daughter
 
-GERERE
+<GERERE>
 alicui morem gerere - to obey
 bellum gerere - to wage war
 fidem gerere
@@ -625,7 +630,7 @@ quam rem gerere
 alicui praeturam/aedilitatem gerere
 quid negoti gerere
 
-UENIRE
+<UENIRE>
 ad iudices uenire
 alicui usu uenire
 in crimen uenire - to come to be accused
@@ -636,16 +641,16 @@ in peric(u)lum uenire - to come to be under test / face issues
 ------------
 rumor uenit - there are rumors that
 
-DEFRAUDARE
+<DEFRAUDARE>
 genium suum defraudare
 
-AGITARE
+<AGITARE>
 conuiuium agitare
 
-LOQUI
+<LOQUI>
 praefinito loqui
 
-STATUERE
+<STATUERE>
 finem orationis statuere (= finem dicendi facere)
 
 INDUCERE
@@ -667,31 +672,31 @@ secum gaudere
 PERMITTERE
 eius iudicio omnia permittere
 
-COMMITTERE
+<COMMITTERE>
 aliquid in fidem alicuius committere
 liberos commitere
 
-ADMITTERE
+<ADMITTERE>
 aliquem intro admittere
 quid turpe in se admittere
 
-ACCIPERE
+<ACCIPERE>
 condicionem accipere
 minas quique accipere [money]
 
-ADIPISCI
+<ADIPISCI>
 iudicium adipisci
 
-PRAEDICARE
+<PRAEDICARE>
 uera praedicare
 
-PASCERE
+<PASCERE>
 oculos pascere
 
-PROLOQUI
+<PROLOQUI>
 mendacium proloqui
 
-REDIRE
+<REDIRE>
 ad ingenium redire
 ad pauca redire
 in gratiam redire
@@ -704,7 +709,7 @@ nuntius redit
 -------
 hereditas ad aliquem redit
 
-CONICERE
+<CONICERE>
 se in malum conicere
 se in plagas conicere
 erilem filium in nuptias conicere
@@ -725,7 +730,7 @@ pedes in curriculum conicere
 ut conicio
 alicui somnium conicere
 
-COMMERERE
+<COMMERERE>
 (in se) culpam commerere
 (in se) aliquid mali commerere
 aliam noxiam commerere
@@ -738,12 +743,12 @@ SE ABDERE
 rus se abdere
 ex conspectu eri sui se abdere
 
-APPLICARE
+<APPLICARE>
 se ad studium (musicum) applicare
 animum ad studium/aliquid applicare
 se ad aliquid/aliquem applicare
 
-APPORTARE
+<APPORTARE>
 alicui alia arma apportare
 alicui malum apportare
 alicui (ali/ec)quid boni/mali/noui apportare
@@ -757,33 +762,33 @@ alicui paullum lucri quantum ei damnum apportare
 alicui nouam comoediam apportare
 alicui alicuius aduentum apportare
 
-COMMEO
+<COMMEO>
 in urbem commeare
 
-FUGERE
+<FUGERE>
 e conspectu fugere
 
-DICERE
+<DICERE>
 alicui operam dicere
 causam dicere
 aliquid in aliquem dicere
 mendacium dicere
 
-COGITARE
+<COGITARE>
 in animo iratus cogitare
 
-COEPERE
+<COEPERE>
 iter coepere
 
-PUTARE
+<PUTARE>
 aliquem lapidem putare
 aliquem hominem putare
 
-NARRARE
+<NARRARE>
 hominem + ADJ narrare
 argumentum narrare
 
-HAERERE
+<HAERERE>
 culpa in aliquo haeret
 
 SUSCIPERE
@@ -840,26 +845,26 @@ uitam exigere
 INCIDERE
 in mentem incidere
 
-ACCIDERE
+<ACCIDERE>
 ad genua accidere
 
-CURARI
+<CURARI>
 aliquid sibi curari uelle
 -----
 malum ad malum accidit
 
-ORIOR
+<ORIOR>
 initium oritur
 
-MORBUS
+<MORBUS>
 morbus aggravescat
 morbum augere
 morbus amplior fit
 
-DOLOR
+<DOLOR>
 dolor inuadit
 
-CONTEGERE
+<CONTEGERE>
 iniuriam contegere
 
 OFFERRE
@@ -906,19 +911,19 @@ animum suum adiungere
 REUOLUERE
 in eadem uitam denuo reuoluere
 
-CONFINGERE
+<CONFINGERE>
 (falsas) causas configere
 
-PROMOUERE
+<PROMOUERE>
 parum promouere
 
-TUTARI
+<TUTARI>
 mores tutari
 
-DESIDEO
+<DESIDEO>
 totum diem desidere
 
-RESPONDERE
+<RESPONDERE>
 uerbum uerbo respondere
 par pari respondere
 
@@ -942,46 +947,46 @@ ex aerumna extrahere
 RETRAHERE
 a studio retrahere
 
-TRANSDERE
+<TRANSDERE>
 in otium transdere
 
-STARE
+<STARE>
 alicuius opera stare
 
-TRACTARE
+<TRACTARE>
 artem (musicam) tractare
 
-SEDERE
+<SEDERE>
 exaduorsum sedere
 
-PATI
+<PATI>
 aegre pati
 
-DEFERUERE
+<DEFERUERE>
 adulescentia deferuet
 
-ADIUTARE
+<ADIUTARE>
 funus adiutare
 
-REICERE
+<REICERE>
 ad famem a studio reicere
 
-CORRADI
+<CORRADI>
 munus corradi
 
 EXSTINGUERE
 formam exstinguere
 
-PERGERE
+<PERGERE>
 recta pergere
 
-UOCARE
+<UOCARE>
 ad cenam uocare
 
-REDDERE
+<REDDERE>
 iudicium reddere
 
-CONUENIRE
+<CONUENIRE>
 hominem conuenire
 
 alicuiius muunus fungei
