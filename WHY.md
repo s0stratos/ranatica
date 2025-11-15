@@ -43,7 +43,7 @@ Most of the time you want the most normal expression and idiom for the job.
 Comedy is very important for this cause it feature a lot of situations and interactions
 with very normal wordings.
 
-## COMEDY IN A LIVING ART 
+## COMEDY IS A PERFORMANCE ART 
 
 Unlike other texts that are meant to be read and enjoyed alone, 
 comedy is meant to be played and shared
