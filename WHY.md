@@ -43,6 +43,16 @@ Most of the time you want the most normal expression and idiom for the job.
 Comedy is very important for this cause it feature a lot of situations and interactions
 with very normal wordings.
 
+## COMEDY IN A LIVING ART 
+
+Unlike other texts which are meant to be read and enjoyed alone, 
+comedy is meant to be played and shared
+listened to by a crowd
+
+it makes it a very important entry point into Roman culture and
+I can only wish we had more renditions of it, 
+songs we can all sing from it.
+
 
 
 
