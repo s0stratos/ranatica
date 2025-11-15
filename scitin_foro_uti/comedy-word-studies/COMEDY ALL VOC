@@ -1255,10 +1255,10 @@ aequumst			1113	39	17
 aequus			1114	4	4
 aequā			1115	3	3
 aequābilīs			1116	1	1 +BILIS
-aequālem			1117	3	3 +ALIS
-aequālis			1118	1	1 +ALIS
-aequālium			1119	2	2 +ALIS
-aequālī			1120	3	3 +ALIS
+aequālem			1117	3	3 +ÀLIS
+aequālis			1118	1	1 +ÀLIS
+aequālium			1119	2	2 +ÀLIS
+aequālī			1120	3	3 +ÀLIS
 aequās			1121	1	1
 aequē			1122	50	22
 aequēst			1123	1	1
@@ -3491,8 +3491,8 @@ barbarōs		3140	1	1 +GEOGRAPHY
 -------------------------------------
 barba				3129	2	2  +BODY
 barbā				3141	3	3  +BODY
-barbātum			3142	1	1 +ATUS +BODY
-barbātōs			3143	1	1 +ATUS +BODY
+barbātum			3142	1	1 +ÀTUS +BODY
+barbātōs			3143	1	1 +ÀTUS +BODY
 -------------------------------------
 bardā			3144	1	1
 bardī			3145	1	1
@@ -3743,7 +3743,7 @@ bonōs				3364	6		5
 -------------------------------------
 bracchia				3368	2	2 +BODY
 bracchium			    3369	7	4 +BODY
-bracchiālem			    3370	1	1 +ALIS +BODY
+bracchiālem			    3370	1	1 +ÀLIS +BODY
 bracchiīs				3371	1	1 +BODY
 bracchiō				3372	1	1 +BODY
 --------------------------------------
@@ -3797,7 +3797,7 @@ bēlua				3410	4	4 +ANIMAL
 bēluae				3411	1	1 +ANIMAL
 bēluam			    3412	5	5 +ANIMAL
 bēluās				3413	2	2 +ANIMAL
-bēluāta			    3414	1	1 +ATUS +ANIMAL
+bēluāta			    3414	1	1 +ÀTUS +ANIMAL
 -------------------------------------
 bēstia				3415	6	5 +ANIMAL
 bēstiam			    3416	6	5 +ANIMAL
@@ -3878,9 +3878,9 @@ caedit			3477	1	1
 caedite			3478	3	3 +IMPERATIVE
 caeditō			3479	1	1 +IMPERATIVE
 caedor			3480	1	1
-caedundum			3481	1	1 +ND
-caedundus			3482	1	1 +ND
-caedundōs			3483	1	1 +ND
+caedundum			3481	1	1 +r+CAED +ND
+caedundus			3482	1	1 +r+CAED +ND
+caedundōs			3483	1	1 +r+CAED +ND
 caedēre			3484	2	2
 caedī			3485	2	2
 -----------------------------
@@ -4075,8 +4075,8 @@ cantōrēs			3641	1	1 +TÒR +ART +MUSIC
 cantū				3642	1	1 +ART +MUSIC
 canōrā			3648	1	1 +ART +MUSIC
 -----------------------------------------
-canālem			    3643	1	1 +ALIS +EQUIPMENT
-canālīs				3644	1	1 +ALIS +EQUIPMENT
+canālem			    3643	1	1 +ÀLIS +EQUIPMENT
+canālīs				3644	1	1 +ÀLIS +EQUIPMENT
 -----------------------------------------
 canēs				3645	10	7 +ANIMAL
 canīculam		    3646	1	1 +ULUS +DIMINUTIVE +ANIMAL
@@ -4121,11 +4121,11 @@ capitis			3682	9	8 +BODY
 capitulum			3683	1	1 +ULUS +DIMINUTIVE +BODY
 capitulō			3684	2	2 +ULUS +DIMINUTIVE +BODY
 capitur			3685	6	5
-capitālem			3686	2	2 +ALIS +BODY
-capitālia			3687	1	1 +ALIS +BODY
-capitālis			3688	1	1 +ALIS +BODY
-capitālī			3689	3	3 +ALIS +BODY
-capitālīque			3690	1	1 +ALIS +QUE +BODY
+capitālem			3686	2	2 +ÀLIS +BODY
+capitālia			3687	1	1 +ÀLIS +BODY
+capitālis			3688	1	1 +ÀLIS +BODY
+capitālī			3689	3	3 +ÀLIS +BODY
+capitālīque			3690	1	1 +ÀLIS +QUE +BODY
 capitī			3691	15	13 +BODY
 capitīque			3692	1	1 +BODY
 capitōliō			3693	2	2
@@ -4627,7 +4627,7 @@ cibus			4123	5	5 +FOOD
 cibust			4124	1	1 +ST +FOOD
 cibāria			4125	1	1 +ARIUS +FOOD
 cibāriam		4126	1	1 +ARIUS +FOOD
-cibātus			4127	1	1 +ATUS +FOOD
+cibātus			4127	1	1 +ÀTUS +FOOD
 cibī			4128	3	3 +FOOD
 cibō			4129	14	10 +FOOD
 cibōst			4130	1	1 +ST +FOOD
@@ -4653,8 +4653,8 @@ cinaedum		4143	2	2   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 cinaedus		4144	3	3   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 cinaedōs		4145	2	2   +l+CINAEDUS +r+CINAED +GREEK +SEXUAL
 -------------------------------------------
-cincinnātum			4146	2	2 +ATUS +BODY +BEAUTY
-cincinnātus			4147	1	1 +ATUS +BODY +BEAUTY
+cincinnātum			4146	2	2 +ÀTUS +BODY +BEAUTY
+cincinnātus			4147	1	1 +ÀTUS +BODY +BEAUTY
 cincinnōs			4148	1	1 +BODY +BEAUTY
 -------------------------------------------
 cinere			4149	1	1 +NATURE
@@ -4773,7 +4773,7 @@ clandestīnō				4237	3	3
 ---------------------------------------------------
 classe			4238	1	1
 classiam			4239	1	1
-clatrāta			4240	1	1 +ATUS +EQUIPMENT
+clatrāta			4240	1	1 +ÀTUS +EQUIPMENT
 claudam			4241	1	1 +BODY +BODY_MOVEMENT HEALTH
 claudi			4242	6	6
 claudier			4243	3	3
@@ -4825,7 +4825,7 @@ clueō			4279	2	2 +r+CLU
 ----------------------------------
 clupeum			4280	2	2 +EQUIPMENT
 clupeus			4281	2	2 +EQUIPMENT
-clupeātus		4282	1	1 +ATUS +EQUIPMENT
+clupeātus		4282	1	1 +ÀTUS +EQUIPMENT
 clupeō			4283	1	1 +EQUIPMENT
 ----------------------------------
 clutomēstoridysarchidēs			4284	1	1 +NAME
@@ -5468,7 +5468,7 @@ comprimere			4886	4	3
 comprimit			4887	2	2
 comprimitō			4888	1	1
 comprimor			4889	2	2
-comprimunda			4890	1	1
+comprimunda			4890	1	1 +r+PREM +p+CON +ND
 comprimēs			4891	1	1
 comprimī			4892	1	1
 comprobant			4893	1	1
@@ -5631,7 +5631,7 @@ concubīnae			5037	2	1 +INA
 concubīnam			5038	11	3 +INA
 concubīnast			5039	1	1 +INA +ST
 concubīnā			5040	2	1 +INA
-concubīnātum			5041	2	2 +INA +ATUS
+concubīnātum			5041	2	2 +INA +ÀTUS
 concumbimus			5042	1	1
 concurrunt			5043	4	4
 concursus			5044	1	1
@@ -5773,7 +5773,7 @@ congerunt			5177	1	1
 congerēbam			5178	1	1
 congestae			5179	1	1
 congestum			5180	2	2
-congiālem			5181	1	1 +ALIS
+congiālem			5181	1	1 +ÀLIS
 conglīscat			5182	1	1
 conglūtinā			5183	1	1
 conglūtinās			5184	1	1
@@ -5971,7 +5971,7 @@ contumēliās			5357	5	5
 contumēliīs			5358	1	1
 contumēliōsius		5359	1	1 +ÒSUS
 ----------------------------------------
-contundam			5360	1	1 +r+TUND
+contundam			5360	1	1 +r+TUND +p+CON
 contuor			    5361	2	2
 conturbābunt			5362	2	2
 conturbāstī			5363	1	1 +SYNCPERFECT
@@ -7662,7 +7662,7 @@ dentifrangibula		6928	1	1 +FRANGERE +COMPOUND +BULA +BODY
 dentifrangibule		6929	1	1 +FRANGERE +COMPOUND +BULA +BODY
 dentilegōs			6930	1	1 +LEGERE +COMPOUND +BODY
 dentur			6931	1	1
-dentātum			6932	1	1 +ATUS +BODY
+dentātum			6932	1	1 +ÀTUS +BODY
 dentēs			6933	13	10 +BODY
 dentīs			6934	1	1 +BODY +IACCUSATIVE
 deorsum			6935	7	5 +UORSUS
@@ -7775,7 +7775,8 @@ diffrāctōs			    7035	1	1 +l+DIFFRINGERE +r+FRAG +p+DIS
 diffrēgeritis			7036	1	1 +l+DIFFRINGERE +r+FRAG +p+DIS
 diffrēgisset			7037	1	1 +l+DIFFRINGERE +r+FRAG +p+DIS
 ----------------------------------
-diffunditārī			7038	1	1
+diffunditārī			7038	1	1 +r+FUND +p+DIS +FREQUENTATIVE
+----------------------------------
 diffīdant			7039	1	1
 diffīdentem			7040	2	2
 --------------------------------------
@@ -8925,7 +8926,7 @@ dēterrēbor			8117	1	1
 dēterrēre			8118	3	3
 dētexere			8119	1	1
 dētexit			8120	2	2
-dētexundam			8121	1	1
+dētexundam			8121	1	1 r+TEX +ND
 dētinet			8122	2	2
 dētineō			8123	1	1
 dētinuisse			8124	1	1
@@ -9052,7 +9053,7 @@ dīcitō		8238	1	1
 dīcitque			8239	1	1
 dīcitur			8240	12	8
 dīcitō			8241	36	18
-dīcundum			8242	2	2 +ND
+dīcundum			8242	2	2 +r+DÌC +ND
 dīcunt			8243	13	10
 dīcuntur			8244	1	1
 dīcāmur			8245	1	1
@@ -9105,8 +9106,8 @@ dīlūculō			8290	2	1
 dīmidiam		8291	3	3
 dīmidium		8292	17	9
 dīmidiumst		8293	1	1 +ST
-dīmidiātus		8294	1	1 +ATUS
-dīmidiātī		8295	1	1 +ATUS
+dīmidiātus		8294	1	1 +ÀTUS
+dīmidiātī		8295	1	1 +ÀTUS
 dīmidiō			8296	3	3
 -------------------------------------------
 dīminuam			8297	1	1
@@ -9134,7 +9135,7 @@ dīphilō			8313	1	1 +NAME
 -------------------------------------------
 dīque			8314	12	11
 dīripior		8315	1	1
-dīripiundum		8316	1	1 +ND
+dīripiundum		8316	1	1 +r+RAP +p+DÌ +ND
 dīripuisse		8317	1	1
 dīrue			8318	1	1
 dīrumpātis		8319	1	1 +l+DÌRUMPERE +r+RUP +p+DÌ
@@ -9442,7 +9443,7 @@ edis			8600	2	2
 edisne			8601	1	1
 edit			8602	5	5
 edō			8603	1	1
-edundī			8604	1	1
+edundī			8604	1	1 +r+ED +ND
 edunt			8605	5	3
 edācem			8606	2	2 +ÀC
 edācitāte		8607	1	1 +ÀC +TÀT
@@ -9650,8 +9651,8 @@ emitō			8786	1	1
 emporium			8787	1	1
 empsim			8788	2	2
 emptast			8789	1	1
-emunda			8790	1	1 +ND
-emundīs			8791	1	1 +ND
+emunda			8790	1	1 +r+EM +ND
+emundīs			8791	1	1 +r+EM +ND
 emunt			8792	1	1
 emunxtī			8793	1	1
 emās			8794	2	2
@@ -9886,15 +9887,15 @@ eugae			8988	41	17 +INTERJ
 euge			8989	1	1 +INTERJ
 eugepae			8990	8	6 +INTERJ
 euhoe			8991	1	1 +INTERJ
-eum			8992	259	26
-eumpse			8993	7	4
-eumque			8994	12	9
-eundem			8995	11	8
-eundum			8996	1	1 +ND
-eundī			8997	1	1
+eum			    8992	259	26 +r+I
+eumpse			8993	7	4 +r+I +PSE
+eumque			8994	12	9 +r+I +QUE
+eundem			8995	11	8 +r+I +DEM
+eundum			8996	1	1 +r+Ì +ND
+eundī			8997	1	1 +r+Ì +ND
 eunomia			8998	2	1
-eunt			8999	10	6
-euntem			9000	1	1
+eunt			8999	10	6 +r+Ì +NT
+euntem			9000	1	1 +r+Ì +NT
 ---------------------------------------
 eunuchus		9001	2	1 +JOB +FAMILY
 eunūchon		9002	2	1 +JOB +FAMILY
@@ -9933,14 +9934,14 @@ exambulet			9027	1	1
 examussim			9028	3	3
 exanclāvit			9029	1	1
 exanimor			9030	1	1
-exanimālem			9031	1	1 +ALIS
-exanimālēs			9032	1	1 +ALIS
-exanimāta			9033	3	3 +ATUS
-exanimātam			9034	1	1 +ATUS
-exanimātu's			9035	1	1 +ATUS +S
-exanimātum			9036	5	4 +ATUS
-exanimātus			9037	5	5 +ATUS
-exanimātās			9038	2	1 +ATUS
+exanimālem			9031	1	1 +ÀLIS
+exanimālēs			9032	1	1 +ÀLIS
+exanimāta			9033	3	3 +ÀTUS
+exanimātam			9034	1	1 +ÀTUS
+exanimātu's			9035	1	1 +ÀTUS +S
+exanimātum			9036	5	4 +ÀTUS
+exanimātus			9037	5	5 +ÀTUS
+exanimātās			9038	2	1 +ÀTUS
 exanimāvit			9039	1	1
 exasceātō			9040	1	1
 exaudiat			9041	2	2
@@ -10133,7 +10134,7 @@ exigere			9211	6	5
 exiget			9212	1	1
 exigis			9213	1	1
 exigitur			9214	1	1
-exigunda			9215	1	1 +ND
+exigunda			9215	1	1 +r+AG +p+EX +ND
 exigunt			9216	1	1
 exiguntur			9217	1	1
 exiguē			9218	1	1
@@ -10218,11 +10219,11 @@ exossāre		9293	1	1 +EX +ÀRE +BODY +FOOD
 exossās			9294	1	1 +EX +ÀRE +BODY +FOOD
 exossātum		9295	1	1 +EX +ÀRE +BODY +FOOD
 ---------------------------------------
-expalliātus		9296	1	1 +EX +ATUS +EQUIPMENT +CLOTHES
+expalliātus		9296	1	1 +EX +ÀTUS +EQUIPMENT +CLOTHES
 ---------------------------------------
 expalluit		9297	1	1
 ---------------------------------------
-expecūliātōs			9298	1	1 +EX +ATUS
+expecūliātōs			9298	1	1 +EX +ÀTUS
 ---------------------------------------
 expediam			9299	5	5
 expediant			9300	1	1
@@ -10262,8 +10263,8 @@ experiendō			9328	3	3 +ND
 experiere			9329	1	1
 experior			9330	11	9
 experitur			9331	1	1
-experiundī			9332	1	1 +ND
-experiundō			9333	1	1 +ND
+experiundī			9332	1	1 +r+PERI +p+EX +ND
+experiundō			9333	1	1 +r+PERI +p+EX +ND
 experiāmur			9334	2	2
 experiār			9335	1	1
 experiēmur			9336	2	2
@@ -10921,7 +10922,7 @@ factūst			9951	1	1
 faculam			9952	1	1 +ULUS +DIMINUTIVE +EQUIPMENT
 facultās			9953	1	1
 facultātem			9954	1	1
-facundu's			9955	1	1 +S
+facundu's			9955	1	1 +CUNDUS +S
 facēta			9956	3	3
 facētiast			9957	1	1
 facētiārum			9958	1	1
@@ -11170,8 +11171,8 @@ fertis			10181	2	1
 fertne			10182	1	1
 fertur			10183	8	7
 ferum			10184	1	1
-ferundast			10185	1	1 +ND +ST
-ferundum			10186	1	1 +ND
+ferundast			10185	1	1 +r+FER +ND +ST
+ferundum			10186	1	1 +r+FER +ND
 ferunt			10187	12	10
 ferus			10188	1	1
 ---------------------------------
@@ -12205,7 +12206,7 @@ gerrae			11115	4	4
 gerrō			11116	1	1
 gerulifigulōs			11117	1	1 +COMPOUND
 gerulum			11118	1	1
-gerundum			11119	1	1 +ND
+gerundum			11119	1	1 +r+GER +ND
 gerunt			11120	5	4
 gerās			11121	14	9
 gerātur			11122	4	4
@@ -12696,7 +12697,7 @@ has			11554	2	2
 hasce			11555	1	1
 ---------------------------------
 hastā			11556	2	1 +EQUIPMENT
-hastātōs		11557	2	1 +ATUS +EQUIPMENT
+hastātōs		11557	2	1 +ÀTUS +EQUIPMENT
 hastīs			11558	4	2 +EQUIPMENT
 ---------------------------------
 hatilius			11559	3	3
@@ -12952,8 +12953,8 @@ hospitis			11755	4	3
 hospitium			11756	17	9
 hospitiō			11757	9	4
 hospitā				11758	1	1
-hospitālem		11759	3	1 +ALIS
-hospitālis			11760	1	1 +ALIS
+hospitālem		11759	3	1 +ÀLIS
+hospitālis			11760	1	1 +ÀLIS
 hospitāī			11761	1	1 +ÀÌ
 hospitēs			11762	5	5
 hospitī				11763	5	5
@@ -13274,9 +13275,9 @@ illās			12045	32	15
 illēxit			12046	2	2
 illī			12047	397	26
 ---------------------------------------
-illīberāle			12048	1	1  +r+LÌBER +p+IN+NEG +ALIS
-illīberālem			12049	1	1  +r+LÌBER +p+IN+NEG +ALIS
-illīberāliter		12050	2	2  +r+LÌBER +p+IN+NEG +ALIS +ITER
+illīberāle			12048	1	1  +r+LÌBER +p+IN+NEG +ÀLIS
+illīberālem			12049	1	1  +r+LÌBER +p+IN+NEG +ÀLIS
+illīberāliter		12050	2	2  +r+LÌBER +p+IN+NEG +ÀLIS +ITER
 ---------------------------------------
 illīc			12051	68	23 +CE
 illīne			12052	1		1 +NE
@@ -13374,21 +13375,21 @@ immolārit			12127	1	1
 immolās			    12128	1	1
 immolāvī			12129	1	1
 --------------------------------------
-immortalēs			12130	1	1 +p+IN+NEG +ALIS
-immortāle			12131	1	1 +p+IN+NEG +ALIS
-immortālia			12132	1	1 +p+IN+NEG +ALIS
-immortālis			12133	3	3 +p+IN+NEG +ALIS
-immortālitās		12134	2	2 +p+IN+NEG +ALIS +TAT
-immortālium			12135	2	2 +p+IN+NEG +ALIS
-immortālēs			12136	65	19 +p+IN+NEG +ALIS
-immortālī			12137	1	1 +p+IN+NEG +ALIS
-immortālīs			12138	3	3 +p+IN+NEG +ALIS
+immortalēs			12130	1	1 +p+IN+NEG +ÀLIS
+immortāle			12131	1	1 +p+IN+NEG +ÀLIS
+immortālia			12132	1	1 +p+IN+NEG +ÀLIS
+immortālis			12133	3	3 +p+IN+NEG +ÀLIS
+immortālitās		12134	2	2 +p+IN+NEG +ÀLIS +TAT
+immortālium			12135	2	2 +p+IN+NEG +ÀLIS
+immortālēs			12136	65	19 +p+IN+NEG +ÀLIS
+immortālī			12137	1	1 +p+IN+NEG +ÀLIS
+immortālīs			12138	3	3 +p+IN+NEG +ÀLIS
 ---------------------------------------------
-immunda			    12139	2	2
-immunditiā			12140	1	1
-immundus			12141	1	1
-immundās			12142	1	1
-immundō			    12143	1	1
+immunda			    12139	2	2 +r+MUND +p+IN+NEGATIVE
+immunditiā			12140	1	1 +r+MUND +p+IN+NEGATIVE
+immundus			12141	1	1 +r+MUND +p+IN+NEGATIVE
+immundās			12142	1	1 +r+MUND +p+IN+NEGATIVE
+immundō			    12143	1	1 +r+MUND +p+IN+NEGATIVE
 immānem			    12144	1	1
 immātūram			12145	1	1
 immō			    12146	255	26
@@ -14958,10 +14959,10 @@ juvant			13617	1	1
 juvat			13618	4	4
 juvenis			13619	3	3
 juvent			13620	1	1
-juventūs			13621	3	2 +TUT
-juventūte			13622	4	3 +TUT
-juventūtem			13623	1	1 +TUT
-juventūtis			13624	2	2 +TUT
+juventūs			13621	3	2 +TÙT
+juventūte			13622	4	3 +TÙT
+juventūtem			13623	1	1 +TÙT
+juventūtis			13624	2	2 +TÙT
 juvenīx			13625	1	1
 juvābō			13626	1	1
 juvāre			13627	1	1
@@ -16067,14 +16068,14 @@ līberum			14628	29	13
 līberā			14629	1	1
 līberābit			14630	1	1
 līberābō			14631	1	1
-līberāle			14632	2	2 +ALIS
-līberālem			14633	3	3 +ALIS
-līberālis			14634	5	3 +ALIS
-līberāliter			14635	2	2 +ALIS  +ITER
-līberālitāte			14636	1	1 +ALIS +TAT
-līberālēs			14637	1	1 +ALIS
-līberālī			14638	15	9 +ALIS
-līberālīst			14639	1	1 +ALIS  +ST
+līberāle			14632	2	2 +ÀLIS
+līberālem			14633	3	3 +ÀLIS
+līberālis			14634	5	3 +ÀLIS
+līberāliter			14635	2	2 +ÀLIS  +ITER
+līberālitāte			14636	1	1 +ÀLIS +TAT
+līberālēs			14637	1	1 +ÀLIS
+līberālī			14638	15	9 +ÀLIS
+līberālīst			14639	1	1 +ÀLIS  +ST
 līberāre			14640	6	3
 līberās			14641	11	3
 līberāsse			14642	1	1
@@ -17587,17 +17588,17 @@ mortuumst			16005	1	1
 mortuus			16006	12	9
 mortuust			16007	8	6
 mortuā			16008	1	1
-mortuālia			16009	1	1 +ALIS
+mortuālia			16009	1	1 +ÀLIS
 mortuī			16010	6	5
 mortuīs			16011	3	2
 mortuō			16012	7	6
 mortuōrum			16013	1	1
 mortuōs			16014	3	2
-mortālem			16015	9	7 +ALIS
-mortālis			16016	11	6 +ALIS
-mortālēs			16017	7	7 +ALIS
-mortālī			16018	3	3 +ALIS
-mortālīs			16019	10	7 +ALIS
+mortālem			16015	9	7 +ÀLIS
+mortālis			16016	11	6 +ÀLIS
+mortālēs			16017	7	7 +ÀLIS
+mortālī			16018	3	3 +ÀLIS
+mortālīs			16019	10	7 +ÀLIS
 -------------------------------------------------
 mortārium			16020	1	1 +EQUIPMENT
 ---------------------------------------------------
@@ -17714,19 +17715,19 @@ multōque			16118	2	2
 multōrum			16119	1	1
 multōs			16120	31	16
 multōst			16121	1	1
-munda			16122	1	1
-mundissumus			16123	1	1 +SUPERLATIVE
-munditer			16124	1	1 +ITER
-munditia			16125	1	1 +TIA
-munditiam			16126	1	1 +TIA
-munditiā			16127	2	2 +TIA
-munditiās			16128	1	1 +TIA
-munditiīs			16129	4	3 +TIA
-munditiīsque	16130	1	1 +TIA
-mundius			16131	1	1
-mundulōs			16132	1	1 +ULUS +DIMINUTIVE
-mundē			16133	1	1
-mundō			16134	9	7
+munda			16122	1	1 +r+MUND
+mundissumus			16123	1	1 +r+MUND +SUPERLATIVE
+munditer			16124	1	1 +r+MUND +ITER
+munditia			16125	1	1 +r+MUND +TIA
+munditiam			16126	1	1 +r+MUND +TIA
+munditiā			16127	2	2 +r+MUND +TIA
+munditiās			16128	1	1 +r+MUND +TIA
+munditiīs			16129	4	3 +r+MUND +TIA
+munditiīsque	16130	1	1 +r+MUND +TIA
+mundius			16131	1	1 +r+MUND
+mundulōs			16132	1	1 +r+MUND +ULUS +DIMINUTIVE
+mundē			16133	1	1 +r+MUND
+mundō			16134	9	7 +r+MUND
 muphursa			16135	1	1
 muriātica			16136	2	1
 -----------------------------------
@@ -18742,9 +18743,9 @@ nātum			17002	22	14
 nātumst			17003	1	1
 nātus			17004	40	15
 nātust			17005	8	8
-nātālem			17006	2	2 +ALIS
-nātālis			17007	4	3 +ALIS
-nātālī			17008	5	4 +ALIS
+nātālem			17006	2	2 +ÀLIS
+nātālis			17007	4	3 +ÀLIS
+nātālī			17008	5	4 +ÀLIS
 nātās			17009	1	1
 nātī			17010	6	5
 nātīque			17011	1	1
@@ -19648,9 +19649,9 @@ oculissimum			17847	1	1 +SUPERLATIVE +BODY
 oculissumē			17848	1	1 +SUPERLATIVE +È +BODY
 oculum			17849	12	7 +BODY
 oculus			17850	5	5 +BODY
-oculātae			17851	1	1 +ATUS +BODY
-oculātus			17852	1	1 +ATUS +BODY
-oculātā			17853	1	1 +ATUS +BODY
+oculātae			17851	1	1 +ÀTUS +BODY
+oculātus			17852	1	1 +ÀTUS +BODY
+oculātā			17853	1	1 +ÀTUS +BODY
 oculī			17854	23	13 +BODY
 oculīs			17855	72	23 +BODY
 oculīsque		17856	1	1 +QUE  +BODY
@@ -20245,7 +20246,7 @@ pallida			18387	2	2 +COLOR
 palliolum		18388	4	3 +EQUIPMENT +CLOTHES
 palliolātim	    18389	1	1 +TIM +EQUIPMENT +CLOTHES
 pallium			18390	20	16 +EQUIPMENT +CLOTHES
-palliātī		18391	1	1 +ATUS +EQUIPMENT +CLOTHES
+palliātī		18391	1	1 +ÀTUS +EQUIPMENT +CLOTHES
 palliō			18392	10	7 +EQUIPMENT +CLOTHES
 palliōst		18393	1	1 +ST +EQUIPMENT +CLOTHES
 ----------------------------------------------
@@ -20551,7 +20552,7 @@ paterque			18668	2	2
 paterā			18669	3	1
 ------------------------------------------
 patibulum		18674	1	1 +BUL +EQUIPMENT
-patibulātum		18675	1	1 +BUL +ATUS
+patibulātum		18675	1	1 +BUL +ÀTUS
 ------------------------------------------
 patiendumst			18676	1	1
 patientissimumst			18677	1	1 +SUPERLATIVE
@@ -21902,11 +21903,11 @@ piscāriā			19823	1		1 +ÀRIUS
 piscāriīs			19824	1		1 +ÀRIUS
 piscārī				19825	1		1 +OR
 piscātor			19826	4		3 +TÒR +JOB
-piscātum			19827	3		2 +ATUS
-piscātus			19828	2		2 +ATUS
+piscātum			19827	3		2 +ÀTUS
+piscātus			19828	2		2 +ÀTUS
 piscātōrem		    19829	3		1 +TÒR
 piscātōrēs		    19830	4		4 +TÒR
-piscātū				19831	3		3 +ATUS
+piscātū				19831	3		3 +ÀTUS
 piscēs				19832	1		1
 piscīnam			19833	2		2 +INA
 piscīs				19834	12	8
@@ -24357,14 +24358,14 @@ quādrupedem			22017	1	1 +COMPOUND +ANIMAL
 quādruplicem		22018	1	1 +COMPOUND
 quādrupulī			22019	1	1 +COMPOUND
 ------------------------------------------------------
-quāle			22020	3	3 +ALIS
-quālem			22021	2	2 +ALIS
-quālest			22022	2	1 +ALIS
-quālibet			22023	1	1 +ALIS
-quālis			22024	11	9 +ALIS
-quālī			22025	1	1 +ALIS
-quālīne			22026	1	1 +ALIS
-quālīs			22027	1	1 +ALIS +EQUIPMENT
+quāle			22020	3	3 +ÀLIS
+quālem			22021	2	2 +ÀLIS
+quālest			22022	2	1 +ÀLIS
+quālibet			22023	1	1 +ÀLIS
+quālis			22024	11	9 +ÀLIS
+quālī			22025	1	1 +ÀLIS
+quālīne			22026	1	1 +ÀLIS
+quālīs			22027	1	1 +ÀLIS +EQUIPMENT
 quānam			22028	1	1 +NAM
 quāpiam			22029	1	1 +PIAM
 quāpropter		22030	22	14 +PROPTER +UNIVERBATION
@@ -25585,10 +25586,10 @@ rītū			23113	1	1
 ----------------------------------------
 +RIVALIS
 ----------------------------------------
-rīvālem		    23114	2	2 +ALIS
-rīvālis			23115	3	2 +ALIS
-rīvālēs			23116	2	2 +ALIS
-rīvālīs			23117	1	1 +ALIS
+rīvālem		    23114	2	2 +ÀLIS
+rīvālis			23115	3	2 +ÀLIS
+rīvālēs			23116	2	2 +ÀLIS
+rīvālīs			23117	1	1 +ÀLIS
 ----------------------------------------
 +ROBUSTUS
 ----------------------------------------
@@ -26289,10 +26290,10 @@ sene			23733	9	6
 senectus			23734	3	2
 senectā			23735	8	8
 senectān			23736	1	1 +NE
-senectūs			23737	2	2 +TUT
-senectūte			23738	1	1 +TUT
-senectūtem			23739	4	4 +TUT
-senectūtī			23740	2	2 +TUT
+senectūs			23737	2	2 +TÙT
+senectūte			23738	1	1 +TÙT
+senectūtem			23739	4	4 +TÙT
+senectūtī			23740	2	2 +TÙT
 senem			23741	75	22 +FAMILY
 senes			23742	1	1 +FAMILY
 senest			23743	1	1 +ST +FAMILY
@@ -26432,13 +26433,13 @@ servit			23869	7	3
 servitiumst			23870	1	1
 servitiō			23871	1	1
 servitrīcium			23872	1	1 +TRÌC +ÌCIUS
-servitus			23873	2	2 +TUT
-servitūs			23874	7	5 +TUT
-servitūte			23875	8	3 +TUT
-servitūtem			23876	21	11 +TUT
-servitūtis			23877	1	1 +TUT
-servitūtī			23878	1	1 +TUT
-servitūtīs			23879	1	1 +TUT
+servitus			23873	2	2 +TÙT
+servitūs			23874	7	5 +TÙT
+servitūte			23875	8	3 +TÙT
+servitūtem			23876	21	11 +TÙT
+servitūtis			23877	1	1 +TÙT
+servitūtī			23878	1	1 +TÙT
+servitūtīs			23879	1	1 +TÙT
 serviunt			23880	3	2
 serviās			23881	1	1
 serviēbat			23882	1	1
@@ -26795,15 +26796,15 @@ socordiam			24205	1	1
 socordiamque			24206	1	1
 --------------------------------
 sodā			24209	1	1
-sodāle			24210	2	2 +ALIS
-sodālem			24211	16	6 +ALIS
-sodālemne			24212	1	1 +ALIS
-sodālibus			24213	1	1 +ALIS
-sodālis			24214	19	7 +ALIS
-sodālitāte			24215	1	1 +ALIS  +TÀT
-sodālēs			24216	2	2 +ALIS
-sodālī			24217	6	2 +ALIS
-sodālīs			24218	1	1 +ALIS
+sodāle			24210	2	2 +ÀLIS
+sodālem			24211	16	6 +ÀLIS
+sodālemne			24212	1	1 +ÀLIS
+sodālibus			24213	1	1 +ÀLIS
+sodālis			24214	19	7 +ÀLIS
+sodālitāte			24215	1	1 +ÀLIS  +TÀT
+sodālēs			24216	2	2 +ÀLIS
+sodālī			24217	6	2 +ÀLIS
+sodālīs			24218	1	1 +ÀLIS
 sol			24219	1	1
 soleam			24220	2	2
 soleamne			24221	1	1
@@ -29394,7 +29395,7 @@ tunicam			26492	5	3  +EQUIPMENT +CLOTHES
 tuniculam			26493	1	1 +ULUS +DIMINUTIVE +EQUIPMENT +CLOTHES
 tunicā			26494	1	1  +EQUIPMENT +CLOTHES
 tunicās			26495	2	2  +EQUIPMENT +CLOTHES
-tunicātum			26496	1	1 +ATUS +EQUIPMENT +CLOTHES
+tunicātum			26496	1	1 +ÀTUS +EQUIPMENT +CLOTHES
 tunicīs			26497	5	2  +EQUIPMENT +CLOTHES
 ---------------------------------------
 tuquidem			26498	3	3 +QUIDEM
@@ -29509,17 +29510,17 @@ tyrannus		26592	1	1 +JOB
 tābēscit		26593	2	2 +SC +HEALTH +FOOD
 tābēscō			26594	1	1 +SC +HEALTH +FOOD
 ---------------------------------------
-tāctiō			26595	4	3 +TIÒN
-tāctiōst		26596	3	2 +TIÒN +ST
-tāctum			26597	1	1
-tāctus			26598	3	3
-tāctuīrī		26599	1	1
+tāctiō			26595	4	3 +r+TAG +TIÒN
+tāctiōst		26596	3	2 +r+TAG +TIÒN +ST
+tāctum			26597	1	1 +r+TAG
+tāctus			26598	3	3 +r+TAG
+tāctuīrī		26599	1	1 +r+TAG
 ---------------------------------------
-tāle			26600	9	7 +ALIS
-tālem			26601	6	6 +ALIS
-tālis			26602	1	1 +ALIS
-tālēs			26603	1	1 +ALIS
-tālī			26604	10	9 +ALIS
+tāle			26600	9	7 +ÀLIS
+tālem			26601	6	6 +ÀLIS
+tālis			26602	1	1 +ÀLIS
+tālēs			26603	1	1 +ÀLIS
+tālī			26604	10	9 +ÀLIS
 ---------------------------------------
 tālīs			26605	3	3 +EQUIPMENT +BODY +ANIMAL
 tālōs			26606	12	8 +EQUIPMENT +BODY +ANIMAL
@@ -29552,15 +29553,15 @@ tēgulae			26619	1	1 +ARCHITECT
 tēgulās				26620	5	4 +ARCHITECT
 tēgulīs				26621	9	2 +ARCHITECT
 ---------------------------------------
-tēla			26622	2	2
-tēlam		26623	3	2
-tēlum		26629	1	1
-tēlā			26630	1	1
-tēlās			26631	1	1
-tēlīs			26632	1	1
-tēlō			26633	1	1
+tēla			26622	2	2 +EQUIPMENT
+tēlam		26623	3	2 +EQUIPMENT
+tēlum		26629	1	1 +EQUIPMENT
+tēlā			26630	1	1 +EQUIPMENT
+tēlās			26631	1	1 +EQUIPMENT
+tēlīs			26632	1	1 +EQUIPMENT
+tēlō			26633	1	1 +EQUIPMENT
 ---------------------------------------
-tēlinum			26624	1	1
+tēlinum			26624	1	1 +PLANT
 ---------------------------------------
 tēloboae		26625	1	1 +GEOGRAPHY
 tēloboārum		26626	1	1 +GEOGRAPHY
@@ -29763,11 +29764,11 @@ undique		    26800	2	2 +IQUE
 ---------------------------------------
 UNDA
 ---------------------------------------
-undantem		26797	1	1 +NATURE
-unda			26795	1	1 +NATURE
-undam			26796	1	1 +NATURE
-undārum			26801	1	1 +NATURE
-undās			26802	2	1 +NATURE
+undantem		26797	1	1 +r+UND +NT +NATURE
+unda			26795	1	1 +r+UND +NATURE
+undam			26796	1	1 +r+UND +NATURE
+undārum			26801	1	1 +r+UND +NATURE
+undās			26802	2	1 +r+UND +NATURE
 ---------------------------------------
 unguendam			26804	1	1 +ND
 unguenta			26805	9	7
@@ -30102,7 +30103,7 @@ venēfice			27105	3	2 +FACERE +COMPOUND
 venēficum		27106	1	1 +FACERE +COMPOUND
 venēficus			27107	1	1 +FACERE +COMPOUND
 venēficō			27108	1	1 +FACERE +COMPOUND
-venēnātumst	27109	1	1 +ATUS +ST
+venēnātumst	27109	1	1 +ÀTUS +ST
 venēnīs			27110	1	1
 ---------------------------------------
 venī					27111	5	4
@@ -30556,13 +30557,13 @@ viridis			27531	1	1 +COLOR
 viris			27532	2	2
 virō			27533	5	4
 viros			27534	3	3
-virtūs			27535	13	10 +TUT
-virtūte			27536	35	16 +TUT
-virtūtem			27537	10	7 +TUT
-virtūtibus			27538	5	5 +TUT
-virtūtis			27539	1	1 +TUT
-virtūtēs			27540	9	6 +TUT
-virtūtī			27541	2	2 +TUT
+virtūs			27535	13	10 +TÙT
+virtūte			27536	35	16 +TÙT
+virtūtem			27537	10	7 +TÙT
+virtūtibus			27538	5	5 +TÙT
+virtūtis			27539	1	1 +TÙT
+virtūtēs			27540	9	6 +TÙT
+virtūtī			27541	2	2 +TÙT
 virum			27542	62	20
 virāginem			27543	1	1
 virī			27544	44	16
@@ -30620,7 +30621,7 @@ viālēs			27588	1	1 +LIS +PLACE
 viās			27589	12	9 +PLACE
 viāticam		27590	1	1 +EQUIPMENT +MONEY
 viāticum		27591	4	4 +EQUIPMENT +MONEY
-viāticātī		27592	1	1 +ATUS +EQUIPMENT +MONEY
+viāticātī		27592	1	1 +ÀTUS +EQUIPMENT +MONEY
 viāticō			27593	4	4 +EQUIPMENT +MONEY
 viīs			27595	1	1 +PLACE
 ----------------------------------------
@@ -30930,13 +30931,13 @@ vēnit			27861	77	25
 vēnitne			27862	2	2 +NE
 vēnum			27863	1	1
 ----------------------------------------------
-vēnāle			27864	1	1 +ALIS
-vēnālem			27865	5	3 +ALIS
-vēnālibus			27866	1	1 +ALIS
-vēnālis			27867	2	2 +ALIS
-vēnālium			27868	2	2 +ALIS
-vēnālēs			27869	2	2 +ALIS
-vēnālīs			27870	2	1 +ALIS
+vēnāle			27864	1	1 +ÀLIS
+vēnālem			27865	5	3 +ÀLIS
+vēnālibus			27866	1	1 +ÀLIS
+vēnālis			27867	2	2 +ÀLIS
+vēnālium			27868	2	2 +ÀLIS
+vēnālēs			27869	2	2 +ÀLIS
+vēnālīs			27870	2	1 +ÀLIS
 ---------------------------------------------
 vēnāre			27871	1	1 +ANIMAL +HUNTING
 vēnārī			27872	1	1 +ANIMAL +HUNTING
@@ -31171,7 +31172,7 @@ vītilēna			28077	1	1 +LENA
 vītulorque	28078	1	1 +GOD +EMOTION
 --------------------------------------
 vītā				28079	23	16
-vītālem			28080	2	2 +ALIS
+vītālem			28080	2	2 +ÀLIS
 vītāre			28081	1	1
 vītās				28082	1	1
 vītātō			28083	1	1
@@ -31418,14 +31419,14 @@ acheruntem			504	1	1 +GREEK +DEATH
 ānellum		28302	2	2 +ELLUS +DIMINUTIVE +EQUIPMENT
 ānulum		28306	26	7 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulus			28307	4	3 +ULUS +DIMINUTIVE +EQUIPMENT
-ānulātīs		28308	1	1 +ULUS +DIMINUTIVE +ATUS +EQUIPMENT
+ānulātīs		28308	1	1 +ULUS +DIMINUTIVE +ÀTUS +EQUIPMENT
 ānulī			28309	2	2 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulō			28310	5	4 +ULUS +DIMINUTIVE +EQUIPMENT
 ānulōs			28311	1	1 +ULUS +DIMINUTIVE +EQUIPMENT
 ānum			28312	1	1 +EQUIPMENT
 ----------------------------------------
 ānsam			28303	1	1 +EQUIPMENT
-ānsātus		28305	1	1 +ATUS +EQUIPMENT
+ānsātus		28305	1	1 +ÀTUS +EQUIPMENT
 --------------------------------------
 ānserēs		28304	1	1 +ANIMAL
 -------------------------------------
@@ -32144,7 +32145,7 @@ _____________________________________
 ----------------------------------
 īnfuerit			28931	4	3
 īnfuit			28932	1	1
-īnfundī			28933	1	1
+īnfundī			28933	1	1 +r+FUND
 īnfuscāverit			28934	1	1
 īnfuērunt			28935	1	1
 īnfāmem			28936	1	1
