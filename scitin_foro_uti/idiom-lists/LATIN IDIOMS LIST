@@ -260,6 +260,18 @@ in gratiam inire [PL, TER]
 <INDICIUM>
 indicio de se esse
 
+<INSIDIAE> [PL TER]
+alicui insidias dare [PL]
+alicui insidias facere [PL TER]
+alicui insidiae fiunt [PL TER]
+alicui insidias locare [PL]
+in insidias deuenire [PL]
+in insidiis esse [TER]
+ex insidiis aucupare [PL]
+
+<INTRARE>
+intra limen intrare [PL]
+
 <IUS>
 aliquem in ius uocare [PL]
 in ius ire [PL, TER]
@@ -270,35 +282,6 @@ ius iurandum dare [PL]
 
 <LIMARE>
 cum aliquo caput limare [PL]
-
-<QUASSARE>
-caput quassare [PL]
-aulam quassare [PL]
-
-<RAPERE>
-aliquid in peiiorem partem rapere [TER]
-
-<SANGUIS>
-sanguis integer
-plēnus sanguinis
-guttam sanguinis haud habēre
-sine sanguine fierī
-
-<SORBERE>
-sanguinem hominum sorbēre [PL]
-
-<SPUTARE>
-sanguinem spūtāre
-
-<STATUERE>
-finem orationis statuere (= finem dicendi facere)
-
-<STERNERE>
-lectos sternere [PL, TER]
-lectulos sternere [TER]
-lectulos sterni iubere [TER]
-
-
 
 <MANUS>
 manum apstinere [PL TER]
@@ -318,17 +301,6 @@ aliquid ex alicuius manu accipere [PL]
 manum in sinum alicui inserere [TER]
 alicui aliquid paullum prae manu dare (unde utatur) [TER]
 uxor quid faciat in manu non est mea [TER]
-
-
-
-<INSIDIAE> [PL TER]
-alicui insidias dare [PL]
-alicui insidias facere [PL TER]
-alicui insidiae fiunt [PL TER]
-alicui insidias locare [PL]
-in insidias deuenire [PL]
-in insidiis esse [TER]
-ex insidiis aucupare [PL]
 
 <MOECHUS> [PL TER]
 magnum moechum mulierum esse
@@ -371,6 +343,19 @@ innocens seruos atque innoxius [PL]
 amicum castigatum innoxium prosilire [PL]
 innoxium esse [PL]
 
+<QUASSARE>
+caput quassare [PL]
+aulam quassare [PL]
+
+<RAPERE>
+aliquid in peiiorem partem rapere [TER]
+
+<SANGUIS>
+sanguis integer
+plēnus sanguinis
+guttam sanguinis haud habēre
+sine sanguine fierī
+
 <SECRETO> [PL]
 aliquid in consilio secreto consultare [PL]
 aliquem secreto adiutare [PL]
@@ -378,12 +363,21 @@ aliquid secum secreto agere [PL]
 aliquem secreto huc foras seducere [PL]
 est quod te uolo secreto [PL]
 
-----------------------
+<SORBERE>
+sanguinem hominum sorbēre [PL]
 
-<INTRARE>
-intra limen intrare [PL]
+<SPUTARE>
+sanguinem spūtāre
 
-----------
+<STATUERE>
+finem orationis statuere (= finem dicendi facere)
+
+<STERNERE>
+lectos sternere [PL, TER]
+lectulos sternere [TER]
+lectulos sterni iubere [TER]
+
+
 <CONCLUDERE>
 ----------
 aliquem in cellam aliquam cum aliquo concludere
