@@ -1,3 +1,11 @@
+<GRATIA>
+alicui gratiam (magnam, maxumam) habere [PL, TER]
+alicui gratiam referre [PL, TER]
+in gratiam ex inimicitia reuenire [PL]
+in gratiam redire [PL, TER]
+in gratiam restituere [TER]
+in gratiam inire [PL, TER]
+
 <IUS>
 aliquem in ius uocare [PL]
 in ius ire [PL, TER]
@@ -551,13 +559,13 @@ natura fert - personality  brings/causes something
 res fert... - affairs/possessions bring/cause something
 tempus fert... - time brings something
 
-REFERRE
+<REFERRE>
 gratiam referre - to be thankful for something and do something in return
 
-PERFERRE
+<PERFERRE>
 paupertatem (grauem) perferre
 
-CAPERE
+<CAPERE>
 aliquid capere (tabellas, situlam, fustem, stimulum) - to grab something
 arbitrum capere - to get a witness
 augurem capere - to consult the augur
@@ -653,17 +661,17 @@ praefinito loqui
 <STATUERE>
 finem orationis statuere (= finem dicendi facere)
 
-INDUCERE
+<INDUCERE>
 animum inducere
 in animum inducere
 
-FLECTERE
+<FLECTERE>
 animum flectere
 
-RESTITUERE
+<RESTITUERE>
 locum restituere
 
-ATTENDERE
+<ATTENDERE>
 animum attendere
 
 GAUDERE
