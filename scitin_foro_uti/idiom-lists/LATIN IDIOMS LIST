@@ -76,7 +76,6 @@ cum aliquo cenare [PL]
 domi cenare [PL]
 foris cenare [PL]
 
-
 <CERUICES>
 sibi ceruices diffringere (cadendo) [PL]
 euersas ceruices suas apstinere [TER]
@@ -273,6 +272,44 @@ alicui res cum aliquo est
 alicui sanguinem exsūgere [PL]
 alicuiius sanguinem exsūgēre [PL]
 
+<EX ALIQUO>
+ex aliquo audire [PL, TER]
+ex aliquo certiorem fieri [PL]
+ex aliquo exorare [PL]
+ex aliquo exquire [PL]
+ex aliquo uerum exsculpere [TER]
+ex aliquo (natum) esse [PL, TER]
+ex aliquo oriri [TER]
+ex aliquo percontari [PL]
+ex aliquo quaerere [PL]
+ex aliquo scire [PL]
+ex aliquo scitari [PL]
+
+<DE ALIQUO>
+de aliquo cogitare [TER]
+de se coniecturam facere [PL]
+de aliquo aliquid dicere
+de aliquo loqui  [PL]
+de aliquo mentionem facere
+de aliquo promereri  [PL]
+de aliquo promerere [PL]
+de se culpam demoliri
+de me actumst [PL]
+de aliquo aliquid discere [TER]
+de aliquo (in breui spatio) animum omnem eicere [TER]
+alicui de se supplicium dare [TER]
+de se scire [PL]
+
+<AD ALIQUEM>
+ad aliquem attinere
+ad aliquem ad annos sedecim comissatum uenire
+
+<IN ALIQUEM>
+
+<INTER>
+
+
+
 <GRATIA>
 alicui gratiam (magnam, maxumam) habere [PL, TER]
 alicui gratiam referre [PL, TER]
@@ -296,6 +333,12 @@ ex insidiis aucupare [PL]
 <INTRARE>
 intra limen intrare [PL]
 
+<INUADERE>
+morbus (grauis) aliquem inuasit
+mobus mores bonos inuasit
+dolor repente inuasit
+
+
 <IUS>
 aliquem in ius uocare [PL]
 in ius ire [PL, TER]
@@ -303,6 +346,8 @@ in ius ambulare [PL, TER]
 suom ius postulare [TER]
 ius est (aliquid ita facere) [PL, TER]
 ius iurandum dare [PL]
+
+
 
 <LIMARE>
 cum aliquo caput limare [PL]
@@ -342,6 +387,9 @@ moechum adoriri, qui formast fexor, qui omnis se amare credit, quaeque aspexerit
 populi odium quidni noverim, magnidicum, cincinnatum, moechum unguentatum [PL]
 si nil impetres, ut te arbitretur sibi paratum moechum, si illam duxerit [TER]
 numquid videtur demutare alio atque uti	dixi esse vobis dudum hunc moechum militem [PL]
+
+<NOX>
+nam continuas has tris noctes peruigilaui.
 
 <NOXIA> (NOXA, <NOXIUS>, <INNOXIUS>)
 in noxa esse [TER]
