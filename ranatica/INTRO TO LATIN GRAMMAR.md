@@ -76,7 +76,37 @@ The past participle in -tu/-su in the most loosely correlative with the rest of 
 The general case is that **being part of the same paradigms as finite forms they follow the same behavior as the finite r-forms**.
 But there are actually **lexical exceptions** to this.
 
-### CONJUGATION / AGREEMENT
+### TENSES
+
+Latin tense system has 2 intricated layers:
+- the imperfectum / perfectum distinction.
+- the tense distinctions within it
+
+INFINITIVE : only imperfectum/perfectum distinction
+IMPERATIVE : only imperfectum - present/future distinction only
+SUBJUNCTIVE: imperfectum/perfectum distinction - present / imperfect distinction only + sigmatic form
+INDICATIVE : imperfectum/perfectum distinction - present / imperfect / future distinction + sigmatic form 
+
+|             | IMPERFECTUM/PERFECTUM | PRESENT/IMPERFECT | SIGMATIC FORM | PRESENT/FUTURE      |
+|-------------|-----------------------|-------------------|---------------|---------------------|
+| INFINITIVE  | YES                   | NO (only present) | NO            | NO (via participle) |
+| IMPERATIVE  | NO (only imperfectum) | NO (only present) | NO            | YES                 |
+| SUBJUNCTIVE | YES                   | YES               | YES           | NO (only present)   |
+| INDICATIVE  | YES                   | YES               | YES           | YES                 |
+
+Of those distinction the imperfectum/perfectum one is lexical as seen by the fact that some verbs
+don't have imperfectum forms and generalized perfectum forms. The perfectum forms of those verbs
+act like regular imperfectum forms (in a manner reminiscent of deponent verbs).
+
+|             | NUMBER OF FORM SETS | NUMBER OF IMPERFECTUM FORM SETS | NUMBER OF PERFECTUM FORM SETS |
+|-------------|---------------------|---------------------------------|-------------------------------|
+| INFINITIVE  | 2                   | 1                               | 1                             |
+| IMPERATIVE  | 2                   | 2                               | 0                             |
+| SUBJUNCTIVE | 2*2+1 = 5           | 2 + 1                           | 2                             |
+| INDICATIVE  | 2*3 + 1 = 7         | 3 + 1                           | 3                             |
+
+
+### AGREEMENT
 
 ## ROOT CLAUSES
 
@@ -93,6 +123,14 @@ But there are actually **lexical exceptions** to this.
 ## VERBLESS CLAUSES
 
 #### INFINITIVE COMPLEMENTS
+
+The main difference between infinitive complements and infinitive clauses in latin is that:
+- The subject interpretation is fixed by the main verb.
+- The tense of the infinitive is fixed by the tense of the main verb.
+
+- uenire nequeo.
+- *uenisse nequeo.
+- *eum uenisse nequeo.
 
 ## EMBEDDED CLAUSES
 
