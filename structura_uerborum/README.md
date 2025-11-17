@@ -1,7 +1,29 @@
 
 # Annotation system for word order phenomena in latin
 
-## Subordination
+## Goal 
+
+The role of the annotation system is twofold.
+
+- Help learners read better with a less ambiguous punctuation system.
+- Annotate structure and word order phenomena
+
+## synthesis
+
+| symbol | meaning                              |   |
+|--------|--------------------------------------|---|
+| []     | embedded clause                      |   |
+| ()     | conjunct in coordination             |   |
+| {}     | parenthetical/incidental element     |   |
+| <>     | flattened clauses / non final 'esse' |   |
+| **     | fronted/left periphery element       |   |
+| $$     | correlative element                  |   |
+| \_(\_) | right periphery element              |   |
+| ~(~)   | right periphery element (tailing)    |   |
+| «»     | other constituent (if interesting)   |   | 
+| -      | new sentence (if ambiguous)          |   |
+
+## Embedded clauses
 
 Embedded clauses are annotated with []
 They can get a new line and be indented to show structure visually especially if they are long
@@ -15,7 +37,7 @@ This includes:
 * gerund embedded clauses
 * gerundive embedded clauses
 * ablative absolute clauses
-* complements of comparative or correlative *
+* clausal or fragmentary complements of comparative or correlative
 
 ```
 rogitas
@@ -69,13 +91,13 @@ cesso [pultare ostium uicini]
 
 When a subordinating verb feels to blend within its complement it can be annotated <>
 
-Forms of esse which are not sentence final and not syncopated can be annotated with <> as well
+Forms of esse which are not sentence final can be annotated with <> as well
 
 ## Right periphery elements
 
 Right periphery elements such as elements appearing after a clause final verb can be annotated with _
 
-It can be annotated with ~ instead if it forms a discontinuous constituent with a preceding element
+It can be annotated with ~ instead if it forms a discontinuous constituent with a preceding element.
 
 ## Correlatives
 
@@ -119,17 +141,4 @@ negat [phanium esse hanc sibi cognatam] _ demipho
 *hanc* demipho negat [esse cognatam]    
 ```
 
-# synthesis
 
-| symbol | meaning                              |   |
-|--------|--------------------------------------|---|
-| []     | embedded clause                      |   |
-| ()     | conjunct in coordination             |   |
-| {}     | parenthetical/incidental element     |   |
-| <>     | flattened clauses / non final 'esse' |   |
-| **     | fronted/left periphery element       |   |
-| $$     | correlative element                  |   |
-| \_(\_) | right periphery element              |   |
-| ~(~)   | right periphery element (tailing)    |   |
-| «»     | other constituent (if interesting)   |   | 
-| -      | new sentence (if ambiguous)          |   |
