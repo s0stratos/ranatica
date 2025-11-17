@@ -5,6 +5,8 @@ and especially the latin of roman comedy.
 
 ## STRUCTURE
 
+Each section has its own README file as well.
+
 ### LUDI
 - Contains resources for **games and activities** to learn and rehearse latin.
 
