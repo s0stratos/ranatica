@@ -2,6 +2,9 @@
 rus se abdere
 ex conspectu eri sui se abdere
 
+<ACCEDERE>
+propius ad aliquem accedere [PL]
+
 <ADIMERE>
 alicui (omnem) metum adimere [TER]
 curam argentariam adimere [TER]
@@ -506,7 +509,18 @@ se in fugam penetrare [PL]
 se ad plures penetrare [PL]
 se penetrare ubi est damni conciliabulum [PL]
 
-
+<PROPIUS>
+propius ad ianuam huc accedere [PL]
+propius ad fores accedere [TER]
+propius ad aliquem accedere [PL]
+propius accedere [PL, TER]
+proprius adbitere [PL]
+proprius ad aliquem adire [PL]
+propius ad aliquem fugere [PL]
+multo propius hac ire [TER]
+aliquem propius ad fores subsequi [PL]
+quid propius fuit quam ut perirem [PL]
+propius signa attollere [PL]
 
 <HABERE>
 animum bonum habere -
