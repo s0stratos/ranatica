@@ -38,3 +38,25 @@ Each section has its own README file as well.
 
 ## PHILOSOPHY AND METHODOLOGY
 
+The general philosophy of the Ranatica is to provide different views of latin texts.
+
+These present themselves as **annotated texts** or **annotated collections of examples**.
+
+- Getting familiar with the grammar (RANATICA)
+- Getting familiar with the word order and their impact (STRUCTURA UERBORUM)
+- Getting familiar with the vocabulary and idioms (SCITIN FORO UTI)
+- Getting familiar with speaking about various topics (UAE ME QUI RECENS IN FORUM SUM DELATUS)
+- Getting proficient with actively producing latin (LUDI)
+- Getting familiar with the art of comedy (LUDI SCAENICI)
+- Exploring the Greek plays (SCRIPTA EXADUORSUM STATUTA)
+
+The Ranatica aims at:
+
+- **Raw data** accessibility and visibility
+- **Systematicity and regularity** in the annotations 
+- **Avoiding spurious ambiguities** through careful design of annotations and guidelines
+- **Searchability**
+
+## THE GRAND GOAL
+
+Help people enjoy and act Roman comedy
