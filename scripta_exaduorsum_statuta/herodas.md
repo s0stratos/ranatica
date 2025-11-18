@@ -1,10 +1,10 @@
 
 |                                             |                                                     |
 |---------------------------------------------|-----------------------------------------------------|
-| ΘΡΕΙΣΣ ΑΡΑΣΣΕΙ ΤΗΝ ΘΥΡΗΝ ΤΙΣ                | {trassa} ostium aliquem pultare audio.              |
-| ΟΥΚ ΟΨΕΙ ΜΗ ΤΙΣ ΠΑΡ ΗΜΕΩΝ ΕΞ ΑΓΡΟΙΚΙΗΣ ΗΚΕΙ | quin is uisere [an forte quis nostrum rure aduenit] |
-| ΤΙΣ ΤΗΝ ΘΥΡΗΝ                               | quis pultat.                                        |
-| ΕΓΩΔΕ                                       | ego.                                                |
+| θρείσσ αρασσει την θυρην τις                | {trassa} ostium aliquem pultare audio.              |
+| ουκ οψει μη τις παρ ημεων εξ αγροικιης ηκει | quin is uisere [an forte quis nostrum rure aduenit] |
+| τις την θυρην                               | quis hic pultat.                                    |
+| εγωδε                                       | ego.                                                |
 |                                             | quis es tu. quid metuis propius accedere.           |
 |                                             |                                                     |
 |                                             |                                                     |

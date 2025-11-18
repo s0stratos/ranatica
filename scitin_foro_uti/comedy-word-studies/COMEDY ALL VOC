@@ -3335,24 +3335,24 @@ auspicāvī			3002	3	3 +COMPOUND
 auspicēs			3003	1	1 +COMPOUND
 -----------------------------------
 auster			3004	1	1
-aut			3008	552	26
+aut			    3008	552	26
 autem			3009	202	26
-autemst			3010	4	3
-autolycō			3011	1	1
-autpostulō			3012	1	1
+autemst			3010	4	3 +ST
+autolycō		3011	1	1
+autpostulō		3012	1	1
 ------------------------------------------
 AUTUMO
 ------------------------------------------
-autumant			3013	2	2
+autumant		3013	2	2
 autumantur		3014	1	1
 autumat			3015	6	4
 autumem			3016	1	1
-autument			3017	2	1
+autument		3017	2	1
 autumet			3018	2	2
 autumābās		3019	1	1
-autumāre			3020	1	1
+autumāre		3020	1	1
 autumās			3021	6	4
-autumāvī			3022	1	1
+autumāvī		3022	1	1
 autumēs			3023	1	1
 autumō			3024	6	5
 -------------------------------------------
@@ -3773,8 +3773,8 @@ buccās				3390	3	2 +BODY
 buccōnēs			3391	1	1 +ON +BODY
 ------------------------------------
 bulbīs			3392	1	1
-bulla			3393	1	1
-bullās			3394	1	1
+bulla			3393	1	1 +NATURE
+bullās			3394	1	1 +NATURE
 bumbomachidēs	3395	1	1 +COMPOUND
 bustirape		3396	1	1 +COMPOUND +INSULT
 bustō			3397	1	1 +PLACE +DEATH
@@ -9773,8 +9773,8 @@ ergō			8885	219	26
 ergōst			8886	4	4 +ST
 -------------------------------------------
 eri			8887	6	5
-erilem			8888	2	2
-erilis			8889	2	2
+erīlem			8888	2	2 +LIS
+erīlis			8889	2	2 +LIS
 erimus			8890	6	5
 erior			8891	1	1
 eris			8892	30	12
@@ -10827,11 +10827,11 @@ faciendōs			9858	1	1  +l+FACERE +r+FAC +ND
 facient			9859	5	5 +l+FACERE +r+FAC
 faciet			9860	41	19 +l+FACERE +r+FAC
 facietque			9861	1	1 +l+FACERE +r+FAC +QUE
-facile			9862	83	24
-facilem			9863	8	8
-facilest			9864	6	5
-facilia			9865	2	2
-facilis			9866	1	1
+facile			9862	83	24 +LIS
+facilem			9863	8	8 +LIS
+facilest			9864	6	5 +LIS +ST
+facilia			9865	2	2 +LIS
+facilis			9866	1	1 +LIS
 facilitās			9867	2	2 +TAT
 facilitāte			9868	1	1 +TAT
 facilitātem			9869	1	1 +TAT
@@ -11246,18 +11246,18 @@ fidicinās		10248	2	2 +l+FIDICINA +r+FIDI +r+CAN +COMPOUND +ART +MUSIC
 fidium			10249	1	1 +l+FIDÈS +r+FIDI +MUSIC
 -------------------------------------
 fidē			10250	41	21
-fidēlem			10251	8	5
-fidēliam			10252	1	1
-fidēlior			10253	1	1 +COMPARATIVE
-fidēlis			10254	5	5
-fidēliter			10255	6	5 +ITER
-fidēlitāsque			10256	1	1 +TAT + QUE
-fidēlitātem			10257	1	1 +TAT
-fidēliōrem			10258	1	1 +COMPARATIVE
-fidēliōrēs			10259	1	1 +COMPARATIVE
-fidēlē			10260	1	1
-fidēlī			10261	3	3
-fidēlīs			10262	1	1
+fidēlem			10251	8	5 +LIS
+fidēliam			10252	1	1 +LIS
+fidēlior			10253	1	1 +LIS +COMPARATIVE
+fidēlis			10254	5	5 +LIS
+fidēliter			10255	6	5 +LIS +ITER
+fidēlitāsque			10256	1	1 +LIS +TAT + QUE
+fidēlitātem			10257	1	1 +LIS +TAT
+fidēliōrem			10258	1	1 +LIS +COMPARATIVE
+fidēliōrēs			10259	1	1 +LIS +COMPARATIVE
+fidēlē			10260	1	1 +LIS
+fidēlī			10261	3	3 +LIS
+fidēlīs			10262	1	1 +LIS
 fidēs			10263	34	18
 fidēī			10264	2	1
 fie			10265	1	1
@@ -13263,9 +13263,11 @@ illum			12033	334	26
 illumne			12034	2	1 +NE
 illumst			12035	2	2 +ST
 illunc			12036	16	12 +CE
-illuviem			12037	1	1 +IES
-illuviē			12038	1	1 +IES
-illuviēs			12039	1	1 +IES
+---------------------------------------
+illuviem			12037	1	1 +IES +HEALTH
+illuviē			12038	1	1 +IES +HEALTH
+illuviēs			12039	1	1 +IES +HEALTH
+---------------------------------------
 illā			12040	76	19
 illāc			12041	15	13 +CE
 illān			12042	1	1
@@ -13293,19 +13295,24 @@ illōrum			12061	18	10
 illōs			12062	37	16
 illōst			12063	2	2
 illūc			12064	87	22
-illūceat			12065	1	1
-illūcēscat			12066	1	1 +SC
-illūditis			12067	1	1
-illūdās			12068	1	1
-illūdātis			12069	1	1
-illūserīs			12070	1	1
+------------------------------------
+illūceat			12065	1	1 +NATURE
+illūcēscat			12066	1	1 +SC +NATURE
+illūxit			    12076	3	2 +NATURE
+illūxēre			12077	1	1 +NATURE
+---------------------------------
+illūditis			12067	1	1 +COMPETITION
+illūdās			    12068	1	1 +COMPETITION
+illūdātis			12069	1	1 +COMPETITION
+illūserīs			12070	1	1 +COMPETITION
+illūsī			    12072	1	1 +COMPETITION
+---------------------------------
 illūstriōrīs			12071	1	1 +IACCUSATIVE
-illūsī			12072	1	1
-illūta			12073	1	1
-illūtilī			12074	1	1
-illūtīs			12075	1	1
-illūxit			12076	3	2
-illūxēre			12077	1	1
+---------------------------------
+illūta			12073	1	1 +HEALTH
+illūtilī		12074	1	1 +HEALTH
+illūtīs			12075	1	1 +HEALTH
+---------------------------------
 ily			12078	1	1
 ilūc			12079	1	1
 im			12080	1	1
@@ -13516,33 +13523,37 @@ impetrāvī			12266	8	6
 impetrēs			12267	5	4
 impetrītum			12268	1	1
 impetrō			12269	5	3
+-------------------------------------
 impetum			12270	4	4
 impetū			12271	1	1
+---------------------------------------
 impia			12272	1	1
 impietās			12273	2	2 +TAT
-impiger			12274	1	1
-impigrēque			12275	1	1
 impii			12276	1	1
-impingam			12277	1	1
-impinge			12278	2	2
-impingier			12279	1	1
-impingī			12280	2	1
 impium			12281	3	3
 impiās			12282	1	1
 impiāvī			12283	1	1
 impiō			12284	1	1
 impiōrum			12285	1	1
-impleantur			12286	1	1
+----------------------------------
+impiger			12274	1	1
+impigrēque			12275	1	1
+-----------------------------
+impingam			12277	1	1 +r+PANG +p+IN +VIOLENCE
+impinge			    12278	2	2 +r+PANG +p+IN +VIOLENCE
+impingier			12279	1	1 +r+PANG +p+IN +VIOLENCE
+impingī			    12280	2	1 +r+PANG +p+IN +VIOLENCE
 ----------------------------------------
 implicat			12287	2	2 +r+PLIC +p+IN
 implicitus			12288	1	1 +r+PLIC +p+IN
 implicīscier		12289	1	1 +r+PLIC +p+EX +SC
 ------------------------------------------
-impluat			12290	1	1
-impluit			12291	1	1
+impluat			12290	1	1 +NATURE
+impluit			12291	1	1 +NATURE
 impluvium		12292	9	5 +ARCHITECT
-impluviātam		12293	1	1
+impluviātam		12293	1	1 +ARCHITECT +EQUIPMENT +CLOTHES
 ---------------------------------------
+impleantur			12286	1	1
 implēbō			12294	1	1
 implēvistī			12295	2	1
 implēvit			12296	1	1
@@ -13588,8 +13599,8 @@ improbīs			12333	6	5
 improbō			12334	4	3
 improbōs			12335	1	1
 ---------------------------------------
-imprānsum			12336	2	2
-imprānsus			12337	4	3
+imprānsum			12336	2	2 +FOOD +EAT
+imprānsus			12337	4	3 +FOOD +EAT
 ---------------------------------------
 imprōvīsō			12338	8	5
 imprōvīsōst			12339	1	1
@@ -13753,8 +13764,10 @@ inclēmenter			12484	8	5 +NT +TER
 inclēmentius			12485	1	1 +NT +COMPARATIVE
 inclīnābō			12486	1	1
 inclītu's		12487	1	1
-incocta			12488	1	1
-incoctum			12489	1	1
+---------------------------------------
+incocta			12488	1	1 +FOOD
+incoctum			12489	1	1 +FOOD
+-------------------------------------------
 incohātam			12490	2	2
 incolae			12491	2	2 +COLA
 incolit			12492	1	1
@@ -13856,12 +13869,14 @@ incūsāverās		12581	1	1 +r+CAUS +p+IN
 incūsēs			12582	2	2 +r+CAUS +p+IN
 -----------------------------
 indam			12583	1	1
-indaudīsse			12584	1	1
-indaudīverim			12585	1	1
-indaudīverit			12586	2	2
-indaudīvisse			12587	1	1
-indaudīvit			12588	1	1
-indaudīvī			12589	2	1
+-----------------------------
+indaudīsse			12584	1	1 +r+AUD
+indaudīverim		12585	1	1 +r+AUD
+indaudīverit		12586	2	2 +r+AUD
+indaudīvisse		12587	1	1 +r+AUD
+indaudīvit			12588	1	1 +r+AUD
+indaudīvī			12589	2	1 +r+AUD
+-----------------------------
 inde			12590	93	26
 indecōrē			12591	1	1
 indemnātae			12592	1	1
@@ -14117,9 +14132,10 @@ inierit			12834	1	1
 iniimus			12835	1	1
 iniistis			12836	1	1
 inime			12837	1	1
+------------------------------------------
 inimicīs			12838	1	1
-inimīca			12839	2	2
-inimīcissimus			12840	1	1 +SUPERLATIVE
+inimīca			    12839	2	2
+inimīcissimus		12840	1	1 +SUPERLATIVE
 inimīcitiae			12841	1	1
 inimīcitiam			12842	1	1
 inimīcitiā			12843	1	1
@@ -14128,17 +14144,20 @@ inimīciōrem			12845	1	1 +COMPARATIVE
 inimīcum			12846	14	7
 inimīcus			12847	8	7
 inimīcust			12848	1	1
-inimīcī			12849	9	7
+inimīcī			    12849	9	7
 inimīcīs			12850	9	6
-inimīcō			12851	6	6
+inimīcō			    12851	6	6
 inimīcōs			12852	15	10
-initium			12853	4	2
-initiābunt			12854	1	1
-initum			12855	1	1
-iniēre			12856	1	1
+---------------------------------------------
+initium			    12853	4	2
+---------------------------------------------
+initiābunt			12854	1	1 +SOCIAL
+---------------------------------------------
+initum			    12855	1	1
+iniēre			    12856	1	1
 injectast			12857	1	1
 injectum			12858	1	1
-injussū			12859	3	2
+injussū			    12859	3	2
 injustum			12860	1	1
 injēcisse			12861	1	1
 injēcistī			12862	1	1
@@ -14651,9 +14670,9 @@ inīquō			13327	2	2
 inīre			13328	2	2
 inītis			13329	1	1
 ------------------------------------
-inūtilem			13330	1	1
-inūtilis			13331	1	1
-inūtilēs			13332	1	1
+inūtilem			13330	1	1 +ILIS
+inūtilis			13331	1	1 +ILIS
+inūtilēs			13332	1	1 +ILIS
 ------------------------------------
 io			13333	1	1
 ------------------------------------
@@ -14683,6 +14702,7 @@ ipsīus			13356	2	2
 ipsō			13357	19	13
 ipsōn			13358	1	1 +NE
 ipsōs			13359	5	5
+--------------------------------------
 irrigua			13360	1	1
 irrigātum			13361	1	1
 irrigēs			13362	1	1
@@ -14811,12 +14831,12 @@ itūrī			13483	1	1
 ------------------------------------
 iulio			13484	1	1
 iunio			13485	1	1
-iuppiter			13486	1	1
+iuppiter			13486	1	1 +GOD
 ius			13487	1	1
 iuventio			13488	1	1
 iv			13489	186	26
 ix			13490	6	5
-iāsonem			13491	1	1
+iāsonem			13491	1	1 +NAME
 iō			13492	1	1
 ------------------------------
 iōnica			13493	1	1 +GEOGRAPHY
@@ -14982,14 +15002,13 @@ jānuā			13641	6	5 +ARCHITECT
 ---------------------------------------
 jēcistī			13642	1	1
 --------------------------------------------
-jājentāculum		13632	1	1
-jājentāculō			13633	1	1
---------------------------------------------
-jējūnitāte			13643	1	1 +TAT
-jējūnitātis			13644	1	1 +TAT
-jējūnium			13645	1	1
-jējūniōsiōrem		13646	1	1 +ÒSUS +COMPARATIVE
-jējūnumst			13647	1	1 +ST
+jājentāculum		13632	1	1 +FOOD +EAT
+jājentāculō			13633	1	1 +FOOD +EAT
+jējūnitāte			13643	1	1 +TAT +FOOD +EAT
+jējūnitātis			13644	1	1 +TAT +FOOD +EAT
+jējūnium			13645	1	1 +FOOD +EAT
+jējūniōsiōrem		13646	1	1 +ÒSUS +COMPARATIVE +FOOD +EAT
+jējūnumst			13647	1	1 +ST +FOOD +EAT
 -------------------------------------------
 jūcundissimōs		13648	1	1 +CUNDUS +SUPERLATIVE
 jūcundumst			13649	1	1 +CUNDUS +ST
@@ -15015,9 +15034,11 @@ jūdicāvī			13667	1	1
 jūdicēs			13668	6	5
 jūdicō			13669	8	7
 jūgis			13670	1	1
-jūmenta			13671	1	1 +MENTUM
-jūmentum			13672	1	1 +MENTUM
-jūmentō			13673	1	1
+----------------------------------------
+jūmenta			13671	1	1 +MENTUM +ANIMAL
+jūmentum			13672	1	1 +MENTUM +ANIMAL
+jūmentō			13673	1	1 +MENTUM +ANIMAL
+--------------------------------------
 jūnctam			13674	1	1
 jūnctī			13675	1	1
 jūnctīs			13676	2	1
@@ -15096,12 +15117,16 @@ labiīs			13749	2	2
 labor			13750	2	2
 laboriosa			13751	1	1 +ÒSUS
 labos			13752	1	1
-labra			13753	7	6
-labrax			13754	4	1
-labrum			13755	2	2
+----------------------------------------
+labra			13753	7	6 +BODY
+labrum			13755	2	2 +BODY
+labrīs			13757	3	3 +BODY
+----------------------------------------
+labrax			13754	4	1 +NAME
 labrāx			13756	1	1 +ÀC +NAME +LENO
-labrīs			13757	3	3
-labāscit		13758	3	3 +SC
+--------------------------------------------
+labāscit		13758	3	3 +SC +NEGOTIATE
+--------------------------------------------
 labōrat			13759	2	2
 labōre			13760	26	16
 labōrem			13761	13	9
@@ -15135,10 +15160,10 @@ lacessis			13788	1	1
 lacessitō			13789	1	1
 lacessīsset			13790	1	1
 lachanna			13791	1	1
-laches			13792	10	2
-lachēs			13793	12	1
-laciniam			13794	1	1
-laciniā			13795	1	1
+laches			13792	10	2 +NAME
+lachēs			13793	12	1 +NAME
+laciniam			13794	1	1 +EQUIPMENT +CLOTHES
+laciniā			13795	1	1 +EQUIPMENT +CLOTHES
 -----------------------------------------
 lacrimae		13796	4	4 +BODY
 lacrimantem		13797	2	2 +NT +BODY
@@ -20602,9 +20627,9 @@ patruissime			18717	1	1 +SUPERLATIVE
 patrum			18718	2	2
 patruum			18719	4	1
 patruus			18720	8	3
-patruēlem			18721	1	1
-patruēlis			18722	1	1
-patruēlēs			18723	1	1
+patruēlem			18721	1	1 +LIS
+patruēlis			18722	1	1 +LIS
+patruēlēs			18723	1	1 +LIS
 patruō			18724	5	2
 patrēs			18725	8	7
 patrī			18726	84	20
@@ -20931,29 +20956,31 @@ percitum			19017	1	1
 percitus			19018	1	1
 percitī			19019	1	1
 perciēs			19020	1	1
-percontantī			19021	1	1
-perconter			19022	3	3
-percontor			19023	2	2
-percontumāx			19024	1	1 +AC
-percontābere			19025	1	1
-percontābimur			19026	1	1
-percontābor			19027	5	5
-percontābātur			19028	1	1
-percontāmur			19029	1	1
-percontāre			19030	4	2
-percontārier			19031	12	11
-percontārī			19032	9	5
-percontātor			19033	1	1 +TÒR
-percontātu's			19034	1	1 +S
-percontātum			19035	2	2
-percontātur			19036	1	1
-percontātus			19037	2	2
-percontēris			19038	2	2
+-----------------------------------------
+percontumāx			19024	1	1 +r+TEM +p+CON +p+PER+INTENSITY +AC
+-----------------------------------------
+percontantī			19021	1	1 +r+CUNCT +p+PER +NT +OBTAIN
+perconter			19022	3	3 +r+CUNCT +p+PER +OBTAIN
+percontor			19023	2	2 +r+CUNCT +p+PER +OBTAIN
+percontābere		19025	1	1 +r+CUNCT +p+PER +OBTAIN
+percontābimur		19026	1	1 +r+CUNCT +p+PER +OBTAIN
+percontābor			19027	5	5 +r+CUNCT +p+PER +OBTAIN
+percontābātur		19028	1	1 +r+CUNCT +p+PER +OBTAIN
+percontāmur			19029	1	1 +r+CUNCT +p+PER +OBTAIN
+percontāre			19030	4	2 +r+CUNCT +p+PER +OBTAIN
+percontārier		19031	12	11 +r+CUNCT +p+PER +OBTAIN
+percontārī			19032	9	5 +r+CUNCT +p+PER +OBTAIN
+percontātor			19033	1	1 +r+CUNCT +p+PER +TÒR +OBTAIN
+percontātu's		19034	1	1 +r+CUNCT +p+PER +S +OBTAIN
+percontātum			19035	2	2 +r+CUNCT +p+PER +OBTAIN
+percontātur			19036	1	1 +r+CUNCT +p+PER +OBTAIN
+percontātus			19037	2	2 +r+CUNCT +p+PER +OBTAIN
+percontēris			19038	2	2 +r+CUNCT +p+PER +OBTAIN
 ------------------------------------------
-percoquam			19039	1	1
-percoquat			19040	1	1
+percoquam			19039	1	1 +r+COQU +p+PER +FOOD +COOK
+percoquat			19040	1	1 +r+COQU +p+PER +FOOD +COOK
 ------------------------------------------
-percrucior			19041	1	1
+percrucior			19041	1	1 +r+CRUC +p+PER +
 ------------------------------------------
 perculeris			19042	1	1
 perculit			19043	1	1
@@ -21297,7 +21324,7 @@ perlongēst			19316	1	1 +ST
 perlubet			19317	2	2
 perlubēns			19318	2	1
 ------------------------------------------
-perlīberālis			19319	2	2
+perlīberālis			19319	2	2 +ÀLIS
 ------------------------------------------
 perlūcet			19320	1	1
 ------------------------------------------
@@ -22036,13 +22063,15 @@ plautī			19934	1	1 +NAME
 plautīna		19935	1	1 +INUS +NAME
 plautīnās		19936	1	1 +INUS +NAME
 --------------------------------------
-plebeis			19937	1	1
+plebeis			19937	1	1 +SOCIAL
+---------------------------------------
 plectantur			19938	1	1
 plectar			19939	1	1
-plectilis			19940	1	1
+plectilis			19940	1	1 +LIS
 plectitur			19941	1	1
-plesidippus			19942	1	1
-pleusiclēs			19943	6	1
+-----------------------------------
+plesidippus			19942	1	1 +NAME
+pleusiclēs			19943	6	1 +NAME
 plicātrīcem			19944	1	1 +r+PLIC +TRÌC
 -------------------------------------
 pluet			19945	1	1 +SKY +NATURE
@@ -23909,12 +23938,13 @@ pēniculus			21594	2	2 +CULUS +DIMINUTIVE +EQUIPMENT +NAME
 pēniculō			21595	2	1 +CULUS +DIMINUTIVE +EQUIPMENT +NAME
 pēniculōn			21596	1	1 +CULUS +DIMINUTIVE +NE +NAME
 ---------------------------------------
-pēnsilem		21597	1	1
-pēnsilis		21598	1	1
+pēnsilem		21597	1	1 +LIS
+pēnsilis		21598	1	1 +LIS
 pēnsior			21599	1	1
 pēnsum			21600	5	4 +EQUIPEMENT
 pēnsī			21601	1	1
-pēs			21602	6	5
+---------------------------------------
+pēs			    21602	6	5 +BODY
 -----------------------------------
 pīcus			21603	2	1 +ANIMAL
 pīcī			21604	1	1 +ANIMAL
@@ -26103,7 +26133,7 @@ scrūpulum			23570	2	2 +ULUS +DIMINUTIVE
 scrūpulus			23571	2	2 +ULUS +DIMINUTIVE
 scrūpōsam			23572	1	1 +ÒSUS
 scrūtārī			23573	1	1
-sculptilis			23574	1	1
+sculptilis			23574	1	1 +ILIS
 sculpōneās			23575	1	1 +CLOTHES +SHOES
 ---------------------------------------
 scurra			23576	2	2 +INSULT
@@ -26347,7 +26377,7 @@ sepelīvī			23787	1	1 +l+SEPELÌRE +r+SEPEL
 ----------------------------------------
 septem		        23788	6	5 +NUMERAL
 septemdecim			23789	1	1 +NUMERAL
-septempedālis		23790	1	1 +COMPOUND
+septempedālis		23790	1	1 +COMPOUND +ÀLIS
 septentriōnēs		23791	1	1 +SKY
 septimum			23792	1	1 +NUMERAL
 septimus			23793	1	1 +NUMERAL
@@ -27219,8 +27249,8 @@ sterculīnum			24597	2	2 +ANIMAL
 sterculīnō			24598	1	1 +ANIMAL
 stercus			    24599	1	1 +ANIMAL
 -----------------------------------
-sterilis			24600	2	2
-sterilīs			24601	1	1
+sterilis			24600	2	2 +ILIS
+sterilīs			24601	1	1 +ILIS
 ---------------------------------
 sternendīs			24602	1	1
 sternere			24603	1	1
@@ -27722,9 +27752,9 @@ sunt			25029	501	27
 suntne			25030	2	2
 suō			25031	1	1
 --------------------------------------
-supellēctile		25032	1	1  +COMPOUND +EQUIPMENT
-supellēctilis		25033	1	1  +COMPOUND +EQUIPMENT
-supellēctilī		25034	1	1  +COMPOUND +EQUIPMENT
+supellēctile		25032	1	1  +COMPOUND +EQUIPMENT +ILIS
+supellēctilis		25033	1	1  +COMPOUND +EQUIPMENT +ILIS
+supellēctilī		25034	1	1  +COMPOUND +EQUIPMENT +ILIS
 supellēx			25035	5	4  +COMPOUND +EQUIPMENT
 --------------------------------------
 super			25036	16	10
@@ -28327,8 +28357,8 @@ sōlitūdō			25588	2	2 +TUDIN
 sōlitūdōque			25589	1	1 +TUDIN +QUE
 sōlius			25590	1	1
 ---------------------------------------
-sōlstitiālis		25591	1	1  +COMPOUND +NATURE +SKY
-sōlstitiālī			25592	1	1  +COMPOUND +NATURE +SKY
+sōlstitiālis		25591	1	1  +COMPOUND +ÀLIS +NATURE +SKY
+sōlstitiālī			25592	1	1  +COMPOUND +ÀLIS +NATURE +SKY
 ---------------------------------------
 sōlum			25593	20	13
 sōlus			25594	70	22
@@ -29129,7 +29159,7 @@ tria					26284	10	6
 tribus				26285	14	8
 tribusne			26286	1	1
 tribū					26287	1	1
-tribūlis				26288	1	1
+tribūlis				26288	1	1 +ÙLIS +SOCIAL
 tribūnus			26289	1	1
 tribūtus			26290	2	1
 -----------------------------------------
@@ -30536,21 +30566,21 @@ virgidēmiam			27508	1	1 +COMPOUND +JOKE
 ------------------------------------
 virgine			27509	4	3
 virginem			27510	52	12
-virginemne			27511	1	1
-virginemst			27512	1	1
+virginemne			27511	1	1 +NE
+virginemst			27512	1	1 +ST
 virgines			27513	1	1
 virginī			27514	1	1
 virginis			27515	12	5
 virginum			27516	1	1
-virginālis			27517	1	1
-virgināria			27518	1	1
+virginālis			27517	1	1 +ÀLIS
+virgināria			27518	1	1 +ÀRIUS
 virginēs			27519	3	3
 virginēsvēndōnidēs			27520	1	1 +COMPOUND +JOKE
 virginī			27521	11	5
-virginīst			27522	1	1
+virginīst			27522	1	1 +ST
 virgō			27523	5	5
 virgō			27528	37	10
-virgōst			27529	3	2
+virgōst			27529	3	2 +ST
 ----------------------------------------
 viri			27530	4	4
 viridis			27531	1	1 +COLOR
@@ -31248,7 +31278,7 @@ vōvisse		28147	1	1
 vōvistī			28148	1	1
 vōvī				28149	4	4
 ----------------------------------------
-xystilis			28154	1	1 +SPORT
+xystilis			28154	1	1 +ILIS +SPORT
 ----------------------------------------
 zacynthiust		28165	1	1 +IUS +ST +GEOGRAPHY
 zacynthum		28166	1	1 +GEOGRAPHY
@@ -31834,7 +31864,7 @@ ATER
 ēmortuum			28657	4	3 +DEATH
 ēmortuus			28658	5	5 +DEATH
 ēmortuust			28659	1	1 +ST +DEATH
-ēmortuālem			28660	1	1 +LIS +DEATH
+ēmortuālem			28660	1	1 +ÀLIS +DEATH
 ēmortuī			    28661	1	1 +DEATH
 ēmorī			    28662	4	4 +DEATH
 ēmorīrī			    28663	2	2 +DEATH
@@ -32115,10 +32145,10 @@ _____________________________________
 īnfert			28902	2	2
 īnferumque			28903	1	1
 īnferī			28904	3	3
-īnfidēlem			28905	2	2
-īnfidēlior			28906	1	1 +COMPARATIVE
-īnfidēlis			28907	2	2
-īnfidēlēs			28908	1	1
+īnfidēlem			28905	2	2 +LIS
+īnfidēlior			28906	1	1 +LIS +COMPARATIVE
+īnfidēlis			28907	2	2 +LIS
+īnfidēlēs			28908	1	1 +LIS
 īnfimum			28909	2	2
 īnfimus			28910	1	1
 īnfimātis			28911	1	1
