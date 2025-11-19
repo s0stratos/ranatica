@@ -2825,6 +2825,7 @@ assereret			2528	4	2
 asseritō			2529	1	1
 asseruisset			2530	1	1
 asseruntur			2531	1	1
+------------------------------------
 asservandum			2532	1	1 +ND
 asservandus			2533	1	1 +ND
 asservat			2534	1	1
@@ -2840,6 +2841,7 @@ asservāte			2543	2	2
 asservātur			2544	1	1
 asservātō			2545	1	1 +IMPERATIVE
 asservātōte			2546	1	1 +IMPERATIVE
+------------------------------------
 asserās			2547	1	1
 asserātur			2548	1	1
 asserēs			2549	2	2
@@ -2856,6 +2858,7 @@ assiduī			2559	1	1
 assiduō			2560	6	6
 assient			2561	1	1
 assiet			2562	3	3
+------------------------------------
 assimile			2563	2	2
 assimiliter			2564	1	1 +ITER
 assimilō			2565	1	1
@@ -2881,6 +2884,7 @@ assimulāvit			2584	1	1
 assimulāvī			2585	2	1
 assimulēs			2586	3	3
 assimulō			2587	4	4
+------------------------------------
 assint			2588	2	2
 assistam			2589	1	1
 assiste			2590	3	3
@@ -3001,30 +3005,35 @@ atticī				2692	2	2 +GEOGRAPHY
 atticīs			2693	5	5 +GEOGRAPHY
 atticō			2694	1	1 +GEOGRAPHY
 ------------------------------------
-attigerat			2695	1	1
-attigeris			2696	5	3
-attigerit			2697	4	4
-attigerīs			2698	1	1
-attigerō			2699	1	1
-attigisse			2700	1	1
-attigisset			2701	1	1
-attigissēs			2702	1	1
-attigit			    2703	8	7
-attigās			    2704	5	5
-attigātis			2705	1	1
-attingere			2708	2	2
-attingunt			2709	1	1
-attingās			2710	3	2
+ATTINGERE
+------------------------------------
+attigerat			2695	1	1 +r+TAG +p+AD
+attigeris			2696	5	3 +r+TAG +p+AD
+attigerit			2697	4	4 +r+TAG +p+AD
+attigerīs			2698	1	1 +r+TAG +p+AD
+attigerō			2699	1	1 +r+TAG +p+AD
+attigisse			2700	1	1 +r+TAG +p+AD
+attigisset			2701	1	1 +r+TAG +p+AD
+attigissēs			2702	1	1 +r+TAG +p+AD
+attigit			    2703	8	7 +r+TAG +p+AD
+attigās			    2704	5	5 +r+TAG +p+AD
+attigātis			2705	1	1 +r+TAG +p+AD
+attingere			2708	2	2 +r+TAG +p+AD
+attingunt			2709	1	1 +r+TAG +p+AD
+attingās			2710	3	2 +r+TAG +p+AD
 -------------------------------------
-attinent			2706	3	3
-attinet			    2707	30	18
-attinēre			2714	4	4
-attinēs			    2715	3	3
-attinēt			    2716	2	2
------------------------------------
-attinuit			2711	2	2
-attinuēre			2712	1	1
-attinuīt			2713	1	1
+ATTINERE
+-------------------------------------
+attinent			2706	3	3 +r+TEN +p+AD
+attinet			    2707	30	18 +r+TEN +p+AD
+attinēre			2714	4	4 +r+TEN +p+AD
+attinēs			    2715	3	3 +r+TEN +p+AD
+attinēt			    2716	2	2 +r+TEN +p+AD
+attinuit			2711	2	2 +r+TEN +p+AD
+attinuēre			2712	1	1 +r+TEN +p+AD
+attinuīt			2713	1	1 +r+TEN +p+AD
+------------------------------------
+ATTOLLERE
 ------------------------------------
 attolle			    2717	2	2 +r+TUL +p+AD
 attollāmus			2718	1	1 +r+TUL +p+AD
@@ -3041,6 +3050,8 @@ attulit			    2735	17	14 +r+TUL +p+AD
 attulērunt			2736	2	2 +r+TUL +p+AD
 attulī			    2737	13	10 +r+TUL +p+AD
 attulīt			    2738	1	1 +r+TUL +p+AD
+-----------------------------------
+ATTONDERE
 -----------------------------------
 attondeant			2719	1	1 +r+TOND +p+AD
 attondit			2720	1	1 +r+TOND +p+AD
@@ -22145,14 +22156,14 @@ PLORARE
 	+BUNDUS
 	+TILLUM
 -----------------------------------
-plōrantem			20004	1	1
-plōrat					20005	1	1
-plōrā					20006	4	4
-plōrābundus		20007	1	1 +BUNDUS
-plōrāns				20008	2	2
-plōrāre					20009	1	1
-plōrās					20010	2	2
-plōrātillum			20011	1	1 +TILLUM
+plōrantem			    20004	1	1 +VOICE
+plōrat					20005	1	1 +VOICE
+plōrā					20006	4	4 +VOICE
+plōrābundus		        20007	1	1 +BUNDUS +VOICE
+plōrāns				    20008	2	2 +VOICE
+plōrāre					20009	1	1 +VOICE
+plōrās					20010	2	2 +VOICE
+plōrātillum			    20011	1	1 +TILLUM
 --------------------------------------
 PLUMA
 	+EUS
@@ -22160,7 +22171,7 @@ PLUMA
 --------------------------------------
 plūma				20013	2	2 +ANIMAL
 plūmatile			20014	1	1 +TILIS +ANIMAL
-plūmeā			20015	1	1 +EUS +ANIMAL
+plūmeā			    20015	1	1 +EUS +ANIMAL
 plūmā				20016	1	1 +ANIMAL
 ----------------------------------
 PLUS
@@ -22443,8 +22454,8 @@ postpartōribus			20254	1	1 +TÒR
 postprincipiō			20255	1	1
 postputāsse			20256	1	1 +SYNCPERFECT
 ------------------------------------
-postquam			20257	162	25
-postquamst			20258	1	1 +ST
+postquam			20257	162	25 +UNIVERBATION +CONJUNCTION
+postquamst			20258	1	1 +ST +UNIVERBATION +CONJUNCTION
 ------------------------------------
 postriduō			20259	1	1
 ------------------------------------

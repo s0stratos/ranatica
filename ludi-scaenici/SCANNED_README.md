@@ -7,7 +7,7 @@ unmetrical vowel:                   ()              | {rape}r(e) in |
 accented syllable :                 <>              | <post>quam |
 speaker change :                    [NAME]          |  [PROLOGUS] <post>quam |
 unmetrical consonnant :             ()              | {<qui>bu(s)} nunc |
-| nō{n eg(o) is#}|tuc(c) {faci}|nus
+                                                    | nō{n eg(o) is#}|tuc(c) {faci}|nus
 unexpected metrical vowel           ::              | {duae::} ū|n(um)
 unexpected unmetrical consonnant    #               | {et in#} dē|terren|dō
 
