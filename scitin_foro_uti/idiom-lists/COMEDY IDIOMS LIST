@@ -1,6 +1,6 @@
 <ABDERE>
-rus se abdere
-ex conspectu eri sui se abdere
+rus se abdere                           ||| se retirer à la campagne, se planquer à la campagne, aller se planquer à la campagne
+ex conspectu eri sui se abdere          ||| se retirer hors de la vue du maître, se planquer loin de la vue de quelqu'un, se planquer loin des regards de quelqu'un
 
 <ACCEDERE>
 propius ad aliquem accedere [PL]
@@ -129,6 +129,15 @@ eius iudicio omnia permittere
 <AUFERRE>
 manum auferre
 argentum auferre
+
+<BENE>
+bene ambula(to)
+bene atque amice
+bene hercle factum
+bene et pudice
+(ut) bene sit tibi
+bene uale
+bere uortere
 
 <CADERE>
 de equo cadere  [PL]
@@ -1132,6 +1141,21 @@ a studio retrahere
 <REUOLUERE>
 in eadem uitam denuo reuoluere
 
+<RUS>
+rus se abdere [TER]
+hinc rūs abīre [TER]
+rus habitatum abire [TER]
+uxorem rus abducere [PL]
+uxorem rus ducere [PL]
+rus sunii ecquod habere [TER]
+rūs īre [PL]
+ex urbe rus habitatum migrare [TER]
+aliquem rus mittere [PL]
+alicui rus opprobrare [PL]
+alicui rus obiectare [PL]
+rus modo produxe [TER]
+rūs uenīre [PL]
+
 <SANGUIS>
 sanguis integer
 plēnus sanguinis
@@ -1178,6 +1202,14 @@ diem sumere
 <SUSCIPERE>
 inimicitias suscipere
 filiam suscipere
+
+<TAEDET>
+taedet tui sermonis. [PL]
+taedet (uidere). [TER]
+cum hoc ipso distaedet loqui. [TER]
+taedet iam audire eadem miliens. [TER]
+taedet cotidianarum harum formarum. [TER]
+taedet (me miserum sentire). [TER]
 
 <TENERE>
 amor aliquem tenet
