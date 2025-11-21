@@ -1204,12 +1204,16 @@ inimicitias suscipere
 filiam suscipere
 
 <TAEDET>
-taedet tui sermonis. [PL]
-taedet (uidere). [TER]
-cum hoc ipso distaedet loqui. [TER]
-taedet iam audire eadem miliens. [TER]
-taedet cotidianarum harum formarum. [TER]
-taedet (me miserum sentire). [TER]
+taedet tui sermonis. [PL]                   ||| tu me soûles. -- j'en ai assez. -- ça suffit.
+me taedet (uidere). [TER]                   ||| j'en ai marre. -- j'en ai assez.
+cum hoc ipso distaedet loqui. [TER]         ||| je ne veux plus lui parler.
+taedet iam audire eadem miliens. [TER]      ||| j'en ai marre d'entendre toujours les mêmes choses.
+taedet cotidianarum harum formarum. [TER]   ||| je suis lâssé de leur beauté banale. -- je suis lâssé de leur physique banal.
+taedet (me miserum sentire). [TER]          ||| j'en ai marre. -- j'en ai assez.
+iam omnium taedet [TER]                     ||| il en a déjà marre de tout. -- il a plus goût à rien. -- il est lassé de tout.
+tui me distaedet [PL]                       ||| j'en ai marre de toi.
+domi distaedet [PL]                         ||| j'en ai marre d'être à la maison.
+nolo obtaedescat [PL]                       ||| j'ai pas envie que ça devienne chiant. -- j'ai pas envie qu'on se lasse.
 
 <TENERE>
 amor aliquem tenet
