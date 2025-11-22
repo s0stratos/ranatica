@@ -860,10 +860,69 @@ TEREUS
 | de{posi}|tus {faci}|nus pes|sim(um) ex | demen|tia |
 | confin|git.
 
-197
-202
+[IA6]
+o suauem linguae sonitum. o dulcitas
+conspirantum animae.
 
-MEDEA SIUE ARGONAUTAE
+[TR7/IA8]
+deum cadmogena natum semela adfare et famulanter pete.
+
+[IA6]
+atque id ego semper sic mecum agito et comparo
+quo pacto magnam molem minuam.
+
+[IA6]
+uideo ego te mulier more multarum utier
+ut uim contendas tuam ad maiestatem uiri.
+
+[TR7]
+alia hic sanctitudo est aliud nomen et numen iouis.
+
+[IA8]
+sed nisi clamaris regem. puerum auferre ab regina occupo.
+
+[TR7]
+nouos non notus daulide
+aduena animo audaci in medium proripit sese ferox
+
+[TR7]
+famae enim nobilitas lata ex stirpe praeclara euagat.
+
+[ARGONAUTARUM RES GESTAE]
+
+[PINIDAE]
+
+[AN4]
+hac ubi curuo litore latratu
+unda sub undis labunda sonit
+
+[AN4]
+simul et circum stagna tonantibus
+excita saxis saeua sonando
+crepitu clangente cacinnant
+
+[IA6]
+tacite et tonsillas litore in lecto edite.
+
+[IA6]
+obtorque proram ac suppa tortas copulas.
+
+[TR7]
+quaeue ut graio tibi congenerat gentum aut generum adfinitas.
+
+[TR7]
+se uenenis sterilem esse illius opera et medicina autumans
+
+[IA6]
+salsis cruorem guttis lacrimarum lauit.
+
+[IA6]
+aut saepe ex humili sede sublima euolat.
+
+[IA6]
+neque ulla interea finis curarum datur.
+
+[MEDEA SIUE ARGONAUTAE]
 
 tanta moles labitur
 fremibunda ex alto ingenti sonitu et spiritu :
@@ -878,7 +937,142 @@ aut forte Triton fuscina euertens specus
 subter radices penitus, undanti in freto
 molem ex profundo saxeam ad caelum eruit.
 
-203
+[IA6]
+sicut citati atque alacres rostris perfremunt delpini.
+
+[IA6]
+siluani melo
+consimilem ad auris cantum et auditum refert.
+
+[TR7]
+ego me extollo in abietem alte. ex tuto prospectum aucupo.
+
+[TR7]
+uagant pauore pecuda in tumulis deserunt.
+quis oues pascet postea.
+
+[IA6]
+ut tristis turbinum
+toleraret hiemes mare cum horreret fluctibus
+
+[IA6]
+prima ex immani uictum ad mansuetum applicans
+
+[IA6]
+perite in stabulo frenos inmittens feris.
+
+[TR7]
+lauere salsis uoltum lacrimis
+
+[TR7]
+qui potis est refelli quisquam ubi nullust causandi locus.
+
+[TR7]
+exul inter hostis exspes expers desertus uagus
+
+[IA8]
+nisi ut astu ingenium lingua laudem et dictis lactem lenibus
+
+[?]
+apud uetustam turrem
+
+[IA8]
+tun dia medea es cuius aditum exspectans peruixi usque adhuc.
+
+[IA8]
+principio extispicium ex prodigiis congruens ars te arguit.
+
+[IA8]
+pernici orbificor liberorum leto et tabificabili.
+
+[AN4]
+fors dominatur neque uita ulli
+propria in uita est.
+
+[CALUDONIS RES GESTAE]
+
+[IA6]
+frugis prohibet pergrandescere
+
+[IA6]
+quam inuita ancillans dicto oboediens uiri.
+
+[IA6]
+uagent ruspantes siluas sectantes feras.
+
+[TR7/IA8]
+frigit fricantem corpus acuum occulte apstruso in flumine.
+
+[TR7/IA8]
+frigit saetas rubore ex oculis fulgens flammeo.
+
+[TR7]
+gaudent currunt celebrant herbam conferunt donant tenent.
+pro se quisque cum corona clarum conestat caput.
+
+[TR7]
+cuius exuuias et coronam huic munerauit uirgini.
+
+[IA6]
+quis erit qui non me spernens incilans probris
+sermone indecorans turpi fama differet.
+
+[IA6]
+remanet gloria
+apud me exuuias dignaui atalantae dare.
+
+[TR7]
+erat istuc uirile ferre aduorsam fortunam facul.
+
+[TR7]
+timida eliminor
+e clamore simul ac nota uox ad auris accidit.
+
+[TR7/IA6]
+nunc si me matrem mansues misericordia
+capsit
+
+[TR8]
+heu. cor ira feruit caecum. amentia rapior ferorque.
+
+[TR7]
+eumpsum uitae finem ac fati:: internecionem fore
+meleagro:: ubi torrus esset interfectus flammeus.
+
+[IA6]
+quae uastitudo haec aut unde inuasit mihi.
+
+[IA6]
+caue lassitudo poplitum tuum cursum leuet.
+
+[IA6]
+labore aut minuat itiner ingressum uia.
+
+[MELANIPPUS]
+
+[TR7]
+oeneum aliquis cette in conspectum aut nos ubi ubi est ducite
+ad eum.
+
+211
+
+[TR7]
+
+[IA6]
+
+[DIOMEDES]
+
+[ERIPULA]
+
+[POENISSAE]
+
+[ANTIGONA]
+
+[EPIGONI]
+
+[ALCMEO]
+
+[ALPESIBOEA]
 
 232
 
