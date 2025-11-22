@@ -16,8 +16,8 @@
 | suffix -ulus/-ula/-ulum       |                                                      |                               | DIMINUTIVE    | +ULUS +DIMINUTIVE  |                         |           |              |
 | suffix -culus/-cula/-culum    |                                                      |                               | DIMINUTIVE    | +CULUS +DIMINUTIVE |                         |           |              |
 | suffix -àrius/-ària/-àrium    |                                                      |                               |               | +ÀRIUS             |                         |           |              |
-| suffix -mòni-                 |                                                      |                               |               | +MONI              |                         |           |              |
-| suffix -tùdò/-tùdìnis         |                                                      |                               |               | +TÙDIN             |                         |           |              |
+| suffix -mòni-                 |                                                      |                               |               | +MÒNI              |                         |           |              |
+| suffix -tùdò/-tùdinis         |                                                      |                               |               | +TÙDIN             |                         |           |              |
 | suffix -tàs/-tàtis            |                                                      |                               |               | +TÀT               |                         |           |              |
 | suffix -lis/-le               |                                                      |                               |               | +LIS               |                         |           |              |
 | suffix -òsus/-òsa/-òsum       |                                                      |                               |               | +ÒSUS              |                         |           |              |
