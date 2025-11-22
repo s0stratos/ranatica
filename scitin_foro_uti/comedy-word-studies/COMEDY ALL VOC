@@ -886,7 +886,7 @@ admemordit			762	1	1 +VIOLENCE
 ------------------------------------------
 admigrant			763	1	1
 -----------------------------------------
-adminiclum			764	1	1 +SYNCOPE
+adminiclum			764	1	1 +CULUM +SYNCOPE
 ------------------------------------------
 administrem			765	1	1
 administrāret			766	1	1
@@ -29377,7 +29377,7 @@ trōilī			26441	1	1 +NAME
 ---------------------------------------
 trōja			26442	2	1 +GEOGRAPHY
 trōjā			26443	1	1 +GEOGRAPHY
-trōjānum		26444	1	1 +GEOGRAPHY
+trōjānum		26444	1	1 +ÀNUS +GEOGRAPHY
 ---------------------------------------
 trūdis			26445	2	2 +r+TRÙD
 trūdit			26446	1	1 +r+TRÙD
@@ -29619,7 +29619,7 @@ tēresiam			26642	2	1
 tēreō			26643	1	1
 ---------------------------------------
 tībiās				26647	3	2 +MUSIC
-tībīcen				26648	6	4 +MUSIC +JOB
+tībīcen				26648	6	4  +COMPOUND +MUSIC +JOB
 tībīcina			26649	4	3 +MUSIC +JOB
 tībīcinae			26650	2	2 +MUSIC +JOB
 tībīcinam			26651	8	4 +MUSIC +JOB
@@ -32210,7 +32210,7 @@ _____________________________________
 īnfīdum			28952	2	2
 īnfīdus			28953	1	1
 īnfīdōs			28954	1	1
-īnsatietātibus			28955	1	1
+īnsatietātibus			28955	1	1 +TAT
 īnscendam			28956	1	1
 īnscendat			28957	1	1
 īnscende			28958	2	1
