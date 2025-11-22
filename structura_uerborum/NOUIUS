@@ -1,4 +1,4 @@
-AGRICOLA
+[AGRICOLA]
 
 edepol *paternam* qui comest pecuniam
 
@@ -11,27 +11,27 @@ etiam
 primo et postremo
     - fide
 
-ANDROMACHA
+[ANDROMACHA]
 
 quod tu {mi gnate} quaeso [ut in pectus tuum demittas]
     [tamquam in fiscinam uindemitor]
 
-ASINUS
+[ASINUS]
 
 Age nunc
     [quando rhetoricasti]
 responde [quod te rogo]
 
-BUCCULUS
+[BUCCULUS]
 
 [quod editis] nihil est
 [si uultis [quod cacetis]] copia est
 
-BUBULCUS CERDO
+[BUBULCUS CERDO]
 
 cum ad lupam nostram tam multi crebro commetant _ lupi
 
-DAPATICI
+[DAPATICI]
 
 primum quod dicebo
 recte
@@ -40,7 +40,7 @@ eo melius
 
 *tibi* [dum uiuebo] fidelis ero
 
-DECUMA
+[DECUMA]
 
 [si ignotis inpertibis]
     fient facilius
@@ -54,25 +54,25 @@ quod <profanaui> modo
     [si tris mensae <sint> in aede
         [ut pariter dispertiam]]
 
-DOTATA
+[DÒTÀTA]
 
- *artiuit* linguam in palatum
-    (*coepit* labia sugere)
+*artiuit* linguam in palatum
+(*coepit* labia sugere)
 
 meam penum componam
 satius est
 
-DUO DOSSENNI
+[DUÒ DOSSENNÌ]
 
 sequimini
-i prae {mi nate}
+ì prae {mi nàte}
 sequere {temeti timor}
 
-ECULEUS
+[ECULEUS]
 
 oleas (cepe) (ficus)
 
-EXODIUM
+[EXODIUM]
 
 [*pati* dum poterunt [antequam pugae pilant]]
 
@@ -91,16 +91,16 @@ multum ames
     [quando ad ludos uenit] [*alii* cum tacent]
 totum diem argutatur quasi cicada
 
-FICITOR
+[FICITOR]
 
 omnes capiunt ficitatem
 mers est sine molestia
 
-FULLONES
+[FULLONES]
 
 testas (patinas) (pistillos) mihi cantant
 
-FULLONES FERIATI
+[FULLONES FERIATI]
 
 *uortit* se in omnis bestias
 *comest* [quidquid tetigit tantum]
@@ -108,101 +108,167 @@ FULLONES FERIATI
 nihil <est> periculi
 *dabo* tibi uerum ualidum uerum animosum
 
-   Fullonicum
-   Non multo post sonarium accepit, abscidit
-   consequitur paenularium, cilotrum petit.
-   Funus
-   <
-   > agite, exite, temulentam tollite!
-   Gallinaria
-   I < >operaeque actor cantor cursor senium sonticum!
-   II O pestifera, pontica fera, trux tolutiloquentia!
-   III Macto te hisce [uerg] uerbenis, macta tu illanc infortunio!
-   Gemini
-    O domus parata pulchrae familiae festiuiter!
-    Hercules coactor
-    Tristimoniam ex animo deturbat et uecordiam.
-    Hetaera
-    Cum natus artiuit matri interfeminia fortiter.
-    Lignaria
-    I Signare oportet frontem calida forcipe.
-    II quia supellex multa, quae non utitur, emitur tamen.
-    Maccus
-    I Scalpis dentes derepente in scena si peccaueris.
-    II <...> Pecunia
-    Quid? Bonum breue est, respondi, Sardiniense caseum.
-    Maccus copo
-    Actutum scibis, cum in neruo nictabere.
-    Maccus exul
-    I Edixi iturum hominem in Tuscos tolutim <
-     II Limen superum, quod mei misero saepe confregit caput,
-     inferum autem, ubi ego omnis digitos defregi meos.
-     III Verberato populus homini labeas pugnis caedere.
-     IV Cur istuc uadimoniosum uestimentum uesceris?
-     Maleuoli
-     I Si percontassem, malum hoc me praeterisset <
-    II Vnde hoc tam repente
-     iucundum inaudiui melum ?
-     Mania medica
-     >
-     I Te uolumus donare dono pulchro, praesente omnibus.
-     II Lacrimae cadent, calet pistillus <
-    >
-     Milites Pometinenses
-     I < >ualgus, uaricosus, genibus magnis, talis turgidis.
-     II Instat mercaturam; spero rem faciet; frugi est homo.
-     III Tu pueri pausilli simile es, quia enim ad os fers quicquid nanctu’s.
-      Mortis et uitae iudicium
-      Ita uobis otiosus sum, mihi algebo et mi esuribo?
-      Optio
-      Qui me miserum miseriorem reddidit
-      quam panus puerum.
-      Paceuus
-      Vt sole orescit cerea castra crebro catapulta inpulit.
-      Paedium
-      I Nec unquam <homo>uidit rostrum <in> tragoedia tantum Titi.
-      II Quodque res uis hunc priuari pulchras quas uti solet!
-      III supparum purum Veliense, interim, escam meram.
-      IV mollicinam, crocotam, chiridotam, ricam, ricinium.
-       V Caeretanus sine diploida recta grassatur uia.
-       VI Nunc res me ipsa repremit; saepe hac sum eadem grassatus uia.
-       Pappus praeteritus
+[FULLONICUM]
+
+non multo post sonarium accepit, abscidit
+consequitur paenularium, cilotrum petit.
+
+[FUNUS]
+
+agite, exite, temulentam tollite.
+
+[GALLINARIA]
+
+operaeque actor cantor cursor senium sonticum!
+
+o pestifera, pontica fera, trux tolutiloquentia!
+
+macto te hisce [uerg] uerbenis, macta tu illanc infortunio!
+
+[GEMINI]
+
+o domus parata pulchrae familiae festiuiter!
+
+[HERCULES COACTOR]
+
+tristimoniam ex animo deturbat et uecordiam.
+
+[HETAERA]
+
+cum natus artiuit matri interfeminia fortiter.
+
+[LIGNARIA]
+
+signare oportet frontem calida forcipe.
+
+quia supellex multa, quae non utitur, emitur tamen.
+
+[MACCUS]
+
+scalpis dentes derepente in scena si peccaueris.
+
+<...> pecunia
+quid? bonum breue est, respondi, sardiniense caseum.
+
+[MACCUS COPO]
+
+actutum scibis, cum in neruo nictabere.
+
+[MACCUS EXUL]
+
+edixi iturum hominem in Tuscos tolutim <
+
+limen superum, quod mei misero saepe confregit caput,
+inferum autem, ubi ego omnis digitos defregi meos.
+
+uerberato populus homini labeas pugnis caedere.
+
+cur istuc uadimoniosum uestimentum uesceris?
+
+[MALEUOLI]
+
+sì percontassem, malum hoc mè praeterisset
+
+unde hoc tam repente
+iucundum inaudiui melum ?
+
+[MANIA MEDICA]
+
+tè uolumus donàre donò pulchrò praesente omnibus.
+
+lacrimae cadent, calet pistillus
+
+[MILITES POMETINENSES]
+
+ualgus, uaricosus, genibus magnis, talis turgidis.
+
+instat mercaturam; spero rem faciet; frugi est homo.
+
+tu pueri pausilli simile es, quia enim ad os fers quicquid nanctu’s.
+
+[MORTIS ET UITAE IUDICIUM]
+
+ita uobis otiosus sum, mihi algebo et mi esuribo?
+
+[OPTIO]
+
+qui me miserum miseriorem reddidit
+quam panus puerum.
+
+[PACEUUS]
+
+ut sole orescit cerea castra crebro catapulta inpulit.
+
+[PAEDIUM]
+
+nec unquam <homo>uidit rostrum <in> tragoedia tantum Titi.
+
+quodque res uis hunc priuari pulchras quas uti solet!
+
+supparum purum Veliense, interim, escam meram.
+
+mollicinam, crocotam, chiridotam, ricam, ricinium.
+
+Caeretanus sine diploida recta grassatur uia.
+
+Nunc res me ipsa repremit; saepe hac sum eadem grassatus uia.
+
+[PAPPUS PRAETERITUS]
        < >dumistos inuitabis suffragatores, pater,
        prius in capulo quam in curuli sella suspendes natis.
-       Parcus
+
+[PARCUS]
        Quod magno opere quaesiuerunt, id frunisci non queunt.
        Qui non parsit apud se <
       > frunitus est.
-       Phoenissae
+
+[POENISSAE]
+
        Sume arma, iam te occidam claua scirpea
-       Picus
+
+[PICUS]
+
         Quid ego facerem otio si rodebam rutabulum?
-        Quaestio
+
+[QUAESTIO]
         Mammas teneas, pedes extollas, sauies <cum> congemit.
-        Sanniones
+
+[SANNIONES]
+
         Inclino cretam, cerussam, purpurissam.
-        Surdus
+
+[SURDUS]
         Filias habeo temulentas, sed eccas uideo incedere.
-        Tabellaria
+
+
+[TABELLARIA]
+
         I Qui habet uxorem sine dote, pannum positum in purpura est.
         II dotem ad nos nullam attulas.
-        Togularia
+
+[TOGULARIA]
         < >abideturba te saxo, homo non quisquiliae.– Quid est?
-        Tripertita
+
+[TRIPERTITA]
          I postquam se uidit heredem, desubito diuortium
          fecerunt.
          II Si autem pingue est, male cubandum est : < > putent pantices.
-         Vindemiatores
+
+[UINDEMIATORES]
+
          I Quid stas? age, moue te, manen– I primus. Progredi!
          II < >coepit unum quemque praelumbare fustibus.
          III aliquot altipendulos
          reliquimus uindemiae superstites
-         Virgo praegnas
+
+[UIRGO PRAEGNAS]
+
          I quando ego
          plus sapiui, qui fullonem compressi quinquatribus.
          II Sequere me!
          Puriter uolo facias; igni atque aqua hunc uolo accipi.
-         Zona
+
+[SONA]
           I Atque facilitatem, uideo, uteris uulgariam.
           II Duriter me habere, uigilasse.
           Incertarum fabularum reliquiae
