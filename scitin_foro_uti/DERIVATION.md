@@ -40,9 +40,9 @@
 | suffix -ellus/-ella/-ellum    | NOMINAL STEM                                         | SAME                          | DIMINUTIVE                    | +ELLUS +DIMINUTIVE |                       |                    |              |
 | suffix -ènsis/-ènse           | NOMINAL STEM                                         | ADJECTIVE                     |                               | +ÈNSIS             |                       |                    |              |
 | suffix -ère                   | BARE STEM                                            | VERB                          | STATIVE                       | +ÈRE               |                       |                    |              |
-| suffix -eus/-ea/-eum          | NOMINAL STEM                                         | ADJECTIVE                     | MATTER ADJECTIVE              | +EUS               |                       |                    |              |
+| suffix -eus/-ea/-eum          | NOMINAL STEM                                         | ADJECTIVE                     | MATTER ADJECTIVE              | +EUS               | plūm/eus              |                    |              |
 | suffix -ia                    | ADJECTIVAL STEM / -NT VERBAL STEM / -OR NOMINAL STEM | NOUN                          |                               | +IA                |                       |                    |              |
-| suffix -ìcius                 | PP VERBAL STEM                                       | ADJECTIVE                     |                               | +ÌCIUS             |                       |                    |              |
+| suffix -ìcius                 | PP VERBAL STEM                                       | ADJECTIVE                     |                               | +ÌCIUS             | supposit/īcius        |                    |              |
 | suffix -icus/-ica/-icum       | NOMINAL STEM                                         | ADJECTIVE                     |                               | +ICUS              |                       |                    |              |
 | suffix -idus/-ida/-idum       | BASE VERBAL STEM                                     | ADJECTIVE                     |                               | +IDUS              |                       |                    |              |
 | suffix -ìnus/-ìna/-ìnum       | NOMINAL STEM                                         | ADJECTIVE                     |                               | +ÌNUS              |                       |                    |              |
@@ -50,7 +50,7 @@
 | suffix -iò/-iònis             | PP VERBAL STEM                                       | NOUN                          |                               | +TIÒN              | abort/iō              |                    |              |
 | suffix -ìre                   | NOMINAL STEM                                         | VERB                          |                               | +ÌRE               |                       |                    |              |
 | suffix -itàre                 | BASE VERBAL STEM (see -àre)                          | SAME                          | FREQUENTATIVE                 | +FREQUENTATIVE     | accūs/itāre           |                    |              |
-| suffix -ìvus/-ìva/-ìvum       | PP VERBAL STEM                                       | ADJECTIVE                     |                               | +ÌVUS              |                       |                    |              |
+| suffix -ìvus/-ìva/-ìvum       | PP VERBAL STEM                                       | ADJECTIVE                     |                               | +ÌVUS              | capt/īvus             |                    |              |
 | suffix -lis/-le               | BASE VERBAL STEM                                     | ADJECTIVE                     |                               | +LIS               | aequā/lis             |                    |              |
 | suffix -lentus/-lenta/-lentum | NOMINAL STEM (+i > usually +u - from l-backing)      | ADJECTIVE                     |                               | +LENTUS            | buccu/lentum          |                    |              |
 | suffix -men/-minis            | BASE VERBAL STEM                                     | NOUN                          |                               | +MIN               |                       |                    |              |
@@ -66,9 +66,9 @@
 | suffix -rìx/-rìcis            | PP VERBAL STEM                                       | NOUN                          | ANIMATE AGENT NOUN (FEMININE) | +TRÌC              | accept/rìx            |                    |              |
 | suffix -sc-                   | BASE VERBAL STEM                                     | SAME                          | INCOHATIVE                    | +SC                |                       |                    |              |
 | suffix -tàs/-tàtis            | ADJECTIVAL STEM (+ i)                                | NOUN                          |                               | +TÀT               |                       |                    |              |
-| suffix -ter                   | ADJECTIVAL STEM (+ i)                                | ADVERB                        |                               | +TER               |                       |                    |              |
-| suffix -itia/-itiae           | NOMINAL STEM (see -ia/-iae)                          | NOUN                          |                               | +ICUS              | rùs/ticus             |                    |              |
-| suffix -ticus/-tica/-ticum    | NOMINAL STEM (see -icus/-ica/-icum)                  | ADJECTIVE                     |                               | +ICUS              | rùs/ticus             |                    |              |
+| suffix -ter                   | ADJECTIVAL STEM (+ i)                                | ADVERB                        |                               | +TER               | dùr/i/ter             |                    |              |
+| suffix -itia/-itiae           | NOMINAL STEM (see -ia/-iae)                          | NOUN                          |                               | +IA                |                       |                    |              |
+| suffix -ticus/-tica/-ticum    | NOMINAL STEM (see -icus/-ica/-icum)                  | ADJECTIVE                     |                               | +ICUS              | rùs/t/icus            |                    |              |
 | suffix -tim                   | BASE VERBAL STEM                                     | ADVERB                        |                               | +TIM               |                       |                    |              |
 | suffix -tùdò/-tùdinis         | BASE VERBAL STEM ending in è                         | NOUN                          |                               | +TÙDIN             | ualè/tūdō, cōnsuētūdō |                    |              |
 | suffix -tùdò/-tùdinis         | ADJECTIVAL STEM (+ i)                                | NOUN                          |                               | +TÙDIN             | crass/i/tūdō          |                    |              |
@@ -76,7 +76,7 @@
 | suffix -ulus/-ula/-ulum       | NOMINAL STEM (u before l from backing)               | SAME                          | DIMINUTIVE                    | +ULUS +DIMINUTIVE  |                       |                    |              |
 | suffix -ùra/-ùrae             | PP VERBAL STEM (cf. future participle)               | NOUN                          |                               | +ÙRA               |                       |                    |              |
 | suffix -us/-ùs                | PP VERBAL STEM                                       | NOUN                          |                               | +Ù                 |                       |                    |              |
-
+| univerbation                  |                                                      |                               |                               |                    |                       |                    |              |
 
 
 
