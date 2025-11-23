@@ -1054,17 +1054,98 @@ labore aut minuat itiner ingressum uia.
 oeneum aliquis cette in conspectum aut nos ubi ubi est ducite
 ad eum.
 
-211
-
 [TR7]
+egone auxilio nudus temere ut hosti me animato offeram.
 
 [IA6]
+paratus sum ubi uis petere pestem permiti.
+
+[TR7]
+neque ratum est quod dicas neque ea quae agitas dicendi locus.
+
+[TR7]
+est res aliqua quam praesente his prius maturare institit.
+
+[IA6]
+crediti' me amici morte imbuturum manus.
+
+[TR7/IA6]
+tete esse huic noxae obnoxium.
+
+[TR7]
+reicis aps te religionem. scrupeam imponas tibi.
+
+[TR7]
+hic melanippum inter traiectus nemorum in salti faucibus.
+
+[TR7]
+constitit cognouit sensit. conlocat sese in locum
+celsum. hinc manibus rapere raudus saxeum grande et graue.
+
+[TR7]
+obuiam ense it. quem aduorsum aptus alter in promptu occupat.
+
+[TR7]
+unde aut quis mortalis florem liberum inuidit meum.
+
+[TR7]
+regina aderit tempus hic cum torrus quem amburi uides.
 
 [DIOMEDES]
 
+[IA6]
+fere exanclauimus
+turanni saeuom ingenium atque execrabile.
+
+[IA6]
+passimque praedam pecua uellebant agris.
+
+[IA6]
+multa amittuntur tarditie et socordia.
+
+[IA6]
+ita et fletu et tenebris opstinatus speciem amisi luminis
+conspiciendi insolentia.
+
+[?]
+adsum ad te genitor
+
+[IA6]
+non genus uirum ornat generi uir fortis loco.
+
+[IA6]
+et qualis fuerit fama celebrescat tua.
+
+[IA6]
+simul aurem adtendo ut quirem exaudire amplius.
+
+[IA6]
+si umquam praepediar gnate puer ne adtenderis
+petere a me id quod nefas sit concedi tibi.
+
+[IA6]
+ergo med argos referam nam hic sum gnobilis
+me cui cognoscar noto.
+
+[IA6]
+benigne et pro beneficio largi atque ampliter.
+
+[?]
+ogugia moenia
+
 [ERIPULA]
 
+pallas bicorpor anguium spiras trahit.
+
 [POENISSAE]
+
+[IA6]
+sol qui micantem candido curru atque equis
+flammam citatis feruido ardore explicas
+quianam tam aduerso augurio et inimico omine
+tebis radiatum lumen ostentas tuom.
+
+219
 
 [ANTIGONA]
 
@@ -1077,7 +1158,6 @@ ad eum.
 232
 
 [ALCESTIS]
-
 
 [IA6]
 cum striderat retracta rursus inferis
@@ -1319,5 +1399,112 @@ pars frena tensae atque ori equorum accomodant
 [IA6/TR7]
 ...] fallaciloquae malitiae
 
-249
+[IA6]
+si rite ad patriam sospes rediisset suam
+
+[]
+residuos
+
+[sot]
+sapientaeque inuictae
+gratia atque honoris patera nestorem mactauit
+aurea.
+
+[sot]
+placare ferocem hostem inimiciterque accensum
+
+[ia6]
+audax falsifica gnati mater pessimi
+odibilis natura impos excors ecfera
+
+[sot]
+ut dum breuitatem uelint consequi uerborum
+aliter ac sit rellatum redhostiant responsum.
+
+[sot]
+sed euripidis qui coros temerius
+in fabulis
+
+[sot]
+actoribus manuleos baltea macaeras
+
+[sot]
+nam quam uaria sint genera poematorum baebi
+quamque long distincta alia ab aliis sis nosce.
+
+[tr7]
+uectigalia egerantur uestra et seruentur statim.
+
+[sot]
+et magnificissimei excelsissimeique honore
+
+[PRAGMATICON LIBRI]
+
+[ia6]
+et cuncta fieri cetera imbecilla nunc
+ob ponderitatem grauitatemque nominis.
+
+[tr7]
+describere in teatro perperos
+popularis
+
+[tr7]
+et eo plectuntur poetae quam suo uitio saepius
+aut ductabilitate nimia uestra aut perperitudine.
+
+[tr7]
+saltabundi autem canebant tum quae nunc stantes canunt
+et sicinnistas appellant hos nebuloso nomine.
+
+[]
+nam nec geminei lenones nec condalium nec anus
+plauti nec bis compressa nec boeotia umquam fuit
+neque adeo agroecus neque commorientes macci titi.
+
+
+[sot]
+unde omnia perdisci ac percipi queuntur
+
+[ia6]
+personas has distortis oribus
+deformis miriones
+
+[SOTADICORUM LIBRI]
+
+[sot]
+num ergo aquila ita ut hice praedicant sciciderat pectus.
+
+[ANNALES]
+
+[hex]
+ut quam fragilissimus aluus
+...
+maia nemus retinens grauido concepit in aluo.
+
+[hex]
+calones famulisque metallique caculaeque
+
+[hex]
+maxima pars graium saturno et maxime atenae
+conficiunt sacra quae cronia esse iterantur ab illis.
+cumque diem celebrant per agros urbesque per omnes
+exercent epulis laeti famulosque procurant
+quisque suos. nostrisque itidemst mos traditus illinc
+iste ut cum dominis famuli:: epulentur ibidem.
+
+[hex]
+fraxinus fissa ferox infensa infinditur ossis.
+
+[hex]
+illum defendere nixi
+sunt.
+
+[hex]
+it nigrum campi agmen.
+
+[ia6]
+i bene proscissos sulcos signare ordine
+porcas bidenti ferro rectas dirimere.
+
+
 265
