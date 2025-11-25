@@ -1,30 +1,33 @@
-ALEXANDREA
+[ALEXANDREA]
 
-- quid est ius iurandum. inplastrum aeris alieni
+quid est ius iurandum. inplastrum aeris alieni
 
 ANNA PERANNA
 
-- conlabella osculum
-- gubernius	
-- nanus
+conlabella osculum
+
+gubernius
+
+nanus
 
 AQUAE CALDAE	
 	
-- et iam hic me optimus somnus premit	
+et iam hic me optimus somnus premit
 ut premitur glis
 
-- podagricus	
+podagricus
 non recessit	
 
 ARIES	
 
-- aries	
-- reciprocicornis lanicus testitrahus	
+aries
+
+reciprocicornis lanicus testitrahus
 uix sustineo clunes
 
 AUGUR	
 
-    largiter	
+largiter
 feci lucri	
 
 AULULARIUS	
@@ -33,7 +36,7 @@ homo ebriacus somno sanari solet
 
 BELONISTRIA	
 	
-    domina nostra priuignum suom	
+domina nostra priuignum suom
 amat efflictim
 
 CACOMNEMON	
@@ -63,7 +66,7 @@ uideo adulescenti nostro caedis hirulam
 
 CENTONARIUS	
 
-    quare tam arduom	
+quare tam arduom
 ascendas. scindere an concupisti eugium.	
 
 COLAX	
@@ -73,30 +76,32 @@ cinerescunt conquieta membra animantium. hem
 
 COLORATOR	
 
-    itaque leni pruna coctus
+itaque leni pruna coctus
 simul sub dentes mulieris ueni bis ter memordit	
 
 COMPITALIA	
 
 malas malaxaui	
-    nunc tu lentu's nunc tu susque deque fers.	
+
+nunc tu lentu's nunc tu susque deque fers.
 mater familias tua in lecto aduerso sedet	
 seruos sextantis utitur nefariis
 uerbis	
-    quo quidem	
+
+quo quidem
 me a matronali pudore prolubium meretricium	
 progredi coegit	
 sequere me in latrinum ut aliquid gustes ex Cynica haeresi
 
 COPHINUS	
 
-    cum prouincias	
+cum prouincias
 dispoliauit columnas monolithas labella lenis	
 manuatus est	
 
 CRETENSIS	
 
-    farmacopoles simium	
+farmacopoles simium
 deamare coepit
 
 EPHEBUS	
@@ -108,13 +113,13 @@ togatae stirpis
 
 FULLO	
 	
-    manuari pudorem perdidisti
+manuari pudorem perdidisti
 utrum tu hunc gruem Balearicum an hominem putas	
 esse.	
 
 GALLI	
 
-    de integro patrimonio	
+de integro patrimonio
 meo memordi nummum centum milia
 	
 GEMELLI	
@@ -138,7 +143,7 @@ uersorum non numerorum numero studuimus
 
 LATE LOQUENS	
 
-    sed dum popularia	
+sed dum popularia
 agimus per ludum	
 qui pedem ex taberna tulimus tantus cum in staret pluor	
 
@@ -198,7 +203,7 @@ homo leuenna
 
 SCULAX	
 
-    lubidinitate labitur	
+lubidinitate labitur
 	
 SEDIGITUS	
 	
@@ -212,7 +217,7 @@ laus nomine gloria alescit
 
 STAMINARIAE	
 
-    tollat bona	
+tollat bona
 fide uos Orcus nudas in catomium	
 
 STRICTURAE	
@@ -222,19 +227,21 @@ sine lingua caput pedarii sententia est
 TAURUS	
 
 
-    hietantur fores
+hietantur fores
 
 TUSCA	
 
-    bipedem bliteam beluam	
-concitata mobilitatem mente maestas	
-    dominus est noster tua	
-luculentitate captus	
-    inridenter petit
+bipedem bliteam beluam
+concitata mobilitatem mente maestas
+
+dominus est noster tua
+luculentitate captus
+
+inridenter petit
 
 uIRGO	
 
-    alienum appetonibus	
+alienum appetonibus
 uiae expeditae deuerticula sunt	
 amore cecidi tamquam blatta in peluim	
 si quidem mea colustra fretus	
@@ -247,8 +254,9 @@ adulterionem
 adulteritatem	
 aluos	
 arra
-autumno ubi Caurus populis decidua folia pandit	
-    coicior in fullonicam	
+autumno ubi Caurus populis decidua folia pandit
+
+coicior in fullonicam
 depudicauit	
 dextrabus	
 elutriare lintea
@@ -307,10 +315,12 @@ tolutares ecce istius sententiae.
 nusquam quadripedo concito cursu tenent	
 nusquam pugnant nusquam maiestatem student.
 dictabolaria iste immo dicteria	
-potius quam dicta confingit mimis suis.	
-    tuos amor tam cito	
+potius quam dicta confingit mimis suis.
+
+tuos amor tam cito
 crescit quam porrus tam quam palma firmiter	
-    uxorem tuam
+
+uxorem tuam
 et meam nouercam consectari lapidibus	
 a populo uideo
 - planus
