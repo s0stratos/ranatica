@@ -1395,13 +1395,68 @@ nunc pergam ut suppliciis placāns caelitum aras expleam.
 [TR7]
 apud abundantem antiquam amnem et rapidas undas inaci
 
-228
-
 [ALCMEO]
+
+[TR7]
+ut me repositum inmerentem repentino alacrem nuntio
+reddidisti atque excitasti ex luctu in laetitudinem.
+
+[AN4]
+quod di in terram infernam penitus
+depressum altis clausere specis
+
+[TR7/IA6]
+qui ducat cum te socerum uiderit
+generibus tantam esse impietatem.
+
+[IA6]
+tanta ut frustrando lactans uanans protrahas
+
+[IA6]
+suos deseruit liberos.
+superstites sunt.
+
+[IA6]
+atque eccos segnis somno et tarditudine.
+
+[IA6]
+quia nec uos nec ille impune irrideret meam
+grandaeuitatem.
+
+[IA6]
+postremo amplexa fructum quem di dant. cape.
 
 [ALPESIBOEA]
 
-232
+[AN4]
+o dirumque hostificumque diem. o
+uim toruam aspecti atque horribilem.
+
+[IA6]
+etsi est in malis
+deposi|tus ani|mus quae | scibo ex|sinde au|diet
+
+[IA6]
+quid tam opscuridicum est tamue inenodabile.
+
+[IA6]
+sed angustitate inclusam ac saxis squalidam.
+
+[AN4]
+ita territa membra animo aegroto
+cunctant sufferre laborem.
+
+[TR7]
+at uereor cum te esse alcmeonis fratrem factis dedicas.
+
+[IA6/TR7]
+sed tibi cautim est adeundum ad uirum.
+
+[IA6]
+si tui ueretur te progenitoris cedo.
+
+[TR7]
+cum ipsa simitu miseritudo:: horum me ulta est liberum
 
 [ALCESTIS]
 
@@ -1751,6 +1806,3 @@ it nigrum campi agmen.
 [ia6]
 i bene proscissōs sulcōs signare ordine
 porcās bidenti ferrō rectās dirimere.
-
-
-265
