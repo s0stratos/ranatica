@@ -19,12 +19,28 @@ So the question is this, how to do that with an ancient language.
 
 ## INTERACTIONS 
 
+Language production is heavily interactional.
+
+This means:
+- being able to react in the proper manner to an interaction initiated by someone else.
+- being able to initiate an interaction
+
 ## REPEATING EXPERIENCES
+
+Learning need repetition and the more something repeats the more codified and normal it should seem.
 
 ## EMOTIONAL CONNECTIONS 
 
+We learn by copying people and things we are interested in.
+
 ## SENSORY INPUT
+
+Mapping sensory input with lexical choice 
 
 ## PROPRIOCEPTION 
 
+Same as external sensory input 
+
 ## WHAT KIDS DO 
+
+Overplaying analogy and undo it later when they realize it's actually not done this way
