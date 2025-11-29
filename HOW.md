@@ -16,3 +16,15 @@ some more lexical (as in word choice) but ultimately the difference for the lear
 to produce native-like language is not very relevant. 
 
 So the question is this, how to do that with an ancient language.
+
+## INTERACTIONS 
+
+## REPEATING EXPERIENCES
+
+## EMOTIONAL CONNECTIONS 
+
+## SENSORY INPUT
+
+## PROPRIOCEPTION 
+
+## WHAT KIDS DO 
