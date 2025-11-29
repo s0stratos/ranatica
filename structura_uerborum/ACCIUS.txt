@@ -51,7 +51,7 @@ proscindant glebasque aruō ex molli:: excitent.
 
 [IA6]
 uōs ite actutum atque opere magnō edicite
-per urbem ut omnes qui arcem alpheumque accolunt
+per urbem ut omnes quī arcem alpheumque accolunt
 ciues ominibus faustis augustam adhibeant
 fauentiam ore obscena dicta segregent.
 
@@ -63,7 +63,7 @@ saxum id facit angustitatem et sub eō saxō exuberāns
 scatebra fluuiae radit rupem.
 
 [IA6]
-quinam tantalidarum internecioni modus
+quīnam tantalidarum internecioni modus
 paretur aut quaenam umquam ob mortem murtili
 poenis luendis dabitur satiās supplici.
 
@@ -77,7 +77,7 @@ fuerat ferrum uallus saxi rodus rudus sumpserat.
 quid agam. uox illius est. [] certe idem omnes cernimus.
 
 [TR7]
-qui sī hinc superescit spartam atque amuclās trado...
+quī sī hinc superescit spartam atque amuclās trado...
 
 [IA6]
 melius prigasse quamde properasse. est nefas.
@@ -91,7 +91,7 @@ aeternabilem diuitiam partissent.
 iterum tuestes atreum adtractatum aduenit.
 iterum iam adgreditur mē et quietum exsuscitat.
 maior mihi moles maius miscendum est malum
-qui illius acerbum cor contundam et comprimam.
+quī illius acerbum cor contundam et comprimam.
 
 [IA6]
 quī nōn sat habuit coniugem inlexe in stuprum
@@ -202,7 +202,7 @@ aere atque ferrō feruere igni īnsignibus
 florere
 
 [IA6]
-qui neque cuiatis esset umquam potuimus
+quì neque cuiatis esset umquam potuimus
 multa erogitantes sciscere.
 
 [TR7|TR8|TR7/TR8]
@@ -235,23 +235,23 @@ remisque nixi properiter nauem in fugam
 trānsdunt subter saxa ad laeuam qua mōns mollibat mare.
 
 [IA6]
-nunc tū in re crepera tua quid capiās cōnsili
+nunc tū in rè crepera tua quid capiās cōnsili
 uide.
 
 [TR7]
-proinde istaec tua aufer terricula atque animum iratum comprime.
+proinde istaec tua aufer terricula atque animum  ìràtum comprime.
 
 []
 studiumque iteris reprime
 
 [an4]
-iam iam stupidō tessala somno
+iam iam stupidō tessala somnò
 pectora languentque senentque
 
 [HELLENES]
 
 [IA6]
-qui nisi probrum omnia alia indelicta aestimant.
+quī nisi probrum omnia alia indelicta aestimant.
 
 [TR7]
 signa extemplō canere ac tela ob moenia offerre imperat.
@@ -265,7 +265,7 @@ iam hanc urbem ferrō uastam faciet peleus.
 an sceptra iam flaccent. ferat.
 
 [IA8]
-qua re alia ex crimine inimicorum effugere possis delica.
+qua re alia ex crimine inimicòrum effugere possis delica.
 
 [IA6]
 nedum cum feruat pectus iracundia.
@@ -273,41 +273,41 @@ nedum cum feruat pectus iracundia.
 [MURMIDONES]
 
 [IA6]
-tū pertinaciam esse antiloce hanc praedicas
-ego peruicaciam aiō et ea mē uti uolo
-nam peruicacem dici mē esse et uincere
-perfacile patior pertinacem nihil moror.
+tū pertinàciam esse antiloce hanc praedicas
+ego peruicàciam aiō et ea mē uti uolo
+nam peruicàcem dici mē esse et uincere
+perfacile patior pertinàcem nihil moror.
 haec fortis sequitur illam indocti possident.
 tu addis quod uitiō est. demis quod laudi datur.
 
 [IA6/TR7]
-mea facta in acie obliti
+mea facta in acie oblitì
 
 [IA4]
-an haec iam obliti sunt pruges.
+an haec iam oblitì sunt pruges.
 
 [IA6]
 trahere in salum
 classis et uela uentorum animae immittere
 
 [TR7]
-ego mē nōn peccasse plane ostendam aut poenās sufferam.
+ego mē nōn peccàsse plànè ostendam aut poenās sufferam.
 
 [TR7]
-quodsi ut decuit stares mecum:: aut meus maestaret dolor
-iam diu īnflammari taetre nauis uidissent suas.
+quodsì ut decuit stares mècum:: aut meus maestàret dolor
+iam diù īnflammari taetre nàuis uidissent suàs.
 
 [IA6]
-tua honestitudō danaos decepit diu.
+tua honestitudō danaos decepit diù.
 
 [TR7]
-iram īnfrenes obstes animis reprimās cōnfidentiam.
+ìram īnfrenes obstes animis reprimās cōnfidentiam.
 
 [TR7]
-regnum tibi permitti malunt. cernas. tradam exercitus.
+règnum tibi permitti malunt. cernas. tradam exercitus.
 
 [IA6]
-nolō equidem. sed tū huic quem scis quali in tē siet
+nòlō equidem. sed tū huic quem scis quali in tē siet
 fidelitate ob fidam naturam uiri
 ignosce.
 
@@ -323,7 +323,7 @@ etsi ascendit aura laterum texta uolcani uorax
 cuius uōs tumulti caussa accierim et quid parem animum aduortite.
 
 [TR7]
-iube nunc adtemptare. iube nunc animō ruspari prugas.
+iube nunc adtemptàre. iube nunc animō ruspàrì prugàs.
 
 [IA6/TR7]
 id quod facis gratum et graue est.
@@ -349,14 +349,14 @@ aut ego illum eripiam aut illō poenās sufferam.
 nec perdolescit fligi sociōs morte campōs contegi.
 
 [TR7]
-eōs mortālis poenix miseror saepe. studiosōs uolo.
+eōs mortālis poenix miseror saepe. studiosōs uolò.
 
 [IA6]
 quod sī procedit neque tē neque quemquam arbitror
 tuae paeniturum laudis. quam ut serues uide.
 
 [IA6]
-proin tū id cui fiat nōn qui faciās compara.
+proin tū id cui fiat nōn quī faciās comparà.
 
 [IA6]
 probis probatum potius quam multis fore
@@ -379,18 +379,18 @@ cōnsidera et quō reuoces summam exerciti.
 
 [IA6]
 primores procerum prouocauit nomināns
-si esset quis qui armis secum uellet cernere.
+si esset quis quī armis secum uellet cernere.
 
 [IA6]
 lucifera lampade abietem exurat iouis
 
 [TR7]
 cum scamandriam undam salsō sanctam obtexi sanguine
-atque aceruōs alta in amni corpore expleui hostico
+atque aceruōs alta in amni corpore expleuì hosticò
 
 [IA6]
 ab classe ad urbem tendunt neque quisquam potest
-fulgentium armum armatus ardorem obtui.
+fulgentium armum armatus ardorem obtuì.
 
 [IA6]
 mauortes armis duō congressōs crederes.
@@ -399,10 +399,10 @@ mauortes armis duō congressōs crederes.
 ubi nunc terricula tua sunt.
 
 [IA6]
-tamen haud fatiscar quin tuam implorem fidem.
+tamen haud fatiscar quīn tuam implorem fidem.
 
 [TR7]
-immō enimuerō corpus priamō reddidi. hectora abstuli.
+immō enimuerō corpus priamō reddidi. hectora abstulì.
 
 [ARMORUM IUDICIUM]
 
@@ -417,7 +417,7 @@ hem uereor plus quam fās est captiuom hiscere.
 quid est cur componere ausis mihi tē aut mē tibi.
 
 [IA6]
-huius mē diuidia cogit plus quam est par loqui.
+huius mē diuidia cogit plus quam est par loquī.
 
 [TR7]
 nam tropaeum ferre mē ā forti uiro
@@ -472,7 +472,7 @@ satin astu et fallendō callet.
 dolet pudetque graium mē et uerō piget.
 
 [TR7]
-uim ferociam animum atrocitatem iram acrimoniam
+uim feròciam animum atròcitàtem ìram acrimoniam
 
 [IA6]
 haut quisquam potis est tolerāre acritudinem.
@@ -528,7 +528,7 @@ ubi habet. urbe agrone.
 caprigenum trita ungulis
 
 [IA6]
-qui iacet in tectō umidō
+quī iacet in tectō umidō
 quod eiulatu questu gemitu fremitibus
 resonandō mutum flebilis uocēs refert
 
@@ -538,7 +538,7 @@ cōnfigit tardus celeris stāns uolatilis
 prō ueste pinnis membra textis contegit.
 
 [IA6]
-reciproca tendēns neruō equinō concita
+reciproca tendēns neruō equīnō concita
 tela
 
 [IA6]
@@ -570,7 +570,7 @@ dracontem
 
 [IA6]
 heu mulciber
-arma ignauō ess inuicta fabricatus manu.
+arma ignauō ess inuicta fabricàtus manù.
 
 [IA6]
 cum ex uiperinō morsū uenae uiscerum
@@ -587,7 +587,7 @@ prugiam mitī more esse usam inmanī graeciam.
 
 [IA6]
 sub axe posita ad stellās septem unde horrifer
-aquilonis stridor gelidās molitur niues.
+aquilonis stridor gelidās molitur niuès.
 
 [TR7]
 agite ac uolnus ne successet gressus caute ingredimini.
@@ -669,16 +669,16 @@ sī est quam exoptō et quō captus modo.
 fortunane an forte refertur.
 
 [TR7]
-in celsis montibus
-pecua atque inter collēs pascunt danaī in prugiae terminis.
+in | celsìs | monti|bus |
+pecu(a) at|qu(e) inter | collēs | pascunt || dana(ī) in | prugiae | termi|nìs. |
 
 [TR7]
-hic per matutinum lūmen tardō prope euntem gradū
-derepente aspiciō ex nemore pauidum et properantem ēgredi.
+| hīc per | mātū|tīnum | lūmen || tardō | prop(e) eun|tem gra|dū |
+| dēre|pent(e) as|pici(ō) ex | nemore || pauid(um) et | properan|t(em) ēgre|di. |
 
 [IA8]
-nunc calcās finem religionum fac ac desiste exercitum
-morarī nec mē ab domuitione arce ex tuō obscenō omine.
+| nunc cal|cās fì|nem reli|giò|num {fac ac#} | dèsis|t(e) exer|citum |
+| mora|rī nec | mē ab domu|itio|ne arce ex | tuō ob|scenō o|mine. |
 
 [IA6]
 abducite intrō. nam mihi miseritūdine
@@ -785,13 +785,13 @@ ERIGONA
 lucorum late uiridia et frugum ubera
 
 [TR7]
-egone. assentio. nunc age tū tuam progeniem ede ordine.
+egone. assentiò. nunc age tū tuam progeniem ede ordine.
 
 [IA6]
 quamquam est exangue corpus mī atque annis putret
 
 [TR7]
-tum autem aegistus sī inceste eodem lectō comitasset patri
+tum autem aegistus sī inceste eòdem lectō comitasset patrì
 
 [TR7]
 sed ubi ad finem uentum est quō illum fors expectabat locō
@@ -830,15 +830,15 @@ atque ut uides nōn tenuī dē locō
 apud istum adsistas
 
 [AN4]
-nunc per terras uagus extorris
-regno exturbatus mari
+nunc per terràs uagus extorris
+regnō exturbàtus marì
 
 [AN4]
-super oceani stagna alta patris
-terrarum anfracta reuisam.
+super oceanì stagna alta patris
+terràrum ānfracta reuisam.
 
 [TR7]
-tu autem quod quaero aps te enoda et qui sis explica
+tù autem quod quaerō aps tè enoda et quī sis explicà
 
 [TR7]
 ei mihi. ut etiam haec aerumna mihi luctum addit luctibus.
@@ -847,33 +847,33 @@ ei mihi. ut etiam haec aerumna mihi luctum addit luctibus.
 quid miserare.
 
 [IA6]
-tuam solitatem memorans formidans tibi
-te commiserabam magis quam miserebar mei.
+tuam solitàtem memorāns formidāns tibi
+tè commiseràbam magis quam miserebar meì.
 
 [TR7]
 hicine est ille telamon modo quem gloria ad caelum extulit
 quem aspectabant cuius ob os grai ora obuertebant sua.
 
 []
-simul animus cum re concidit
+simul animus cum rè concidit
 
 [TR7]
-tot  tropea transdes summam gloriam euorti sines
+tot tropea trānsdes summam gloriam euorti sines
 tam desubito.
 
 [TR7]
-heu me miserum cum haec recordor cum illos reminiscor dies.
+heu mè miserum cum haec recordor cum illos reminiscor dies.
 
 [IA6]
 nam uana oblectat spes aerumnosum hospitem
-dum illud quod miser est clam esse censet alteros.
+dum illud quod miser est clam esse cēnset alteros.
 
 [IA6]
-disertim id unum incommodis defit meis.
+disertim id ùnum incommodis defit meis.
 
 
 [IA6]
-sed memet caluor. uos istum ut iussi ocius
+sed memet caluor. uòs istum ut iussi ocius
 apstrahite.
 
 [TR7]
@@ -881,12 +881,12 @@ nihil est. | sī autem id | tē re|tardat || socium in | portu  est | copi|a |
 quae sub|sistat. | modo tū|te ipse || tē con|firmā et | compa|rā |
 
 [IA6]
-opinione factum est. quanto mitius
-stirpem educabant tanto ut reremur magis
+opinione factum est. quantō mitius
+stirpem educabant tantō ut reremur magis
 eos esse.
 
 [TR7]
-qui rem publicam certo animo adiuuerit
+quī rem publicam certō animō adiuuerit
 statuerit steterit cum aciuis.
 
 [TR7]
@@ -894,10 +894,10 @@ re dubia
 haut dubitarit uitam offerre nec capiti pepercerit.
 
 [TR7]
-summum amicum summo in bello summo ingenio praeditum.
+summum amicum summō in bellō summō ingeniō praeditum.
 
 [TR7]
-o ingratifici argiui immunes grai inmemores benefici.
+ō ingratifici argiui immunes grai inmemores benefici.
 
 [TR7]
 exulare sinitis sistis pelli pulsum patimini.
@@ -907,14 +907,14 @@ discidia amantem nectier
 turbat uolgum euitat moeros disicit.
 
 [TR7]
-quemadmodum impetum occupemus facere ultro in regem.
+quemadmodum impetum occupemus facere ultrō in regem.
 
 [TR7]
 iam potero. incipiam et si nequit
 ui contedam ut hinc comportem. tecum salaminem aueham.
 
 [IA6]
-persuasit maeror anxitudo error dolor.
+persuasit maeror anxitudō error dolor.
 
 [IA6]
 reprime parumper uim citatum quadrupedum.
@@ -929,12 +929,12 @@ pinnatā caudā nostrum adulat sanguineum.
 tum profusus flamine hibernō gelus
 
 [TR7]
-topper ut fit patris te eiecit ira.
+topper ut fit patris tè eiecit ira.
 
 ANDROMEDA
 
 [IA6]
-quot luna circlos annuo in cursu īnstitit.
+quot luna circlos annuō in cursu īnstitit.
 
 [IA6]
 cum ninxerit caelestium molem mihi.
@@ -967,7 +967,7 @@ ah dubitō [] ah. quid agis. caue ne in turbam tē implices.
 beneficiis granum tostum peperistī et graue
 
 [IA6]
-ut profugiens hostem inimici inuadam in manus
+ut profugiēns hostem inimici inuadam in manus
 
 [TR7]
 atque ita de illis merui ut iure haec nunquam miserarent mala.
@@ -976,7 +976,7 @@ atque ita de illis merui ut iure haec nunquam miserarent mala.
 quoius sit uita indecoris mortem fugere turpem haut conuenit.
 
 [IA6]
-prius quam infans facinus oculi uescuntur tui.
+prius quam īnfāns facinus oculi uescuntur tui.
 
 [TR7]
 ueritus sum arbitros atque utinam memet possim obliscier.
@@ -1279,7 +1279,7 @@ nunc pariter uideor patriis uesci praemiis.
 
 [IA6]
 iussit proficisci exilium quouis gentium
-ne scelere tuo tebani uatescant agri.
+ne scelere tuō tebani uatescant agri.
 
 [IA6]
 uicissitatemque imperitandi tradidit.
@@ -1288,7 +1288,7 @@ uicissitatemque imperitandi tradidit.
 natus uti tute sceptrum poteretur patris.
 
 [TR7]
-egredere exi ecfer te elimina urbe.
+egredere exi ecfer tè elimina urbe.
 
 [IA6]
 ibi fas ibi cunctam antiquam castitudinem.
@@ -1310,7 +1310,7 @@ conuisit ut curentur diligentius.
 
 [IA6]
 incusant ultro. a fortuna opibusque omnibus
-desertum abiectum afflictum ex animo expectorant.
+desertum abiectum afflictum ex animō expectorant.
 
 [TR7]
 quae ego cuncta esse fluxa in mea re crepera comperi.
@@ -1321,8 +1321,8 @@ quae ego cuncta esse fluxa in mea re crepera comperi.
 quid agis. perturbas rem omnem et resupinas soror.
 
 [TR7]
-quanto magis te isti modi esse intellego
-tanto antigona magis me par est tibi consulere et parcere.
+quantō magis tè isti modi esse intellego
+tantō antigona magis mè par est tibi cōnsulere et parcere.
 
 [DA4]
 heus uigiles properate expergite
@@ -1330,29 +1330,29 @@ pectora tarda sopore exsurgite.
 
 [TR7]
 iam iam neque di regunt
-neque profecto deum supremus rex res curat hominibus.
+neque profectō deum supremus rex res curat hominibus.
 
 [TR7]
-ne istunc numero amittas subito oblatum.
+ne istunc numerō amittas subitō oblatum.
 
 [AN4]
-attat nisi me fallit in obitu
+attat nisi mè fallit in obitu
 sonitus.
 
 [EPIGONI]
 
 [TR7]
-o quibus oculis quisquam nostrum poterit illorum optui
+ō quibus oculis quisquam nostrum poterit illorum optui
 uoltus quos iam ab armis anni porcent.
 
 [IA8]
 et nonne argiuos fremere bellum et uelle uim uolgum uidet.
 
 [TR7]
-sapimus animo fruimur anima. sine animo anima est debilis.
+sapimus animō fruimur anima. sine animō anima est debilis.
 
 [AN4]
-sed iam ampilocum huc uadere cerno et
+sed iam ampilocum huc uadere cernō et
 nobis datur bona pausa loquendi
 tempusque in castra reuorti.
 
@@ -1365,29 +1365,29 @@ fateor. sed quor proferre haec pigrem. aut huiius dubitem parcere
 capiti.
 
 [TR7]
-qui nisi genitorem ullo nullum meis dat finem miseriis.
+quī nisi genitorem ùllò nùllum meīs dat finem miseriīs.
 
 [CR4/IA6]
-quid istucc gnata unica est demonassa opsecro
-quod mecum agere expetens timidam e tecto excies.
+quid istucc gnàta ùnica est demonassa opsecrò
+quod mècum agere expetèns timidam e tectō excies.
 
 [CR4]
 loquere proprie ac pauorem hunc meum expectora.
 
 [TR7]
-o quid cesso ire ad eam. em praesto est. camo uide collum grauem.
+ō quid cessō īre ad eam. em praestō est. camō uide collum grauem.
 
 [IA6]
-uiden ut te impietas stimulat nec moderat metus.
+uiden ut tè impietas stimulat nec moderat metus.
 
 [IA6]
 age age amolire amitte. caue uestem attigas.
 
 [TR7/IA8]
-ita imperitus stupiditate erumpit se impos consili.
+ita imperitus stupiditate erumpit sè impos cōnsili.
 
 [TR7]
-maneas. adsis. an te exilio mactem ex terris pelopiis.
+maneas. adsis. an tè exiliō mactem ex terris pelopiis.
 
 [TR7]
 nunc pergam ut suppliciis placāns caelitum aras expleam.
@@ -1398,43 +1398,43 @@ apud abundantem antiquam amnem et rapidas undas inaci
 [ALCMEO]
 
 [TR7]
-ut me repositum inmerentem repentino alacrem nuntio
+ut mè repositum inmerentem repentinō alacrem nuntio
 reddidisti atque excitasti ex luctu in laetitudinem.
 
 [AN4]
-quod di in terram infernam penitus
+quod dì in terram īnfernam penitus
 depressum altis clausere specis
 
 [TR7/IA6]
-qui ducat cum te socerum uiderit
+quì ducat cum tè socerum uiderit
 generibus tantam esse impietatem.
 
 [IA6]
-tanta ut frustrando lactans uanans protrahas
+tanta ut frustrandō lactāns uanāns protrahas
 
 [IA6]
 suos deseruit liberos.
 superstites sunt.
 
 [IA6]
-atque eccos segnis somno et tarditudine.
+atque eccos segnis somnō et tarditudine.
 
 [IA6]
 quia nec uos nec ille impune irrideret meam
 grandaeuitatem.
 
 [IA6]
-postremo amplexa fructum quem di dant. cape.
+postremō amplexa fructum quem di dant. cape.
 
 [ALPESIBOEA]
 
 [AN4]
-o dirumque hostificumque diem. o
+ō dirumque hostificumque diem. o
 uim toruam aspecti atque horribilem.
 
 [IA6]
 etsi est in malis
-deposi|tus ani|mus quae | scibo ex|sinde au|diet
+deposi|tus ani|mus quae | scibō ex|sinde au|diet
 
 [IA6]
 quid tam opscuridicum est tamue inenodabile.
@@ -1443,20 +1443,20 @@ quid tam opscuridicum est tamue inenodabile.
 sed angustitate inclusam ac saxis squalidam.
 
 [AN4]
-ita territa membra animo aegroto
+ita territa membra animō aegroto
 cunctant sufferre laborem.
 
 [TR7]
-at uereor cum te esse alcmeonis fratrem factis dedicas.
+at uereor cum tè esse alcmeonis fratrem factis dedicas.
 
 [IA6/TR7]
 sed tibi cautim est adeundum ad uirum.
 
 [IA6]
-si tui ueretur te progenitoris cedo.
+si tui ueretur tè progenitoris cedo.
 
 [TR7]
-cum ipsa simitu miseritudo:: horum me ulta est liberum
+cum ipsa simitu miseritudo:: horum mè ulta est liberum
 
 [ALCESTIS]
 
@@ -1524,14 +1524,14 @@ facilius.
 | mirifi|cum faci|nus dex|strors(um) or|bem flam|meum |
 | radiā|tum so|lis li|quier | cursū | nouō. |
 
-quoniam quiētī corpus nocturno impetu
+quoniam quiētī corpus nocturnō impetu
 dedī sopore placāns artu languidos
-uisust in somnis pastor ad me adpellere
+uisust in somnis pastor ad mè adpellere
 pecus lanigerum eximia pulchritudine.
 duos cōnsanguineos arietes inde eligi
 praeclarioremque alterum immolare me.
 deinde eius germanum cornibus conitier
-in me arietare eoque ictu me ad casum dari.
+in mè arietare eoque ictu mè ad casum dari.
 exin prostratum terra grauiter saucium
 resupinum in caelō contuerī maximum ac
 mirificum facinus. dextrorsum orbem flammeum
@@ -1562,10 +1562,10 @@ augurātum est [rem rōmānam pūblicam summam fore].
 | augu|rātum (e)st | rem rō|mānam || pūbli|cam sum|mam fo|re. |
 
 [TR7/IA6]
-[qui recte cōnsulat] cōnsul cluat
+[quī rēctē cōnsulat] cōnsul cluat
 
 [TR7]
-tullius qui libertatem ciuibus stabiliuerat
+tullius quī libertatem ciuibus stabiliuerat
 
 [IA6]
 nocte intempestā nostram deuenit domum
@@ -1574,7 +1574,7 @@ nocte intempestā nostram deuenit domum
 
 iuppiter dardanum genuit dardanus troum trous
 assaracum et ilum ganumedemque. capus ex assaraco
-satus. qui statuit pergamum laomedon priamum et
+satus. quī statuit pergamum laomedon priamum et
 capus ancisen edidit.
 
 [AN4]
@@ -1620,7 +1620,7 @@ castra haec uestra est. optumē est is meritus ā nobis
 [?]
 
 [TR7]
-multi iniqui atque īnfideles regnō pauci beneuoli
+multi iniquī atque īnfideles regnō pauci beneuoli
 
 [IA6]
 hinc colomen alte geminis aptum cornibus
@@ -1668,7 +1668,7 @@ quorum genitor fertur esse ops gentibus
 
 [AN4]
 peruade polum splendida mundi
-sidera bis qui continuis sex
+sidera bis quī continuis sex
 sepit spatiis
 
 [TR7]
@@ -1719,11 +1719,11 @@ audax falsifica gnati mater pessimi
 odibilis natura impos excors ecfera
 
 [sot]
-ut dum breuitatem uelint cōnsequi uerborum
+ut dum breuitatem uelint cōnsequī uerborum
 aliter ac sit rellatum redhostiant respōnsum.
 
 [sot]
-sed euripidis qui coros temerius
+sed euripidis quī coros temerius
 in fabulis
 
 [sot]
