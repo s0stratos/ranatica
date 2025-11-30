@@ -5560,8 +5560,8 @@ conciet			4957	3	3
 conciliandī			4958	1	1
 conciliem			4959	1	1
 concilium			4960	2	2
-conciliābulum			4961	1	1 +BUL +PLACE
-conciliābulīs			4962	1	1 +BUL +PLACE
+conciliābulum			4961	1	1 +BULUM +PLACE
+conciliābulīs			4962	1	1 +BULUM +PLACE
 conciliārem			4963	3	3
 conciliārī			4964	1	1
 conciliāte			4965	1	1
@@ -6357,7 +6357,7 @@ crumīnā			5675	7	4 +EQUIPMENT
 ---------------------------------------
 crusculīs			5676	1	1 +r+CRÙS +CULUS +DIMINUTIVE +BODY
 -------------------------------------
-crustulō			5677	1	1
+crustulō			5677	1	1 +ULUS +DIMINUTIVE
 crux			    5678	6	5
 ---------------------------------------
 crābrōnēs			5679	1	1 +ANIMAL
@@ -6489,8 +6489,8 @@ cubantem			5788	2	2 +NT
 cubat			5789	8	6
 cubem			5790	3	3
 cubet			5791	3	3
-cubiculum			5792	3	3 +CUL +PLACE
-cubiculō			5793	2	2 +CUL +PLACE
+cubiculum			5792	3	3 +CULUM +PLACE
+cubiculō			5793	2	2 +CULUM +PLACE
 cubitat			5794	1	1 +FREQUENTATIVE
 cubitem			5795	1	1 +FREQUENTATIVE
 cubitibus			5796	1	1
@@ -7669,8 +7669,8 @@ ______________________________________
 dent			6925	18	13
 dentiant			6926	1	1
 dentibus			6927	8	5 +BODY
-dentifrangibula		6928	1	1 +FRANGERE +COMPOUND +BULA +BODY
-dentifrangibule		6929	1	1 +FRANGERE +COMPOUND +BULA +BODY
+dentifrangibula		6928	1	1 +FRANGERE +COMPOUND +BULUM +BODY
+dentifrangibule		6929	1	1 +FRANGERE +COMPOUND +BULUM +BODY
 dentilegōs			6930	1	1 +LEGERE +COMPOUND +BODY
 dentur			6931	1	1
 dentātum			6932	1	1 +ÀTUS +BODY
@@ -8837,7 +8837,7 @@ dēsidia			8021	1	1
 dēsidiae			8022	2	2
 dēsidiam			8023	1	1
 dēsidiā			8024	2	2
-dēsidiābula			8025	1	1 +BULA
+dēsidiābula			8025	1	1 +BULUM
 dēsidēre			8026	1	1
 dēsiluit			8027	1	1
 dēsiluērunt			8028	1	1
@@ -11355,9 +11355,9 @@ fluvius			10341	1	1 +NATURE
 fluviust		10342	1	1 +ST +NATURE
 fluviō			10343	1	1 +NATURE
 ------------------------------------------
-flābelliferae		10344	1	1 +r+FL +BUL +ELLUS +DIMINUTIVE +r+FERRE +COMPOUND +EQUIPMENT
-flābellulum			10345	1	1 +r+FL +BUL +ELLUS +ULUS +DIMINUTIVE +DIMINUTIVE +EQUIPMENT
-flābellum			10346	2	1 +r+FL +BUL +ELLUS +DIMINUTIVE +EQUIPMENT
+flābelliferae		10344	1	1 +r+FL +BRUM +ELLUS +DIMINUTIVE +r+FERRE +COMPOUND +EQUIPMENT
+flābellulum			10345	1	1 +r+FL +BRUM +ELLUS +ULUS +DIMINUTIVE +DIMINUTIVE +EQUIPMENT
+flābellum			10346	2	1 +r+FL +BRUM +ELLUS +DIMINUTIVE +EQUIPMENT
 ------------------------------------------
 flāgitat			10347	1	1
 flāgitia			10348	10	3 +IA
@@ -16932,7 +16932,7 @@ mendīcitātem			15370	2	2 +TÀT
 mendīculam			15371	1	1 +CULUS +DIMINUTIVE
 mendīcum			15372	3	3
 mendīcus			15373	4	4
-mendīcābula			15374	1	1 +BULA
+mendīcābula			15374	1	1 +BULUM
 mendīcāns			15375	1	1
 mendīcās			15376	1	1
 mendīcē			15377	1	1
@@ -18655,7 +18655,7 @@ ntī			16894	1	1
 nuce					16895	2	2 +PLANT +FOOD
 nucem					16896	2	2 +PLANT +FOOD
 nucibus					16897	1	1 +PLANT +FOOD
-nucifrangibula			16898	1	1 +FRANGERE +COMPOUND +BULA +PLANT +FOOD
+nucifrangibula			16898	1	1 +FRANGERE +COMPOUND +BULUM +PLANT +FOOD
 nuculeum				16899	2	2 +PLANT +FOOD
 nucēs					16900	2	1 +PLANT +FOOD
 ----------------------------------------
@@ -20589,8 +20589,8 @@ paternī			18667	1	1
 paterque			18668	2	2
 paterā			18669	3	1
 ------------------------------------------
-patibulum		18674	1	1 +BUL +EQUIPMENT
-patibulātum		18675	1	1 +BUL +ÀTUS
+patibulum		18674	1	1 +BULUM +EQUIPMENT
+patibulātum		18675	1	1 +BULUM +ÀTUS
 ------------------------------------------
 patiendumst			18676	1	1
 patientissimumst			18677	1	1 +SUPERLATIVE
@@ -22068,8 +22068,6 @@ plausum			19929	7	6 +l+PLAUSUS +r+PLAUD
 plaustrum		19927	1	1 +EQUIPMENT
 plaustrōrum		19928	1	1 +EQUIPMENT
 ---------------------------------------
-plauti			19930	2	2 +NAME
-plautine		19931	1	1 +ÌNUS +NAME
 plautum			19932	2	2 +NAME
 plautus			19933	8	5 +NAME
 plautī			19934	1	1 +NAME
@@ -23593,8 +23591,8 @@ prōsternere			21266	1	1
 prōsternerem		21267	1	1
 prōstibilem			21268	1	1 +BILIS
 prōstibilest		21269	1	1 +BILIS
-prōstibulum			21270	1	1 +BUL
-prōstibulī			21271	1	1 +BUL
+prōstibulum			21270	1	1 +BULUM
+prōstibulī			21271	1	1 +BULUM
 prōstituam			21272	1	1
 prōstituat			21273	1	1
 prōsum			21274	2	2
@@ -23894,9 +23892,9 @@ pyrgopolynīcem			21541	2	1
 pyrrhus			21542	1	1
 pythias			21543	10	1
 pythodicus		21544	1	1
-pābulum			21545	3	2 +BUL
-pābulātum		21546	1	1 +BUL
-pābulō			21547	1	1 +BUL
+pābulum			21545	3	2 +BULUM
+pābulātum		21546	1	1 +BULUM +ÀTUS
+pābulō			21547	1	1 +BULUM
 pāce			21548	6	4
 pācem			21549	13	6
 pācibus			21550	1	1
@@ -26563,7 +26561,7 @@ servīvit			23951	1	1
 servīvī			23952	2	2
 serēnust			23958	1	1
 sescentoplāgō			23959	1	1 +COMPOUND
-sessibulum			23960	1	1 +BUL +EQUIPMENT
+sessibulum			23960	1	1 +BULUM +EQUIPMENT
 sessum			23961	3	2
 seu			23962	16	10
 --------------------------------------------
@@ -27210,7 +27208,7 @@ stabilimenta			24550	1	1 +BILIS +MENTUM
 stabilis			24551	1	1 +BILIS
 stabilius			24552	1	1 +BILIS
 stabilīvit			24553	1	1 +BILIS
-stabulum			24554	7	7 +BUL +PLACE +ARCHITECTURE
+stabulum			24554	7	7 +BULUM +PLACE +ARCHITECTURE
 stacta			24555	1	1
 stactam			24556	1	1
 stactā			24557	1	1
@@ -28999,8 +28997,8 @@ tinnīmentum		26138	1	1 +r+TINN +MENTUM
 tinnīre			26139	2	2 +r+TINN
 tinnīs			26140	2	2 +r+TINN
 --------------------------------------
-tintinnābulum		26141	1	1 +r+TINN +BUL +EQUIPMENT
-tintinnābulīs		26142	1	1 +r+TINN +BUL +EQUIPMENT
+tintinnābulum		26141	1	1 +r+TINN +BULUM +EQUIPMENT
+tintinnābulīs		26142	1	1 +r+TINN +BULUM +EQUIPMENT
 --------------------------------------
 tintinnāculōs		26143	1	1 +r+TINN
 --------------------------------
@@ -30021,9 +30019,9 @@ vectūram			26988	1	1 +URA
 vectūrā			26989	1	1 +URA
 veham			26990	1	1
 vehar			26991	2	2
-vehementer			26992	13	12 +TER
-vehementior			26993	1	1 +COMPARATIVE
-vehemēns			26994	4	4
+vehementer			26992	13	12 +NT +TER
+vehementior			26993	1	1 +NT +COMPARATIVE
+vehemēns			26994	4	4 +NT
 vehere			26995	1	1
 veherēs			26996	1	1
 vehes			26997	1	1
@@ -30036,10 +30034,10 @@ vel			27002	156	24
 ---------------------------------------
 velim			27003	84	25 +l+VELLE
 velint			27004	9	7
-velintne			27005	1	1
+velintne			27005	1	1 +NE
 velis			27006	4	4
 velit			27007	32	18
-velitne			27008	2	1
+velitne			27008	2	1 +NE
 velle			27009	59	21
 vellem			27010	29	15
 vellent			27011	3	3
@@ -30060,7 +30058,7 @@ venderēs			27023	1	1
 venere			27024	4	2
 venerem			27025	21	8
 veneria			27026	3	1
-veneriaeque			27027	1	1
+veneriaeque			27027	1	1 +QUE
 veneris			27028	44	9
 venerium			27029	3	2
 veneriā			27030	1	1
@@ -30075,8 +30073,8 @@ venerēmur			27038	1	1
 venerī			27039	14	6
 venerīn			27040	1	1 +NE
 venerīne			27041	1	1 +NE
-venerīst			27042	1	1
-venerōque			27043	1	1
+venerīst			27042	1	1 +ST
+venerōque			27043	1	1 +QUE
 veni			27044	1	1
 veniam			27045	32	17
 veniant			27046	5	5
@@ -30086,7 +30084,7 @@ venientem			27049	3	3 +NT
 venientīs			27050	1	1 +NT
 veniet			27051	25	14
 venit			27052	59	22
-venitne			27053	1	1
+venitne			27053	1	1 +NE
 veniunt			27054	5	5
 veniā			27055	1	1
 veniāmus			27056	1	1
@@ -30193,9 +30191,9 @@ verberāvistī			27149	1	1
 verberāvit			27150	3	3
 verberēs			27151	4	4
 verberētur			27152	2	1
-verberō			27153	21	10
+verberō			27153	21	10 +ÒN
 verberōn			27154	1	1 +NE
-verberōnem			27155	1	1
+verberōnem			27155	1	1 +ÒN
 verbivēlitātiōnem			27156	1	1 +COMPOUND +TIÒN
 verbum			27157	69	21
 verbumst			27158	3	3
@@ -30307,7 +30305,7 @@ vestem			27257	25	10 +EQUIPMENT +CLOTHES
 vestiam			27259	1	1 +EQUIPMENT +CLOTHES
 vestiant			27260	1	1 +EQUIPMENT +CLOTHES
 vestiat			27261	1	1 +EQUIPMENT +CLOTHES
-vestibulum			27262	1	1 +BUL +ARCHITECTURE
+vestibulum			27262	1	1 +BULUM +ARCHITECTURE
 vestis			27264	4	3 +EQUIPMENT +CLOTHES
 vestiplica			27263	1	1 +r+PLIC +COMPOUND +JOB +EQUIPMENT +CLOTHES
 ------------------------------------------
@@ -30688,7 +30686,7 @@ vocābant			27609	1	1
 vocābat			27610	3	2
 vocābis			27611	1	1
 vocābit			27612	1	1
-vocābula			27613	2	2 +BUL
+vocābula			27613	2	2 +BULUM
 vocābās			27614	1	1
 vocābō			27615	3	3
 vocāre			27616	8	8
