@@ -29054,9 +29054,9 @@ tolūtim			26183	1	1 +TIM +HORSE
 tondēbō			26184	1	1
 tondētur			26185	1	1
 --------------------------------
-tonitrus			26186	1	1
-tonitrū			26187	1	1
-tonuit			26188	2	1
+tonitrus			26186	1	1 +NATURE +SKY
+tonitrū			26187	1	1 +NATURE +SKY
+tonuit			26188	2	1 +NATURE +SKY
 tormentō			26189	1	1 +MENTUM
 torpeō			26190	2	2
 torquem			26191	1	1
@@ -29071,7 +29071,7 @@ totam			26199	1	1
 totidem			26200	3	3 +DEM
 totiēns			26201	3	3
 totus			26202	1	1
-toxicō			26203	2	2
+toxicō			26203	2	2 +ICUS +GREEK
 --------------------------------
 toxile			26204	5	1 +VOCATIVE +NAME
 toxilum			26205	2	1 +NAME
@@ -29140,8 +29140,8 @@ trānsactā			26260	1	1
 ---------------------------------------
 trānsbītat			26261	1	1 +l+TRANSBÌTERE +r+BAET +p+TRANS
 ---------------------------------------
-trānsībō			26262	1	1
-trānsīre			26263	1	1
+trānsībō			26262	1	1 +r+Ì +p+TRANS
+trānsīre			26263	1	1 +r+Ì +p+TRANS
 ---------------------------------------
 trapezita			26264	1	1 +JOB
 ---------------------------------------
@@ -29200,47 +29200,47 @@ trīstitiem			26304	1	1
 -----------------------------------------
 trium			26305	3	3
 ---------------------------------------
-triumphat			26306	1	1
-triumphent			26307	1	1
-triumphum			26308	1	1
-triumphī			26309	1	1
-triumphō			26310	3	3
+triumphat			26306	1	1 +r+TRIUMP +ÀRE +DENOMINAL
+triumphent			26307	1	1 +r+TRIUMP +ÀRE +DENOMINAL
+triumphum			26308	1	1 +r+TRIUMP
+triumphī			26309	1	1 +r+TRIUMP
+triumphō			26310	3	3 +r+TRIUMP
 ---------------------------------------
 trivenēfica			26311	1	1 +COMPOUND
 ---------------------------------------
 triōbolum				26312	5	2 +COMPOUND +MONEY
 triōbolī				26313	2	1 +COMPOUND +MONEY
 ----------------------------------------
-trucibus				26314	1	1
-trucēs			26319	1	1
+trucibus		    26314	1	1 +r+TRUC
+trucēs			    26319	1	1 +r+TRUC
 ---------------------------------------
-truculentus			26315	3	2 +LENTUS
-truculentust		26316	1	1 +LENTUS
-truculentīs			26317	1	1 +LENTUS
-truculentō			26318	1	1 +LENTUS
+truculentus			26315	3	2 +r+TRUC +LENTUS
+truculentust		26316	1	1 +r+TRUC +LENTUS
+truculentīs			26317	1	1 +r+TRUC +LENTUS
+truculentō			26318	1	1 +r+TRUC +LENTUS
 ---------------------------------------
 truncum			26320	1	1 +r+TRUNC +BODY
 ---------------------------------------
-trādam			26321	3	3
-trāde			26322	1	1
-trādere			26323	3	3
-trāderem			26324	1	1
-trāderent			26325	1	1
-trādidit			26326	2	2
-trādidērunt			26327	1	1
-trādidī			26328	1	1
-trādier			26329	2	2
-trādis			26330	1	1
-trādit			26331	1	1
-trādita			26332	1	1
-trāditast			26333	1	1
-trāditus			26334	1	1
-trādunt			26335	1	1
-trādās			26336	2	2
-trādī			26337	2	2
-trādō			26338	2	2
+trādam			26321	3	3 +r+D +p+TRANS
+trāde			26322	1	1 +r+D +p+TRANS
+trādere			26323	3	3 +r+D +p+TRANS
+trāderem		26324	1	1 +r+D +p+TRANS
+trāderent		26325	1	1 +r+D +p+TRANS
+trādidit		26326	2	2 +r+D +p+TRANS
+trādidērunt		26327	1	1 +r+D +p+TRANS
+trādidī			26328	1	1 +r+D +p+TRANS
+trādier			26329	2	2 +r+D +p+TRANS
+trādis			26330	1	1 +r+D +p+TRANS
+trādit			26331	1	1 +r+D +p+TRANS
+trādita			26332	1	1 +r+D +p+TRANS
+trāditast		26333	1	1 +r+D +p+TRANS
+trāditus		26334	1	1 +r+D +p+TRANS
+trādunt			26335	1	1 +r+D +p+TRANS
+trādās			26336	2	2 +r+D +p+TRANS
+trādī			26337	2	2 +r+D +p+TRANS
+trādō			26338	2	2 +r+D +p+TRANS
 ---------------------------------------
-trādūxistī			26339	1	1
+trādūxistī		26339	1	1 +r+DÙC +p+TRANS
 ---------------------------------------
 trāgulam			26340	3	3 +EQUIPMENT +WEAPON
 ---------------------------------------
@@ -29263,7 +29263,7 @@ trānsactam			26350	1	1
 trānscendere			26351	1	1
 ---------------------------------------
 trānscurre			26352	1	1
-trānscurritō			26353	1	1
+trānscurritō		26353	1	1
 trānscurrō			26354	1	1
 trānscursō			26355	1	1 +FREQUENTATIVE
 ---------------------------------------
@@ -29347,7 +29347,7 @@ trīcīs			26413	1	1
 trīduum			26414	16	10 +COMPOUND
 trīduī			26415	1	1 +COMPOUND
 trīduō			26416	4	4 +COMPOUND
-trīgintā			26417	24	10
+trīgintā			26417	24	10 +NUMERAL
 trīma			26418	1	1
 trīna			26419	1	1
 trīs			26420	16	11
@@ -29487,8 +29487,8 @@ turpest							26538	1	1 +ST
 turpilucricupidum			26539	1	1 +COMPOUND +JOKE
 turpiō							26540	6	6
 turpis							26541	1	1
-turpiter							26542	2	2+IDIOM aliquem turpiter dare // ab aliquo turpiter fieri
-turpitūdinem				26543	1	1 +UDIN
+turpiter							26542	2	2 +TER +IDIOM aliquem turpiter dare // ab aliquo turpiter fieri
+turpitūdinem				26543	1	1 +TÙDIN
 turpēs							26544	3	2
 turpī								26545	1	1
 turpīs							26546	1	1
