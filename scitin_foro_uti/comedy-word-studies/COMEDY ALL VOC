@@ -28206,8 +28206,8 @@ sēdem			25439	1	1
 sēderō			25440	1	1
 sēdimus			25441	1	1
 sēditiōnem			25442	3	3 +TIÒN
-sēdulō			25443	1	1
-sēdulō			25444	55	22
+sēdulō			25443	1	1 +SÈ-prep +UNIVERBATION
+sēdulō			25444	55	22 +SÈ-prep +UNIVERBATION
 sēdābit			25445	1	1
 sēdātam			25446	1	1
 sēdātum			25447	3	3
@@ -32515,8 +32515,8 @@ in insidias deuenire
 --------------------------------------
 ōmen			29223	6	5 +MEN
 ōmine			29224	3	3 +MEN
-ōmināre			29225	1	1
-ōminātor			29226	1	1 +TÒR
+ōmināre			29225	1	1 +ÀRE +DENOMINAL
+ōminātor		29226	1	1 +ÀRE +DENOMINAL +TÒR
 ōminī			29227	1	1 +MEN
 -----------------------------------------
 ōra			29228	3	3
@@ -32575,7 +32575,7 @@ in insidias deuenire
 ōrābis			29277	2	2
 ōrābit			29278	1	1
 ōrābō			29279	10	7
-ōrāculō			29280	1	1
+ōrāculō			29280	1	1 +CULUM
 ōrāmus			29281	1	1
 ōrāns			29282	1	1
 ōrāre			29283	21	14
@@ -32583,7 +32583,7 @@ in insidias deuenire
 ōrāret			29285	1	1
 ōrārēs			29286	1	1
 ōrās			29287	18	13
-ōrāsque			29288	2	2
+ōrāsque			29288	2	2 +QUE
 ōrāssis			29289	1	1
 ōrāstī			29290	2	2 +SYNCPERFECT
 ōrāta			29291	2	1
@@ -32684,9 +32684,9 @@ OTIUM
 ūllī			29378	6	4 +POLARITY
 ūllō			29379	11	8 +POLARITY
 ---------------------------------------------
-ūmiditāte		29380	1	1 +TÀT
-ūmōris			29381	1	1
-ūmōrisque		29382	1	1
+ūmiditāte		29380	1	1 +TÀT +DEADJECTIVAL
+ūmōris			29381	1	1 +ÒR
+ūmōrisque		29382	1	1 +ÒR +QUE
 ------------------------------------------
 ūna			    29383	31	19
 ūnae			29384	1	1
