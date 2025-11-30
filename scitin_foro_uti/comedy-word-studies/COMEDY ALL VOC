@@ -21016,7 +21016,7 @@ percutiam			19056	1	1
 percutis			19057	1	1
 percutit			19058	2	2
 ---------------------------------
-percārast			19059	1	1 +p+PER +ST
+percārast			19059	1	1 +p+PER+INTENSITY +ST
 ---------------------------------
 percēpit			19060	1	1 +r+CAP +p+PER
 percēpī			    19061	2	2 +r+CAP +p+PER
@@ -21112,7 +21112,7 @@ perdō			19140	4	2
 perdūcēbam			19141	1	1
 perdūcī			19142	3	2
 ------------------------------------------
-perdūdum			19143	1	1
+perdūdum			19143	1	1 +p+PER+INTENSITY
 ------------------------------------------
 perdūrā			19144	1	1
 perdūrāre			19145	1	1
@@ -21146,9 +21146,9 @@ perendinum			19168	1	1
 ------------------------------------------
 perendiē			19169	3	3
 ------------------------------------------
-perenne			19170	1	1
-perenniserve			19171	1	1 +COMPOUND
-perennitātīque			19172	1	1 +TÀT
+perenne			        19170	1	1 +r+ANN +p+PER+DURATION
+perenniserve			19171	1	1 +r+ANN +p+PER+DURATION +COMPOUND
+perennitātīque			19172	1	1 +r+ANN +p+PER+DURATION +TÀT +QUE
 ------------------------------------------
 pereunda			19173	1	1 +ND
 pereundum			19174	2	2 +ND
@@ -21281,8 +21281,6 @@ perinde			19272	3	3
 perinthiam			19273	1	1 +THEATER +PLAY
 perinthiā			19274	1	1 +THEATER +PLAY
 ------------------------------------------
-periocha			19275	6	6
-------------------------------------------
 periphanem			19276	2	1
 periphanes			19277	1	1
 periphanēm			19278	1	1
@@ -21343,7 +21341,7 @@ perlūcet			19320	1	1
 ------------------------------------------
 permadefēcit			19321	1	1 +COMPOUND
 ------------------------------------------
-permagnī			19322	1	1
+permagnī			19322	1	1 +p+PER+INTENSITY
 ------------------------------------------
 permeditātam			19323	1	1
 ------------------------------------------
