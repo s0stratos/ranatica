@@ -1,22 +1,22 @@
-a			        1	1 +l+AB
-ab			        2	11 +l+AB
-abs			        8	1 +l+AB
+ā			       2806	9 +l+AB +r+AB
+ab			        2	11 +l+AB +r+AB
+abs			        8	1 +l+AB +r+AB
 --------------------------
-abducite			3	1 +p+AB
+abdūcite			3	1 +l+ABDÙCERE +r+DÙC +p+AB
 --------------------------
-abeuntēs			4	1 +p+AB
+abeuntēs			4	1 +l+ABÌRE +r+Ì +p+AB +NT
 --------------------------
-abiecta			    5	1 +p+AB
-abiectum			6	1 +p+AB
+abietem			    7	2 +PLANT
 --------------------------
-abietem			    7	2
+abjecta			    5	1 +p+AB
+abjectum			6	1 +p+AB
 --------------------------
-absentem			9	1 +p+AB
+absentem			9	1 +r+ES +p+AB +NT
 --------------------------
 abstulit			10	1 +p+AB
 abstulì			    11	1 +p+AB
 --------------------------
-absumor			    12	1 +p+AB
+absūmor			    12	1 +r+SÙM +p+AB
 --------------------------
 abundantem			13	1 +r+UND +p+AB +ÀRE +DENOMINAL +NT
 abundāns			14	1 +r+UND +p+AB +ÀRE +DENOMINAL +NT
@@ -36,27 +36,26 @@ accumbat			21	1 +p+AD
 --------------------------
 accēnsum			22	1 +p+AD
 --------------------------
-acerbast			23	1
-acerbum			    24	1
-acerrimum			25	1
+acerbast			23	1 +l+ACERBUS +ST
+acerbum			    24	1 +l+ACERBUS
+ācerrimum			25	1 +SUPERLATIVE
 --------------------------
-aceruōs			    26	1
+acervōs			    26	1
+achillēs			28	1 +NAME +GREEK
+achillī			    29	1 +NAME +GREEK
 --------------------------
-acie			    27	2
+achīvīs			    30	2
 --------------------------
-acilles			    28	1
-acilli			    29	1
+aciē			    27	2
 --------------------------
-aciuis			    30	2
+ācrimōniam			31	1 +MÒNI
+ācris			    32	1
+ācritās			    33	1 +TÀT
+ācritūdinem			34	1 +TÙDIN
 --------------------------
-acrimoniam			31	1
-acris			    32	1
-acritas			    33	1
-acritudinem			34	1
+āctōribus			35	1 +TÒR
 --------------------------
-actoribus			35	1
---------------------------
-actutum			    36	1
+āctūtum			    36	1
 --------------------------
 acuum			    37	1
 --------------------------
@@ -71,7 +70,7 @@ addit			    42	1 +p+AD
 addō			    43	1 +p+AD
 --------------------------
 adeam			    44	1 +p+AD
-adeundum			46	1 +p+AD
+adeundum			46	1 +p+AD +ND
 --------------------------
 aderit			    45	1 +p+AD
 --------------------------
@@ -102,7 +101,7 @@ adsistas			67	1
 adstituerat			68	1
 adsum			69	2
 adsēnsit			70	1
-adtemptàre			71	1
+adtemptāre			71	1
 adtenderis			72	1
 adtendō			73	1
 adtingam			74	1
@@ -128,8 +127,8 @@ aerumna			92	1
 aerumnosum			93	1
 aestimant			94	1
 aestus			95	1
-aetate			96	1
-aeternabilem			97	1
+aetate			96	1 +TÀT
+aeternabilem			97	1 +BILIS
 aeternam			98	1
 --------------------------
 afflictum			99	1
@@ -140,7 +139,7 @@ agamemnonidae			102	1
 age			103	3
 agere			104	1
 agis			105	2
-agitantque			106	1
+agitantque			106	1 +QUE
 agite			107	1
 agitās			108	1
 agitō			109	1
@@ -172,7 +171,7 @@ aliter			132	1
 aliud			133	1
 aliēnās			134	1
 alpesiboea			135	1
-alpheumque			136	1
+alpeumque			136	1 +QUE
 alta			137	2
 alte			138	2
 alter			139	1
@@ -185,7 +184,7 @@ aluus			145	1
 --------------------------
 amantem			146	1
 amburī			147	1
-amentia			148	1
+amentia			148	1 +r+MENT +p+AB +IA
 --------------------------
 amici			149	1
 amicitia		150	1
@@ -216,8 +215,8 @@ ancisen			171	1
 andromeda			172	1
 anguium			173	1
 --------------------------
-angustitate			174	1
-angustitatem		175	1
+angustitate			174	1 +TÀT
+angustitatem		175	1 +TÀT
 --------------------------
 anima			176	2
 animaduertet			177	1 +COMPOUND
@@ -237,10 +236,10 @@ ante			190	2
 antigona			191	2
 antiloce			192	1
 antiquam			193	2
-antiquior			194	1
+antiquior			194	1 +COMPARATIVE
 antistitam			195	1
 anus			196	1
-anxitudō			197	2
+anxitudō			197	2 +TÙDIN
 aperte			198	1
 appellant			199	1
 applicāns			200	1
@@ -272,8 +271,8 @@ argonautae			225	1
 argonautarum			226	1
 argos			227	1
 arguit			228	1
-argūmenta			229	1
-arietare			230	1
+argūmenta			229	1 +MENTUM
+arietare			230	1 +ÀRE +DENOMINAL
 arietes			231	1
 arma			232	1
 armata			233	1
@@ -283,8 +282,8 @@ armipotentī			236	1 +COMPOUND
 armis			237	4
 armorum			238	1
 armum			239	1
-armīsque			240	1
-arquitenēns			241	2 +COMPOUND
+armīsque			240	1 +QUE
+arquitenēns			241	2 +COMPOUND +NT
 arrepta			242	1
 ars			243	1
 artu			244	1
@@ -293,12 +292,12 @@ ascendit			246	1
 aspectabant			247	1
 aspecti			248	1
 aspectī			249	1
-aspernabilem			250	1
+aspernabilem			250	1 +BILIS
 aspexsī			251	1
 aspiciō			252	1
 assaraco			253	1
 assaracum			254	1
-assentiò			255	1
+assentiō			255	1
 astu			256	2
 astuanax			257	1
 at			258	2
@@ -309,12 +308,12 @@ atque			262	33
 atreum			263	1
 atreus			264	2
 --------------------------
-atròcitàtem		265	1
+atrōcitātem		265	1
 atrōcī			266	1
 --------------------------
 attat			267	1
 attigas			268	1
-auctor			269	1
+auctor			269	1 +TÒR
 aucupant			270	1
 aucupo			271	1
 aucupāns			272	1
@@ -349,6 +348,7 @@ autem			300	5
 autumāns			301	1
 auxiliō			302	1
 axe			303	1
+--------------------------
 baccae			304	1
 baebi			305	1
 baltea			306	1
@@ -357,10 +357,10 @@ belli			308	2
 bellum			309	1
 bellō			310	1
 bene			311	4
-benefici			312	1 +COMPOUND
-beneficiis			313	1 +COMPOUND
-beneficiō			314	1 +COMPOUND
-beneuolentiam			315	1 +COMPOUND
+beneficī			312	1 +l+BENE +r+FAC +COMPOUND +IUM
+beneficiīs			313	1 +l+BENE +r+FAC +COMPOUND +IUM
+beneficiō			314	1 +l+BENE +r+FAC +COMPOUND +IUM
+beneuolentiam		315	1 +COMPOUND
 beneuoli			316	1 +COMPOUND
 benigne			317	1
 bicorpor			318	1 +COMPOUND
@@ -371,11 +371,11 @@ bona			322	4
 bonum			323	1
 bonīs			324	1
 bonō			325	1
-breuitatem			326	1
-brutus			327	1
+breuitàtem			326	1 +TÀT
+brūtus			327	1
 cabirum			328	1
 cacinnant			329	1
-caculaeque			330	1
+caculaeque			330	1 +QUE
 cadmogena			331	1 +COMPOUND
 caecum			332	1
 caecā			333	1
@@ -387,18 +387,20 @@ caelum			338	3
 caelō			339	1
 calcās			340	1
 caleti			341	1
-calida			342	1
+calida			342	1 +IDUS
 callemus			343	1
 callent			344	1
 callet			345	1
-calones			346	1
-caludonis			347	1
+cālōnēs			346	1 +JOB
+caludōnis		347	1 +GREEK +GEOGRAPHY
 caluor			348	1
-campi			349	1
+campì			349	1
 campō			350	1
 campōs			351	1
 camō			352	1
-candidō			353	1
+----------------------------
+candidō			353	1 +IDUS
+----------------------------
 canebant			354	1
 canere			355	1
 canora			356	1
@@ -416,15 +418,15 @@ captus			367	1
 capus			368	2
 caput			369	1
 castis			370	1
-castitudinem			371	1
+castitùdinem			371	1 +TÙDIN
 castra			372	3
 casum			373	1
 caudā			374	1
 caue			375	3
-causandī			376	1
+caussandī		376	1 +ND
 caussa			377	3
-caute			378	1
-cautim			379	2
+caute			378	1 +È
+cautim			379	2 +IM
 cedo			380	2
 celebrant			381	2
 celebrescat			382	1
@@ -435,17 +437,18 @@ celsa			386	1
 celsum			387	1
 celsìs			388	1
 cepit			389	1
+-------------------------
 cernas			390	1
 cernere			391	1
-cernimus			392	1
-cerno			393	2
-cernō			394	1
+cernimus		392	1
+cernō			393	3
+------------------------
 certe			395	1
 certō			396	2
 cessō			397	2
 cetera			398	1
 cette			399	1
-ciendo			400	1
+ciendo			400	1 +ND
 cient			401	2
 cineris			402	1
 circlos			403	1
@@ -454,17 +457,17 @@ citatum			405	1
 citius			406	1
 citātis			407	1
 citātī			408	1
-ciues			409	1
-ciuibus			410	1
-ciuium			411	1
+cìuès			409	1
+cìuibus			410	1
+cìuium			411	1
 clade			412	1
-cladesque			413	1
+cladesque			413	1 +QUE
 clam			414	5
 clamaris			415	1
 clamore			416	2
 clangente			417	1
 clarum			418	3
-clarōque			419	1
+clarōque			419	1 +QUE
 classe			420	1
 classibus			421	1
 classis			422	2
@@ -479,7 +482,7 @@ clutaemnestra			430	1
 cogit			431	1
 cognoscar			432	1
 cognouit			433	1
-coinquinari			434	1
+coinquinàrì			434	1
 collibus			435	1
 collum			436	1
 collēs			437	1
@@ -488,13 +491,13 @@ coma			439	1
 comam			440	1
 comitasset			441	1
 comitem			442	1
-commiseràbam			443	1
+commiserābam			443	1
 commorientes			444	1
 commouent			445	1
 commouit			446	1
 commūtātiōnem			447	1
 comparem			448	1
-comparà			449	1
+comparā			449	1
 comparā			450	1
 comparō			451	1
 comperi			452	1
@@ -530,7 +533,7 @@ coniugis			481	1
 coniugium			482	1
 coniungam			483	1
 conlocat			484	1
-contaminari			485	1
+contaminàrì			485	1
 contedam			486	1
 contegi			487	1
 contegit			488	1
@@ -539,26 +542,28 @@ contendās			490	1
 continuis			491	1
 continuō			492	1
 contra			493	3
-contraque			494	1
+contraque			494	1 +QUE
 contrā			495	1
 contuerī			496	1
 contundam			497	1
-contundendum			498	1
+contundendum			498	1 +ND
 conuenit			499	1
 conuisit			500	1
 copia			501	1
-copias			502	1
+copiàs			502	1
 copulas			503	1
-cor			504	3
+corr    		504	3
 cornibus			505	2
 cornutōs			506	1
 corona			507	1
 coronam			508	1
 coros			509	1
+---------------------
 corpore			510	2
-corporum			511	1
-corporāre			512	1
+corporum		511	1
+corporāre		512	1
 corpus			513	4
+-----------------------
 corr			514	1
 crederes			515	1
 crediti			516	1
@@ -568,10 +573,10 @@ crepera			519	2
 crepitu			520	1
 crimine			521	1
 cronia			522	1
-cruciātus			523	1
-crudelitātem			524	1
+cruciātus		523	1
+crudelitātem	524	1
 cruoris			525	1
-crusippus			526	1
+crusippus		526	1
 cruōrem			527	1
 crēdam			528	1
 cuclus			529	2
@@ -580,7 +585,7 @@ cuiatis			531	1
 cuiquam			532	1
 cuius			533	5
 cum			534	27
-cumque			535	1
+cumque			535	1 +QUE
 --------------------------
 cuncta			536	5
 cunctam			537	1
@@ -606,7 +611,7 @@ cōgitant			553	1
 cōnferunt			554	1
 cōnficit			555	1
 cōnficiunt			556	1
-cōnfidentiam			557	1
+cōnfidentiam			557	1 +NT +IA
 cōnfigit			558	1
 cōnfingit			559	1
 cōnfīsus			560	1
@@ -620,7 +625,7 @@ cōnsimilem			567	1
 cōnspectum			568	1
 cōnspectū			569	1
 cōnspexsit			570	1
-cōnspiciendī			571	1
+cōnspiciendī			571	1 +ND
 cōnspirantum			572	1
 cōnstitit			573	1
 cōnsul			574	1
@@ -649,7 +654,7 @@ datus			594	1
 daulide			595	1
 de			596	1
 dea			597	1
-debilis			598	1
+debilis			598	1 +BILIS
 decepit			599	1
 decet			600	2
 decius			601	1
@@ -666,24 +671,24 @@ deipobus			611	1
 delati			612	1
 delatus			613	1
 delica			614	1
-delitor			615	1
+delitor			615	1 +TÒR
 delpinī			616	1
 delubra			617	2
-dementia			618	1
+dementia			618	1 +r+MENT +p+DE +IA
 demis			619	1
 demonassa			620	1
 demum			621	1
 deorum			622	1
 depositus			623	2
 depressum			624	1
-describere			625	1
+describere			625	1 +p+DE
 deserta			626	1
 desertum			627	1
 desertus			628	1
 deseruit			629	1
 deserunt			630	1
 desubito			631	1
-deteriorem			632	1
+deteriorem			632	1 +COMPARATIVE
 detur			633	1
 deuenit			634	1
 deum			635	4
@@ -697,7 +702,7 @@ dia			642	1
 dicabō			643	1
 dicant			644	1
 dice			645	1
-dicendī			646	1
+dicendī			646	1 +ND
 dici			647	1
 dicitur			648	1
 dicta			649	3
@@ -716,11 +721,11 @@ dignitās			661	1
 diligentius			662	1
 diomedes			663	1
 dirimere			664	1
-dirumque			665	1
-discerpat			666	1
-discidia			667	2
-discordiae			668	1
-discrepant			669	1
+dirumque			665	1 +QUE
+discerpat			666	1 +p+DIS
+discidia			667	2 +p+DIS
+discordiae			668	1 +p+DIS
+discrepant			669	1 +p+DIS
 disertim			670	1
 disicit			671	1
 dispar			672	1
@@ -734,7 +739,7 @@ diuisus			679	1
 diuitant			680	1
 diuitiam			681	1
 diuitias			682	1
-diù			683	2
+diū			683	2
 do			684	1
 dolet			685	1
 dolor			686	2
@@ -744,7 +749,7 @@ dolōre			689	1
 dominatur			690	1
 dominis			691	1
 domo			692	1
-domuitione			693	1 +COMPOUND
+domuitione			693	1 +COMPOUND +TIÒN
 domum			694	2
 domus			695	1
 domōs			696	1
@@ -763,14 +768,14 @@ dubitō			706	1
 dubiīs			707	1
 ducat			708	1
 ducite			709	1
-ductabilitate			710	1
-dulcitas			711	1
+ductabilitate			710	1 +DUC +FREQUENTATIVE +BILIS +TÀT
+dulcitas			711	1 +r+DULC +TÀT
 dum			712	5
 duorum			713	1
 duos			714	1
 duum			715	1
 duō			716	1
-dèsiste			717	1
+dēsiste			717	1
 dì			718	1
 dē			719	2
 dēfōrmātus			720	1
@@ -782,8 +787,8 @@ dīxī			725	1
 e			726	3
 ea			727	5
 eam			728	2
-eandem			729	1
-eaque			730	1
+eandem			729	1 +DEM
+eaque			730	1 +QUE
 eccos			731	1
 ecfer			732	1
 ecfera			733	1
@@ -798,8 +803,10 @@ educabant			741	1
 effrenata			742	1
 effugere			743	1
 egerantur			744	1
+--------------------------
 ego			745	12
-egone			746	3
+egone			746	3 +NE
+--------------------------
 egredere			747	1
 egregiam			748	1
 egō			749	1
@@ -815,12 +822,12 @@ em			758	1
 enim			759	1
 enimuerō			760	1
 enitent			761	1
-enoda			762	1
-eoque			763	1
+enoda			762	1 +r+NOD +p+EX +ÀRE +DENOMINAL
+eoque			763	1 +QUE
 eos			764	1
 epigoni			765	1
 epinausimace			766	1
-epulandi			767	1
+epulandi			767	1 +ND
 epularum			768	1
 epulentur			769	1
 epulis			770	1
@@ -841,6 +848,7 @@ errantiae			784	1
 error			785	1
 eruit			786	1
 erumpit			787	1
+--------------------------
 es			788	4
 ess			789	2
 esse			790	18
@@ -857,8 +865,8 @@ euertēns			800	1
 euitat			801	1
 eum			802	2
 eumpsum			803	1
-eundum			804	1
-euntem			805	1
+eundum			804	1 +ND
+euntem			805	1 +NT
 euolat			806	1
 euorti			807	1
 euripidis			808	1
@@ -872,7 +880,7 @@ exanclauimus			813	1
 exangue			814	1
 exaudire			815	1
 excelsa			816	1
-excelsissimeique			817	1
+excelsissimeique			817	1 +SUPERLATIVE +QUE
 excies			818	1
 excita			819	1
 excitarit			820	1
@@ -880,7 +888,7 @@ excitasti			821	1
 excitent			822	1
 exciuit			823	1
 excors			824	1
-execrabile			825	1
+execrabile			825	1 +BILIS
 exemplis			826	1
 exemplō			827	1
 exercent			828	1
@@ -897,25 +905,25 @@ existere			838	1
 exoptō			839	1
 exortus			840	1
 expectabat			841	1
-expectatio			842	1
+expectatio			842	1 +TIÒN
 --------------------------
-expectora			843	1
-expectorant			844	1
+expectora			843	1 +r+PECTUS +p+EX +ÀRE +DENOMINAL
+expectorant			844	1 +r+PECTUS +p+EX +ÀRE +DENOMINAL
 --------------------------
 expedibo			845	1
 expellat			846	1
 expendisse			847	1
 expergite			848	1
 expers			849	1
-expertaque			850	1
+expertaque			850	1 +QUE
 expetant			851	1
-expetèns			852	1
+expetēns			852	1
 expirante			853	1
 expleam			854	1
 explet			855	1
 expleuì			856	1
 explicas			857	1
-explicà			858	1
+explicā			858	1
 exprome			859	1
 expulsum			860	1
 expurgat			861	1
@@ -936,7 +944,7 @@ extispicium			875	1
 extollō			876	1
 extorris			877	1
 extulit			878	1
-exturbàtus			879	1
+exturbātus			879	1
 exuberāns			880	1
 --------------------------
 exul			881	1
@@ -944,10 +952,10 @@ exulare			882	1
 --------------------------
 exurat			883	1
 exuuiās			884	2
-eòdem			885	1
+eōdem			885	1
 eō			886	3
 eōs			887	1
-fabricàtus			888	1
+fabricātus			888	1
 fabulis			889	1
 fac			890	1
 facere			891	2
@@ -964,20 +972,20 @@ factum			901	2
 factīs			902	1
 facul			903	1
 fallaciloquae			904	1 +COMPOUND
-fallendō			905	1
+fallendō			905	1 +ND
 fallit			906	1
 falsifica			907	1 +COMPOUND
 fama			908	2
 famae			909	1
-famulanter			910	1
+famulanter			910	1 +NT +TER
 famuli			911	1
-famulisque			912	1
-famulitas			913	1
-famulōsque			914	1
+famulisque			912	1 +QUE
+famulitas			913	1 +TÀT
+famulōsque			914	1 +QUE
 fas			915	1
 fateor			916	2
 fati			917	1
-fatiscar			918	1
+fatiscar			918	1 +SC
 fatō			919	1
 fatōrum			920	1
 faucibus			921	1
@@ -992,9 +1000,9 @@ feras			929	1
 ferat			930	1
 fere			931	1
 feris			932	1
-ferocem			933	1
-ferorque			934	1
-ferox			935	3
+ferocem			933	1 +ÒC
+ferorque			934	1 +QUE
+ferox			935	3 +ÒC
 ferre			936	2
 ferrum			937	2
 ferrō			938	5
@@ -1002,15 +1010,15 @@ fers			939	1
 fertur			940	1
 feruat			941	1
 feruere			942	1
-feruidō			943	1
+feruidō			943	1 +IDUS
 feruit			944	2
 ferum			945	2
-feròciam			946	1 +OC +IA
-ferōcī			947	1
+ferōciam		946	1 +OC +IA
+ferōcī			947	1 +OC +IA
 fiat			948	1
-fictor			949	1
+fictor			949	1 +TÒR
 fidam			950	1
-fidelitate			951	1 +TÀT
+fidelitate		951	1 +TÀT
 fidem			952	2
 fierī			953	1
 finem			954	4
@@ -1019,13 +1027,15 @@ fissa			956	1
 fit			957	1
 flaccent			958	1
 flamine			959	1
+--------------------------
 flammae			960	1
 flammam			961	2
 flammeo			962	1 +EUS
-flammeum			963	1 +EUS
-flammeus			964	1 +EUS
+flammeum		963	1 +EUS
+flammeus		964	1 +EUS
 flammeō			965	1 +EUS
-flebilis			966	1 +BILIS
+--------------------------
+flebilis		966	1 +BILIS
 fletu			967	1
 fligi			968	1
 fligī			969	1
@@ -1050,19 +1060,19 @@ fortis			987	2
 fortuna			988	3
 fortunae			989	1
 fortunam			990	1
-fortunane			991	1
+fortunane			991	1 +NE
 fortunis			992	1
 fortunīs			993	1
-fragescat			994	1
-fragescunt			995	1
-fragilissimus			996	1
+fragescat			994	1 +SC
+fragescunt			995	1 +SC
+fragilissimus			996	1 +LIS +SUPERLATIVE
 frater			997	1
 fratrem			998	1
 fratris			999	1
 fraxinus			1000	1
-fregistin			1001	1
+fregistin			1001	1 +NE
 fremere			1002	1
-fremibunda			1003	1
+fremibunda			1003	1 +BUNDUS
 fremitibus			1004	1
 fremitu			1005	1
 frena			1006	1
@@ -1070,14 +1080,14 @@ frendās			1007	1
 frenōs			1008	1
 freto			1009	1
 fricantem			1010	1
-frigidas			1011	1
+frigidas			1011	1 +IDUS
 frigit			1012	2
 fructum			1013	1
 fruges			1014	2
 frugis			1015	1
 frugum			1016	1
 fruimur			1017	1
-frustrandō			1018	1
+frustrandō			1018	1 +ND
 fuerat			1019	1
 fuere			1020	1
 fuerim			1021	1
@@ -1102,7 +1112,7 @@ fās			1039	1
 gallicam			1040	1
 ganumedemque			1041	1 +QUE
 gaudent			1042	2
-gelidās			1043	1
+gelidās			1043	1 +IDUS
 gelus			1044	1
 geminei			1045	1
 geminis			1046	1
@@ -1112,8 +1122,8 @@ genere			1049	1
 generibus			1050	1
 generum			1051	1
 generī			1052	1
-genitor			1053	2
-genitorem			1054	2
+genitor			1053	2 +TÒR
+genitorem			1054	2 +TÒR
 gentibus			1055	2
 gentium			1056	1
 gentum			1057	1
@@ -1122,26 +1132,31 @@ genus			1059	3
 gerat			1060	1
 germanum			1061	1
 gestae			1062	2
-glebasque			1063	1
+glebasque			1063	1 +QUE
 gliscunt			1064	1
 globosōs			1065	1
+--------------------------
 gloria			1066	3
 gloriam			1067	1
+--------------------------
+gnobilis			1071	1 +BILIS
+--------------------------
 gnata			1068	1
 gnate			1069	1
 gnati			1070	1
-gnobilis			1071	1
-gnàta			1072	1
+gnāta			1072	1
 gnātam			1073	1
 gnātō			1074	1
+--------------------------
 gracilitudō			1075	1 +TÙDIN
 gradū			1076	2
+--------------------------
 graeciam			1077	1
 graeciā			1078	1
 grai			1079	2
 graium			1080	2
 graiō			1081	1
-grandaeuitatem			1082	1 +COMPOUND
+grandaeuitatem			1082	1 +COMPOUND +TÀT
 grande			1083	1
 granum			1084	1
 gratia			1085	2
@@ -1150,7 +1165,7 @@ graue			1087	3
 grauem			1088	1
 grauidō			1089	1
 grauis			1090	3
-grauitatemque			1091	1
+grauitatemque			1091	1 +TÀT +QUE
 grauiter			1092	1
 gressum			1093	1
 gressus			1094	1
@@ -1178,14 +1193,14 @@ heus			1115	1
 hibernō			1116	1
 hic			1117	8
 hice			1118	1
-hicine			1119	1
+hicine			1119	1 +NE
 hieme			1120	1
 hiemes			1121	2
 hinc			1122	5
 his			1123	1
-hiscere			1124	1
+hiscere			1124	1 +SC
 hoc			1125	3
-hoccinest			1126	1
+hoccinest			1126	1 +NE +ST
 --------------------------
 homine			1127	1
 hominem			1128	1
@@ -1193,51 +1208,64 @@ hominibus			1129	1
 hominum			1130	1
 hominēs			1131	1
 --------------------------
-honestitudō			1132	2
+honestitudō			1132	2 +TÙDIN
 honore			1133	1
 honoris			1134	1
 --------------------------
 horreret			1135	1
-horribilem			1136	1
-horrida			1137	1
+horribilem			1136	1 +BILIS
+horrida			1137	1 +IDUS
 horrifer			1138	1 +COMPOUND
-horrificabili			1139	1 +COMPOUND
+horrificabili			1139	1 +COMPOUND +BILIS
 hortatur			1140	1
+--------------------------
 horum			1141	2
+--------------------------
 hospitem			1142	2
+--------------------------
 hostem			1143	2
 hostibus			1144	1
-hosticò			1145	1
+hosticō			1145	1
 hostifice			1146	1 +COMPOUND
-hostificumque			1147	1 +COMPOUND
+hostificumque			1147	1 +COMPOUND +QUE
 hostili			1148	1
 hostis			1149	2
 hostī			1150	2
-huc			1151	4
+--------------------------
+huc			    1151	4
 huic			1152	3
 huiius			1153	1
 huius			1154	1
-humana			1155	1
-humanam			1156	1
-humilitās			1157	1
-humilī			1158	2
-hunc			1159	1
-hāc			1160	1
-hās			1161	1
-hīc			1162	1
-hīs			1163	1
+--------------------------
+hūmāna			1155	1
+hūmānam			1156	1
+--------------------------
+humilitās		1157	1 +LIS +TÀT
+humilī			1158	2 +LIS
+--------------------------
+hunc			1159	1 +CE
+hāc			    1160	1 +CE
+hās			    1161	1
+hīc			    1162	1 +CE
+hīs			    1163	1
 hōrum			1164	1
-hōs			1165	1
-hūcin			1166	1
+hōs			    1165	1
+hūcin			1166	1  +CE +NE
+--------------------------
 hūmānō			1167	1
+--------------------------
 i			1168	1
+--------------------------
 iacere			1169	1
 iacet			1170	1
+--------------------------
 iam			1171	18
 iamdudum			1172	1
-iamque			1173	1
+iamque			1173	1 +QUE
+--------------------------
 ibi			1174	2
 ibidem			1175	1
+--------------------------
 ictu			1176	1
 ictōs			1177	1
 id			1178	12
@@ -1248,7 +1276,8 @@ ignauauit			1182	1
 ignauō			1183	1
 igni			1184	1
 ignis			1185	1
-ignosce			1186	1
+ignosce			1186	1 +SC
+--------------------------
 ilius			1187	1
 illam			1188	1
 illata			1189	1
@@ -1263,6 +1292,7 @@ illum			1197	3
 illō			1198	2
 illōrum			1199	1
 illōs			1200	1
+--------------------------
 ilum			1201	1
 imbecilla			1202	1
 imbutae			1203	1
@@ -1277,15 +1307,15 @@ immō			1211	1
 impelli			1212	1
 imperat			1213	1
 imperi			1214	1
-imperiost			1215	1
-imperitandi			1216	1
+imperiost			1215	1 +ST
+imperitandi			1216	1 +ND
 imperitus			1217	1
 imperium			1218	1
-impetibilis			1219	1
+impetibilis			1219	1 +BILIS
 impetu			1220	1
 impetum			1221	1
-impietas			1222	1
-impietatem			1223	1
+impietas			1222	1 +TÀT
+impietatem			1223	1 +TÀT
 implices			1224	1
 implorem			1225	1
 imponās			1226	1
@@ -1319,7 +1349,7 @@ indignam			1253	1
 indocti			1254	1
 indomitō			1255	1
 induxit			1256	1
-inenodabile			1257	1
+inenodabile			1257	1 +BILIS
 ingenium			1258	4
 ingeniō			1259	1
 ingenti			1260	1
@@ -1329,9 +1359,9 @@ ingredimini			1263	1
 ingressum			1264	1
 iniectus			1265	1
 inimici			1266	1
-inimiciterque			1267	1
-inimicitiās			1268	1
-inimicòrum			1269	1
+inimiciterque			1267	1 +TER +QUE
+inimicitiās			1268	1 +ÀT
+inimicōrum			1269	1
 inimicō			1270	1
 iniquī			1271	1
 iniustum			1272	1
@@ -1344,7 +1374,7 @@ inmerentem			1278	1
 inmisericordes			1279	1 +COMPOUND
 inmittēns			1280	1
 inquam			1281	1
-inscitia			1282	1
+inscitia			1282	1 +p+IN+NEG +IA
 integrem			1283	1
 intellego			1284	1
 intellegō			1285	1
@@ -1355,8 +1385,8 @@ interfectus			1289	1
 interimes			1290	1
 interisse			1291	1
 --------------------------
-internecionem			1292	1
-internecioni			1293	1
+internecionem			1292	1 +IÒN
+internecioni			1293	1 +IÒN
 --------------------------
 interrumptum			1294	1
 intrō			1295	1
@@ -1380,11 +1410,15 @@ ipsae			1312	1
 ipse			1313	2
 ipsis			1314	1
 ipsus			1315	1
-ira			1316	2
-iracundia			1317	1
-ire			1318	1
-irrideret			1319	1
-irridet			1320	1
+--------------------------
+ira			    1316	2 +r+ÌR +CUNDUS +IA
+iracundia		1317	1 +r+ÌR +CUNDUS +IA
+--------------------------
+ire			    1318	1 +r+Ì
+--------------------------
+irrideret		1319	1 +p+IN +r+RÌD +ÈRE
+irridet			1320	1 +p+IN +r+RÌD +ÈRE
+--------------------------
 is			1321	3
 --------------------------
 istaec			1322	1
@@ -1401,31 +1435,35 @@ ita			1331	8
 itacēnsī			1332	1
 ite			1333	1
 item			1334	1
+--------------------------
 itera			1335	1
 iterantur			1336	1
 itere			1337	1
 iteris			1338	1
 iterum			1339	2
-itidemst			1340	1
+itidemst			1340	1 +ST
 itiner			1341	2
+--------------------------
 iube			1342	2
-iudicium			1343	1
+iudicium			1343	1 +COMPOUND
 iugum			1344	1
 iui			1345	1
 iungent			1346	1
+--------------------------
 iunonis			1347	1
-iuppiter			1348	1
-iurandum			1349	1
+iuppiter			1348	1 +COMPOUND
+--------------------------
+iurandum			1349	1 +ND
 iure			1350	2
 ius			1351	1
 iusserat			1352	1
 iussi			1353	1
 iussit			1354	1
-labascat			1355	1
+labascat			1355	1 +SC
 labitur			1356	1
 labore			1357	1
 laborem			1358	2
-labunda			1359	1
+labunda			1359	1 +BUNDUS
 lacerta			1360	1
 --------------------------
 lacrimis			1361	1
@@ -1438,17 +1476,17 @@ laerta			1366	1
 laertiade			1367	1
 laetarem			1368	1
 laeti			1369	1
-laetitudinem			1370	1
+laetitudinem			1370	1 +TÙDIN
 laeuam			1371	1
 laeuā			1372	1
 lampade			1373	1
 lampades			1374	1
-languentque			1375	1
-languidos			1376	1
+languentque			1375	1 +QUE
+languidos			1376	1 +IDUS
 lanigerum			1377	1
 laomedon			1378	1
 largī			1379	1
-lassitudō			1380	1
+lassitudō			1380	1 +TÙDIN
 lata			1381	1
 late			1382	1
 laterum			1383	1
@@ -1473,7 +1511,7 @@ leuia			1401	1
 liberi			1402	1
 liberorum			1403	1
 liberos			1404	1
-libertatem			1405	1
+libertatem			1405	1 +TÀT
 liberum			1406	3
 limine			1407	1
 limō			1408	1
@@ -1492,7 +1530,7 @@ locō			1420	3
 long			1421	1
 longius			1422	1
 longō			1423	1
-loquendi			1424	1
+loquendi			1424	1 +ND
 loquere			1425	1
 loquī			1426	1
 lucem			1427	1
@@ -1502,11 +1540,11 @@ lucti			1430	2
 luctibus			1431	1
 luctu			1432	1
 luctum			1433	1
-luctuque			1434	1
+luctuque			1434	1 +QUE
 luctus			1435	2
 luctuum			1436	1
 lue			1437	1
-luendis			1438	1
+luendis			1438	1 +ND
 lugubri			1439	1
 lumen			1440	1
 luminis			1441	1
@@ -1524,25 +1562,25 @@ mactābō			1451	1
 --------------------------
 maeror			1452	1
 maestitiam			1453	1
-maestitudo			1454	1
-maestàret			1455	1
+maestitudo			1454	1 +TÙDIN
+maestāret			1455	1
 magis			1456	5
 magnam			1457	1
-magnificissimei			1458	1 +COMPOUND
+magnificissimei			1458	1 +COMPOUND +SUPERLATIVE
 magnis			1459	1
 magnō			1460	1
 maia			1461	1
-maiestatem			1462	1
-maiior			1463	1
-maior			1464	1
-maius			1465	1
+maiestatem			1462	1 +TÀT
+maiior			1463	1 +COMPARATIVE
+maior			1464	1 +COMPARATIVE
+maius			1465	1 +COMPARATIVE
 --------------------------
 mala			1466	2
 male			1467	1
 mali			1468	1
 malis			1469	3
 malitiae			1470	1
-malitiāst			1471	1
+malitiāst			1471	1 +ST
 malo			1472	1
 malum			1473	1
 malunt			1474	1
@@ -1555,7 +1593,8 @@ manibus			1480	2
 manicās			1481	1
 manuleos			1482	1
 manus			1483	3
-manù			1484	1
+manū			1484	1
+--------------------------
 mare			1485	3
 marì			1486	1
 --------------------------
@@ -1567,9 +1606,11 @@ maturare			1490	1
 matutinum			1491	1
 mauis			1492	1
 mauortes			1493	1
+--------------------------
 maxima			1494	1
 maximum			1495	1
 maximē			1496	1
+--------------------------
 me			1497	1
 mea			1498	3
 meam			1499	2
@@ -1590,14 +1631,14 @@ membra			1513	3
 memet			1514	2
 memorant			1515	1
 memoria			1516	1
-memorābilem			1517	1
+memorābilem			1517	1 +BILIS
 memorāns			1518	1
 menalai			1519	1
 meritus			1520	1
 mertare			1521	1
 mertaret			1522	1
 merui			1523	1
-metallique			1524	1
+metallique			1524	1 +QUE
 metuant			1525	1
 metus			1526	2
 meum			1527	4
@@ -1609,16 +1650,20 @@ meōs			1532	1
 micantem			1533	1
 mihi			1534	13
 mineruae			1535	1
-minitabiliter			1536	1
+minitabiliter			1536	1 +BILIS +TER
 minos			1537	1
 minotauros			1538	1 +COMPOUND +GREEK
+--------------------------
 minuam			1539	1
 minuat			1540	1
 minus			1541	1
+--------------------------
 mirificum			1542	1 +COMPOUND
-miriones			1543	1
-miscendum			1544	1
-miscere			1545	1
+miriones			1543	1 +ÒN
+--------------------------
+miscendum		1544	1 +r+MISC +ND
+miscēre			1545	1 +r+MISC
+--------------------------
 miser			1546	3
 miseram			1547	1
 miserare			1548	1
@@ -1627,14 +1672,15 @@ miserebar			1550	1
 miseret			1551	1
 miserias			1552	1
 misericordia			1553	1 +COMPOUND
-miseritudinem			1554	1
-miseritudo			1555	1
-miseritūdine			1556	1
+miseritudinem			1554	1 +TÙDIN
+miseritudo			1555	1 +TÙDIN
+miseritūdine			1556	1 +TÙDIN
 miseriīs			1557	1
 miseror			1558	1
 miserum			1559	1
+--------------------------
 misit			1560	1
-mitiscat			1561	1
+mitiscat			1561	1 +r+MIT +SC
 mitius			1562	1
 mittis			1563	1
 mitī			1564	1
@@ -1657,36 +1703,44 @@ morigerabor			1580	1 +COMPOUND
 moror			1581	1
 mors			1582	1
 morsū			1583	1
+--------------------------
 morte			1584	2
 mortem			1585	2
 mortālibus			1586	1
 mortālis			1587	3
+--------------------------
 motus			1588	1
+--------------------------
 mulciber			1589	1
 mulcārī			1590	1
+--------------------------
 mulier			1591	3
 mulierēs			1592	1
+--------------------------
 multa			1593	3
 multae			1594	1
 multi			1595	2
-multique			1596	1
+multique			1596	1 +QUE
 multis			1597	3
 multārum			1598	1
 multī			1599	1
 multīs			1600	1
 multō			1601	2
+--------------------------
 mundi			1602	1
 mundō			1603	1
 munerauit			1604	1
 murmidones			1605	1
 murtili			1606	1
 musii			1607	1
+--------------------------
 musteria			1608	1
 mustica			1609	1
+--------------------------
 mutam			1610	1
 mutum			1611	1
-mè			1612	8
-mècum			1613	2
+mē			1612	8
+mēcum			1613	2
 mānsues			1614	1
 mānsuetum			1615	1
 māternō			1616	1
@@ -1694,36 +1748,41 @@ mātūtīnum			1617	1
 mē			1618	29
 mēnsam			1619	1
 mī			1620	3
-mīrandum			1621	1
+mīrandum			1621	1 +ND
 mōns			1622	1
 mōre			1623	1
 mōs			1624	1
 mūnitum			1625	1
 --------------------------
 nam			    1626	17
-namque			1627	2
+namque			1627	2 +QUE
 --------------------------
-natis			1628	1
-natos			1629	1
-natum			1630	1
-natura			1631	2
-naturam			1632	1
-natus			1633	1
-nauem			1634	1
-nauis			1635	1
+nātis			1628	1
+nātōs			1629	1
+nātum			1630	1
+nātūra			1631	2
+nātūram			1632	1
+nātus			1633	1
+--------------------------
+nāuem			1634	1
+nāuis			1635	1
 nautae			1636	1
+--------------------------
 ne			    1637	11
 nebulosō		1638	1
 nec			    1639	15
 nectier			1640	1
-nedum			1641	1
-nefas			1642	1
-nefās			1643	1
+--------------------------
+nēdum			1641	1
+---------------------------
+nefās			1643	2
+---------------------------
 nemore			1644	1
 nemorum			1645	1
 nemus			1646	2
+---------------------------
 neoptolemus			1647	1
-neque			1648	30
+neque			1648	30 +QUE
 nequit			1649	1
 neruō			1650	1
 nestorem			1651	1
@@ -1733,13 +1792,15 @@ nigrum			1654	1
 nihil			1655	5
 nimbum			1656	1
 nimia			1657	1
+--------------------------
 ninxerit			1658	1
+--------------------------
 nisi			1659	7
-niuès			1660	1
+niuēs			1660	1
 nixi			1661	2
 --------------------------
 nobilitat			1662	1
-nobilitās			1663	2
+nobilitās			1663	2 +TÀT
 --------------------------
 nobis			1664	2
 nocte			1665	3
@@ -1748,11 +1809,11 @@ nomen			1667	2
 nomine			1668	2
 nominis			1669	1
 nomināns			1670	1
-nonne			1671	1
+nonne			1671	1 +NE
 nosce			1672	1
 nostra			1673	2
 nostram			1674	2
-nostrisque			1675	1
+nostrisque			1675	1 +QUE
 nostrum			1676	2
 nota			1677	1
 noto			1678	1
@@ -1761,31 +1822,32 @@ nouem			1680	1
 nouo			1681	1
 nouos			1682	1
 noxae			1683	1
-noxitudo			1684	1
+noxitudo			1684	1 +TÙDIN
 nuctegresia			1685	1  +COMPOUND +GREEK
 nudus			1686	1
 num			1687	1
-numenque			1688	1
+numenque			1688	1 +QUE
 numerō			1689	2
-numquam			1690	2
-nunc			1691	19
-nunquam			1692	3
+numquam			1690	2 +UNIVERBATION +NEGATIVE
+nunc			1691	19 +CE
+nunquam			1692	3 +UNIVERBATION +NEGATIVE
 nuntio			1693	1
-nàuis			1694	1
-nòlō			1695	1
-nùllum			1696	1
+nāuis			1694	1
+nōlō			1695	1 +UNIVERBATION +NEGATIVE
+nūllum			1696	1 +UNIVERBATION +NEGATIVE
 nē			1697	1
-nēmō			1698	1
+nēmō			1698	1 +UNIVERBATION +NEGATIVE
 nōmen			1699	1
 --------------------------
 nōn			    1700	15
 --------------------------
 nōs			    1701	3
 --------------------------
-nūllum			1702	2
-nūllust			1703	1
+nūllum			1702	2 +UNIVERBATION +NEGATIVE
+nūllust			1703	1 +UNIVERBATION +NEGATIVE +ST
 --------------------------
 nūmen			1704	1
+--------------------------
 o			1705	1
 ob			1706	6
 obduc			1707	1
@@ -1796,46 +1858,54 @@ oblatum			1711	1
 oblectat			1712	1
 obliget			1713	1
 obliscier			1714	1
+---------------------------
 oblitteratās			1715	1
 oblitteretur			1716	1
+---------------------------
 oblitì			1717	2
 obliuiscar			1718	1
 obnoxium			1719	1
 oboediēns			1720	1
+--------------------------
 obscena			1721	1
 obscenō			1722	1
+--------------------------
 obsecro			1723	1
 obstes			1724	1
 obstinātō			1725	1
 obtexi			1726	1
-obtorque			1727	1
+obtorque			1727	1 +QUE
 obtuì			1728	1
 obuertebant			1729	1
 obuiam			1730	2
-occulta			1731	1
-occulte			1732	1
-occultō			1733	1
-occupat			1734	1
-occupemus			1735	1
-occupō			1736	1
-oceanì			1737	1
+--------------------------
+occulta			1731	1 +p+OB
+occulte			1732	1 +p+OB
+occultō			1733	1 +p+OB
+--------------------------
+occupat			1734	1 +p+OB
+occupemus		1735	1 +p+OB
+occupō			1736	1 +p+OB
+--------------------------
+oceanì			1737	1 +NATURE +PLACE
+--------------------------
 ocius			1738	1
 --------------------------
-oculi			1739	1
-oculis			1740	2
+oculi			1739	1 +BODY
+oculis			1740	2 +BODY
 --------------------------
 oderint			1741	1
-odibilis			1742	1
+odibilis		1742	1 +BILIS
 oeneum			1743	1
 oenomaus			1744	1
 oetaeō			1745	1
-offeram			1746	1
-offerre			1747	2
-offerunt			1748	1
+offeram			1746	1 +p+OB
+offerre			1747	2 +p+OB
+offerunt		1748	1 +p+OB
 ogugia			1749	1
 --------------------------
 omine			1750	2
-ominibus			1751	1
+ominibus		1751	1
 --------------------------
 omnem			1752	1
 omnes			1753	2
@@ -1851,17 +1921,17 @@ opere			1761	1
 opertus			1762	1
 operā			1763	1
 opes			1764	2
-opibusque			1765	1
+opibusque		1765	1 +QUE
 opimas			1766	1
-opinione			1767	1
-oppressit			1768	1
-ops			1769	1
+opinione		1767	1 +IÒN
+oppressit		1768	1 +p+OB
+ops			    1769	1
 --------------------------
 opscuridicum			1770	1 +COMPOUND
 --------------------------
-opsecrò			1771	1
-opsecrō			1772	1
-opstinatus			1773	1
+opsecrō			1771	1 +p+OB
+opsecrō			1772	1 +p+OB
+opstinatus		1773	1 +p+OB
 optima			1774	1
 optui			1775	1
 optumē			1776	1
@@ -1869,7 +1939,7 @@ ora			1777	1
 oracla			1778	1
 orbem			1779	1
 orbificor			1780	1 +COMPOUND
-orbitudinis			1781	1
+orbitudinis			1781	1 +TÙDIN
 orbus			1782	1
 ordibor			1783	1
 ordine			1784	2
@@ -1882,11 +1952,14 @@ orion			1790	1
 ornat			1791	1
 ortum			1792	1
 ortus			1793	1
+--------------------------
 os			1794	1
 ossis			1795	1
-ostendabat			1796	1
-ostendam			1797	2
-ostentās			1798	1
+--------------------------
+ostendabat			1796	1 +p+OB
+ostendam			1797	2 +p+OB
+ostentās			1798	1 +p+OB
+--------------------------
 oues			1799	1
 pactō			1800	1
 paenitet			1801	1
@@ -1910,33 +1983,37 @@ paruōs			1818	1
 parēns			1819	1
 pascet			1820	1
 pascunt			1821	1
-passimque			1822	1
-pastor			1823	1
-pastorque			1824	1
+passimque			1822	1 +QUE
+pastor			1823	1 +TÒR
+pastorque			1824	1 +TÒR +QUE
 pater			1825	2
 patera			1826	1
-patescit			1827	1
+patescit			1827	1 +SC
 patimini			1828	1
 patior			1829	1
+--------------------------
 patre			1830	2
-patria			1831	2
-patriae			1832	1
-patriam			1833	2
-patriis			1834	1
+patria			1831	2 +IUS
+patriae			1832	1 +IUS
+patriam			1833	2 +IUS
+patriis			1834	1 +IUS
 patris			1835	6
-patrium			1836	2
-patriō			1837	1
+patrium			1836	2 +IUS
+patriō			1837	1 +IUS
 patrì			1838	1
+--------------------------
 pauci			1839	1
-pauidum			1840	1
+pauidum			1840	1 +IDUS
 paulō			1841	1
-pauore			1842	1
-pauorem			1843	1
+pauore			1842	1 +ÒR
+pauorem			1843	1 +ÒR
 pausa			1844	1
-peccàsse			1845	1
-pectora			1846	3
-pectore			1847	3
-pectus			1848	3
+peccāsse			1845	1
+---------------------------
+pectora			1846	3 +BODY
+pectore			1847	3 +BODY
+pectus			1848	3 +BODY
+---------------------------
 pecua			1849	2
 pecuda			1850	1
 pecudes			1851	1
@@ -1945,10 +2022,12 @@ pelagus			1853	1
 peleus			1854	1
 pelli			1855	1
 pelopia			1856	1
+---------------------------
 pelopidae			1857	1
 pelopidarum			1858	2
 pelopidum			1859	1
 pelopiis			1860	1
+---------------------------
 penitus			1861	2
 pepercerit			1862	1
 peperistī			1863	1
@@ -1956,34 +2035,36 @@ per			1864	7
 peragrant			1865	1
 percipi			1866	1
 perdisci			1867	1
-perdolescit			1868	1
+perdolescit			1868	1 +p+PER +SC
 perduellum			1869	1
-perfacile			1870	1
-perfectīs			1871	1
-perfremunt			1872	1
-pergam			1873	1
-pergamum			1874	1
-pergrandescere			1875	1
-pericli			1876	1
-periclum			1877	1
-perite			1878	1
-periti			1879	1
+perfacile			1870	1 +p+PER+INTENSITY
+perfectīs			1871	1 +p+PER+ASPECTUAL
+perfremunt			1872	1 +p+PER
+pergam			    1873	1
+pergamum			1874	1 +GEOGRAPHY
+pergrandescere		1875	1 +p+PER+ASPECTUAL +SC
+--------------------------
+pericli			1876	1 +r+PERI +CULUM
+periclum		1877	1 +r+PERI +CULUM
+perite			1878	1 +r+PERI
+periti			1879	1 +r+PERI
+--------------------------
 permiti			1880	1
 permitti			1881	1
 pernicī			1882	1
-perperitudine			1883	1
+perperitudine			1883	1 +TÙDIN
 perperōs			1884	1
 --------------------------
-perpropinquam			1885	1
+perpropinquam			1885	1 +p+PER
 --------------------------
 persis			1886	1
 personās			1887	1
-persuasit			1888	1
-persēnsere			1889	1
-pertextae			1890	1
+persuasit			1888	1 +p+PER
+persēnsere			1889	1 +p+PER
+pertextae			1890	1 +p+PER
 --------------------------
-pertinàcem			1891	1
-pertinàciam			1892	1
+pertinācem			1891	1 +p+PER +r+TEN +ÀC
+pertināciam			1892	1 +p+PER +r+TEN +ÀC +IA
 --------------------------
 pertolerarem			1893	1
 pertulī			1894	1
@@ -1991,13 +2072,13 @@ perturbas			1895	1
 peruade			1896	1
 peruasit			1897	1
 --------------------------
-peruicàcem			1898	1
-peruicàciam			1899	1
+peruicācem			1898	1 +p+PER +r+VINC +ÀC
+peruicāciam			1899	1 +p+PER +r+VINC +ÀC +IA
 --------------------------
 peruicō			1900	1
 peruixī			1901	1
-pessimi			1902	1
-pessimum			1903	1
+pessimi			1902	1 +SUPERLATIVE
+pessimum			1903	1 +SUPERLATIVE
 pestem			1904	1
 pete			1905	1
 petere			1906	3
@@ -2018,16 +2099,16 @@ plagās			1920	1
 plautī			1921	1
 plectuntur			1922	1
 plus			1923	2
-plànè			1924	1
+plānē			1924	1
 poematorum			1925	1
-poenasque			1926	1
+poenasque			1926	1 +QUE
 poenis			1927	1
 poenissae			1928	1
 poenix			1929	1
 poenās			1930	2
 poetae			1931	1
 polum			1932	1
-ponderitatem			1933	1
+ponderitatem			1933	1 +TÀT
 pontus			1934	1
 poplitum			1935	1
 popularis			1936	1
@@ -2046,7 +2127,7 @@ possident			1948	1
 possim			1949	1
 possis			1950	1
 postea			1951	1
-postquam			1952	1
+postquam			1952	1 +UNIVERBATION
 postremō			1953	2
 postulare			1954	1
 poteretur			1955	1
@@ -2062,35 +2143,37 @@ potēns			1964	1
 prae			1965	2
 praecisum			1966	1
 praeclara			1967	1
-praeclarioremque			1968	1
+praeclarioremque			1968	1 +COMPARATIVE +QUE
 praedam			1969	1
-praedicant			1970	1
-praedicarent			1971	1
-praedicas			1972	1
-praeditum			1973	1
-praeferuido			1974	1
-praemia			1975	1
+praedicant			1970	1 +p+PRAE
+praedicarent		1971	1 +p+PRAE
+praedicas			1972	1 +p+PRAE
+praeditum			1973	1 +p+PRAE
+praeferuido			1974	1 +p+PRAE
+praemia			    1975	1
 praemiis			1976	1
 praepediar			1977	1
-praeponi			1978	1
-praepotēns			1979	1
-praesente			1980	1
-praesentem			1981	1
-praesto			1982	1
-praestō			1983	2
-praesēns			1984	1
-praeteruecti			1985	1
-praue			1986	1
-prece			1987	1
+praeponi			1978	1 +p+PRAE
+praepotēns			1979	1 +p+PRAE
+praesente			1980	1 +p+PRAE
+praesentem			1981	1 +p+PRAE
+praesto			    1982	1 +p+PRAE
+praestō			    1983	2 +p+PRAE
+praesēns			1984	1 +p+PRAE
+praeteruecti		1985	1
+praue			    1986	1
+prece			    1987	1
 precibus			1988	1
-pretiō			1989	1
-priamum			1990	1
-priamō			1991	1
+pretiō			    1989	1
+--------------------------
+priamum			    1990	1 +NAME
+priamō			    1991	1 +NAME
+--------------------------
 prigasse			1992	1
-prima			1993	1
-primores			1994	1
-principium			1995	1
-principiō			1996	1
+prìma			1993	1
+prìmōrēs			1994	1
+principium			1995	1 +COMPOUND
+principiō			1996	1 +COMPOUND
 pristina			1997	1
 prius			1998	2
 probae			1999	1
@@ -2114,7 +2197,7 @@ profugiēns			2016	1
 profundō			2017	1
 profusus			2018	1
 progeniem			2019	1
-progenitoris			2020	1
+progenitoris			2020	1 +TÒR
 progressus			2021	1
 prohibet			2022	1
 proin			2023	2
@@ -2130,11 +2213,15 @@ properantem			2032	1
 properasse			2033	1
 properate			2034	1
 properiter			2035	1
+--------------------------
 propius			2036	1
 propria			2037	2
 proprie			2038	1
+--------------------------
 propter			2039	1
+--------------------------
 proram			2040	1
+--------------------------
 proripit			2041	1
 proscindant			2042	1
 proscissōs			2043	1
@@ -2143,18 +2230,20 @@ prostratum			2045	1
 protrahas			2046	1
 proueherem			2047	1
 prouocauit			2048	1
+--------------------------
 pruges			2049	1
 prugiae			2050	1
 prugiam			2051	1
-prugàs			2052	1
+prugās			2052	1
+--------------------------
 prīmō			2053	1
 prō			2054	5
 publicam			2055	1
-pudetque			2056	1
+pudetque			2056	1 +QUE
 puer			2057	1
 puerum			2058	1
 pulcerrumē			2059	1
-pulcritudine			2060	1
+pulcritudine			2060	1 +TÙDIN
 pulcrum			2061	1
 pulsum			2062	1
 purpura			2063	1
@@ -2230,14 +2319,14 @@ radit			2132	1
 radiātum			2133	1
 rapere			2134	1
 rapi			2135	1
-rapidas			2136	1
+rapidas			2136	1 +IDUS
 rapior			2137	1
 rapit			2138	1
 rara			2139	1
 --------------------------------
-ratione			2140	1
-ratiō			2141	1
-ratiōnem		2142	1
+ratiōne			2140	1 +TIÒN
+ratiō			2141	1 +TIÒN
+ratiōnem		2142	1 +TIÒN
 ratum			2143	1
 ratus			2144	1
 ---------------------------
@@ -2270,8 +2359,8 @@ regnum			2170	1
 regnō			2171	2
 regunt			2172	1
 reicis			2173	1
-religionem			2174	1
-religiònum			2175	1
+religionem			2174	1 +IÒN
+religiōnum			2175	1 +IÒN
 rellatum			2176	1
 rem			2177	6
 remanet			2178	1
@@ -2313,16 +2402,18 @@ rudus			2213	1
 ruit			2214	1
 rupem			2215	1
 rursus			2216	1
-ruspantes			2217	1
-ruspàrì			2218	1
+--------------------------------
+ruspantes		2217	1 +NT
+ruspārì			2218	1
+--------------------------------
 rutilare			2219	1
-rè			2220	2
-règnum			2221	1
+rē			2220	2
+rēgnum			2221	1
 rē			2222	2
 rēbus			2223	1
 rēctē			2224	1
 rēgiās			2225	1
-rēgnātor			2226	1
+rēgnātor			2226	1 +TÒR
 rēgnō			2227	1
 rēgēs			2228	1
 rērum			2229	1
@@ -2342,40 +2433,48 @@ salaminem			2242	1
 salsis			2243	2
 salsīs			2244	1
 salsō			2245	1
-saltabundi			2246	1
+saltabundi			2246	1 +BUNDUS
 saltī			2247	1
 salum			2248	1
 salutis			2249	1
-sanctam			2250	1
-sancte			2251	1
-sanctescat			2252	1
-sanctitudines			2253	1
-sanctitudō			2254	1
-sanguen			2255	2
-sanguine			2256	5
-sanguineum			2257	1
-sanguinis			2258	1
-sapientaeque			2259	1
-sapientiā			2260	1
-sapimus			2261	1
-sat			2262	2
-satin			2263	2
-satis			2264	3
-satius			2265	1
-satiās			2266	2
+--------------------------
+sanctam			    2250	1 +r+SANCT
+sancte			    2251	1 +r+SANCT
+sanctescat			2252	1 +r+SANCT +SC
+sanctitūdinēs		2253	1 +r+SANCT +TÙDIN
+sanctitūdō			2254	1 +r+SANCT +TÙDIN
+--------------------------
+sanguen			    2255	2 +r+SANGUIN
+sanguine			2256	5 +r+SANGUIN
+sanguineum			2257	1 +r+SANGUIN +EUS
+sanguinis			2258	1 +r+SANGUIN
+--------------------------
+sapientaeque		2259	1 +r+SAPÌ +NT +QUE
+sapientiā			2260	1 +r+SAPÌ +NT +IA +QUE
+sapimus			    2261	1 +r+SAPÌ
+--------------------------
+sat			    2262	2 +r+SAT
+satin			2263	2 +r+SAT +NE
+satis			2264	3 +r+SAT
+satius			2265	1 +r+SAT +COMPARATIVE
+satiās			2266	2 +r+SAT +ÀT
+--------------------------
 satu			2267	1
 saturnō			2268	1
 satus			2269	1
 satū			2270	1
-saucios			2271	1
+--------------------------
+sauciòs			2271	1
 saucium			2272	1
+--------------------------
 saxa			2273	2
-saxeam			2274	1
-saxeum			2275	1
+saxeam			2274	1 +EUS
+saxeum			2275	1 +EUS
 saxi			2276	2
 saxis			2277	2
 saxum			2278	2
 saxō			2279	4
+--------------------------
 scamandriam			2280	1
 scatebra			2281	1
 scelere			2282	1
@@ -2404,7 +2503,7 @@ segnitas			2304	1
 segregent			2305	1
 semela			2306	1
 semper			2307	2
-senentque			2308	1
+senentque			2308	1 +QUE
 senium			2309	2
 sententiae			2310	1
 sepit			2311	1
@@ -2452,10 +2551,10 @@ socordia			2352	1
 socru			2353	1
 sol			2354	1
 solis			2355	2
-solitàtem			2356	1
+solitātem			2356	1
 solitō			2357	1
 somnis			2358	1
-somnò			2359	1
+somnō			2359	1
 somnō			2360	3
 sonando			2361	1
 sonere			2362	1
@@ -2463,7 +2562,7 @@ sonit			2363	1
 sonitu			2364	1
 sonitum			2365	1
 sonitus			2366	1
-sonitusne			2367	1
+sonitusne			2367	1 +NE
 sonore			2368	1
 sopore			2369	2
 sordet			2370	1
@@ -2480,16 +2579,16 @@ specis			2380	1
 specus			2381	1
 spernēns			2382	1
 spes			2383	1
-spesque			2384	1
+spesque			2384	1 +QUE
 spiritu			2385	1
 spirās			2386	1
-splendida			2387	1
-squalidam			2388	1
-squalidō			2389	1
-squalitate			2390	1
+splendida			2387	1 +IDUS
+squalidam			2388	1 +IDUS
+squalidō			2389	1 +IDUS
+squalitate			2390	1 +TÀT
 squamae			2391	1
-squālitūdine			2392	1
-stabilimen			2393	1
+squālitūdine			2392	1 +TÙDIN
+stabilimen			2393	1  +BILIS +MIN
 stabiliuerat			2394	1
 stabulō			2395	1
 stagna			2396	2
@@ -2514,9 +2613,9 @@ striderat			2414	1
 stridor			2415	1
 studet			2416	2
 studiosōs			2417	1
-studiumque			2418	1
-stupiditate			2419	1
-stupidō			2420	1
+studiumque			2418	1 +QUE
+stupiditate			2419	1 +IDUS +TÀT
+stupidō			2420	1 +IDUS
 stuprum			2421	1
 stāns			2422	1
 sua			2423	1
@@ -2558,12 +2657,12 @@ supremam			2458	1
 supremo			2459	1
 supremus			2460	1
 suscitat			2461	1
-suàs			2462	1
+suās			2462	1
 suās			2463	1
 suīs			2464	2
 suō			2465	3
 suōs			2466	1
-sè			2467	1
+sē			2467	1
 sē			2468	3
 sēmine			2469	1
 sēnsimus			2470	1
@@ -2572,13 +2671,13 @@ sēnsī			2472	1
 sī			2473	15
 sīc			2474	1
 sōle			2475	1
-tabificabili			2476	1 +COMPOUND
+tabificabili			2476	1 +COMPOUND +BILIS
 tacite			2477	1
 taeniīs			2478	1
 taeter			2479	1
 taetra			2480	2
 taetre			2481	1
-taetritudō			2482	1
+taetritudō			2482	1 +TÙDIN
 taetrōs			2483	1
 tam			2484	11
 tamen			2485	3
@@ -2588,11 +2687,11 @@ tantalidarum			2488	1
 tantam			2489	2
 tantas			2490	1
 tantum			2491	1
-tantāsque			2492	1
+tantāsque			2492	1 +QUE
 tantō			2493	2
 tarda			2494	1
 tarditie			2495	1
-tarditudine			2496	1
+tarditudine			2496	1 +TÙDIN
 tardus			2497	1
 tardō			2498	1
 taurigenō			2499	1 +COMPOUND
@@ -2608,12 +2707,12 @@ telepus			2508	1
 telis			2509	1
 telīs			2510	1
 temere			2511	2
-temeriter			2512	1
-temerius			2513	1
+temeriter			2512	1 +TER
+temerius			2513	1 +COMPARATIVE
 templa			2514	1
 templum			2515	2
 tempus			2516	1
-tempusque			2517	1
+tempusque			2517	1 +QUE
 tendere			2518	1
 tendunt			2519	1
 tendēns			2520	1
@@ -2626,15 +2725,15 @@ tergō			2526	1
 terminus			2527	1
 terminìs			2528	1
 terra			2529	1
-terraene			2530	1
-terraest			2531	1
+terraene			2530	1 +NE
+terraest			2531	1 +ST
 terram			2532	1
 terrestres			2533	1
 terricula			2534	2
 terris			2535	1
 territa			2536	1
-terràrum			2537	1
-terràs			2538	1
+terrārum			2537	1
+terrās			2538	1
 terrās			2539	1
 tesca			2540	1
 tessala			2541	1
@@ -2645,10 +2744,10 @@ texta			2545	1
 textis			2546	1
 thebais			2547	1
 tibi			2548	13
-timida			2549	1
-timidam			2550	1
-timor			2551	1
-titī			2552	1
+timida			2549	1 +IDUS
+timidam			2550	1 +IDUS
+timor			2551	1 +ÒR
+titī			2552	1 +NAME
 toleraret			2553	1
 tolerāre			2554	1
 tonantibus			2555	1
@@ -2656,7 +2755,7 @@ tonitra			2556	1
 tonitru			2557	1
 topper			2558	1
 tornāns			2559	1
-torridās			2560	1
+torridās			2560	1 +IDUS
 torrus			2561	2
 tortās			2562	1
 toruam			2563	1
@@ -2717,12 +2816,12 @@ tutetur			2617	1
 tutō			2618	1
 tuum			2619	1
 tuō			2620	4
-tè			2621	10
-tù			2622	1
+tē			2621	10
+tū			2622	1
 tālī			2623	1
 tē			2624	20
 tēnsae			2625	1
-tēque			2626	1
+tēque			2626	1 +QUE
 tōnsillās			2627	1
 tōnsu			2628	1
 tū			2629	11
@@ -2742,9 +2841,9 @@ uapore			2642	2
 uapos			2643	1
 uaria			2644	1
 uastam			2645	1
-uastitudine			2646	1
-uastitudō			2647	2
-uastitātis			2648	1
+uastitudine			2646	1 +TÙDIN
+uastitudō			2647	2 +TÙDIN
+uastitātis			2648	1 +TÀT
 uatescant			2649	1
 ubera			2650	1
 ubi			2651	14
@@ -2774,7 +2873,7 @@ uerborum			2674	1
 uereor			2675	2
 ueretur			2676	1
 ueribus			2677	1
-ueritatis			2678	1
+ueritatis			2678	1 +TÀT
 ueritus			2679	1
 uerruncent			2680	2
 uertice			2681	1
@@ -2793,11 +2892,11 @@ uetustam			2693	1
 ui			2694	3
 uia			2695	1
 uicem			2696	1
-uicissitatemque			2697	1
+uicissitatemque			2697	1 +TÀT +QUE
 uictum			2698	1
 uictus			2699	1
 uide			2700	3
-uiden			2701	1
+uiden			2701	1 +NE
 uident			2702	1
 uideor			2703	1
 uiderer			2704	1
@@ -2831,7 +2930,7 @@ uirum			2731	4
 uirī			2732	2
 uis			2733	3
 uiscerum			2734	1
-uisust			2735	1
+uisust			2735	1 +ST
 uita			2736	4
 uitae			2737	1
 uitam			2738	1
@@ -2839,11 +2938,11 @@ uitiō			2739	2
 ulceris			2740	1
 ulixem			2741	1
 ulta			2742	1
-ultor			2743	1
-ultorem			2744	1
+ultor			2743	1 +TÒR
+ultōrem			2744	1 +TÒR
 ultro			2745	1
 ultrō			2746	1
-umidō			2747	1
+umidō			2747	1 +IDUS
 umquam			2748	5
 una			2749	1
 unda			2750	1
@@ -2871,17 +2970,17 @@ uoltus			2771	1
 uoluerentur			2772	1
 uoluier			2773	1
 uoluit			2774	1
-uolò			2775	1
+uolō			2775	1
 uolō			2776	1
 uorax			2777	1
-uorsabili			2778	1
+uorsabili			2778	1 +BILIS
 uorticēs			2779	1
 uos			2780	1
 uox			2781	2
 uram			2782	1
 urbe			2783	2
 urbem			2784	3
-urbēsque			2785	1
+urbēsque			2785	1 +QUE
 usam			2786	1
 usque			2787	1
 usu			2788	1
@@ -2890,7 +2989,7 @@ ut			2790	44
 uti			2791	3
 utinam			2792	3
 utrum			2793	1
-uòs			2794	1
+uōs			2794	1
 uādere			2795	1
 uī			2796	1
 uīnctus			2797	1
@@ -2898,11 +2997,11 @@ uītam			2798	2
 uītā			2799	1
 uōs			2800	3
 ìram			2801	2
-ìràtum			2802	1
-ùllò			2803	1
-ùnica			2804	1
-ùnum			2805	1
-ā			2806	8
+ìrātum			2802	1
+ūllō			2803	1
+ūnica			2804	1
+ūnum			2805	1
+
 ānfracta			2807	1
 ātrā			2808	1
 ātrātus			2809	1
@@ -2917,8 +3016,8 @@ uōs			2800	3
 īnferis			2818	1
 īnfernam			2819	1
 īnferum			2820	1
-īnfideles			2821	1
-īnfideli			2822	1
+īnfideles			2821	1 +LIS
+īnfideli			2822	1 +LIS
 īnfinditur			2823	1
 īnfirmat			2824	1
 īnfitiandō			2825	1

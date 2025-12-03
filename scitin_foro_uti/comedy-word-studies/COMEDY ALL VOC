@@ -42,7 +42,7 @@ abdūcerēs		30	3	2 +l+ABDÙCERE +r+DÙC
 abdūcerēt		31	1	1 +l+ABDÙCERE +r+DÙC
 abdūcet			32	6	4 +l+ABDÙCERE +r+DÙC
 abdūcit			33	4	3 +l+ABDÙCERE +r+DÙC
-abdūcite		34	3	2 +l+ABDÙCERE +r+DÙC
+abdūcite		34	3	2 +l+ABDÙCERE +r+DÙC +p+AB
 abdūcitis		35	1	1 +l+ABDÙCERE +r+DÙC
 abdūcitur		36	1	1 +l+ABDÙCERE +r+DÙC
 abdūcitō		37	1	1 +l+ABDÙCERE +r+DÙC +IMPERATIVE
@@ -214,7 +214,7 @@ abscēdās			172	1	1
 abscīdam			173	1	1
 ------------------------------------
 absente			174	29	15 +NT
-absentem			175	6	4 +NT
+absentem			175	6	4 +r+ES +p+AB +NT
 absentibus			176	2	1 +NT
 absentis			177	1	1 +NT
 absentum			178	1	1 +NT
