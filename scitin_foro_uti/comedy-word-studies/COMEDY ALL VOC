@@ -150,9 +150,9 @@ abiīt			122	3	2 +r+I +p+AB
 --------------------------------
 abjectās			123	1	1
 --------------------------------
-abjūdicābit			124	1	1
-abjūdicābō			125	1	1
-abjūdicāta			126	1	1
+abjūdicābit			124	1	1 +COMPOUND
+abjūdicābō			125	1	1 +COMPOUND
+abjūdicāta			126	1	1 +COMPOUND
 --------------------------------
 abjūrant			127	2	2
 abjūrāssit			128	1	1
@@ -854,7 +854,7 @@ adjuvō			731	1	1
 adjēcerīs			732	1	1
 adjēcisse			733	1	1
 adjēcit			734	1	1
-adjūdicātō			735	1	1 +IMPERATIVE
+adjūdicātō			735	1	1  +COMPOUND +IMPERATIVE
 adjūmentī			736	1	1 +MENTUM
 adjūmentō			737	1	1 +MENTUM
 adjūnctum			738	1	1
@@ -9089,10 +9089,10 @@ dīdier			8263	1	1
 dīgressōs			8264	1	1
 dījunge			8265	2	2
 dījungimur			8266	1	1
-dījūdicat			8267	1	1
-dījūdicent			8268	1	1
-dījūdicā			8269	1	1
-dījūdicāre			8270	1	1
+dījūdicat			8267	1	1 +COMPOUND
+dījūdicent			8268	1	1 +COMPOUND
+dījūdicā			8269	1	1 +COMPOUND
+dījūdicāre			8270	1	1 +COMPOUND
 dījūnxit			8271	1	1
 dīlapidat			8272	1	1
 dīligam			8273	2	2
@@ -15026,26 +15026,27 @@ jējūnumst			13647	1	1 +ST +FOOD +EAT
 jūcundissimōs		13648	1	1 +CUNDUS +SUPERLATIVE
 jūcundumst			13649	1	1 +CUNDUS +ST
 -------------------------------------------
-jūdex			13650	8	5
-jūdicandās			13651	1	1
-jūdicat			13652	1	1
-jūdice			13653	1	1
-jūdicem			13654	8	4
-jūdicet			13655	1	1
-jūdicibus			13656	1	1
-jūdicium			13657	6	5
-jūdiciō			13658	2	1
-jūdicum			13659	1	1
-jūdicāre			13660	3	3
-jūdicās			13661	2	2
-jūdicāsse			13662	1	1 +SYNCPERFECT
-jūdicāstī			13663	1	1 +SYNCPERFECT
-jūdicātam			13664	1	1
-jūdicātum			13665	1	1
-jūdicātus			13666	1	1
-jūdicāvī			13667	1	1
-jūdicēs			13668	6	5
-jūdicō			13669	8	7
+jūdex			13650	8	5 +COMPOUND
+jūdicandās		13651	1	1 +COMPOUND
+jūdicat			13652	1	1 +COMPOUND
+jūdice			13653	1	1 +COMPOUND
+jūdicem			13654	8	4 +COMPOUND
+jūdicet			13655	1	1 +COMPOUND
+jūdicibus		13656	1	1 +COMPOUND
+jūdicium		13657	6	5 +COMPOUND
+jūdiciō			13658	2	1 +COMPOUND
+jūdicum			13659	1	1 +COMPOUND
+jūdicāre		13660	3	3 +COMPOUND
+jūdicās			13661	2	2 +COMPOUND
+jūdicāsse		13662	1	1 +COMPOUND +SYNCPERFECT
+jūdicāstī		13663	1	1 +COMPOUND +SYNCPERFECT
+jūdicātam		13664	1	1 +COMPOUND
+jūdicātum		13665	1	1 +COMPOUND
+jūdicātus		13666	1	1 +COMPOUND
+jūdicāvī		13667	1	1 +COMPOUND
+jūdicēs			13668	6	5 +COMPOUND
+jūdicō			13669	8	7 +COMPOUND
+----------------------------------------
 jūgis			13670	1	1
 ----------------------------------------
 jūmenta			13671	1	1 +MENTUM +ANIMAL
@@ -23292,14 +23293,14 @@ prīmō			20988	27	15
 prīmōribus			20989	3	3
 prīmōrum			20990	1	1
 prīmōs			20991	1	1
-prīnceps			20992	1	1
-prīncipe			20993	1	1
-prīncipem			20994	1	1
-prīncipia			20995	3	2
-prīncipium			20996	12	9
-prīncipiumst			20997	1	1
-prīncipiō			20998	30	17
-prīncipēs			20999	2	1
+prīnceps			20992	1	1 +COMPOUND
+prīncipe			20993	1	1 +COMPOUND
+prīncipem			20994	1	1 +COMPOUND
+prīncipia			20995	3	2 +COMPOUND
+prīncipium			20996	12	9 +COMPOUND
+prīncipiumst		20997	1	1 +COMPOUND
+prīncipiō			20998	30	17 +COMPOUND
+prīncipēs			20999	2	1 +COMPOUND
 prīstinī			21000	1	1
 prīvent			21001	1	1
 prīvābit			21002	1	1
