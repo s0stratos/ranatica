@@ -56,7 +56,7 @@ $prius$ [unde petitur] [*aurum* quā rē sit ~ suom]]
 
 **Remark:** the symbol stacks at the end of segments are a 
 side effect of using paired symbols all the time. some people may find this distracting
-and prefer a general "forward symbol like :" or no symbol at the end of sentence yielding :
+and prefer a general "forward symbol" like `:` or no symbol at the end of sentence yielding :
 
 ```
 [sī quisquamst
