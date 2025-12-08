@@ -1537,16 +1537,19 @@ resupinum in caelō contuerī maximum ac
 mirificum facinus. dextrorsum orbem flammeum
 radiatum solis liquier cursu nouo.
 
+
+
+
 [TR7]
-{rēx} [[quae in uītā ūsurpant hominēs cōgitant cūrant uident]
-[quaeque agunt uigilantēs agitantque] ea sī cui in somnō accidunt]
+{rēx} [[quae in uītā ūsurpant _ hominēs (cōgitant) (cūrant) (uident)]
+[quaeque agunt _ uigilantēs (agitantque)] $ea$ sī cui in somnō accidunt]
 minus mīrandum est. sed dī rem tantam haud temere imprōuīsō offerunt.
-proin uidē [nē [quem tū esse hebetem dēputēs aeque ac pecus]
-is sapientiā mūnitum pectus ēgregiē gerat
-(tēque rēgnō expellat)]. nam [id quod dē sōle ōstentum est tibi]
-populō commūtātiōnem rērum portendit fore
-perpropinquam. haec bene uerruncent populō. nam [quod ad dexterum
-cēpit cursum ab laeuā signum praepotēns] pulcerrumē
+proin uidē [nē [quem tū <esse> hebetem <dēputēs> aeque ac pecus]
+$is$ sapientiā mūnitum pectus ēgregiē gerat
+(tēque rēgnō expellat)]. nam id [quod dē sōle ōstentum est _ tibi]
+populō commūtātiōnem rērum <portendit> fore
+~ perpropinquam. *haec* bene uerruncent _ populō. nam [quod ad dexterum
+cēpit _ cursum ab laeuā signum praepotēns] pulcerrumē
 augurātum est [rem rōmānam pūblicam summam fore].
 
 [TR7]
@@ -1567,14 +1570,22 @@ augurātum est [rem rōmānam pūblicam summam fore].
 [TR7]
 tullius quī libertatem ciuibus stabiliuerat
 
+--------------------------------------
 [IA6]
-nocte intempestā nostram deuenit domum
+nocte in|tempes|tā nos|tram dē|ēnit | domum |
 
+nocte intempestā nostram dēuēnit ~ domum.
+
+nocte intempestā nostram dēuēnit domum
+
+--------------------------------------
 [AENEADAE SIUE DECIUS]
 
-iuppiter dardanum genuit dardanus troum trous
-assaracum et ilum ganumedemque. capus ex assaraco
-satus. quī statuit pergamum laomedon priamum et
+iuppiter dardanum genuit
+dardanus troum
+trous assaracum et ilum ganumedemque.
+capus ex assaraco satus.
+quī statuit pergamum laomedon priamum et
 capus ancisen edidit.
 
 [AN4]
@@ -1586,6 +1597,8 @@ dice summa ubi perduellum est. quorsum aut quibus sē ā partibus
 gliscunt.
 
 [TR7]
+| patri(ō) exem|pl(ō) et mē | dicab(ō) at|qu(e) animam | deuo|r(ō) hosti|bus. |
+
 patriō exemplō et mē dicabō atque animam deuorō hostibus.
 
 [TR7]
