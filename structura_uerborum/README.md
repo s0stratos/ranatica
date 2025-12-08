@@ -323,7 +323,32 @@ as alternative or complement to :
 nihil est.
     [si uultis [quod cacetis]]
 copia est    
+
 ```
+## Common annotation dilemmas
+
+Many annotation dilemmas has to do with the use of ** 
+and its interaction with other annotations.
+
+### Initial verbs with complements
+
+`interdixi tibi de medicis.`
+
+There are three options here.
+
+Option 1: Apply the usual logic to complements.
+`interdixi _ tibi de medicis.`
+
+Option 2: Apply the usual logic to complements and mark the verb as fronted.
+`*interdixi* _ tibi de medicis.`
+
+Option 3: Mark the verb as fronted and lose the usual mark for post-verbal complements
+`*interdixi* tibi de medicis.`
+
+I would recommend the most coherence possible for such cases but there may be cases when 
+marking the verb may feel more or less interesting. Option 1 is interesting to minimize
+interpretation on the part of the annotator. Option 2/3 are interesting to attract 
+attention on that verb placement.
 
 ## Conclusion
 
