@@ -189,9 +189,9 @@ Incidental & Parenthetical Elements can be annotated with {}
 
 This includes:
 * vocatives
-* inquam, inquit
-* comment-like expressions
-* some adverbs
+* incidental verbs or clauses
+* comment-like (parenthetical) clauses interrupting another statement
+* some incidental adverbs
 
 ```
 accepi tuas tris iam epistulas
@@ -204,11 +204,16 @@ negat [phanium esse hanc sibi cognatam] _ demipho
 *hanc* demipho <negat> esse cognatam.
 ```
 
-## Flattening / Non-final esse <>
+## Clause domain "flattening" / Non-post-predicate esse <>
 
-When a subordinating verb feels to blend within its complement it can be annotated <>.
-This actually happens frequently in latin. Lone verbs with a clausal complements blend in rather
-than preceding or following there complement. 
+This annotates cases where the subordinating verb appears in the
+middle of its clausal complement. This actually happens quite
+frequently in latin especially when the subordinating verb has
+no other complement or if its other complements are not at risk
+of being interpreted as part of its complement.
+
+These clauses cannot be annotated with series of brackets because
+elements of the complement are discontinuous. 
 
 `nunc ea propter me <cupis> concidere`
 
@@ -217,12 +222,17 @@ than preceding or following there complement.
 emundis (uendundisque)» «me laetum» lucris afficere]
 ```
 
-Forms of esse which are not sentence final can be annotated with <> as well. same idea as for verbs 
-but with esse and its predicate complement.
+Forms of esse which do not appear finally after their predicative complement
+can be annotated with <> as well.
 
 `*quibus epistulis* <sum> equidem abs te lacessitus [ad rescribendum]
     (sed $idcirco$ <sum> tardior
         [quod non inuenio _ fidelem tabellarium])`
+
+Those cases cannot satisfactorily be annotated with _ or ~ after the 
+head verb. We didn't find useful to use this annotation for 
+non-clausal or non-predicative complement. Those are annotated with _ or ~
+when post-verbal.
 
 ## Fronting / Left periphery **
 
