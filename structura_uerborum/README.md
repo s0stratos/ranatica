@@ -336,19 +336,25 @@ and its interaction with other annotations.
 
 There are three options here.
 
-Option 1: Apply the usual logic to complements.
+**Option 1**: Apply the usual logic to complements.
 `interdixi _ tibi de medicis.`
 
-Option 2: Apply the usual logic to complements and mark the verb as fronted.
+**Option 2**: Apply the usual logic to complements and mark the verb as fronted.
 `*interdixi* _ tibi de medicis.`
 
-Option 3: Mark the verb as fronted and lose the usual mark for post-verbal complements
+**Option 3**: Mark the verb as fronted and lose the usual mark for post-verbal complements
 `*interdixi* tibi de medicis.`
 
 I would recommend the most coherence possible for such cases but there may be cases when 
 marking the verb may feel more or less interesting. Option 1 is interesting to minimize
 interpretation on the part of the annotator. Option 2/3 are interesting to attract 
 attention on that verb placement.
+
+### Initial adverbs
+
+### Initial subordinate clauses
+
+
 
 ## Conclusion
 
