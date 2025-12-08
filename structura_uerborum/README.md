@@ -281,7 +281,7 @@ quiduis $potius$ [quam [quod cogitas]].
 Right periphery elements such as elements appearing after a clause final verb can be annotated with _.
 In fact this is pretty much the criterion I use. Anything after the verb which is not a clause gets the
 _ symbol whatever the exact reason why it is after the verb. This prevents too many assumptions and
-leaves the reader with a clear visual cue this is postverbal/right periphery without forcing interpretation
+leaves the reader with a clear visual cue this is post-verbal/right periphery without forcing interpretation
 as linked to topic/focus or other things.
 
 ```
