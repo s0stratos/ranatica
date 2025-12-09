@@ -1633,7 +1633,7 @@ castra haec uestra est. optumē est is meritus ā nobis
 [?]
 
 [TR7]
-multi iniquī atque īnfideles regnō pauci beneuoli
+multi inīquī atque īnfideles regnō pauci beneuolì
 
 [IA6]
 hinc colomen alte geminis aptum cornibus
@@ -1653,7 +1653,7 @@ mustica ad dextram uada
 praeteruecti
 
 [IA6]
-uideō sepulcra dua duorum corporum
+uideō sepulcra dua duōrum corporum
 
 [IA6/TR7]
 mulier una duum uirum
@@ -1691,7 +1691,7 @@ citius orion patescit
 multa inuenta expertaque ex hoc sunt bona
 
 [IA6]
-cum uirginali mundō clam patre
+cum uirginālī mundō clam patre
 
 [TR7]
 nam neque pretiō neque amicitia neque ui impelli neque prece
@@ -1799,7 +1799,7 @@ maia nemus retinēns grauidō concepit in aluo.
 calones famulisque metallique caculaeque
 
 [hex]
-maxima pars graium saturnō et maximē atenae
+maxuma pars graium saturnō et maximē atenae
 cōnficiunt sacra quae cronia esse iterantur ab illis.
 cumque diem celebrant per agrōs urbēsque per omnēs
 exercent epulis laeti famulōsque procurant
