@@ -1,3 +1,33 @@
+[-150 ; -126]
+[Roma]
+hoc est factum monumentum
+maarcō caiciliō
+hospes grātum est quom apud
+meās restitistei seedēs
+bene rem gerās et ualeās
+dormiās sine qūrā
+
+[-150 ; -131]
+[Bruttium et Lucania]
+[forum popilii]
+uiam fēcei ab rēgiō ad capuam et
+in eā uiā ponteis omneis miliāriōs
+tabelāriōsque poseiuei hince sunt
+nouceriam meilia li capuam XXCIIII
+murānum LXXIIII cōsentiam CXXIII
+ualentiam CLXXX ad fretum ad
+statuam CCXXXI rēgium CCXXXVII
+sumā af capuā rēgium meilia CCCXXI
+et eidem praetor in
+siciliā fugiteiuōs italicōrum
+conquaeisīuei redideique
+hominēs DCCCCXVII eidemque
+prīmus fēcei ut de agrō pōplicō
+arātōribus cēderent paastōrēs
+forum aedīsque pōplicās heic fēcei
+
+
+
 [-123 ; -112]
 [Roma]
 [m(anius) acilius([?]) 3]
@@ -131,25 +161,7 @@ animum uostrum indoucere oportet item uōs populō
 rōmānō purgātōs fore
 
 
-[-150 ; -131]
-prouinz: Bruttium et lucania
-Regio iii         ort: polla
-forum popilii
-uiam fēcei ab rēgiō ad capuam et
-in eā uiā ponteis omneis miliarios
-tabelariosque poseiuei hince sunt
-nouceriam meilia li capuam XXCIIII
-muranum LXXIIII cosentiam CXXIII
-ualentiam CLXXX ad fretum ad
-statuam CCXXXI Regium CCXXXVII
-sum(m)a af capua Regium meilia CCCXXI
-et eidem praetor in
-siciliā fugiteiuōs italicorum
-conquaeisiuei redideique
-hominēs dccccXuii eidemque
-prīmus fēcei ut de agrō pōplicō
-aratoribus cēderent paastōrēs
-forum aedīsque pōplicās heic fēcei
+
 
 
 
@@ -9764,15 +9776,8 @@ oct(obres)
 s(epulta[?]) a(nte) d(iem) Xii K(alendas) oc(tobres)
 saluia pos<t=i>um[a]
 
-a(
-[-150 ; -126]
-[Roma]
-hoc est factum monumentum
-maarco caicilio
-hospes gratum est quom apud
-meas restitistei seedes
-bene rem geras et ualeas
-dormias sine qura
+
+
 
 
 [-150 ; -100]
