@@ -744,7 +744,7 @@ tetinerit nunc prodat ultorem.
 matrem ob iure factum incilās genitorem iniustum adprobas.
 
 [TR7]
-omnēs gaudent facere recte. malī pigrent.
+omnēs gaudent facere rèctè. malī pigrent.
 
 [AEGISTUS]
 
@@ -841,7 +841,7 @@ terrārum ānfracta reuisam.
 tù autem quod quaerō aps tē enoda et quī sis explicā
 
 [TR7]
-ei mihi. ut etiam haec aerumna mihi luctum addit luctibus.
+ei mihi. ut etiam haec aerumna mihi lūctum addit luctibus.
 
 []
 quid miserare.

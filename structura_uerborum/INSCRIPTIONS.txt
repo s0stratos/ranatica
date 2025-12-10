@@ -3842,13 +3842,6 @@ prouinz: hispania citerior         ort: ualencia
 ualentia
 m(arcus) ca()
 
-
-[-350 ; -326]
-prouinz: hispania citerior         ort: uillaricos
-Baria
-"gR"
-
-
 [-350 ; -301]
 prouinz: italia         ort: [?]
 se cedues
@@ -3890,7 +3883,7 @@ Regio i         ort: aluignano
 cubulteria
 l(ucius) macil[ius 1 f(ilius)]
 l(ucius) fahidi[us 1 f(ilius)]
-aediles d[uouiri]
+aedīlēs d[uouiri]
 dedere aere
 moltatic[io]
 luco lania

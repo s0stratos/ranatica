@@ -22,7 +22,7 @@ bonum agricolam (bonumque colōnum)
 [amplissimē laudārī] exīstimābātur _ [quī ita laudābātur].
 
 mercātōrem autem strēnuum (studiōsumque) rei quaerundae exīstimō
-(uerum {ut supra dīxī} perīculōsum (et calamitōsum))
+(uerum {ut suprā dīxī} perīculōsum (et calamitōsum))
 
 at ex agricolīs et uirī fortissimī (et mīlitēs strēnuissimī) gignuntur
 (maxumēque pius quaestus (stabilissimusque) cōnsequitur)
@@ -39,7 +39,7 @@ $sic$ in animō habētō
     (nēue opera tua parcās [uīsere])
     (et nē satis habeās [semel circum īre])]
 
-    [quotiēns ibis]
+    [quotiēns ībis]
 $totiēns$ magis placēbit [quod bonum erit].
 
     [*uīcīnī* quō pactō niteant]
@@ -56,7 +56,7 @@ nē calamitōsum siet.
 
 solō bonō sua uirtūte ualeat.
 
-[sī poteris] sub radice montis siet (in meridiem spectet) (locō salubri)
+[sī poteris] sub radice montis siet (in merīdiem spectet) (locō salubri)
 
 operariorum copia siet (bonumque aquarium) (oppidum ualidum prope siet)
 
@@ -71,7 +71,7 @@ cauētō [aliēnam disciplinam temere contemnās].
 
 dē dominō bonō colōnō (bonōque aedificatōre) melius emetur.
 
-    [*ad uīllam* cum uenies]
+    [*ad uīllam* cum ueniēs]
 uidētō [uasa torcula (et dolia multa)nē sient]
 
     [ubi nōn erunt]
@@ -83,10 +83,10 @@ locō bonō siet.
 uidētō quam minimī īnstrūmentī sumptuosusque ager nē siet.
 
 scītō idem agrum quod hominem, 
-quamuīs quaestuōsus siet, sī sumptuōsus erit, relinqui nōn multum. 
+quamuīs quaestuōsus siet, sī sūmptuōsus erit, relinquī nōn multum. 
 
 praedium quod prīmum siet, sī me rogābis, sīc dicam:
-dē omnibus agris optimōque locō iugera agri centum, 
+dē omnibus agris optimōque locō iugera agrī centum, 
 uīnea est prima, uel sī uīnō multō est; 
 secundō locō hortus irriguus; 
 tertiō salictum; 
@@ -111,7 +111,7 @@ roget quid operis siet factum,
 quid restet, 
 satin temperi opera sient cōnfecta, 
 possitne quae relicua sient cōnficere, 
-et quid factum uini, frumentī aliarumque rērum omnium.
+et quid factum uīnī, frūmentī aliārumque rērum omnium.
 
 ubi ea cognōuit,
 ratiōnem inīre oportet operārum, diērum.
@@ -120,7 +120,7 @@ dīcit uīlicus sēdulō sē fēcisse,
 seruōs nōn ualuisse,
 tempestātēs malās fuisse,
 seruōs aufūgisse,
-opus publicum effēcisse.
+opus pūblicum effēcisse.
 
 ubi eās aliāsque caussās multās dīxit,
 ad ratiōnem operum operārumque uīlicum reuoca.
@@ -130,17 +130,17 @@ quae opera per imbrem fierī potuerint:
 dolia lauārī,
 picārī,
 uīllam purgārī,
-frumentum trānsferrī,
+frūmentum trānsferrī,
 stercus forās efferrī,
 stercilinum fierī, 
-semen purgarī,
-fūnes sarcirī,
+sēmen purgarī,
+fūnes sarcīrī,
 nouōs fierī,
 centones, cuculiones familiam oportuisse sibi sarcire;
  
 per feriās potuisse
-fossās ueteres tergerī,
-uiam publicam munīrī,
+fossās ueterēs tergerī,
+uiam pūblicam munīrī,
 uepres recidī,
 hortum fodīrī,
 pratum purgārī,
@@ -150,26 +150,26 @@ expīnsi far,
 munditiās fierī;
 
 cum seruī aegrotārint,
-cibāria tanta dari nōn oportuisse.
+cibāria tanta darī nōn oportuisse.
 
 ubi cognita aequō animō sint 
-quae relicua opera sint, curare utī perficiantur. 
+quae relicua opera sint, cūrāre utī perficiantur. 
 
 rationes putāre argentāriam, frumentariam,
 pabulī caussa quae parāta sunt;
 
-ratiōnem uināriam, oleāriam, quid uenierit, quid exactum siet,
+ratiōnem uīnāriam, oleāriam, quid uenierit, quid exactum siet,
 quid relicuum siet,
-quid siet quod ueneat; 
+quid siet quod uēneat; 
 quae satis accipiunda sint, 
 satis accipiantur; 
 
 relicua quae sint, utī compareant.
 
 sī quid desit in annum, utī paretur; 
-quae supersint, ut ueneant; 
+quae supersint, ut uēneant; 
 quae opus sint locātō, locentur;
-quae opera fierī uelit et quae locari uelit, 
+quae opera fierī uelit et quae locārī uelit, 
 utī imperet et ea scripta relinquat. 
 
 pecus cōnsideret.
@@ -178,7 +178,7 @@ auctiōnem utī faciat:
 uēndat oleum, sī pretium habeat;
 uīnum, frūmentum quod supersit, uēndat;
 boues uetulōs, armenta delicula, oues deliculas,
-lanam, pelles, plostrum uetus, ferramenta uetera, 
+lānam, pelles, plostrum uetus, ferramenta uetera, 
 seruum senem, seruum morbosum, 
 et sī quid aliut supersit, uēndat.
 
@@ -344,10 +344,10 @@ ungulae cūrentur;
 scabiem pecori et iumentis cauetō:
 id ex fame et sī impluit fierī solet. 
 
-opera omnia mature cōnficiās face; 
+opera omnia màtùrè cōnficiās face; 
 
 nam res rustica sīc est: 
-sī unam rem serō feceris, omnia opera sero facies.
+sī ùnam rem sèrō fèceris, omnia opera sèrò facies.
 
 stramenta sī deerunt, 
 frondem iligneam legitō;
@@ -389,7 +389,7 @@ erit.
 circum coronās et circum uiās ulmōs seritō et
 partim populos, utī frondem ouibus et bubus habeas, et 
 materia, sī quō opus sit, parata erit. sicubi in iis 
-locis ripae aut locus umectus erit, ibi cacumina populorum seritō et harundinetum. id hoc modo serito: bipalio uortito; ibi oculōs arundinis pedes ternōs alium
+locis ripae aut locus umectus erit, ibi cacumina populorum seritō et harundinetum. id hòc modò serito: bipalio uortito; ibi oculōs arundinis pedes ternōs alium
 ab alio serito; ibi corrudam serito, unde aspargi fiant. 
 nam conuenit harundinetum cum corruda, eō quia
 foditur et incenditur et umbram per tempus habet. salicem graecam circum harundinetum serito, utī siet quī 
@@ -431,8 +431,8 @@ habēbit, ita paret itaque cōnserat, utī quam sollertissimum habeat.
 
 -------------------------------------------------------
 
-  salicta locīs aquōsīs, umectīs, umbrōsīs, propter
-amnes, ibi serī oportet: et id uidētō utī aut domu
+  salicta locīs aquōsīs, ūmectīs, umbrōsīs, propter
+amnès, ibi serī oportet: et id uidētō utī aut domu
 opus siet aut ut uēndere possit. prata irrigiua, sī 
 aquam habēbis, id potissimum facitō; sī aquam nōn habēbis, sicca quam plurima facitō. hoc est praedium quod, ubi uis, expedit facere. 
 XII quō modo oletum agri iugera CCXL īnstruere oporteat 
@@ -788,10 +788,9 @@ postmeridie sine uento austro: tum erit tempestiua,
 cum semen suum maturum erit, cauētōque per rorem trahās aut doles. quae materies semen nōn habebit, cum glubet, tempestiua erit. uento austro cauētō nē
 quam materiem neue uīnum tractes nisi necessario.
 
-XXXV uineae arboresque ut mature putentur 
-  uineās arboresque mature face incipiās putare. 
+uineās arboresque màtùrè face incipiās putare.
 uites propages per sulcos: susum uorsum, quod eius 
-facere poteris, uitis facitō utī ducas. arbores hoc modo 
+facere poteris, uitis facitō utī ducas. arbores hòc modò 
 putentur: rami utī diuaricentur, quōs relinques, et utī
 rēctē caedantur et nē nimium crebri relinquantur.
 uites
@@ -808,7 +807,7 @@ ueteres.
 deligato rēctē, flexuosa utī nē sit, susum uorsum semper 
 ducito, quod eius poteris. uinariōs custodesque rēctē
 relinquito. quam altissimam uiniam facitō alligatoque 
-rēctē, dum nē nimium cōnstringas. hoc modo eam cūrato: capita uitium per sementim ablaqueato;
+rēctē, dum nē nimium cōnstringas. hòc modò eam cūrato: capita uitium per sementim ablaqueato;
 uineam
 putatam circumfodito, arare incipito; ultro citroque 
 sulcōs perpetuōs ducito. uites tenerās quam prīmum propagato, sīc occato, ueteres quam minimum castrato;
@@ -935,7 +934,7 @@ poterit, stercus in stercilinum egerito: bubile, ouile,
 cohortem, uīllam bene purgato; dolia plumbo uincitō
 uel materie quernea uirisicca alligato. sī bene sarseris 
 aut bene alligaueris et in rimās medicamentum indideris
-beneque picaueris, quoduis dolium uinarium facere poteris. medicamentum in dolium hoc modo facitō: cerae 
+beneque picaueris, quoduis dolium uinarium facere poteris. medicamentum in dolium hòc modò facitō: cerae 
 p. I, resinae p. I, sulpuris p. ::. 
 haec omnia in
 calicem nouum indito: eō additō gypsum contritum, utī
@@ -1020,7 +1019,7 @@ fodere oportet. eodem modo ceterās arbores procūrato.
 -------------------------------------------------------
 
   oliuetum diebus XV ante aequinoctium uernum incipitō putare: ex eō diē dies XLV rēctē putabis. id
-hoc modo putato: quā locus rēctē ferax erit, quae 
+hòc modò putato: quā locus rēctē ferax erit, quae 
 arida erunt et sī quid uentus interfregerit, ea omnia eximito: quī locus ferax nōn erit, id plus conciditō aratoque.
 bene ēnodatō stirpesque leuis facitō.
 
@@ -1122,7 +1121,7 @@ qualum incidito
 ex ima parte perpetuum: siue calix erit, conquassato; 
 cum eō qualo aut calice in scrobem ponito. eodem 
 modo uitem facitō: eam annō post praeciditō seritoque
-cum qualo. hoc modo quod genus uis propagabis.
+cum qualo. hòc modò quod genus uis propagabis.
 LXII dē fenisicia 
 
 fenum, ubi tempus erit, 
@@ -1133,7 +1132,7 @@ per uer, cum arabunt,
 ante quam ocinum des, quod edint, bubus.
 
 LXIII bubus pabulum 
-  bubus pabulum hoc modo parari darique oportet.
+  bubus pabulum hòc modò parari darique oportet.
 ubi sementim patraueris, glandem parari legique oportet et in aquam conici. inde semodiōs singulis bubus in
 dies dari oportet et, sī nōn laborabunt, pascantur satius 
 erit, aut modium uinaceorum, quōs in dolium condideris. interdiu pascito: noctu feni p. XXV uni boui
@@ -1295,8 +1294,8 @@ LXXXIII panem depsticium sīc facitō
   panem depsticium sīc facitō: manus mortariumque 
 bene lauato. farinam in mortarium indito, aquae paulatim additō subigitoque pulchre:
 ubi bene subegeris, defingitō coquitoque sub testu.
-LXXXIV libum hoc modo facitō 
-  libum hoc modo facitō: casei p. II bene disterat in 
+LXXXIV libum hòc modò facitō 
+  libum hòc modò facitō: casei p. II bene disterat in 
 mortario: ubi bene distriuerit, farinae siligineae libram 
 aut, sī uoles tenerius esse, selibram similaginis solum 
 eodem inditō permiscētōque cum caseo bene; ouum
@@ -1370,7 +1369,7 @@ statim ibidem cōnsumito. mulier ad eam rem diuinam nē
 adsit neue uideat quō modo fiat. hoc uotum in annōs 
 singulos, sī uoles, licebit uouere.
 
-  sauillum hoc modo facitō: farinae selibram, casei 
+  sauillum hòc modò facitō: farinae selibram, casei 
 p. IIs una commiscētō quasi libum, mellis p. :- et
 ouum unum. catinum fictile oleō unguito. ubi omnia 
 bene commiscueris, in catinum indito: catinum testo 
@@ -1720,7 +1719,7 @@ arare incipito: ea loca prīmum arato, quae rudecta
 harenosaque erunt; posteā, utī quaeque grauissima 
 et aquosissima erunt, ita postremo arato. 
 CXLI dapem quō modo faciās 
-  dapem hoc modo fierī oportet: ioui dapali culignam
+  dapem hòc modò fierī oportet: ioui dapali culignam
 uini quantam uis polluceto; eō diē feriae bubus et bubulcis et quī dapem facient. cum pollucere oportebit, sīc 
 facies: iupiter dapalis, quod tibi fierī oportet in domo 
 familia mea culignam uini dapi, eius rei ergo macte
@@ -1749,7 +1748,7 @@ poteris, utī radices bene habeant.
 item uitem in quasillum propagato terraque bene operito: annō post 
 praecidito, cum qualo serito. 
 CXLIII * 
-  prius quam messim facies, porcam praecidaneam hoc modo fierī oportet: cereri porca praecidanea 
+  prius quam messim facies, porcam praecidaneam hòc modò fierī oportet: cereri porca praecidanea 
 porco femina, prius quam hasce fruges condantur, far, 
 triticum, hordeum, fabam, semen rapicium. thure, uino 
 iano ioui iunoni praefato, prius quam porcum feminam immolabis. 
@@ -1892,7 +1891,7 @@ quae condi solent et siluatica, haec omnia quotannis
 diligenter utī condita habeat. farinam bonam et far 
 suptile sciat facere. 
 CLIII lex oleae legendae 
-  oleam legendam hoc modo locare oportet: oleam
+  oleam legendam hòc modò locare oportet: oleam
 cogitō rēctē omnem arbitratu domini, aut quem custodem
 fecerit, aut cui olea uenierit. oleam nē stringitō neue
 uerberato iniussu domini aut custodis: sī aduersus ea quis 
@@ -1964,7 +1963,7 @@ inlutōs et faecem relinquito. locus uinis ad k. octob.
 primās dabitur; sī nōn ante ea exportaueris, dominus 
 uino quid uolet faciet. cetera lex, quae oleae pendenti. 
 CLVII lex uino in doliis 
-  uīnum in doliis hoc modo uenire oportet: uini in
+  uīnum in doliis hòc modò uenire oportet: uini in
 culleōs sing. quadragenae et singulae urnae dabuntur.
 quod neque aceat neque muceat, id dabitur. in triduo 
 proxumo uiri boni arbitratu degustato; sī nōn ita fecerit, uīnum pro degustato erit. 
@@ -2232,8 +2231,8 @@ brassicam, sucum exprimito, in aurem intro tepidum
 īnstillato: citō tē intelleges plus audire. depetigini
 psoricae brassicam opponito: sanam faciet et ulcus nōn 
 faciet.
-CLXVI aluum deicere hoc modo oportet 
-  aluum deicere hoc modo oportet: sī uis bene
+CLXVI aluum deicere hòc modò oportet 
+  aluum deicere hòc modò oportet: sī uis bene
 tibi deicere, sume tibi ollam, additō eō aquae sextariōs sex
 et eō additō ungulam dē perna; sī ungulam nōn
 habēbis, additō dē perna frustum p. s quam minime
@@ -2263,7 +2262,7 @@ motās uaeta daries dardares astataries dissunapiter,
 usque dum coeant. ferrum īnsuper iactato. ubi coierint 
 et altera alteram tetigerint, id manu prehende et dextera sinistra praecide; 
 ad luxum aut ad fracturam alliga: sanum fiet. 
-et tamen cotidie cantato †et luxato† uel hoc modo: 
+et tamen cotidie cantato †et luxato† uel hòc modò: 
 huat haut haut istasis tarsis ardannabou dannaustra. 
 CLXIX asparagus quō modo seratur 
   asparagus quō modo seratur. locum subigere oportet bene, 
