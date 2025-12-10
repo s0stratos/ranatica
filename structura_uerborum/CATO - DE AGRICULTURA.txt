@@ -86,16 +86,16 @@ scītō idem agrum quod hominem,
 quamuīs quaestuōsus siet, sī sūmptuōsus erit, relinquī nōn multum. 
 
 praedium quod prīmum siet, sī me rogābis, sīc dicam:
-dē omnibus agrīs optimōque locō iugera agrī centum, 
+dē omnibus agrīs optimōque locō iūgera agrī centum, 
 uīnea est prima, uel sī uīnō multō est; 
-secundō locō hortus irriguus; 
+secundō locō hortus irriguos; 
 tertiō salictum; 
-quārtō oletum; 
-quīntō pratum;
-sextō campus frumentarius;
+quārtō olētum; 
+quīntō prātum;
+sextō campus frūmentārius;
 septumō silua caedua;
 octāuō arbustum;
-nonō glandāria silua.
+nōnō glandāria silua.
 
 pater familiās, 
 ubi ad uīllam uenit,
@@ -329,56 +329,58 @@ bouēs maximā dīligentiā cūrātōs habētō.
 bubulcis opsequitō partim,
 quō libentius boues cūrent.
 
-aratra uomeresque facitō utī bonōs habeās.
+arātra uōmerēsque facitō utī bonōs habeās.
 
 terram cariōsam
-caue nē ares, 
+caue nē arēs, 
 nēue plostrum nēue pecus impellas:
 
 sī ita nōn cāueris, quō impuleris,
-triennii frūctum amittes.
+triennii frūctum āmittēs.
 
-pecori et būbus dīligenter substernatur, 
+pecorī et būbus dīligenter substernatur, 
 ungulae cūrentur;
 
-scabiem pecori et iumentis cauetō:
+scabiem pecorī et iūmentīs cauētō:
 id ex fame et sī impluit fierī solet. 
 
-opera omnia màtùrè cōnficiās face; 
+opera omnia mātūrē cōnficiās face; 
 
-nam res rustica sīc est: 
-sī ùnam rem sèrō fèceris, omnia opera sèrò facies.
+nam res rūstica sīc est: 
+sī ūnam rem sērō fēceris, omnia opera sērō faciēs.
 
-stramenta sī deerunt, 
+strāmenta sī deerunt, 
 frondem iligneam legitō;
 
-eam substernitō ouibus bubusque.
+eam substernitō ouibus būbusque.
 
-stercilinum magnum stude ut habeas; 
+stercilinum magnum studē ut habeās; 
 
 stercus sēdulō cōnserua: 
-cum exportabis, purgātō et comminuito:
-per autumnum euehitō.
+cum exportābis, purgātō et comminuito:
+per autumnum ēuehitō.
 
-circum oleās autumnitate ablaqueātō et stercus additō.
+circum oleās autumnitāte ablaqueātō et stercus additō.
 
-frondem populneam, ulmeam, querneam caeditō per tempus:
-eam conditō nōn peraridam, pabulum ouibus.
+frondem pōpulneam, ulmeam, querneam caeditō per tempus:
+eam conditō nōn peraridam, pābulum ouibus.
 
 item faenum cordum, 
-sicilimenta dē pratō, ea arida condito.
+sicilimenta dē prātō, ea ārida conditō.
 
 post imbrem autumnum, 
-rapinam, pabulum lupinumque serito.
+rāpīnam, pābulum lupīnumque seritō.
 
 -------------------------------------------------------
 
-  agrum quibus locis cōnseras, sīc obseruari oportet.
-ubi ager crassus et laetus est sine arbōribus, eum agrum
-frumentarium esse oportet. idem ager, sī nebulosus est, 
-rapa, raphanos, milium, panicum, id maxime seri oportet. 
-in agro crasso et caldo oleam conditiuam, radium maiorem, sallentinam, orcitem, poseam, sergianam, colminianam, albicerem: quam earum in iis locis 
-optimam dicent esse, eam maxime serito. hoc genus 
+  agrum quibus locis cōnserās, sīc obseruārī oportet.
+ubi ager crassus et laetus est sine arboribus, eum agrum
+frūmentārium esse oportet. idem ager, sī nebulōsus est, 
+rāpa, rapanōs, milium, pānicum, id maximē serī oportet. 
+in agrō crassō et calidō oleam conditīuam, radium maiiōrem, 
+sallentinam, orcitem, poseam, sergianam, colminianam, 
+albicerem: quam earum in iis locis 
+optimam dicent esse, eam maximē serito. hoc genus 
 oleae in XXV aut in XXX pedes cōnseritō.
 ager
 oleto cōnserundo, quī in uentum fauonium spectabit 
