@@ -1,4 +1,5 @@
 
+
 [PELOPIDARUM CUCLUS]
 
 [OENOMAUS]
@@ -30,8 +31,8 @@ atque ea coniectūrā augurō
 | eg(o) ut es|s(em) adfi|nis {tibi} | nōn ut | t(ē) extin|guerem |
 | tuam peti|i gnā|tam. nume|rō t(e) ex|purgat | timor. |
 
-ego [ut essem adfinis tibi (nōn ut tē extinguerem)]
-tuam petii ~ gnātam. numerō tē expurgat _ timor.
+ego [ut essem adfīnis tibi (nōn ut tē extinguerem)]
+tuam petiī ~ gnātam. numerō tē expūrgat _ timor.
 
 [TR7]
 horrida honestitudō europae prīncipium prīmō ex locō
@@ -113,7 +114,7 @@ numquam istam imminuam cūram īnfitiandō tibi.
 
 [IA6]
 probae etsī in segetem sunt dēteriōrem datae
-fruges tamen ipsae suāpte nātūrā ēnitent.
+frūgēs tamen ipsae suāpte nātūrā ēnitent.
 
 [IA6]
 uigilandum est semper. multae īnsidiae sunt bonīs.
@@ -138,7 +139,7 @@ ueribus lacerta.
 
 [AN4]
 sed quid. tonitru turbia toruo
-concussa repente aequora caeli
+concussa repente aequora caelī
 sēnsimus sonore...
 
 [IA4/IA8]

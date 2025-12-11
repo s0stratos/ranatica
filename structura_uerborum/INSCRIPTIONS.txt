@@ -1,3 +1,15 @@
+[-130 ; -101]
+[Roma]
+adulēscēns tametsī properās
+hic te saxsolus rogat ut sē
+aspiciās deinde ut quod scrīptust
+legās hīc sunt ossa maecī lūcī sita
+pilōtimī uasculārī hoc ego uolēba(m)
+nescius ni essēs uale posteris ius
+l(uci) maecī l(uci) l(iberti) salui manchae(!) {manchae} f(ilii)
+Rutilia Rutiliae l(iberta) hetaera
+maecia l(uci) f(ilia)
+
 [-150 ; -126]
 [Roma]
 hoc est factum monumentum
@@ -9900,17 +9912,7 @@ galba co(n)s(ul)
 ped(es) quadr(atos) XXX
 
 
-[-130 ; -101]
-[Roma]
-adulescens tametsi properas
-hic te saxsolus rogat ut se
-a(d)spicias deinde ut quod scriptu(m) (e)st
-legas hic sunt ossa maeci luci sita
-p(h)ilotimi uasculari(i) hoc ego uoleba(m)
-nescius ni esses uale posteris ius
-l(uci) maeci l(uci) l(iberti) salui manchae(!) {manchae} f(ilii)
-Rutilia Rutiliae l(iberta) hethaera
-maecia l(uci) f(ilia)
+
 
 
 [-580 ; -551]
