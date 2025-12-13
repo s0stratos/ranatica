@@ -56,14 +56,23 @@ nē calamitōsum siet.
 
 solō bonō sua uirtūte ualeat.
 
-[sī poteris] sub rādīce montis siet (in merīdiem spectet) (locō salubri)
+- [sī poteris] 
+sub rādīce montis siet 
+(in merīdiem spectet) 
+(locō salūbrī)
 
-operariōrum cōpia siet (bonumque aquarium) (oppidum ualidum prope siet)
+- operariōrum cōpia siet 
+(bonumque aquārium) 
 
-[sī aut mare aut amnis [quā nāuēs ambulant] (aut uia bona (celebrisque))]
+- oppidum ualidum prope siet
 
-(siet in hīs agrīs [quī nōn saepe dominōs mūtant
-(quī in hīs agrīs praedia uendiderint [quōs pigeat [uēndidisse]])])
+- siet aut mare 
+(aut amnis [quā nāuēs ambulant]) 
+(aut uia bona (celebrisque)
+
+- siet in hīs agrīs 
+[quī nōn saepe dominōs mūtant
+(quī in hīs agrīs praedia uēndiderint [quōs pigeat [uēndidisse]])]
 
 (utī bene aedificātum siet)
 
@@ -386,7 +395,7 @@ ager
 olētō cōnserundō, quī in uentum fauonium spectābit 
 et sōlī ostentus erit: alius bonus nullus erit. quī ager 
 frigidior et macrior erit, ibi oleam licinianam seri oportet; sin in locō crassō aut calidō seueris, hostus nequam
-erit et ferundō arbor peribit et muscus ruber molestus 
+erit et ferundō arbor perībit et muscus ruber molestus 
 erit. 
 circum coronās et circum uiās ulmōs seritō et
 partim populōs, utī frondem ouibus et bubus habeas, et 
