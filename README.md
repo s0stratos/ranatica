@@ -66,5 +66,5 @@ Help people enjoy and act Roman comedy
 Pull requests are welcomed and will be reviewed.
 
 You can also get in touch with us through the website and discord:
-https://s0stratos.github.io/#latinitas
-https://discord.gg/cnFhEyVZFe
+- https://s0stratos.github.io/#latinitas
+- https://discord.gg/cnFhEyVZFe
