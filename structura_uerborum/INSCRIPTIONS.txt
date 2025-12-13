@@ -1,3 +1,17 @@
+[-170 ; -131]
+[latium et campania]
+[sora]
+m(arcus) p(ublius) uertuleieis
+c(ai) f(ili) quod re suā difeidens asper(a)
+afleicta parens timēns
+heic uouit uōtō hōc
+solūtō decumā factā
+poloucta leibereis lubentēs dōnu danunt
+hercolei maxsume
+meretō semol tē
+orant sē uōtī crēbrō
+condemnes
+
 [-130 ; -101]
 [Roma]
 adulēscēns tametsī properās
@@ -6,7 +20,7 @@ aspiciās deinde ut quod scrīptust
 legās hīc sunt ossa maecī lūcī sita
 pilōtimī uasculārī hoc ego uolēba(m)
 nescius ni essēs uale posteris ius
-l(uci) maecī l(uci) l(iberti) salui manchae(!) {manchae} f(ilii)
+l(uci) maecī l(uci) l(iberti) salui manchae manchae f(ili)
 Rutilia Rutiliae l(iberta) hetaera
 maecia l(uci) f(ilia)
 
@@ -21,11 +35,11 @@ dormiās sine qūrā
 
 [-150 ; -131]
 [Bruttium et Lucania]
-[forum popilii]
+[forum popili]
 uiam fēcei ab rēgiō ad capuam et
 in eā uiā ponteis omneis miliāriōs
 tabelāriōsque poseiuei hince sunt
-nouceriam meilia li capuam XXCIIII
+nouceriam meilia II capuam XXCIIII
 murānum LXXIIII cōsentiam CXXIII
 ualentiam CLXXX ad fretum ad
 statuam CCXXXI rēgium CCXXXVII
@@ -8065,7 +8079,7 @@ c(ai) f(ilii) quod re sua difeidens asper(a)
 afleicta parens timens
 heic uouit uoto hoc
 soluto [d]ecuma facta
-poloucta leibereis luben/tes donu(m) danunt
+poloucta leibereis lubentes donu(m) danunt
 hercolei maxsume
 mereto semol te
 orant se uoti crebro
