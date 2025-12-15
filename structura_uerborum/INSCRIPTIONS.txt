@@ -1,3 +1,16 @@
+[-145 ; -145]
+[Roma]
+l(ucius) mummi(us) l(uci) f(ilius) cos(ul) duct(u)
+auspiciō imperiōque
+eius achaia capt(a) corintō
+deleto rōmam redieit
+triumphans ob hāsce
+res bene gestās quod
+in bellō uouerat
+hanc aedem et signu(m)
+herculis uictoris
+imperātor dedicat
+
 
 [-117 ; -117]
 [Liguria]
@@ -280,9 +293,9 @@ rōmānō purgātōs fore
 
 
 
-[[-142 ; -134]
-[achaia delos
-ortygia]
+[-142 ; -134]
+[Achaia]
+[Ortugia]
 p(ublius) uenoleius c(ai) l(ibertus)
 n(umerius) nimmius no(ui) f(ilius)
 l(ucius) uiseius c(ai) l(ibertus)
@@ -700,13 +713,6 @@ ueic[i 3]
 [Ariminum]
 fig(u)los
 
-
-[-300 ; -200]
-[Aemilia]
-[Ariminum]
-dio]nysios
-[colop]onios
-epoi(ei)
 
 
 [-268 ; -201]
@@ -1198,19 +1204,19 @@ co(n)s(ulibus)
 
 
 [-129 ; -126]
-[Asia]         ort: alan
+[Asia]
 m(anius) aquillius m(ani) f(ilius)
 co(n)s(ul) ccXiu
 
 [-130 ; -101]
-[Asia]         ort: Bergama
+[Asia]
 pergamum
 [p(ublius) cornelius p(ubli) f(ilius) scipio] nasica l[egatus pontifex maximus]
 [Πόπλιος Κορνήλιος Σκιπίων] Ποπλίου Νασίκας πρεσβευτὴς ἀρ[χιερεὺς μέγιστος]
 
 
 [-129 ; -126]
-[Asia]         ort: dikili
+[Asia]
 m(anius) aquillius m(ani) f(ilius)
 co(n)s(ul)
 cXXXi
@@ -1220,14 +1226,14 @@ cXXXi
 
 
 [-129 ; -126]
-[Asia]         ort: harmanli
+[Asia]
 [m(anius) aquill]ius m(ani) f(ilius)
 [co(n)]s(ul)
 [ccXXi]
 
 
 [-129 ; -126]
-[Asia]         ort: Kazikbaglari
+[Asia]
 Elaea
 m(anius) aquil[lius] m(ani) f(ilius)
 co(n)s(ul)
@@ -1235,7 +1241,7 @@ iii
 
 
 [-129 ; -126]
-[Asia]         ort: Yarasli
+[Asia]
 takina
 m(anius) aquillius m(ani) f(ilius)
 co(n)s(ul)
@@ -1243,7 +1249,7 @@ ccXXiii
 
 
 [-129 ; -126]
-[Asia]         ort: Yarisli
+[Asia]
 m(anius) aquillius [m(ani) f(ilius)]
 co(n)s(ul)
 ccXXuii
@@ -1435,7 +1441,7 @@ h]oc monimentu(m)
 
 
 [-129 ; -126]
-[Cappadocia]         ort: aziziye
+[Cappadocia]
 ilica
 m(anius) aquillius m(ani) f(ilius)
 co(n)s(ul)
@@ -2409,7 +2415,7 @@ pisas [Xl([?])]
 [Etruria]
 m(anius) acilius c(ai) f(ilius)
 co(n)s(ul)
-scarp(h)ea cepi(t)
+scarpea cepi(t)
 
 
 [-155 ; -152]
@@ -3341,7 +3347,7 @@ c(aius) paccius cn(aei) f(ilius) m(arcus) mamius m(ani) f(ilius)
 c(aius) sattius c(ai) f(ilius) p(ublius) statius p(ubli) f(ilius) stag(on)
 heisce magistrei iouei optumo
 maxsumo murum coniungendum
-et peilam faciendam et t(h)eatrum
+et peilam faciendam et teatrum
 terra exaggerandum locauere
 eidemque luudos fecere
 ser(uio) sulpicio ser(ui) f(ilio) galba co(n)s(ule)
@@ -3441,7 +3447,7 @@ coerauerunt [3]
 [-112 ; -111]
 [Latium et Campania]
 [Casilinum]
-]cius p(ubli) l(ibertus) p(h)ilom[usus]
+]cius p(ubli) l(ibertus) pilom[usus]
 [3]ethius ser(ui) l(ibertus)
 [-3 de]cumius m(arci) l(ibertus)
 [-3 ho]rdioni(us) l(uci) c(ai) l(ibertus)
@@ -3575,7 +3581,7 @@ m(arcus) fisius c(ai) f(ilius)
 m(arcus) Baibilius l(uci) f(ilius)
 m(arcus) uiuius p(ubli) [f(ilius)]
 ti(berius) hostiu[s 3]
-heisce mag(istri)] cu[ne]os duos in t(h)eatro faciendos coi[rauer(e)]
+heisce mag(istri)] cu[ne]os duos in teatro faciendos coi[rauer(e)]
 [
 
 [-170 ; -151]
@@ -6436,7 +6442,7 @@ cu<p=d>ido uenos ui(c)toria ris(u[?])
 [Praeneste]
 marsuas
 painsscos
-uibis p(h)ilip(p)us cailauit
+uibis pilip(p)us cailauit
 
 
 [-370 ; -331]
@@ -6490,7 +6496,7 @@ fortuna
 [-270 ; -231]
 [Latium et Campania]
 [Praeneste]
-micos ac(h)il(l)es uictoria herc(u)les diesp(a)t(e)r iuno mircurios iacor aiax ueritus
+micos acil(l)es uictoria herc(u)les diesp(a)t(e)r iuno mircurios iacor aiax ueritus
 
 
 [-340 ; -311]
@@ -7437,7 +7443,7 @@ cupido asta
 
 [-146 ; -101]
 [Roma]
-l(ibro) ui p(agina) l(oco) XXiiX
+l(ibro) ui p(agina) l(oco) XXIIX
 
 
 
@@ -7451,9 +7457,9 @@ de[d]et
 
 [-211 ; -211]
 [Roma]
-l(ibro) i XXiiX
+l(ibro) i XXIIX
 c
-Xiii
+XIIi
 
 
 [-230 ; -200]
@@ -7571,7 +7577,7 @@ rog(auit) exscep[tum cauitumue est nei diuideretur 3 IIIuir dedit reddidit adsig
 [ager locus quei sup]ra screiptus est quod eius agrei locei post [h(anc)] l(egem) rog(atum) publicum populei Romanei erit extra eum ag[rum locum quei publico usui destinatus est uel publice locatus est in eo agro quei uolet pascito 3] neiue is ager compascuos esto neiue quis in eo agro agrum o[q]upatum habeto neiue defendito quo mi[nus quei u]elit compascere liceat sei quis faxsit quotiens faxit in agri iugra singula l [hs n(ummos) 3 dar]e debeto ei queiquomque id publicum fruendum redemptum comductumue habebit
 boues equ[os mulos asinos 3 in eo agro loco quei post h(anc) l(egem) rog(atum) publicus populi Romanei erit pascere ad eum numerum pecudum qu]ei numerus pecudum in h(ac) l(ege) scriptus est liceto neiue quid quoi ob eam rem uectigal neiue sc[ripturam dare de]beto quod quisque pecudes in calleis uiasue publicas it[i]neris causa indu[xerit ibeique pauerit 3 pro eo pecore quod eius in calli]bus uiei[su]e publiceis pastum inpulsum itineris causa erit neiquid populo [n]eiue publicano d[are debeto 3]
 [quei ager publicus populi Rom(ani) in terra italia p(ublio) muucio l(ucio) calpurnio co(n)s(ulibus) fuit de eo agro loco quem agrum locum populus ex publico in priuatum c]ommutauit quo pro agro loco ex priuato in publicum tantum modum agri locei commutau[it is ager locus do]mneis priuatus ita utei quoi optuma lege priuatus est esto quei ager ex priua[to in publicum commutatus est quo pro agro tantus modus agri publici ex p]ublico impriuatum commutatus est de eo agro siremps lex esto quansei is ager p(ublio) mucio l(ucio) c[alpurnio co(n)s(ulibus) publicus fuisset]
-[quei ager pro agro patrito ex publico in priuatum commutatus est 3 pr(aetor) consolue quanti agri patriti publicani publicum l(ucio) caecilio cn(aeo) dom]itio cens(oribus) redemptum habe[n]t censoribus queiquomque post hac facteis erunt ei faciu[nto id publicum sei] uolent tantidem pro patrito redemptum habeant p(ro) p(atrito) supsignent iiuirum qu[ei 3 quae uiae publicae p]er terram italiam p(ublio) mucio l(ucio) calpurnio co(n)s(ulibus) [f]uerint eas [f]aciunto pateant uacuaeque sien[t 3]
+[quei ager pro agro patrito ex publico in priuatum commutatus est 3 pr(aetor) consolue quanti agri patriti publicani publicum l(ucio) caecilio cn(aeo) dom]itio cens(oribus) redemptum habe[n]t censoribus queiquomque post hac facteis erunt ei faciu[nto id publicum sei] uolent tantidem pro patrito redemptum habeant p(ro) p(atrito) supsignent IIuirum qu[ei 3 quae uiae publicae p]er terram italiam p(ublio) mucio l(ucio) calpurnio co(n)s(ulibus) [f]uerint eas [f]aciunto pateant uacuaeque sien[t 3]
 [quod quoieique ex h(ace) l(ege) i]ta utei s(upra) s(criptum) est in agreis qu[ei in ita]lia sunt quei p(ublio) mucio l(ucio) calpurnio co(n)s(ulibus) publiceis populi Ro[manei fuerunt ceiui] Romano facere licebit item latino peregrinoque quibus m(arco) liuio l(ucio) calpurnio [co(n)s(ulibus) in eis agris id facere 3 ex lege pleb]eiue sc(ito) exue [f]oedere licuit sed [f]raude sua [f]acere liceto quod ex h(ace) l(ege) ita utei s(upra) s(criptum) est in agreis que[i s(upra) s(cripti) sunt latinum peregrinumque facere uel]
 [nōn facere oportebit 3 sei eōrum] quis qu[od eum ex h(ace) l(ege) f]acere oportuerit nōn fecerit quodue quis eōrum [h(ace) l(ege) prohibitus erit fecerit mag(istratus)] proue mag(istratu) quo de (e)a re in ious aditum erit quod ex h(ace) l(ege) petetur item iudicium iudi[cem recuperatoresue ei quei ex h(ace) l(ege) petet et in eum facito ita det utei ei] et in eum iudicium iudicem recuperatoresue ex h(ace) l(ege) dare oporteret sei quis de ea re iudiciu[m petisset quod ciuem Romanum contra h(anc) l(egem) fecisse diceret 3]
 [sei quei colonieis seiue moi]nicipieis seiue quae pro moinicipieis colo[nieisue sunt ciuium Rom(anorum)] nominisue latini poplice deue senati sententia ager fruendus datus [est seiue quei in trientabuleis est quei colonei moinicipesue proue moinicipieis 3 fruentur queiu]e pro colonia moincipioue proue moinicipieis fruentur quei(ue) in trientabule[is fruentur]
@@ -7594,40 +7600,40 @@ est[o 3 quei ob eu]m agrum locum manceps praesue factus est quodque [pra]edium o
 uectigalisque u[3]tus erit quod eius agri locei extra terra italia est [-3 socium nominisue latini quibus ex formula t]ogatorum milites in terra italia inperare solent eis po[puleis 3]ue agrum locum queiquomque
 habebit possidebit [fruetur 3 eiusu]e rei procurandae causa erit in eum agrum locum in[mittito 3 se dolo m]alo
 quei ag//er locus in africa est quod eius agri [-3 habeat pos]sideat fruaturque item utei sei is ager locus publi[ce 3]
-[iiuir quei ex h(ace) l(ege) factus creatusue erit] in biduo proximo [q]uo
+[IIuir quei ex h(ace) l(ege) factus creatusue erit] in biduo proximo [q]uo
 factus creatusue erit e[d]ici[to 3 in diebus] XXu proxsumeis quibus id edictum erit [-3 datu]m adsignatum siet idque quom
 [p]rofitebitur cognito[res]
 [3]mum emptor siet ab eo quoius homin[is priuatei eius agri uenditio fuerit 3 l(ucio)] calpurnio co(n)s(ule) facta
 siet quod eius post[ea]
 [ne]que ipse n[eque 3] praefectus milesue in prouinciam er[it 3 colono eiue quei]
 [in colonei nu]mero scriptus est datus adsignatus est quodue eiu[s 3] ag[-3 u]tei curator eius profiteatur
-item ute[i 3 ex e]o edicto utei is quei ab bonorum emptore magistro curato[reue emerit 3 sei quem quid edicto iiuirei ex h(ace) l(ege) profiteri oportuer]it quod edicto iiuir(ei) professus ex h(ace) l(ege) n[on erit 3 ei eum]
+item ute[i 3 ex e]o edicto utei is quei ab bonorum emptore magistro curato[reue emerit 3 sei quem quid edicto IIuirei ex h(ace) l(ege) profiteri oportuer]it quod edicto IIuir(ei) professus ex h(ace) l(ege) n[on erit 3 ei eum]
 [agrum lo]cum neiue emptum neiue adsignatum esse neiue fuisse iudicato q[3]ro ei ceiui Romano tantundem modu[m agri loci 3 q]ue[i] ager publice nōn uenie[i]t dare reddere commutare[u]e liceto
-iiuir q[uei ex h(ace) l(ege) factus creatusue erit 3 de] eis agreis ita rationem ini[t]o itaque h[3]et neiue unius hominis nomine quoi ex lege Rubria quae fuit colono eiu[e] quei [in colonei numero scriptus est agrum quei in]
+IIuir q[uei ex h(ace) l(ege) factus creatusue erit 3 de] eis agreis ita rationem ini[t]o itaque h[3]et neiue unius hominis nomine quoi ex lege Rubria quae fuit colono eiu[e] quei [in colonei numero scriptus est agrum quei in]
 [africa est dare oportuit licuitue 3 data adsign]ata fuise iudicato neiue unius hominu[s nomine quoi 3 colono eiue quei in colonei nu]mero scriptus est agrum quei in africa est dare oport[u]it licuitue amplius
 iug(era) cc in [singulos homines data adsignata esse fuiseue iudicato 3 neiue maiorem numerum in africa hominum in coloniam coloniasue deductum esse fu]iseue iudicato quam quantum numer[um ex lege Rubria quae fuit 3 a IIIuiris coloniae dedu]cendae in africa hominum in coloniam coloniasue deduci oportuit licuitue
-iiuir quei [ex h(ace) l(ege) factus creatusue erit 3] re Rom[3] agri [-3 d]atus ads[ignatus 3 quod eiu]s
+IIuir quei [ex h(ace) l(ege) factus creatusue erit 3] re Rom[3] agri [-3 d]atus ads[ignatus 3 quod eiu]s
 agri ex h(ace) lege adioudicari licebit quod ita comperietur id ei heredeiue eius adsignat[um] esse iudicato [-3 quod quand]oque eius agri locei ante Kal(endas) i[-3 quoiei emptum] est ab eo quoius eius agri locei hominus priuati
 uenditio fuit tum quom is eum agrum locum emit que[i 3 et eum agrum locum quem ita emit emer]it planum faciet feceritue emptum esse q[uem agrum locum neque ipse] neque heres eius neque quoi is heres erit abalienauerit
-quod eius agri locei ita planum factum erit iiuir ita [-3 dato re]ddito quod is emptum habuerit quod eius publice nōn ueniei[t item iiuir sei is] ager locus qui ei emptus fuerit publice uenie[i]t tantundem modum agri locei de eo
+quod eius agri locei ita planum factum erit IIuir ita [-3 dato re]ddito quod is emptum habuerit quod eius publice nōn ueniei[t item IIuir sei is] ager locus qui ei emptus fuerit publice uenie[i]t tantundem modum agri locei de eo
 agro loco quei ager lo[cus in africa est quei publice nōn uenieit ei quei ita emptum habuerit dato reddito 3 queique ager locus ita ex h(ace) l(ege) datus redditus erit ei quoius ex h(ace) l(ege) f]actus erit hs n(ummo) i emptus esto isque ager locus priuatus uectigalisque ita [utei in h(ace) l(ege) supra] scriptum est esto quoi colono eiue quei in colonei numero scriptus est ager locus in ea centuria subsiciuou[e de eo agro quei ager]
-[in africa est datus adsignatus est quae centuria quodue supsiciuom Romae publice uenieit uenieritue 3 si quid eius agri iiuir quei ex h(ace) l(ege) factus creatusue erit ei colono heredeiue eius minus adiudicauerit tum tantundem modum agri locei pro eo agro loco de eo a]gro loco quei ager locus in africa est quod eius publice nōn uenieit ei he[redeiue ei]us iiuir quei ex h(ace) l(ege) factus creatusue erit reddito
-quoi colono eiue quei in colonei numero scriptus est fuitue [ager in ea centuria supsiciuoue de eo agro quei in africa est datus adsignatus est quae centuria quodue supsiciuom Romae publice uenieit uenieritue si quid eius agri iiuir quei ex h(ace) l(ege) factus creatusue erit ei quei ab eo colono heredeiue eius emit habuitue minus adiudicauerit tum tantundem modum agri ei quem ita emise habui]seue comperietur heredeiue eius de agro quei ager in africa est pro eo agro [iiuir reddi]to quoieique ita reddiderit ei adsignatum fuisse iudicato
-quoi agrum de eo agro quei ager in africa est quei colono e[iue quei in colonei numero scriptus est fuitue datus adsignatus est magistratus Romae publice uendiderit 3 seiquid eius agri iiuir quei ex h(ace) l(ege) factus creatusue erit ei quoi ita emptum esse comperietur emptoriue eius pro curatoreue eius herediue quoius eōrum minu]s adiudicauerit tum tantundem modum agri ei quoi ita emptum esse comperiet[ur emptoriue ei]us pro curatoreue eius herediue quoius eōrum de eo agro quei ager in africa est pro eo agro iiuir reddito quoi ita reddiderit [ei adsignatum fuisse iudicato]
+[in africa est datus adsignatus est quae centuria quodue supsiciuom Romae publice uenieit uenieritue 3 si quid eius agri IIuir quei ex h(ace) l(ege) factus creatusue erit ei colono heredeiue eius minus adiudicauerit tum tantundem modum agri locei pro eo agro loco de eo a]gro loco quei ager locus in africa est quod eius publice nōn uenieit ei he[redeiue ei]us IIuir quei ex h(ace) l(ege) factus creatusue erit reddito
+quoi colono eiue quei in colonei numero scriptus est fuitue [ager in ea centuria supsiciuoue de eo agro quei in africa est datus adsignatus est quae centuria quodue supsiciuom Romae publice uenieit uenieritue si quid eius agri IIuir quei ex h(ace) l(ege) factus creatusue erit ei quei ab eo colono heredeiue eius emit habuitue minus adiudicauerit tum tantundem modum agri ei quem ita emise habui]seue comperietur heredeiue eius de agro quei ager in africa est pro eo agro [IIuir reddi]to quoieique ita reddiderit ei adsignatum fuisse iudicato
+quoi agrum de eo agro quei ager in africa est quei colono e[iue quei in colonei numero scriptus est fuitue datus adsignatus est magistratus Romae publice uendiderit 3 seiquid eius agri IIuir quei ex h(ace) l(ege) factus creatusue erit ei quoi ita emptum esse comperietur emptoriue eius pro curatoreue eius herediue quoius eōrum minu]s adiudicauerit tum tantundem modum agri ei quoi ita emptum esse comperiet[ur emptoriue ei]us pro curatoreue eius herediue quoius eōrum de eo agro quei ager in africa est pro eo agro IIuir reddito quoi ita reddiderit [ei adsignatum fuisse iudicato]
 [quantae quis pecuniae ab populo mercassitur quam pecuniam quei agrum locum publicum in africa emerunt emerintue pro eo agro loco populo dare debent debebuntue 3 quod eius p]equniae adsignatum discriptum adsignatumue in tabuleis publiceis est erit[ue tantam pequ]niam populo ex Eid(ibus) mart(is) quae post ea quam uectigalia cons[is]tent qu[a]e post h(ace) l(ege) r(ogatum) primum consistent primae erunt in[ferto]
 [quam pecuniam quei agrum locum publicum in africa emit emeritue pro eo agro loco populo dare debet debebitue ab eo quei eam pecuniam ab populo mercassitur ex Eidibus martis eisdem exigito 3 neiue quis eam pecuniam propiore die exigito atque] uteique in h(ace) l(ege) s(criptum) e(st) neiue quod pequniae ob eam rem propior[e] die exactum er[it atque uteiqu]e in h(ace) l(ege) s(criptum) e(st) is quei pequniam populo dare debebit ei quei eo nomine ab populo mercassitur ob
 eam rem pequniam ei nei [minus soluito 3 pla]num fiat neiue quis mag(istratus) neiue pro mag(istratu) facito neiue quis senator decernito q[uo ea pecunia] quae pro agreis loceis aedificieis quei s(upra) s(cripti) s(unt) populo debetur debebiturue aliter exsigatur atque uteique in h(ace) l(ege) s(criptum) est
 [quei agrum locum publicum in africa emit emeritue 3 sei ea pecunia quam eo nomine populo debet debebitue in diebus 3 proxsumeis quibus is ager locus Romae publice uenieit] uenierit populo soluta nōn erit is pro eo agro loco in diebus cXX proxsumeis ea[rum summarum nomine] quae s(upra) s(criptae) s(unt) arb(itratu) pr(aetoris) quei inte(r) ceiues tum Romae ious deicet satis subsignato
 pr(aetor) quei inter ceiues Romae ious de[icet 3 nisei] praedium ante ea ob eum agrum locum in publico obliga[t]um erit in publicu[mue praes datus erit] agrum locum quo pro agro loco satis ex h(ace) l(ege) arb(itratu) pr(aetoris) subsignatum nōn erit pequnia praesenti uendito que[i 3]
 [que]i ager locus in africa est quei Romae publice ueniei[t] uenieritue quod eius agri [locei quei popul]eis libereis in africa sunt quei [e]orum ameicitiam populi Romanei bello poenicio proxsumo manserunt queiue a[d imperatorem populi Romanei bello poenicio proxsumo ex hostibus perfugerunt quibus propterea ager datus adsignatus est d(e) s(enatus)]
-[s(ententia) eōrum quisque habuerunt 3 pro eo agro loco iiuir in diebus 3 proxsumeis qu]ibus iiuir ex h(ace) [l(ege) fact]us creatusue erit facito quantum agri loci quoiusque in populi leiberei inue eo agr[o loco quei ager l]ocus perfugis datus
+[s(ententia) eōrum quisque habuerunt 3 pro eo agro loco IIuir in diebus 3 proxsumeis qu]ibus IIuir ex h(ace) [l(ege) fact]us creatusue erit facito quantum agri loci quoiusque in populi leiberei inue eo agr[o loco quei ager l]ocus perfugis datus
 adsignatusue est ceiuis Romanei ex h(ace) l(ege) factum erit quo pro agro loco ager loc[us ceiui Ro]mano ex h(ac) l(ege)
-[commutatus redditusue nōn erit tantundem modum agri loci quoieique populo leibero perfugeisue det adsignetue 3 ii]uir quei ex h(ace) l(ege) factus creatusue erit is in diebus cl proxsumeis quibus factus creatusue erit facito quan[do Xuirei quei ex] lege liuia factei createiue sunt fueruntue eis hominibus agrum in africa dederunt adsignaueru[ntu]//e
+[commutatus redditusue nōn erit tantundem modum agri loci quoieique populo leibero perfugeisue det adsignetue 3 II]uir quei ex h(ace) l(ege) factus creatusue erit is in diebus cl proxsumeis quibus factus creatusue erit facito quan[do Xuirei quei ex] lege liuia factei createiue sunt fueruntue eis hominibus agrum in africa dederunt adsignaueru[ntu]//e
 quos stipendium
-[pro eo agro populo Romano pendere oportet sei quid eius agri ex h(ace) l(ege) ceiuis Romanei esse oportet oportebitue 3 de agro quei publicus populi Romanei in africa est tantundem quantum de agro stipendiario ex h(ac) l(ege) ceiuis] Romanei esse oportet oportebitue is stipendiariei(s) det adsignetue idque in formas publicas facito ute[i referatur i(ta) u(tei) e r(e) p(ublica) f(ide)]q(ue) e(i) e(sse) u(idebitur) iiuir quei ex h(ac) l(ege) factus creatusue erit is facito in diebus ccl proxsumeis quibus h(ace) [l(ege)]
+[pro eo agro populo Romano pendere oportet sei quid eius agri ex h(ace) l(ege) ceiuis Romanei esse oportet oportebitue 3 de agro quei publicus populi Romanei in africa est tantundem quantum de agro stipendiario ex h(ac) l(ege) ceiuis] Romanei esse oportet oportebitue is stipendiariei(s) det adsignetue idque in formas publicas facito ute[i referatur i(ta) u(tei) e r(e) p(ublica) f(ide)]q(ue) e(i) e(sse) u(idebitur) IIuir quei ex h(ac) l(ege) factus creatusue erit is facito in diebus ccl proxsumeis quibus h(ace) [l(ege)]
 populus plebesue iuserit
 [utei extra eum agrum locum quei ex lege Rubria quae fuit colono eiue quei in colonei numero scriptus est datus adsignatus est 3 quo pro agro loco ager locus com]mutatus redditusue nōn erit extraque eum agrum quei ager intra finis populorum leiber[o]rum Uticensium h[adrumetinorum t]ampsitanorum leptitanorum aquil[l]itanorum Usalitanorum teu/[d]alensium quom in ameicitiam p//opuli Romani proxumum
-[uenerunt fuit extraque eum agrum locum quei ager locus eis hominibus quei ad imperatorem populi Romani bello poenicio proxsumo ex hostibus perfugerunt 3 datus adsignatusue est de s(enatus)] s(ententia) extra(que) eum agrum quei ager ex h(ace) l(ege) priuatus factus erit quo pro agro loco ager locus redditus commutatusue [nōn erit extra]que eum agrum locum quem iiuir ex h(ace) l(ege) stipendiarieis dederit adsignaueritue
+[uenerunt fuit extraque eum agrum locum quei ager locus eis hominibus quei ad imperatorem populi Romani bello poenicio proxsumo ex hostibus perfugerunt 3 datus adsignatusue est de s(enatus)] s(ententia) extra(que) eum agrum quei ager ex h(ace) l(ege) priuatus factus erit quo pro agro loco ager locus redditus commutatusue [nōn erit extra]que eum agrum locum quem IIuir ex h(ace) l(ege) stipendiarieis dederit adsignaueritue
 quod eius ex h(ace) l(ege) in [f]o//rmam publicam rellatum
 [erit extraque eum agrum quem agrum 3 p(ublius) cornelius imperator leib]ereis regis massinissae dedit habereue fruiue iusi[t] extraque eum agrum locum ubei oppodum char[tago] fuit qu[ondam extraqu]e eum agrum locum quem Xuirei quei ex [lege] liuia factei createiue fuerunt Uticensibus relique//runt
 adsignauerunt ceterum
@@ -7646,7 +7652,7 @@ lege(m) de[i]//cito quo inuiteis eis quei eum agrum possidebunt
 [aliter pascatur quam pastum est ex lege dicta quam l(ucius) caecilius cn(aeus) domitius censores quom eōrum agrorum uectigalia fruenda locauerunt uendideruntue legem deixerunt quae uectigalia fruenda in africa cn(aeus) paperius co(n)s(ule) uendidit locauitue qu]ominus ea lege sient pareantque quam legem cn(aeus) paperius co(n)(ule) eis uendundeis e(ius) h(ace) (!) n(ihilum) r(ogato) quei [ager in africa est 3 quae uiae in eo] agro ante quam cartago capta est fuerunt eae
 omnes publicae sunto
 limitesque inter centurias
-[-3 iiuir quei ex h(ace) l(ege) factus creatusue erit sei apud eum quoi ager in africa adsignatus est eum agrum professus erit ei eum agrum quem a] grum in eo numero agri professus erit quo in numero eum agrum quem is quoi adsigna[tus est professus erit profiteri nōn oportuit 3 nei d]ato neiue reddito neiue adiudicato quei eam rem
+[-3 IIuir quei ex h(ace) l(ege) factus creatusue erit sei apud eum quoi ager in africa adsignatus est eum agrum professus erit ei eum agrum quem a] grum in eo numero agri professus erit quo in numero eum agrum quem is quoi adsigna[tus est professus erit profiteri nōn oportuit 3 nei d]ato neiue reddito neiue adiudicato quei eam rem
 [ita]
 indicio fuerit ei eius agri quod is indicio eius
 [quei eam rem ita indicauerit in eo numero agri quo nōn oportuit professus esse iudicatus erit 3 partem 3 magistratus quei de ea re iudicauerit dato adsignato quibuscum trans]actum est utei bona quae habuisent agrumque quei eis publice adsignatus esset haberent [possiderent fruerentur eis 3 quantus] modus agri de eo agro quei eis publice [datus adsign]atus fuit
@@ -7658,7 +7664,7 @@ utei de ea re in [h(ace)] l(ege) s(criptum) est neiue
 [3]uos comportent quibus ex h(ace) l(ege) ager locus datus redditus commutatus adsignatus [est 3 agrum locum ex h(ace) l(ege)] dari reddi adsignar[i 3 e]um agrum locum ceiuis
 R[omanus]
 [-3 quei fructus in eo agro loco natei erunt] quodque in eo agro loco uinei oleiue fiet quae messis uindemiaque p(ublio) cornelio l(ucio) c[alpurnio co(n)s(ulibus) posteaue fiet 3 eo]s fructus [-3 q]uei eum agrum tum[3]
-[quei ex h(ace) l(ege) iiuir factus creatusue erit is in diebus 3 proxsume]is quibus ex h(ace) l(ege) iiuir factus creatusue
+[quei ex h(ace) l(ege) IIuir factus creatusue erit is in diebus 3 proxsume]is quibus ex h(ace) l(ege) IIuir factus creatusue
 [e]rit ag[ru]m locum quei corinthiorum [fuit 3 e]xtra eum ag[rum locum 3]
 [-3 agrum locum] quem ex
 h(ace) l(ege) uenire oportebit omnem me[tiun]dum terminosque statui [curato 3 eu]m a[grum 3 opu]sque loc[at]o
@@ -7925,18 +7931,7 @@ m(arcus) minuci(us) c(ai) f(ilius)
 dictator uouit
 
 
-[-145 ; -145]
-[Roma]
-l(ucius) mummi(us) l(uci) f(ilius) co(n)s(ul) duct(u)
-auspicio imperioque
-eius achaia capt(a) corint(h)o
-deleto Romam redieit
-triumphans ob hasce
-res bene gestas quod
-in bello uouerat
-hanc aedem et signu(m)
-herculis uictoris
-imperator dedicat
+
 
 
 [-168 ; -151]
@@ -8066,7 +8061,7 @@ quei minus sit mandatus
 l(ucius) cornelius l(uci) f(ilius) p(ubli) n(epos)
 scipio quaist(or)
 tr(ibunus) mil(itum) annos
-gnatus XXXiii
+gnatus XXXIIi
 mortuos pater
 regem antioco(m)
 subegit
@@ -8100,7 +8095,7 @@ gnatus Xui
 [-133 ; -123]
 [Roma]
 cn(aeus) cornelius cn(aei) f(ilius) scipio hispanus
-pr(aetor) aid(ilis) cur(ulis) q(uaestor) tr(ibunus) mil(itum) ii Xuir stl(itibus) iudik(andis)
+pr(aetor) aid(ilis) cur(ulis) q(uaestor) tr(ibunus) mil(itum) II Xuir stl(itibus) iudik(andis)
 Xuir sacr(is) fac(iundis)
 uirtutes generis mieis moribus accumulaui
 progeniem genui facta patris petiei
@@ -8152,7 +8147,7 @@ n(umerius) decumius n(umeri) f(ilius)
 col(lina) uaarus scr(iba)
 uolusia c(ai) l(iberta) celsa
 c(aius) uolusius c(ai) l(ibertus) charit(o)
-in fr(onte) p(edes) Xiii in agr(o) p(edes) Xui
+in fr(onte) p(edes) XIIi in agr(o) p(edes) Xui
 
 
 [-130 ; -101]
@@ -8180,7 +8175,7 @@ duo(m)uir lege plaetoria
 [-150 ; -100]
 [Roma]
 l(ucius) aeli(us)
-a(nte) d(iem) iii idus
+a(nte) d(iem) IIi idus
 octob(res)
 
 [-150 ; -100]
@@ -8191,7 +8186,7 @@ sex(tus) aemi(lius)
 [-150 ; -100]
 [Roma]
 alfeno<s=c> luci(us)
-a(nte) d(iem) Xii c(alendas) no(u)em(bres)
+a(nte) d(iem) XII c(alendas) no(u)em(bres)
 
 [-150 ; -100]
 [Roma]
@@ -8208,7 +8203,7 @@ cal(endis) int(ercalaribus) o(ssa)
 [-150 ; -100]
 [Roma]
 l(ucius) Kaili(us)
-a(nte) d(iem) iii Eidus dekem(bres)
+a(nte) d(iem) IIi Eidus dekem(bres)
 
 [-150 ; -100]
 [Roma]
@@ -8232,7 +8227,7 @@ c(ai) dom(iti) donati
 [-150 ; -100]
 [Roma]
 mai(os) fabricia
-a(nte) d(iem) iiX Eidu(s)
+a(nte) d(iem) IIX Eidu(s)
 sept(embres)
 [-150 ; -100]
 [Roma]
@@ -8266,13 +8261,13 @@ prid(ie) eidus dece(m)bris
 
 [-150 ; -100]
 [Roma]
-p(ublius) percenni(us) a(nte) d(iem) uiii eid(us)
+p(ublius) percenni(us) a(nte) d(iem) uIIi eid(us)
 oct(obres)
 
 
 [-150 ; -100]
 [Roma]
-s(epulta[?]) a(nte) d(iem) Xii K(alendas) oc(tobres)
+s(epulta[?]) a(nte) d(iem) XII K(alendas) oc(tobres)
 saluia pos<t=i>um[a]
 
 
@@ -8304,7 +8299,7 @@ m(arco) fan(io) q(uinto) fabio
 
 [-300 ; -101]
 [Roma]
-p(h)ilocrate
+pilocrate
 diocle[3]
 
 
@@ -8434,7 +8429,7 @@ c]o(n)sole{d}
 [Roma]
 ]caeui et
 [3]scanti paries
-crassus p(edes) iii
+crassus p(edes) IIi
 communis
 
 
@@ -8801,11 +8796,11 @@ c(aius) al(l)i[us 3]
 [samnium]
 [pe(tro) se(p)t(u)miu]s sep(pi) f(ilius) et
 [-3 petro([?]) ce]isius([?]) uet(ti[?])
-[iiuiri([?]) fec(e)]ront ueci
+[IIuiri([?]) fec(e)]ront ueci
 [petini ist]ut seino(m)
 [edndre co(n)s(e)nte(s)] fec(e)ront
 petro se(p)t(u)mi[us sep(pi) f(ilius) et pe(tro[?])]
-cesieus uet(ti[?]) ii[uiri fec(e)ront]
+cesieus uet(ti[?]) II[uiri fec(e)ront]
 ueci petini i[stut seino(m)]
 edndre co(n)s(e)n[te(s) fec(e)ront]
 
@@ -8869,7 +8864,7 @@ lib(en)s
 
 [-300 ; -101]
 [samnium]
-p(h)onas
+ponas
 t(ito) saluio magistro
 t(itus) octauio(s)
 tit(ulos) saluio(s)
