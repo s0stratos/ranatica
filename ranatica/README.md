@@ -41,7 +41,7 @@ of information through the 3 tools. Note that judgements and elicitation are gen
 much more confident when the situation is not super unlikely or the structure extremely
 rare and likely to be out-competed by other options anyway.
 
-## WHY A CONSTRUCTION APPROACH
+## WHY A CONSTRUCTION BASED APPROACH
 
 ## GRAMMAR AND USAGE 
 
@@ -49,6 +49,9 @@ rare and likely to be out-competed by other options anyway.
 
 ## GENERALIZATIONS, DEFAULTS AND OVERRIDES
 
-## CALQUES
+## THE USE OF CALQUES FROM MODERN LANGUAGES
 
 I have a general dislike for calques. 
+Not because I was personally hurt by them but because the use of calques 
+is one of the least faithful way possible to approach the need to generalize
+on fragmentary data.
