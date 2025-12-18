@@ -61,6 +61,14 @@ You don't want full finished sentences with all their specificities: cannot be r
 
 You want abstractions in the middle.
 
+But you are gonna say... what abstraction like idioms? 
+grammatical abstractions like sentence types? sentences featuring specific connectors 
+that influence how they are used in discourse?
+
+All of it. Then you realize that each individual sentence actually feature not only a unique
+combination of words but a unique combination of constructions of all kind.
+
+
 
 
 
