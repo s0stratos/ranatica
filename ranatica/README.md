@@ -132,6 +132,18 @@ Sounding like an old-fashioned person or someone who spend too much time reading
 
 ## GENERALIZATIONS, DEFAULTS AND OVERRIDES
 
+describing constructions can usually be done by progressively adding more information and constraints
+on more basic ones. but it can happen that some constructions look unexpected and it can be interesting to
+just say but unexpectedly they differ of all the similar ones in this particular way. Like imagine a random
+transitive verbs you can never use in the passive voice in the language. you may be tempted to say it's still 
+a normal transitive verb but with an overriding property (no passive) rather than making two different constructions
+from the start.
+
+What this captures intuitively is that sometimes predictions are overridden. and that's fine.
+On the other hand supposing constant overrides of the sort when the data is not directly attested
+is not realistic or constructive. If you have a random transitive verbs never attested in the passive
+the normal prediction is that passive is ok. why? cause the weird behaviors correlate with frequent use.
+
 ## THE USE OF CALQUES FROM MODERN LANGUAGES
 
 I have a general dislike for calques. 
