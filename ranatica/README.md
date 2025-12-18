@@ -90,6 +90,14 @@ This is why the Ranatica approaches linguistic phenomena the same one by groupin
 utterances that share some construction to give the reader a sense of the **extension**, **meaning** and
 **productivity** of the structure. as well as how it may be influenced by other co-occurring constructions.
 
+The quick outtake I want you to consider is :
+
+When dealing with the question "how to say this in latin", the right question should be 
+what sets of constructions are most likely to pop naturally in the head of speakers.
+
+What idioms? What grammatical structures? What sentence types? What connectors are likely 
+to fit the bill for that speech act.
+
 ## GRAMMAR AND USAGE 
 
 ## HOW DO YOU GENERALIZE WHEN DATA IS FRAGMENTARY
