@@ -107,7 +107,28 @@ and explanations.
 
 ## GRAMMAR AND USAGE 
 
+Grammar is more predictable than usage. Why?
+
+Because it's not rare for specific usage to override an expression you could expect to be used,
+And that expected expression to become surprising and driving the communication in an unwanted 
+direction. This is why when we have access to Roman usage it should be considered that the 
+**other expressions** that we can imagine using regular constructions and are not attested 
+in that usage are not valid in that usage.
+
+On the other hand if no such usage is attested even though it may be a corpus gap, it is 
+unreasonable to not use our knowledge of latin constructions to say something or to claim
+that saying whatever based on any other logic is just as well.
+
+just as we have no proof there is no specific verb that would be preferably used for eat + a
+particular food in actual usage, it's perfectly reasonable to assume it's correct to use
+eat with any food item similar to the other ones that use the verb.
+
 ## HOW DO YOU GENERALIZE WHEN DATA IS FRAGMENTARY
+
+- Use your knowledge of constructions
+- Consider that nothing overrides the usage you can from infer from attested constructions if you don't have evidence for it
+- When dealing with data with historical depth, preferably rely on older data than the target to expand knowledge, rather than posterior one. 
+Sounding like an old-fashioned person or someone who spend too much time reading old books is better than speaking nonsense from the future.
 
 ## GENERALIZATIONS, DEFAULTS AND OVERRIDES
 
