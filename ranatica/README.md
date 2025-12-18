@@ -72,7 +72,19 @@ In a sense, construction here means anything but make sure that we realize that 
 of linguistic description that is quite abstract and need to be addressed consciously or not
 by learners.
 
+A sentence like "Hey why wouldn't you do this?" can thus be taken as teaching us aspects of
+many different constructions of English. 
 
+- The construction "utterances introduced by Hey".
+- The construction "interrogative sentences"
+- The construction "negative sentence"
+- The construction "negative questioning utterance"
+- The construction "why questions"
+- The construction "sentence with would modal verb"
+...
+
+Some of those constructions could be reduced to discussing the use of specific words (would, hey) 
+or grammatical features while cannot be discussed at a lower level (use of negative questions)
 
 ## GRAMMAR AND USAGE 
 
