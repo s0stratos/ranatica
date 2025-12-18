@@ -86,6 +86,10 @@ many different constructions of English.
 Some of those constructions could be reduced to discussing the use of specific words (would, hey) 
 or grammatical features while cannot be discussed at a lower level (use of negative questions)
 
+This is why the Ranatica approaches linguistic phenomena the same one by grouping together
+utterances that share some construction to give the reader a sense of the **extension**, **meaning** and
+**productivity** of the structure. as well as how it may be influenced by other co-occurring constructions.
+
 ## GRAMMAR AND USAGE 
 
 ## HOW DO YOU GENERALIZE WHEN DATA IS FRAGMENTARY
