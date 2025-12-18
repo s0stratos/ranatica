@@ -68,7 +68,9 @@ that influence how they are used in discourse?
 All of it. Then you realize that each individual sentence actually feature not only a unique
 combination of words but a unique combination of constructions of all kind.
 
-
+In a sense, construction here means anything but make sure that we realize that there is level
+of linguistic description that is quite abstract and need to be addressed consciously or not
+by learners.
 
 
 
