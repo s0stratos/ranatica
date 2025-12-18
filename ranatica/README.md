@@ -99,6 +99,12 @@ What idioms? What grammatical structures? What sentence types? What connectors a
 to fit the bill for that speech act. This doesn't need to be conscious effort all the time of course.
 But it can very well be as part of a learner's effort.
 
+Last point, why does the Ranatica prefers to just collect full utterances and present them next to
+each other rather that introducing constructions abstractly with a nice usage description. Because the
+best way to learn proper usage is to see or try to use those constructions in context a lot 
+(grouped together for that very purpose) rather than learning them abstractly for abstract patterns
+and explanations.
+
 ## GRAMMAR AND USAGE 
 
 ## HOW DO YOU GENERALIZE WHEN DATA IS FRAGMENTARY
