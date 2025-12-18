@@ -49,6 +49,21 @@ communication to failure and awkwardness. Like greeting someone "Good heath to y
 
 ## WHY A CONSTRUCTION BASED APPROACH
 
+the best level of language description for or language observation is not the word.
+
+It's a unit large enough to convey a precise meaning.
+
+But it's also a unit that actually repeats or can be reapplied in other context with 
+the appropriate variable adjustments.
+
+So you don't want individuals words: not information enough for learners.
+You don't want full finished sentences with all their specificities: cannot be reused.
+
+You want abstractions in the middle.
+
+
+
+
 ## GRAMMAR AND USAGE 
 
 ## HOW DO YOU GENERALIZE WHEN DATA IS FRAGMENTARY
