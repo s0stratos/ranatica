@@ -96,7 +96,8 @@ When dealing with the question "how to say this in latin", the right question sh
 what sets of constructions are most likely to pop naturally in the head of speakers.
 
 What idioms? What grammatical structures? What sentence types? What connectors are likely 
-to fit the bill for that speech act.
+to fit the bill for that speech act. This doesn't need to be conscious effort all the time of course.
+But it can very well be as part of a learner's effort.
 
 ## GRAMMAR AND USAGE 
 
