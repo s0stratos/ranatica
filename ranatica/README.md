@@ -5,16 +5,16 @@ Eh that's an excellent question. I am writing the following for two reasons:
 - because I am constantly encountering situations 
 where people don't follow at all what I will try to outline below and this
 has repeatedly been a source of frustration for me.
-- because a friend called me out on this saying if I could explain it in detail
-then my argument and frustration was void.
+- because a friend called me out on this saying if I could not explain it in detail
+then my argument and frustration was devoid of meaning.
 
 Writing this will be long and hard, not because I am not confident in what
 I am trying to convey but because it may get abstract or technical
 or complex very quickly.
 
-## BUT WHAT IS IT?
+## BUT WHAT IS THIS?
 
-I guess the question is be stated as :
+I guess the question can be stated as :
 
 " how to deal with latin being a dead language when 
 you are trying to either:
@@ -40,6 +40,12 @@ about very rare or specific contexts, you should be able to access the same piec
 of information through the 3 tools. Note that judgements and elicitation are generally
 much more confident when the situation is not super unlikely or the structure extremely
 rare and likely to be out-competed by other options anyway.
+
+Last point, you saw me distinguish between grammar and usage above and while the difference may somewhat be fuzzy, 
+I will start from the following intuition. Grammar is about building utterances than should work **structurally**
+as communication units and have at least some clear **literal meaning** derived from its form. Usage on the other 
+hand captures the idea that even a valid utterance with a clear meaning can be really surprising or bring the
+communication to failure and awkwardness. Like greeting someone "Good heath to you!" in modern English.
 
 ## WHY A CONSTRUCTION BASED APPROACH
 
