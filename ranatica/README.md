@@ -1,4 +1,4 @@
-# WHY IS THIS EVEN DOING HERE ?
+# WHAT IS THIS EVEN DOING HERE ?
 
 Eh that's an excellent question. I am writing the following for two reasons:
 
