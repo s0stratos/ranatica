@@ -94,7 +94,7 @@ aeacida			93	2	1
 aeacidarum			94	1	1
 aecmalotis			95	1	1
 aecum			96	2	1
-aedificant			97	1	1
+aedificant			97	1	1 +COMPOUND
 aedis			98	1	1
 aeger			99	1	1
 aegerrume			100	1	1
@@ -184,10 +184,10 @@ alteri			183	2	1
 alterius			184	1	1
 alterna			185	1	1
 alterum			186	1	1
-altisono			187	2	1
-altisonum			188	1	1
-altitonantis			189	1	1
-altiuolantum			190	1	1
+altisono			187	2	1 +COMPOUND
+altisonum			188	1	1 +COMPOUND
+altitonantis			189	1	1 +COMPOUND
+altiuolantum			190	1	1 +COMPOUND
 alto			191	5	1
 altum			192	1	1
 amaro			193	1	1
@@ -200,9 +200,9 @@ ambracia			199	1	1
 ambraciai			200	1	1
 amici			201	1	1
 amicis			202	1	1
-amicitia			203	1	1
-amicitiae			204	1	1
-amicitiam			205	1	1
+amicitia			203	1	1 +IA
+amicitiae			204	1	1 +IA
+amicitiam			205	1	1 +IA
 amicus			206	1	1
 amicòs			207	1	1
 amnes			208	1	1
@@ -363,7 +363,7 @@ auferre			362	1	1
 aufert			363	1	1
 augeret			364	1	1
 augescere			365	1	1
-augificat			366	1	1
+augificat			366	1	1 +COMPOUND
 augmine			367	1	1
 augurio			368	1	1
 augurioque			369	1	1
@@ -404,25 +404,25 @@ barbarica			403	1	1
 beatus			404	1	1
 bella			405	1	1
 belli			406	5	1
-belligerantes			407	1	1
-bellipotentes			408	1	1
+belligerantes			407	1	1 +COMPOUND
+bellipotentes			408	1	1 +COMPOUND
 bellique			409	1	1
 bello			410	4	1
 bellum			411	6	1
 bellò			412	1	1
 beluarum			413	1	1
-beluasque			414	1	1
+beluasque			414	1	1 +QUE
 bene			415	10	1
 benefacta			416	1	1
 benigno			417	1	1
 bestia			418	1	1
 bigis			419	1	1
-bilingui			420	1	1
-bipatentibus			421	1	1
+bilingui			420	1	1 +COMPOUND
+bipatentibus			421	1	1 +COMPOUND
 bis			422	1	1
 blanda			423	1	1
 blandi			424	1	1
-blandiloquentia			425	1	1
+blandiloquentia			425	1	1 +COMPOUND
 bombum			426	1	1
 bona			427	6	1
 boni			428	1	1
@@ -452,7 +452,7 @@ caedunt			451	1	1
 caelatis			452	1	1
 caelestum			453	1	1
 caeli			454	16	1
-caelicolum			455	1	1
+caelicolum			455	1	1 +COMPOUND
 caelitum			456	2	1
 caelo			457	12	1
 caelum			458	11	1
@@ -756,7 +756,7 @@ corollam			755	1	1
 corona			756	1	1
 coronam			757	1	1
 corpora			758	8	1
-corporaret			759	1	1
+corporaret			759	1	1 +ÀRE
 corpore			760	8	1
 corporis			761	2	1
 corpulentis			762	1	1
@@ -982,7 +982,7 @@ dixi			981	1	1
 dixit			982	1	1
 diù			983	2	1
 do			984	1	1
-doctiloqui			985	1	1
+doctiloqui			985	1	1 +COMPOUND
 doctis			986	1	1
 doctus			987	1	1
 doctusque			988	1	1
@@ -1015,7 +1015,7 @@ ductat			1014	1	1
 dudum			1015	1	1
 duellis			1016	1	1
 dulces			1017	1	1
-dulciferae			1018	1	1
+dulciferae			1018	1	1 +COMPOUND
 dum			1019	6	1
 durat			1020	1	1
 duri			1021	1	1
@@ -1067,8 +1067,8 @@ eiciebantur			1066	1	1
 eique			1067	1	1
 eius			1068	7	1
 elatis			1069	1	1
-elephanti			1070	1	1
-elephantos			1071	1	1
+elepanti			1070	1	1 +ANIMAL
+elepantos			1071	1	1 +ANIMAL
 eleuandae			1072	1	1
 eliminat			1073	1	1
 elopem			1074	1	1
@@ -1144,8 +1144,8 @@ eurudica			1143	1	1
 ex			1144	19	1	2575.922	1.000
 exalbescat			1145	1	1
 examen			1146	1	1
-exanclando			1147	1	1
-exanclaui			1148	1	1
+exanclando			1147	1	1 +p+EX +ÀRE 
+exanclaui			1148	1	1 +p+EX +ÀRE 
 exanimatam			1149	1	1
 exanimato			1150	1	1
 exaugere			1151	1	1
@@ -1383,11 +1383,11 @@ fretum			1382	1	1
 fretus			1383	2	1
 frigori			1384	1	1
 frigus			1385	1	1
-frondosai			1386	1	1 +ÒSUS
+frondosai			1386	1	1 +ÒSUS +ÀÌ
 frontem			1387	1	1
 fructus			1388	2	1
 fruges			1389	1	1
-frugiferai			1390	1	1
+frugiferai			1390	1	1 +ÀÌ
 frumentaque			1391	1	1
 frunde			1392	1	1
 frundes			1393	1	1
@@ -1823,9 +1823,9 @@ iuberet			1822	1	1
 iubet			1823	2	1
 iubetque			1824	1	1
 iucundus			1825	1	1
-iudicauit			1826	1	1
-iudicio			1827	1	1
-iudicium			1828	1	1
+iudicauit			1826	1	1 +COMPOUND
+iudicio			1827	1	1 +COMPOUND
+iudicium			1828	1	1 +COMPOUND
 iuge			1829	1	1
 iugo			1830	1	1
 iunis			1831	1	1
@@ -1911,10 +1911,10 @@ laurentis			1910	1	1
 laus			1911	1	1
 lautus			1912	1	1
 leges			1913	3	1
-legio			1914	1	1
-legiones			1915	3	1
-legionibus			1916	3	1
-legionis			1917	1	1
+legio			1914	1	1 +IÒ
+legiones			1915	3	1 +IÒ
+legionibus			1916	3	1 +IÒ
+legionis			1917	1	1 +IÒ
 leni			1918	2	1
 lepidè			1919	1	1
 leto			1920	1	1
@@ -1931,10 +1931,10 @@ liber			1930	6	1
 liberabo			1931	1	1
 liberi			1932	2	1
 liberorum			1933	3	1
-libertas			1934	1	1
-libertatem			1935	1	1
-libertatemque			1936	1	1
-libertati			1937	1	1
+libertas			1934	1	1 +TÀT
+libertatem			1935	1	1 +TÀT
+libertatemque			1936	1	1 +TÀT
+libertati			1937	1	1 +TÀT
 liberum			1938	3	1
 libri			1939	1	1
 libuamque			1940	1	1
@@ -2455,8 +2455,8 @@ omnia			2454	5	1
 omnibus			2455	5	1
 omnibusque			2456	1	1
 omnino			2457	1	1
-omnipotens			2458	1	1
-omnipotentis			2459	1	1
+omnipotens			2458	1	1 +COMPOUND
+omnipotentis			2459	1	1 +COMPOUND
 omnis			2460	5	1
 omnium			2461	1	1
 omnès			2462	13	1	1762.473	1.000
@@ -2939,10 +2939,10 @@ quadratae			2938	1	1
 quadrigas			2939	1	1
 quadriiugo			2940	1	1
 quadringentòs			2941	1	1
-quadrupedantes			2942	1	1
-quadrupedum			2943	1	1
-quadrupes			2944	1	1
-quae			2945	28	1	3796.095	1.000
+quadrupedantes			2942	1	1 +COMPOUND
+quadrupedum			2943	1	1 +COMPOUND
+quadrupes			2944	1	1 +COMPOUND
+quae			2945	28	1
 quaeque			2946	1	1
 quaerere			2947	1	1
 quaerit			2948	1	1
@@ -2954,7 +2954,7 @@ quaestum			2953	1	1
 quaestus			2954	1	1
 qualem			2955	1	1
 qualis			2956	1	1
-quam			2957	28	1	3796.095	1.000
+quam			2957	28	1
 quamde			2958	2	1
 quamquam			2959	2	1
 quamque			2960	1	1
@@ -3106,7 +3106,7 @@ relinquont			3105	1	1
 reliqui			3106	1	1
 reliquit			3107	3	1
 reliquitque			3108	1	1
-rem			3109	12	1	1626.898	1.000
+rem			3109	12	1
 remanant			3110	1	1
 remeasse			3111	1	1
 remissa			3112	1	1
@@ -3128,7 +3128,7 @@ requiescat			3127	1	1
 requiescunt			3128	1	1
 requirunt			3129	2	1
 rerumque			3130	1	1
-res			3131	15	1	2033.623	1.000
+res			3131	15	1
 resciuit			3132	1	1
 reserare			3133	1	1
 resistet			3134	1	1
@@ -3233,7 +3233,7 @@ saperet			3232	1	1
 sapiens			3233	2	1
 sapientia			3234	3	1
 sapientiam			3235	1	1
-sapientipotentes			3236	1	1
+sapientipotentes			3236	1	1 +COMPOUND
 sapit			3237	1	1
 sapiunt			3238	1	1
 sapsa			3239	1	1
@@ -3293,7 +3293,7 @@ secundum			3292	1	1
 securibus			3293	2	1
 secus			3294	1	1
 secuta			3295	1	1
-sed			3296	16	1	2169.197	1.000
+sed			3296	16	1
 sedet			3297	1	1
 seditio			3298	1	1
 seducit			3299	1	1
@@ -3341,8 +3341,8 @@ set			3340	2	1
 seu			3341	1	1
 sex			3342	1	1
 sextus			3343	1	1
-si			3344	24	1	3253.796	1.000
-sibi			3345	13	1	1762.473	1.000
+si			3344	24	1
+sibi			3345	13	1
 sic			3346	11	1
 sicilia			3347	1	1
 sicilibus			3348	1	1
@@ -3352,7 +3352,7 @@ sicuti			3351	2	1
 siet			3352	2	1
 signa			3353	2	1
 signis			3354	2	1
-signitenentibus			3355	1	1
+signitenentibus			3355	1	1 +COMPOUND
 signum			3356	3	1
 silentio			3357	1	1
 sileteque			3358	1	1
@@ -3376,7 +3376,7 @@ sit			3375	5	1
 situm			3376	1	1
 situs			3377	1	1
 siue			3378	2	1
-societas			3379	1	1
+societas			3379	1	1 +TÀT
 socru			3380	1	1
 sol			3381	6	1
 sola			3382	5	1
@@ -3504,7 +3504,7 @@ suam			3503	2	1
 suarum			3504	1	1
 suas			3505	2	1
 suasorem			3506	1	1
-suauiloquenti			3507	1	1
+suauiloquenti			3507	1	1 +COMPOUND
 suauis			3508	2	1
 sub			3509	5	1
 subices			3510	1	1
@@ -3621,8 +3621,8 @@ teloque			3620	1	1
 temere			3621	3	1
 temo			3622	1	1
 temperaret			3623	1	1
-tempestate			3624	2	1
-tempestatesque			3625	1	1
+tempestate			3624	2	1 +TÀT
+tempestatesque			3625	1	1 +TÀT +QUE
 templa			3626	5	1
 templis			3627	1	1
 templum			3628	3	1
@@ -3649,14 +3649,14 @@ termo			3648	2	1
 terra			3649	10	1
 terrae			3650	3	1
 terrai			3651	1	1
-terram			3652	9	1	1220.174	1.000
-terraque			3653	1	1
+terram			3652	9	1
+terraque			3653	1	1 +QUE
 terrarum			3654	1	1
 terras			3655	5	1
-terrasque			3656	1	1
+terrasque			3656	1	1 +QUE
 terrere			3657	1	1
-terribilem			3658	1	1
-terribili			3659	2	1
+terribilem			3658	1	1 +BILIS
+terribili			3659	2	1 +BILIS
 terris			3660	3	1
 tertio			3661	1	1
 teruntur			3662	1	1
@@ -3669,7 +3669,7 @@ texitur			3668	1	1
 textrinum			3669	1	1
 tiberine			3670	1	1
 tiberis			3671	1	1
-tibi			3672	15	1	2033.623	1.000
+tibi			3672	15	1
 tibia			3673	1	1
 tibicina			3674	1	1
 timebat			3675	1	1
@@ -3795,14 +3795,14 @@ uastòs			3794	1	1
 uates			3795	1	1
 uatesque			3796	1	1
 ubere			3797	1	1
-ubi			3798	17	1	2304.772	1.000
+ubi			3798	17	1
 uecti			3799	1	1
 uegebat			3800	1	1
 ueges			3801	1	1
 uel			3802	7	1
 ueles			3803	1	1
 uelit			3804	2	1
-ueliuolantibus			3805	1	1
+ueliuolantibus			3805	1	1 +COMPOUND
 ueliuolas			3806	1	1
 ueliuolis			3807	1	1
 uellet			3808	1	1
@@ -4033,8 +4033,8 @@ urbi			4032	1	1
 urguemur			4033	1	1
 urserat			4034	1	1
 uruat			4035	1	1
-usurpat			4036	1	1
-ut			4037	40	1	5422.993	1.000
+usurpat			4036	1	1 +COMPOUND
+ut			4037	40	1
 utendas			4038	1	1
 uter			4039	1	1
 uti			4040	8	1

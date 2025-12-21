@@ -8,13 +8,13 @@ abeuntēs			4	1 +l+ABÌRE +r+Ì +p+AB +NT
 --------------------------
 abietem			    7	2 +PLANT
 --------------------------
-abjecta			    5	1 +p+AB
-abjectum			6	1 +p+AB
+abiecta			    5	1 +p+AB
+abiectum			6	1 +p+AB
 --------------------------
 absentem			9	1 +r+ES +p+AB +NT
 --------------------------
 abstulit			10	1 +p+AB
-abstulì			    11	1 +p+AB
+abstulī			    11	1 +p+AB
 --------------------------
 absūmor			    12	1 +r+SÙM +p+AB
 --------------------------
@@ -41,6 +41,7 @@ acerbum			    24	1 +l+ACERBUS
 ācerrimum			25	1 +SUPERLATIVE
 --------------------------
 acervōs			    26	1
+--------------------------
 achillēs			28	1 +NAME +GREEK
 achillī			    29	1 +NAME +GREEK
 --------------------------
@@ -79,15 +80,15 @@ adeō			    47	2
 adfare			    48	1 +p+AD
 adfarī			    49	1 +p+AD
 --------------------------
-adfinis			    50	1 +p+AD
-adfinitas			51	1 +p+AD
+adfīnis			    50	1 +p+AD
+adfīnitàs			51	1 +p+AD +TÀT
 --------------------------
 adgreditur			52	1 +p+AD
 adhibeant			53	1
-adhuc			54	1
+adhūc			54	1
 adit			55	1
 aditum			56	1
-adiutricem			57	1
+adiūtrīcem			57	1
 adiuuerit			58	1
 adlidere			59	1 +p+AD
 adloquar			60	1 +p+AD
@@ -115,11 +116,11 @@ aduorsum			81	1
 aduortite			82	1
 adutus			83	1
 --------------------------
-aegistus			84	2
+aegistus		84	2
 aegroto			85	1
 aeneadae			86	1
 aequam			87	1
-aeque			88	1
+aequē			88	1
 aequiter			89	1
 aequora			90	1
 aere			91	1
@@ -186,25 +187,25 @@ amantem			146	1
 amburī			147	1
 amentia			148	1 +r+MENT +p+AB +IA
 --------------------------
-amici			149	1
-amicitia		150	1
-amicum			151	1
-amicus			152	1
-amicī			153	1
-amicō			154	1
+amīcī			149	1
+amīcitia		150	1 +TIA 
+amīcum			151	1
+amīcus			152	1
+amīcī			153	1
+amīcō			154	1
 --------------------------
-amisī			155	1
-amittas			156	1
-amitte			157	1
-amittuntur		158	1
+āmīsī			155	1 +p+AB +r+MITT
+āmittās			156	1 +p+AB +r+MITT
+āmitte			157	1 +p+AB +r+MITT
+āmittuntur		158	1 +p+AB +r+MITT
 --------------------------
 amnem			159	1
-amni			160	1
+amnī			160	1 
 --------------------------
 amolire			161	1
 amore			162	1
-ampilocum			163	1
-ampitruo			164	1
+ampilocum		163	1
+ampitruō		164	1 +NAME +GREEK
 amplexa			165	1
 ampliter			166	1
 amplius			167	1
@@ -219,10 +220,10 @@ angustitate			174	1 +TÀT
 angustitatem		175	1 +TÀT
 --------------------------
 anima			176	2
-animaduertet			177	1 +COMPOUND
 animae			178	2
 animam			179	2
-animatus			180	1
+animaduertet	177	1 +COMPOUND +UNIVERBATION
+animatus		180	1 +ATUS
 animatō			181	1
 animis			182	1
 animum			183	5
@@ -231,6 +232,7 @@ animī			185	1
 animō			186	10
 anni			187	1
 annis			188	1
+--------------------------
 annuō			189	1
 ante			190	2
 antigona			191	2
@@ -410,15 +412,15 @@ cape			359	2
 capere			360	1
 capiti			361	2
 capiās			362	1
-caprigenum			363	1 +COMPOUND
+caprigenum		363	1 +COMPOUND
 capsit			364	1
-captandum			365	1
-captiuom			366	1
+captandum		365	1
+captiuom		366	1
 captus			367	1
 capus			368	2
 caput			369	1
 castis			370	1
-castitùdinem			371	1 +TÙDIN
+castitùdinem	371	1 +TÙDIN
 castra			372	3
 casum			373	1
 caudā			374	1
@@ -2242,7 +2244,7 @@ publicam			2055	1
 pudetque			2056	1 +QUE
 puer			2057	1
 puerum			2058	1
-pulcerrumē			2059	1
+pulcerrumē			2059	1 +SUPERLATIVE
 pulcritudine			2060	1 +TÙDIN
 pulcrum			2061	1
 pulsum			2062	1
@@ -2551,7 +2553,7 @@ socordia			2352	1
 socru			2353	1
 sol			2354	1
 solis			2355	2
-solitātem			2356	1
+solitātem			2356	1 +TÀT
 solitō			2357	1
 somnis			2358	1
 somnō			2359	1
@@ -2822,7 +2824,7 @@ tālī			2623	1
 tē			2624	20
 tēnsae			2625	1
 tēque			2626	1 +QUE
-tōnsillās			2627	1
+tōnsillās			2627	1 
 tōnsu			2628	1
 tū			2629	11
 tūte			2630	1
@@ -2916,7 +2918,7 @@ uinci			2717	1
 uincite			2718	1
 uiperinō			2719	1
 uir			2720	1
-uirginali			2721	1
+uirginali			2721	1 +LIS
 uirgini			2722	1
 uiri			2723	2
 uiridia			2724	1
@@ -2958,7 +2960,7 @@ unquam			2759	2
 uoce			2760	1
 uocibus			2761	1
 uocēs			2762	1
-uolatilis			2763	1
+uolatilis			2763	1 +LIS
 uolcani			2764	1
 uolcania			2765	1
 uolgum			2766	2
@@ -2997,11 +2999,10 @@ uītam			2798	2
 uītā			2799	1
 uōs			2800	3
 ìram			2801	2
-ìrātum			2802	1
-ūllō			2803	1
+ìrātum			2802	1 +ÀTUS
+ūllō			2803	1 +DIMINUTIVE
 ūnica			2804	1
 ūnum			2805	1
-
 ānfracta			2807	1
 ātrā			2808	1
 ātrātus			2809	1
@@ -3010,7 +3011,7 @@ uōs			2800	3
 ēgregiē			2812	1
 ēnse			2813	1
 ēuoluont			2814	1
-īlicō			2815	1
+īlicō			2815	1 +UNIVERBATION
 īnfandō			2816	1
 īnfantum			2817	1
 īnferis			2818	1
@@ -3030,10 +3031,10 @@ uōs			2800	3
 īnsolentia			2832	1
 īnstiteram			2833	1
 īnstitit			2834	3
-īre			2835	1
-ō			2836	6
-ōstentum			2837	1
-ūlla			2838	3
-ūlli			2839	1
-ūsurpant			2840	1
+īre			    2835	1
+ō			    2836	6
+ōstentum		2837	1
+ūlla			2838	3 +DIMINUTIVE
+ūlli			2839	1 +DIMINUTIVE
+ūsurpant		2840	1 +COMPOUND
 ūtier			2841	1
