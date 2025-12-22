@@ -97,7 +97,7 @@ quamuīs quaestuōsus siet, sī sūmptuōsus erit, relinquī nōn multum.
 praedium quod prīmum siet, sī me rogābis, sīc dicam:
 dē omnibus agrīs optimōque locō iūgera agrī centum, 
 uīnea est prima, uel sī uīnō multō est; 
-secundō locō hortus irriguos; 
+secundō locō hortus irriguōs; 
 tertiō salictum; 
 quārtō olētum; 
 quīntō prātum;
@@ -141,18 +141,18 @@ picārī,
 uīllam pūrgārī,
 frūmentum trānsferrī,
 stercus forās efferrī,
-stercilinum fierī, 
+sterculīnum fierī, 
 sēmen pūrgārī,
-fūnes sarcīrī,
+fūnīs sarcīrī,
 nouōs fierī,
 centōnēs, cuculiones familiam oportuisse sibi sarcīre;
  
 per feriās potuisse
-fossās ueterēs tergerī,
-uiam pūblicam munīrī,
+fossās ueterēs tergērī,
+uiam pūblicam mūnīrī,
 uepres recidī,
 hortum fodīrī,
-pratum pūrgārī,
+prātum pūrgārī,
 uirgās uincīrī,
 spinās runcārī,
 expīnsi far, 
@@ -167,7 +167,7 @@ quae relicua opera sint, cūrāre utī perficiantur.
 ratiōnēs putāre argentāriam, frūmentāriam,
 pābulī caussā quae parāta sunt;
 
-ratiōnem uīnāriam, oleāriam, quid uenierit, quid exactum siet,
+ratiōnem uīnāriam, oleāriam, quid uenierit, quid exāctum siet,
 quid relicuum siet,
 quid siet quod uēneat; 
 quae satis accipiunda sint, 
@@ -186,22 +186,25 @@ pecus cōnsīderet.
 auctiōnem utī faciat:
 uēndat oleum, sī pretium habeat;
 uīnum, frūmentum quod supersit, uēndat;
-boues uetulōs, armenta delicula, oues deliculas,
+boues uetulōs, armenta delicula, ouēs deliculās,
 lānam, pelles, plostrum uetus, ferrāmenta uetera, 
 seruum senem, seruum morbōsum, 
 et sī quid aliut supersit, uēndat.
 
 patrem familiās uēndācem, nōn emācem esse oportet.
  
-prima adulēscentia patrem familiae agrum cōnserere studēre oportet; 
-aedificāre diù cōgitāre oportet, 
+prīmā adulēscentiā 
+patrem familiae agrum cōnserere studēre oportet.
 
-cōnserere cōgitāre nōn oportet, sed facere oportet. 
+aedificāre diū cōgitāre oportet
+cōnserere cōgitāre nōn oportet
+(sed facere oportet). 
 
-ubi aetās accessit ad annōs XXXVI, tum aedificāre oportet,
-sī agrum cōnsitum habeās. 
+[ubi aetās accessit ad annōs XXXVI] 
+$tum$ aedificāre oportet,
+[sī agrum cōnsitum habeās]. 
 
-ita aedifices, nē uīlla fundum quaerat.
+ita aedificēs [nē uīlla fundum quaerat].
 
 patrem familiae uīllam rūsticam bene aedificātam habēre expedit,
 cellam oleāriam, uīnāriam, dōlia multa,
@@ -217,27 +220,27 @@ cōgitātō quot annīs tempestātēs magnās uenīre et oleam deicere solēre:
 sī citō sustuleris et uāsa parāta erunt,
 damnī nihil erit ex tempestāte et oleum uiridius et melius fīet. 
 
-sī in terra et tabulātō olea nimium diu erit, putescet, oleum fetidum fīet;
+sī in terra et tabulātō olea nimium diu erit, putescet, oleum foetidum fīet;
 
 ex quāuīs olea oleum uiridius et bonum fierī potest, sī temperi faciēs.
 
-in iugera oleti CXX uāsa bīna esse oportet, 
-sī oletum bonum beneque frequēns cultumque erit; 
+in iugera olētī CXX uāsa bīna esse oportet, 
+sī olētum bonum beneque frequēns cultumque erit; 
 
 trapetōs bonōs prīuōs impares esse oportet,
-sī orbes contriti sient, ut commutare possīs; 
+sī orbes contriti sient, ut commūtāre possīs; 
 
 fūnes loreōs prīuōs,
 uectes sēnōs, 
-fibulās duodenas, 
-medipontōs prīuōs loreos
+fibulās duodenās, 
+medipontōs prīuōs loreōs
 trochileās graecanicās 
 
 bīnīs fūnibus sparteīs ducant 
 
 orbiculis superiōribus octōnīs, 
 īnferiōribus senis 
-citius duces; 
+citius dūcēs; 
 
 sī rotās uoles facere, tardius ducetur, sed minōre labōre.
 
@@ -342,7 +345,7 @@ arātra uōmerēsque facitō utī bonōs habeās.
 
 terram cariōsam
 caue nē arēs, 
-nēue plostrum nēue pecus impellas:
+nēue plostrum nēue pecus impellās:
 
 sī ita nōn cāueris, quō impuleris,
 triennii frūctum āmittēs.
@@ -394,22 +397,23 @@ oleae in XXV aut in XXX pedes cōnseritō.
 ager
 olētō cōnserundō, quī in uentum fauonium spectābit 
 et sōlī ostentus erit: alius bonus nullus erit. quī ager 
-frigidior et macrior erit, ibi oleam licinianam seri oportet; sin in locō crassō aut calidō seueris, hostus nequam
+frigidior et macrior erit, ibi oleam licinianam serī oportet; sin in locō crassō aut calidō seueris, hostus nēquam
 erit et ferundō arbor perībit et muscus ruber molestus 
 erit. 
 circum coronās et circum uiās ulmōs seritō et
-partim populōs, utī frondem ouibus et bubus habeas, et 
-materia, sī quō opus sit, parata erit. sicubi in iis 
-locis ripae aut locus umectus erit, ibi cacumina populorum seritō et harundinetum. id hòc modò seritō: bipaliō uortitō; ibi oculōs arundinis pedes ternōs alium
-ab aliō seritō; ibi corrudam seritō, unde aspargi fiant. 
-nam conuenit harundinetum cum corruda, eō quia
-foditur et incenditur et umbram per tempus habet. salicem graecam circum harundinetum seritō, utī siet quī 
-uineam alliges. uineam quō in agrō cōnseri oportet, sīc 
-obseruātō: quī locus uinō optimus dicetur esse et ostentus soli, aminnium minusculum et geminum, eugeneum, heluolum minusculum cōnseritō; quī locus
+partim populōs, utī frondem ouibus et būbus habeās, et 
+māteria, sī quō opus sit, parāta erit. sīcubi in iis 
+locis rīpae aut locus umectus erit, ibi cacumina populorum seritō et harundinētum. id hòc modō seritō: bipaliō uortitō; ibi oculōs harundinis pedes ternōs alium
+ab aliō seritō; ibi corrudam seritō, unde aspargi fīant. 
+nam conuenit harundinētum cum corruda, eō quia
+foditur et incenditur et umbram per tempus habet. salicem graecam circum harundinētum seritō, utī siet quī 
+uīneam alligēs. uīneam quō in agrō cōnseri oportet, sīc 
+obseruātō: quī locus uīnō optimus dīcētur esse et ostentus sōlī, aminnium minusculum et geminum, eugeneum, heluolum minusculum cōnseritō; quī locus
 crassus erit aut nebulosior, ibi aminnium maius aut 
-murgentinum, apicium, lucanum seritō; ceterae uites, 
+murgentinum, apicium, lucanum seritō; cēterae uites, 
 miscellae maxime, in quemuis agrum conueniunt.
-IX dē fundō suburbanō 
+
+ 
   fundum suburbanum arbustum maxime conuenit habēre: et ligna et uirgae uenire possunt, et dominō erit quī utatur. in eodem fundō suum quidquid 
 cōnseri oportet: uitem compluariam, aminnium minusculum uinō et maius et apicium:
 eae
@@ -421,22 +425,22 @@ cotonea, scantiana, quiriniana, item alia conditiua, mala
 mustea et punica (eō lotium suillum aut stercus ad radicem addere oportet, utī pabulum malorum fiant), 
 pira uolaema, aniciana et sementiua (haec conditiua
 in sapa bona erunt), tarentina, mustea, cucurbitiua, 
-item alia genera quam plurima poteris seritō aut īnseritō. oleās orchites, posias: eae optime conduntur uel
+item alia genera quam plurima poteris seritō aut īnseritō. oleās orchites, posiās: eae optime conduntur uel
 uirides in muria uel in lentiscō contusae; uel orchites,
 ubi nigrae erunt et siccae, sale cōnfriātō dies V: posteā
 salem excutitō, in sōle pōnitō biduum, uel sine sale in
 defrutum conditō. sorua in sapa condere uel siccare: 
-arida facias; item pira facias. 
+arida faciās; item pira faciās. 
 
 -------------------------------------------------------
 
-  ficōs mariscās in locō cretōsō et apertō seritō; africanās et herculaneas, sacontinas, hibernas, tellanas
+  ficōs mariscās in locō cretōsō et apertō seritō; africanās et herculaneās, sacontinās, hibernās, tellanās
 atrās pediculō longo: eās in locō crassiore aut stercorātō seritō. pratum sī irrigiuum habēbis, sī nōn
 erit siccum, nē fenum desiet, summittitō.
 sub urbe
 hortum omne genus, coronamenta omne genus, bulbōs
 magaricōs, murtum coniugulum et album et nigrum, 
-loream delphicam et cypream et siluaticam, nuces caluas, abellanas, praenestinas, graecas: haec facitō utī
+loream delphicam et cypream et siluaticam, nuces caluās, abellanās, praenestinās, graecās: haec facitō utī
 serantur. fundum urbanum, et quī eum fundum solum 
 habēbit, ita paret itaque cōnserat, utī quam sollertissimum habeat. 
 
@@ -465,12 +469,12 @@ III, semunciās trēs, īnstrata asinis III; ferramenta:
 ferreās VIII, sarcula VIII, palās IIII, rutra V, 
 rastrōs quadridentes II, falces fenariās †.n. III†,
 stramentariās V, arborariās V, securis III, cuneōs
-III, fistulam farrariam I, forpicis duas, rutabulum I, 
+III, fistulam farrariam I, forpicis duās, rutabulum I, 
 foculōs II;
 dolia olearia C, labra XII, dolia quō
 uinaciōs condat X, amurcaria X, uinaria X, frumentaria XX, lupinarium I, seriās X, labrum eluacrum
 unum, solium I, labra aquaria II, opercula doliis seriis 
-priua; molās asinariās unās et trusatilis unas, hispaniēnsis unas, molilia III, abacum I, orbes aheneōs II, mēnsas
+priua; molās asinariās unās et trusatilis unās, hispaniēnsis unās, molilia III, abacum I, orbes aheneōs II, mēnsās
 II, scamna magna III, scamnum in cubiculō I, scabilla III, sellās IIII, solia duō, 
 lectum in cubiculo
 I, lectōs loris subtentōs IIII et lectōs III; pilam
@@ -512,18 +516,18 @@ culcitās IIII, īnstragula IIII, puluinōs VI, operimenta VI, mappās III, cent
   in torcularium quae opus sunt uasis quinis: prela
 temperata V, superuacanea III, suculās V, superuacaneam I, funes loreōs V, subductariōs V, melipontis
 V, trochliās X, capistra V, assercula ubi prela 
-sita sient V, seriās III, uectes XL, fibulās XL cōnstibilis ligneas, quī arbores comprimat sī dishiascent, 
+sita sient V, seriās III, uectes XL, fibulās XL cōnstibilis ligneās, quī arbores comprimat sī dishiascent, 
 et cuneōs VI, trapetōs V, cupās minusculās X, alueōs
 X, palās ligneās X, rutra ferrea quīnque. 
 XV quō modō torcularium et cellam oleariam parare 
 oporteat 
   in torcularium in usu quod opus est: urceum,
-ahenum I quod capiat q. V, uncōs ferreōs III, orbem aheneum I, molas, cribrum I, incerniculum I,
+ahenum I quod capiat q. V, uncōs ferreōs III, orbem aheneum I, molās, cribrum I, incerniculum I,
 securim I, scamnum I, seriam uinariam I, clauem 
 torculari I, lectum stratum ubi duō custodes liberi
 cubent (tertius seruus una cum factoribus utī cubet), 
-fiscinās nouas, ueteres, epidromum, puluinum, lucernas, corium I, craticulās duas, carnarium I, scalās 
-unas. 
+fiscinās nouās, ueteres, epidromum, puluinum, lucernās, corium I, craticulās duās, carnarium I, scalās 
+unās. 
 
 -------------------------------------------------------
 
@@ -532,24 +536,24 @@ opercula, labra olearia XIIII, concās maioris II et
 minoris II, trullās aheneās tris, amphorās oleariās 
 II, urceum aquarium I, urnam quinquagenariam I, 
 sextarium olearium I, labellum I, īnfidibula II,
-spongeās II, urceōs fictiles II, urnales II, trullas
+spongeās II, urceōs fictiles II, urnales II, trullās
 ligneās II, claues cum clostris in cellās II, trutinam I, 
 centumpondium inerctum I et pondera cetera. 
 XVII uīllam aedificandam sī locabis 
   uīllam aedificandam sī locabis nouam ab solō, faber
 haec faciat oportet: parietes omnes, utī iussitur, calce 
 et caementis, pilās ex lapide angulari, tigna omnia quae 
-opus sunt, limina, postes, iugumenta, asseres, fulmentas, praesepis bubus hibernās aestiuās faliscas,
+opus sunt, limina, postes, iugumenta, asseres, fulmentās, praesepis bubus hibernās aestiuās faliscās,
 equile, cellās familiae, carnaria III, orbem, ahenea
 II, harās X, focum, ianuam maximam et alteram quam 
-uolet dominus, fenestras, clatrōs in fenestrās maioris
+uolet dominus, fenestrās, clatrōs in fenestrās maioris
 lumina sex bipedalis X, scamna III, sellās V, telās 
-iogalis duas, luminaria VI, paullulam pilam ubi
+iogalis duās, luminaria VI, paullulam pilam ubi
 triticum pīnsat I, fulloniam I, antepagmenta, uasa 
 torcula II. 
 hae rei materiem et quae opus sunt dominus praebebit et ad opus dabit: serram I, lineam I 
 (materiam dumtaxat succidet dolabit secabit facietque 
-conductor), lapidem, calcem, harenam, aquam, paleas, 
+conductor), lapidem, calcem, harenam, aquam, paleās, 
 terram unde lutum fiat. sī dē caelō uīlla tacta siet, dē ea re
 u. b. a. utī fiat. huic operi pretium ab dominō bonō, 
 quī bene praebeat quae opus sunt et nummōs fide bona
@@ -560,7 +564,7 @@ binis putabuntur; uallus quot erunt, in singulās quaternae numerabuntur.
   uīlla lapide calce: fundamenta supra terram pede; ceterōs parietes ex latere; iugumenta et antepagmenta,
 quae opus erunt, inditō. 
 cetera lex utī uīlla ex calce
-caementis. pretium in tegulās singulas: n. s. 
+caementis. pretium in tegulās singulās: n. s. 
 locō salubri bonō dominō haec quae supra pretia posita 
 sunt; ex signō manipretium erit. locō pestilenti, ubi 
 aestate fierī nōn potest, bonō dominō pars quarta
@@ -630,7 +634,7 @@ modum facitō: ubi libraueris, dē glarea et calce harenātō prīmum corium fac
 alte digitōs duō, ibi dē testa arida pauimentum struito:
 ubi structum erit, pauitō fricātōque, utī pauimentum
 bonum siet.
-arbores stipites robustās facitō aut pineas. sī trabes minores facere uoles, canalis extra columnam expolito: sī ita feceris, trabes p. XXII longae opus 
+arbores stipites robustās facitō aut pineās. sī trabes minores facere uoles, canalis extra columnam expolito: sī ita feceris, trabes p. XXII longae opus 
 erunt. 
 orbem olearium latum p. IIII punicanis coagmentis facitō: crassum digitōs VI facitō, subscudes
 iligneās adindito: eās ubi cōnfixeris, clauis corneis occluditō. in eum orbem tris catenās indito: eās catenās cum 
@@ -657,8 +661,8 @@ p. VIII.
 oportet in mediō ad perpendiculum; cuneis salignis circumfigi oportet bene; eō plumbum effundere. caueat ni 
 labet columella: sī mouebitur, eximitō; denuō eodem
 modō facitō, nē se moueat. 
-modiolōs in orbis oleagineōs ex orcite olea facitō; eōs circumplumbātō; cauētō nē laxi sient; in cupam eōs inditō. cunicas
-solidas, latās digitum pollicem facitō; labeam bifariam 
+modiolōs in orbis oleagineōs ex orcite olea facitō; eōs circumplumbātō; cauētō nē laxi sient; in cupam eōs inditō. cunicās
+solidās, latās digitum pollicem facitō; labeam bifariam 
 faciat habeant, quās figat clauis duplicibus, nē cadant. 
 
 -------------------------------------------------------
@@ -671,18 +675,18 @@ inter cupam dextra sinistra pertunditō late
 digitōs primoris IIII, alte digitōs primoris III; sub
 cupa tabulam ferream latam quam cupa media erit, 
 pertusam figitō, quae in columellam conueniat. dextra 
-sinistra, foramina ubi feceris, lamnis circumplectitō; replicātō in īnferiorem partem cupae omnis quattuor lamminas;
+sinistra, foramina ubi feceris, lamnis circumplectitō; replicātō in īnferiorem partem cupae omnis quattuor lamminās;
 dextra sinistra, foramina utrimque secus,
 lamminās sub lamminās pollulās minutās supponito: eās inter sese cōnfigitō, nē foramina maiora fiant, 
 quō cupulae minusculae indentur. cupa quā fini in 
 modiolōs erit, utrimque secus imbricibus ferreis quattuor
-dē suō sibi utrimque secus facitō quī figas. imbrices 
+dē suō sibi utrimque secus facitō quī figās. imbrices 
 mediās clauulis figitō; supra imbrices extrīnsecus cupam 
 pertunditō, quā clauus eat quī orbem cludat. 
 īnsuper
 foramen librarium ferreum digitōs sex latum inditō, pertusum utrimque secus, quā clauus eat. haec omnia eius
 rei caussa fiunt, utī nē cupa in lapide conteratur. armillās 
-IIII facitō, quās circum orbem indas, nē cupa et clauus
+IIII facitō, quās circum orbem indās, nē cupa et clauus
 conterantur intrīnsecus. 
 cupam materia ulmea aut
 faginea facitō. ferrum factum, quod opus erit, utī idem 
@@ -723,7 +727,7 @@ HS XXX: tantidem pompeis emitur.
   fac ad uindemiam quae opus sunt ut parentur. uasa 
 lauentur; corbulae sarciantur, picentur; dolia, quae opus 
 sunt, picentur. quom pluet, quala parentur, sarciantur; far molatur; maenae emantur, oleae caducae salliantur.
-uuās miscellas, uīnum praeliganeum quod operarii bibant, ubi tempus erit, legitō. siccum puriter 
+uuās miscellās, uīnum praeliganeum quod operarii bibant, ubi tempus erit, legitō. siccum puriter 
 omnium dierum pariter in dolia diuiditō. sī opus erit, defrutum inditō in mustum dē mustō lixiuō coctum:
 partem quadragesimam additō defriti uel salis sesquilibram in culleum.
 marmor sī indes, in culleum libram inditō: id inditō in urnam. miscētō cum mustō:
@@ -751,7 +755,7 @@ bene percoctum siccumque legere, nē uīnum nomen perdat. uinaceōs cotidie rece
 indidem, sī uoles, lauitō paulatim: erit lorea familiae
 quod bibat. 
 XXIX uindemia facta ut uasa torcula subligentur 
-  uindemia facta, uasa torcula, corbulas, fiscinas, funis, 
+  uindemia facta, uasa torcula, corbulās, fiscinās, funis, 
 patibula, fibulās iubētō suō quidquid locō condi. dolia
 cum uinō bis in diē fac extergeantur, priuasque scopulās in dolia facitō habeās illi rei, quī labra doliorum 
 circumfrices. ubi erit lectum dies triginta, sī bene deacinata erunt, dolia oblinitō. sī uoles dē faece demere uīnum, 
@@ -761,11 +765,11 @@ XXX sementim ut faciās
 pabuli sationem facitō; deinde aliās fruges seritō. scrobis in ueruactō oleis, ulmis, uitibus, ficis: simul cum 
 semine seritō. sī erit locus siccus, tum oleās per sementim seritō, et quae ante satae erunt, tenerās tum supputātō et arbores ablaqueātō.
 XXXI oleās et reliqua semina cum seres, quō modō serās 
-  oleas, ulmōs, ficōs, poma, uites, pinōs, cupressōs cum
+  oleās, ulmōs, ficōs, poma, uites, pinōs, cupressōs cum
 seres, bene cum radicibus eximitō cum terra sua quam
 plurima circumligatoque, utī ferre possis: in alueō aut 
 in corbula ferri iubētō. cauētō, cum uentus siet aut
-imber, effodiās aut feras: nam id maxime cauendum
+imber, effodiās aut ferās: nam id maxime cauendum
 est. 
 in scrobe quom pones, summam terram subditō;
 posteā operitō terra radicibus fini, deinde calcatō pedibus bene, deinde festucis uectibusque calcatō quam
@@ -775,13 +779,13 @@ digitis quīnque quae erunt, eās praecisās seritō oblinitoque fimō summās e
 -------------------------------------------------------
 
 stercus diuiditō sīc: partem dīmidiam in segetem, ubi
-pabulum seras, inuehitō et, sī ibi olea erit, simul ablaqueatō stercusque additō: posteā pabulum seritō. partem quartam circum oleās ablaqueatas, quom maxime
+pabulum serās, inuehitō et, sī ibi olea erit, simul ablaqueatō stercusque additō: posteā pabulum seritō. partem quartam circum oleās ablaqueatās, quom maxime
 opus erit, additō terraque stercus operitō; alteram quartam partem in pratum reseruatō idque, cum maxime
 opus erit, ubi fauonius flabit, euehitō luna silenti.
 
 -------------------------------------------------------
 
-  bùbus frondem ulmeam, populneam, querneam, ficulnam, usque dum habēbis, datō. ouibus frondem 
+  būbus frondem ulmeam, populneam, querneam, ficulnam, usque dum habēbis, datō. ouibus frondem 
 uiridem, usque dum habēbis, praebētō. ubi sementim
 facturus eris, ibi oues delectato: et frondem usque ad 
 pabula matura. pabulum aridum, quod condideris in
@@ -799,14 +803,14 @@ postmeridie sine uentō austro: tum erit tempestiua,
 cum semen suum maturum erit, cauētōque per rorem trahās aut doles. quae materies semen nōn habebit, cum glubet, tempestiua erit. uentō austrō cauētō nē
 quam materiem neue uīnum tractes nisi necessariō.
 
-uineās arboresque màtùrē face incipiās putàre.
+uineās arboresque màtūrē face incipiās putàre.
 uites propages per sulcòs: susum uorsum, quod eius 
-facere poteris, uitis facitō utī ducas. arbores hòc modò 
+facere poteris, uitis facitō utī ducās. arbores hòc modò 
 putentur: rami utī diuaricentur, quōs relinques, et utī
 rēctē caedantur et nē nimium crebri relinquantur.
 uites
 bene nodentur: per omnès ramōs diligenter cauētō nē
-uitem praecipites et nē nimium praestringas. arbores 
+uitem praecipites et nē nimium praestringās. arbores 
 facitō utī bene maritae sint uitesque utī satis multae 
 adserantur et, sicubi opus erit, dē arbore deiciantur,
 utī in terram deprimantur, et bienniō post praeciditō
@@ -818,7 +822,7 @@ ueteres.
 deligatō rēctē, flexuosa utī nē sit, susum uorsum semper 
 ducitō, quod eius poteris. uinariōs custodesque rēctē
 relinquitō. quam altissimam uiniam facitō alligatoque 
-rēctē, dum nē nimium cōnstringas. hòc modò eam cūrato: capita uitium per sementim ablaqueatō;
+rēctē, dum nē nimium cōnstringās. hòc modò eam cūrato: capita uitium per sementim ablaqueatō;
 uineam
 putatam circumfoditō, arare incipitō; ultrō citroque 
 sulcōs perpetuōs ducitō. uites tenerās quam prīmum propagatō, sīc occatō, ueteres quam minimum castratō;
@@ -827,7 +831,7 @@ uitem nouellam resicari tum erit tempus, ubi ualebit.
 sī uinea a uite calua erit, sulcōs interponitō ibique
 uiueradicem seritō. umbram ab sulcis remouētō crebroque foditō. in uinea uetere seritō ocinum, sī macra
 erit. quod granum capiat nē seritō, et circum capita 
-additō stercus, paleas, uinaceas, aliquid horum, quō
+additō stercus, paleās, uinaceās, aliquid horum, quō
 rēctius ualeat.
 ubi uinea frondere coeperit, pampinatō.
 uineās nouellās alligatō crebrō, nē caules praefringantur; et quae iam in perticam ibit, eius pampinōs tenerōs
@@ -875,7 +879,7 @@ seri oportet. rapinam et coles rapicii unde fiant et raphanum in locō stercorat
 
   quae segetem stercorant. stercus columbinum spargere 
 oportet in pratum uel in hortum uel in segetem; caprinum, ouillum, bubulum, item ceterum stercus omne 
-sedulō cōnseruatō. amurcam spargās uel irriges ad arbores: circum capita maiora amphoras, ad minora urnas
+sedulō cōnseruatō. amurcam spargās uel irriges ad arbores: circum capita maiora amphorās, ad minora urnās
 cum aquae dimidiō addito: ablaqueatō prius nōn alte. 
 
 -------------------------------------------------------
@@ -887,7 +891,7 @@ haec omnia segetem exsugunt et omnia quae uelluntur.
 nucleōs in segetem nē indideris.
   quae segetem stercorent fruges: lupinum, faba,
 uicia. 
-  stercus unde facias: stramenta, lupinum, paleas, 
+  stercus unde faciās: stramenta, lupinum, paleās, 
 fabalia, acus, frondem iligneam, querneam. ex 
 segeti uellitō ebulum, cicutam et circum salicta
 herbam altam uluamque: eam substernitō ouibus bubusque, frondem putidam. partem dē nucleis succernitō
@@ -902,10 +906,10 @@ quōs pridie in tectō posueris, siccōs dolatō, faculās facitō, stercus eger
 nisi intermestri lunaque dimidiata tum nē tangās materiem: quam effodies aut 
 praecides abs terra, diebus VII proximis, quibus luna 
 plena fuerit, optime eximetur. omninō cauētō nē quam
-materiam doles neu caedās neu tangas, sī potes, nisi
+materiam doles neu caedās neu tangās, sī potes, nisi
 siccam neu gelidam neu rorulentam. 
 frumenta face
-bis sariās runcesque auenamque destringas. 
+bis sariās runcesque auenamque destringās. 
 
 -------------------------------------------------------
 
@@ -927,7 +931,7 @@ tempore intermittatur cauētō. lapidem bonum in fornacem quam candidissimum, qu
 cum fornacem faciēs, fauces praecipites deorsum
 facitō; ubi satis foderis, tum fornaci locum facitō, utī 
 quam altissima et quam minime uentosa siet. sī parum 
-altam fornacem habēbis ubi facias, latere summam 
+altam fornacem habēbis ubi faciās, latere summam 
 statuitō aut caementis cum lutō summamque extrīnsecus oblinitō.
 cum ignem subdideris, sī quā flamma
 exibit nisi per orbem summum, lutō oblinitō. uentus ad 
@@ -937,7 +941,7 @@ lapides coctōs esse oportebit: item īnfimi lapides
 cocti cadent et flamma minus fumosa exibit. 
 XLV sī ligna et uirgās nōn poteris uendere 
   sī ligna et uirgās nōn poteris uendere neque lapidem 
-habēbis unde calcem coquas, dē lignis carbones coquitō; 
+habēbis unde calcem coquās, dē lignis carbones coquitō; 
 uirgās et sarmenta, quae tibi usioni supererunt, in segete comburito: ubi eās combusseris, ibi papauer seritō.
 
   ubi tempestates malae erunt, cum opus fierī nōn 
@@ -950,8 +954,8 @@ p. I, resinae p. I, sulpuris p. ::.
 haec omnia in
 calicem nouum indito: eō additō gypsum contritum, utī
 crassitudō fiat quasi emplastrum: eō dolia sarcitō. ubi 
-sarseris, quī colorem eundem facias, cretae crudae partes 
-duas, calcis tertiam commiscētō: inde laterculōs facitō,
+sarseris, quī colorem eundem faciās, cretae crudae partes 
+duās, calcis tertiam commiscētō: inde laterculōs facitō,
 coquitō in fornacem, eum conteritō idque inducitō.
   per imbrem in uīllam quaeritō quid fierī possit. nē
 cessetur, munditiās facitō. cogitatō, sī nihil fiet, nihilō 
@@ -962,10 +966,10 @@ minus sumptum futurum.
 per uer haec fierī oportet: sulcōs et scrobes fierī;
 seminariis, uitiariis locum uerti; uites propagari. in locis
 crassis et umectis ulmōs, ficōs, poma, oleās seri oportet: 
-ficōs, oleas, mala, pira, uites īnseri oportet luna silenti post 
-meridiem sine uentō austrō. oleas, ficōs, pira, mala hōc
+ficōs, oleās, mala, pira, uites īnseri oportet luna silenti post 
+meridiem sine uentō austrō. oleās, ficōs, pira, mala hōc
 modō īnseritō:
-quem ramum īnsiturus eris, praeciditō, inclinatō aliquantum, ut aqua defluat; cum praecides, cauētō nē librum conuellas. sumitō tibi surculum
+quem ramum īnsiturus eris, praeciditō, inclinatō aliquantum, ut aqua defluat; cum praecides, cauētō nē librum conuellās. sumitō tibi surculum
 durum, eum praeacuitō, salicem graecam discindito: 
 argillam uel cretam coadditō, harenae paululum et
 fimum bubulum: haec una bene condepsitō, quam 
@@ -996,11 +1000,11 @@ sī uitis uitem continget, utriusque uitem teneram
 praeacuitō, obliquō inter sese medullam cum medulla librō colligatō. 
 tertia īnsitiō est: terebra uitem,
 quam īnseres, pertunditō, eō duōs surculōs uitigineōs,
-quod genus esse uoles, īnsectōs obliquōs artitō ad medullam: facitō iis medullam cum medulla coniungas
+quod genus esse uoles, īnsectōs obliquōs artitō ad medullam: facitō iis medullam cum medulla coniungās
 artitoque ea quā terebraueris alterum ex altera parte.
 eōs surculōs facitō sint longi pedes binōs, eōs in terram
 demittitō replicatoque ad uitis caput, mediās uitis uinclis in terram defigitō terraque operitō. haec omnia luto
-depstō oblinitō alligatō integitoque ad eundem modum tamquam oleas.
+depstō oblinitō alligatō integitoque ad eundem modum tamquam oleās.
 
 -------------------------------------------------------
 
@@ -1036,12 +1040,12 @@ bene ēnodatō stirpesque leuis facitō.
 
 -------------------------------------------------------
 
-  taleās oleagineas, quās in scrobe saturus eris, tripedaneās deciditō diligenterque tractatō, nē liber laboret, cum dolabis aut secabis; quās in seminariō saturus
+  taleās oleagineās, quās in scrobe saturus eris, tripedaneās deciditō diligenterque tractatō, nē liber laboret, cum dolabis aut secabis; quās in seminariō saturus
 eris, pedalis facitō. eās sīc īnserito: locus bipaliō subactus siet beneque terra tenera siet beneque glittus
 siet. 
 cum taleam demittes, pede taleam opprimito:
-sī parum descendet, maleolō aut mateola adigitō cauētōque nē librum scindas, cum adiges. palō prius locum
-nē feceris, quō taleam demittas. sī ita seueris, ut †us† 
+sī parum descendet, maleolō aut mateola adigitō cauētōque nē librum scindās, cum adiges. palō prius locum
+nē feceris, quō taleam demittās. sī ita seueris, ut †us† 
 stet, talea melius uiuet.
 taleae, ubi trimae sunt, tum
 denique maturae sunt, ubi liber sese uertet. sī in scrobibus aut in sulcis seres, ternās taleās pōnitō easque
@@ -1063,8 +1067,8 @@ seritō.
   harundinem sīc seritō: ternōs pedes oculōs disponitō.
   uitiarium eodem modō facitō seritoque. ubi uitis bima 
 erit, resicatō; ubi trima erit, eximitō. sī pecus pascetur, 
-ubi uitem serere uoles, ter prius resicatō quam ad arborem ponas; ubi V nodōs ueteres habebit, tum ad arborem pōnitō. quotannis porrinam seritō, quotannis
-habēbis quod eximas. 
+ubi uitem serere uoles, ter prius resicatō quam ad arborem ponās; ubi V nodōs ueteres habebit, tum ad arborem pōnitō. quotannis porrinam seritō, quotannis
+habēbis quod eximās. 
 
 -------------------------------------------------------
 
@@ -1080,7 +1084,7 @@ seritō crebrum tamquam linum; eō terram cribrō incernitō altam digitum trān
 aut pedibus complanatō; furcās circum offigitō, eō perticās intenditō, eō sarmenta aut cratis ficariās imponitō, 
 quae frigus defendant et solem. utī subtus homō ambulare 
 possit facitō. crebrō runcatō; simul herbae coeperint 
-nasci, eximito: nam sī herbam duram uelles, cupressos
+nasci, eximito: nam sī herbam duram uelles, cupressōs
 simul euelles. 
   ad eundem modum semen pirorum, malorum seritō
 tegitoque. nuces pineās ad eundem modum nisi tamquam 
@@ -1101,7 +1105,7 @@ prata defendes, depurgatō herbasque malās omnis
 radicitus effoditō. 
   ubi uineam deputaueris, aceruum lignorum uirgarumque facitō. ficōs interputatō et in uinea ficōs subraditō alte, nē eās uitis scandat. seminaria facitō et
 uetera resarcitō. haec facitō, ante quam uiniam fodere 
-incipias.
+incipiās.
 
 LIX ubi daps profanata erit quid fiat 
 
@@ -1119,7 +1123,7 @@ abs terra pulli quī nascentur, eōs in terram deprimitō
 extollitoque primorem partem, utī radicem capiat: inde 
 bienniō post effoditō seritoque. ficum, oleam, malum
 punicum, cotoneum aliaque mala omnia, laurum,
-myrtum, nuces praenestinas, platanum, haec omnia 
+myrtum, nuces praenestinās, platanum, haec omnia 
 a capite propagari eximique serique eodem modō oportet. 
 LXI quae diligentius propagari uoles 
   quae diligentius propagari uoles, in aullās aut in
@@ -1148,7 +1152,7 @@ ubi sementim patraueris, glandem parari legique oportet et in aquam conici. inde
 dies dari oportet et, sī nōn laborabunt, pascantur satius 
 erit, aut modium uinaceorum, quōs in dolium condideris. interdiu pascito: noctu feni p. XXV uni boui
 datō; 
-sī fenum nōn erit, frondem iligneam et hederaciam datō. paleās triticeās et hordeaceas, acus fabaginum, uicia uel dē lupinō, item dē ceteris frugibus omnia 
+sī fenum nōn erit, frondem iligneam et hederaciam datō. paleās triticeās et hordeaceās, acus fabaginum, uicia uel dē lupinō, item dē ceteris frugibus omnia 
 conditō. cum stramenta condes, quae herbosissima erunt 
 in tectō conditō et sale spargito: deinde ea prō feno
 datō. 
@@ -1180,7 +1184,7 @@ LXVI uīnum familiae quantum detur
 mēnses trēs; mēnse quārtō: heminās in dies, id est 
 in mēnse congiōs IIs; mēnse quīntō, sextō, septimō,
 octauo: in dies sextariōs, id est in mēnse congiōs
-quīnque; nonō, decimō, undecimo: in dies heminās ternas, id est amphoram; 
+quīnque; nonō, decimō, undecimo: in dies heminās ternās, id est amphoram; 
 hoc amplius saturnalibus et compitalibus: in singulōs homines congiōs. summa uini in
 homines singulōs inter annum: †cum†. compeditis,
 utī quidquid operis facient, prō portione addito: eōs 
@@ -1198,7 +1202,7 @@ alternis annis dare oportet.
 LXIX bubus cibaria 
   bubus cibaria annua. in iuga singula: lupini modiōs
 centum uiginti aut glandis modiōs CCXL, feni pondo
-I)XXC ocini, fabae M°XX, uiciae M°XXX. praeterea granatui uidētō, utī satis uiciae seras. pabulum
+I)XXC ocini, fabae M°XX, uiciae M°XXX. praeterea granatui uidētō, utī satis uiciae serās. pabulum
 cum seres, multās sationes facitō.
 LXX quō modō ager colatur 
   quid est agrum bene colere? bene arare; quid secundum? arare; tertiō? stercorare. quī oletum saepissime et 
@@ -1265,12 +1269,12 @@ quid olei subripiatur.
 LXXVII uasa olearia et uinaria extollere 
   ubi uindemia et oletās facta erit, prela extollitō; 
 funes torculōs, melipontōs, subductariōs in carnariō aut
-in prelō suspenditō; orbes, fibulas, uectes, scutulas, 
-fiscinas, corbulas, quala, scalas, patibula, omnia, quis 
+in prelō suspenditō; orbes, fibulās, uectes, scutulās, 
+fiscinās, corbulās, quala, scalās, patibula, omnia, quis 
 usus erit, in suō quidque locō reponitō.
 LXXVIII dolia quō modō imbuantur 
   dolia olearia noua sīc imbuito: amurca inplētō
-dies VII; facitō ut amurcam cotidie suppleas. posteā 
+dies VII; facitō ut amurcam cotidie suppleās. posteā 
 amurcam eximitō et arfacito:
 ubi arebit, cummim
 pridie in aquam īnfunditō, eam postridie deluitō. 
@@ -1285,7 +1289,7 @@ ulpici spicās III, alii spicās III, turis grana tria, herbae sabinae plantās 
 caules III, fabulōs albōs III, carbones uiuōs III, uini
 s. III: haec omnia sublimiter legi teri darique oportet. 
 ieiunus siet quī dabit. per triduum dē ea potione unicuique boui datō. ita diuiditō, cum ter unicuique dederis, 
-omnem absumas: bosque ipsus et quī dabit facitō ut uterque sublimiter stent. uase ligneō datō. 
+omnem absumās: bosque ipsus et quī dabit facitō ut uterque sublimiter stent. uase ligneō datō. 
 LXXX bōs sī aegrotare coeperit
   bōs, sī aegrotare coeperit, datō continuō ei unum 
 ouum gallinaceum crudum: integrum facitō deuoret. 
@@ -1315,14 +1319,14 @@ facitō, folia subditō, in focō calidō sub testu coquitō
 leniter. 
 LXXXV placentam sīc facitō 
   placentam sīc facitō: farinae siligineae L. II, 
-unde solum facias; in tracta farinae L. IIII et alicae 
+unde solum faciās; in tracta farinae L. IIII et alicae 
 primae L. II. alicam in aquam īnfundito: ubi bene mollis 
 erit, in mortarium purum inditō siccatoque bene; deinde
 manibus depsito: ubi bene subactum erit, farinae
 L. IIII paulatim additō. id utrumque tracta facitō: in 
 qualō, ubi arescant, componito: ubi arebunt, componitō puriter.
 cum faciēs in singula tracta, ubi depsueris, pannō oleō unctō tangitō et circumtergētō
-unguitoque; ubi tracta erunt, focum, ubi cocas, calfacitō bene et testum. posteā farinae L. II cōnspargitō
+unguitoque; ubi tracta erunt, focum, ubi cocās, calfacitō bene et testum. posteā farinae L. II cōnspargitō
 condepsitoque; inde facitō solum tenue. casei ouilli
 p. XIIII nē acidum et bene recēns in aquam indito: ibi 
 maceratō, aquam ter mutatō. inde eximitō siccatoque
@@ -1338,14 +1342,14 @@ caseum cum melle abusus eris. in summum tracta in
 singula inditō, posteā solum contrahitō ornatoque, focum
 deuerritō temperatoque, tunc placentam imponito:
 testō calidō operitō, pruna īnsuper et circum operitō.
-uidētō ut bene et otiose percoquas: aperitō, dum īnspicias, bis aut ter.
+uidētō ut bene et otiose percoquās: aperitō, dum īnspiciās, bis aut ter.
 ubi cocta erit, eximitō et melle unguito: haec erit placenta semodialis.
 LXXXVI spiram sīc facitō 
   spiram sīc facitō: quantum uoles prō ratione, ita utī 
 placenta fit, eadem omnia facitō, nisi aliō modō fingitō. 
 in solō tracta cum melle oblinitō bene. inde, tamquam
 restim tractes, facitō: ita imponitō in solō, simplicibus
-complētō bene arte. cetera omnia, quasi placentam facias,
+complētō bene arte. cetera omnia, quasi placentam faciās,
 facitō coquitoque. 
 LXXXVII scriblitam sīc facitō 
   scriblitam sīc facitō: in balteō, tractis, caseō ad eundem modum facitō utī placentam, sine melle, coquitoque. 
@@ -1367,7 +1371,7 @@ ubi coctum erit, irneam cōnfringitō. ita pōnitō.
 XCI spaeritam sīc facitō 
   spaeritam sīc facitō, ita utī spiram, nisi sīc fingito: 
 dē tractis, caseō, melle sphaerās pugnum altās facitō; eās 
-in solō componitō dēnsas: eodem modō componitō atque
+in solō componitō dēnsās: eodem modō componitō atque
 spiram itemque coquitō.
 
   uotum prō bubus, ut ualeant, sīc facitō: marti siluanō 
@@ -1415,13 +1419,13 @@ identidem. id aliquotiēns in diē cotidie facitō, usque adeō
 dōnec sal desiuerit tabescere biduum.
 id signi erit:
 menam aridam uel ouum demittito: sī natabit, ea muries 
-erit, uel carnem uel caseōs uel salsamenta quō condas.
+erit, uel carnem uel caseōs uel salsamenta quō condās.
 eam muriam in labella uel in patinās in sōle pōnitō: 
-usque adeō in sōle habētō dōnec concreuerit: inde flos
+usque adeō in sōle habētō dōnec concreuerit: inde flōs
 salis fiet. ubi nubilabitur et noctu sub tectō pōnitō; 
 cotidie, cum sol erit, in sōle pōnitō. 
 
-gallinās et ānserēs sīc farcito: gallinās teneras, quae 
+gallinās et ānserēs sīc farcito: gallinās tenerās, quae 
 prīmum parient, concludat; polline uel farina hordeacia cōnsparsa turundās faciat: eās in aquam intinguat, in ōs indat.
 paulatim cotidie addat, ex 
 gula cōnsideret quod satis sit. bis in diē farciat et meridie
@@ -1435,7 +1439,7 @@ item aquam: hoc dies VII facitō. posteā fabam fresam
 puram et far purum facitō et fabae tertia pars ut īnferuescat: tum far īnsipiat, puriter facitō et coquito
 bene. id, ubi excluseris, depsitō bene, oleō manum
 unguito: prīmum pusillum, posteā magis depses, oleō 
-tangitō depsitoque, dum poterit facere turundas: ex
+tangitō depsitoque, dum poterit facere turundās: ex
 aqua datō, escam temperatō. 
 
 aream sīc facitō: locum ubi faciēs cōnfoditō. posteā 
@@ -1465,7 +1469,7 @@ adeō dum fiat tam crassum quam mel. posteā sumitō bituminis tertiarium et sul
 conterito
 in mortariō seorsum utrumque. posteā īnfriatō quam 
 minutissime in amurcam calidam et simul rudicula miscētō
-et denuō coquitō sub diō caelo: nam sī in tectō coquas,
+et denuō coquitō sub diō caelo: nam sī in tectō coquās,
 cum bitumen et sulpur additum est, excandescet. ubi
 erit tam crassum quam uiscum, sinitō frigescat. hoc
 uitem circum caput et sub brachia unguito: conuoluolus nōn nascetur. 
@@ -1473,7 +1477,7 @@ CV oues nē scabrae fiant
   oues nē scabrae fiant, amurcam conditō, puram bene 
 facitō; aquam quā lupinus deferuerit et faecem dē 
 uinō bonō, inter se omnia commiscētō pariter. posteā,
-cum detonderis, unguitō totas: sinitō biduum aut triduum cōnsudent.
+cum detonderis, unguitō totās: sinitō biduum aut triduum cōnsudent.
 deinde lauitō in mari; sī aquam
 marinam nōn habēbis, facitō aquam salsam: ea lauitō. 
 sī haec sīc feceris, neque scabrae fient et lanae plus et 
@@ -1502,7 +1506,7 @@ CX uirgās murteās utī serues: item aliud genus
   uirgās murteās sī uoles cum bacis seruare et item
 aliut genus quod uis, et sī ramulōs ficulneōs uoles cum
 foliis, inter se alligatō, fasciculōs facitō: eōs in amurcam
-demittitō, supra stet amurca facitō. sed ea, quae demissurus eris, sumitō paulō acerbiora. uas, quō condideris,
+demittitō, supra stet amurca facitō. sed ea, quae demissurus eris, sumitō paulō acerbiora. uās, quō condideris,
 oblinitō plane.
 
 CXI sī bouem aut aliam quadrupedem serpēns momorderit 
@@ -1538,7 +1542,7 @@ ubi muria facta
 erit, eodem in dolium īnfunditō. schoenum et calamum 
 in pila contunditō, quod sat siet: sextarium unum 
 eodem in dolium īnfunditō, ut odoratum siet. post dies 
-XXX dolium oblinitō. ad uer diffunditō in amphoras:
+XXX dolium oblinitō. ad uer diffunditō in amphorās:
 biennium in sōle sinitō positum esse; deinde in tectum
 cōnfertō. hoc uīnum deterius nōn erit quam coum. 
 CXV aquae marinae concinnatiō 
@@ -1547,19 +1551,19 @@ ex altō sumitō, quō aqua dulcis nōn accedit. sesquilibram salis frigitō, eo
 adeō dōnec ouum gallinaceum coctum natabit: desinitō
 miscere.
 eodem uini ueteris uel aminnii uel miscelli
-albi congiōs II īnfundito: miscētō probe. posteā in uas
+albi congiōs II īnfundito: miscētō probe. posteā in uās
 picatum cōnfunditō et oblinitō. sī quis plus uoles aquae
 marinae concinnare, prō portione ea omnia facitō. 
 CXVI quō labra doliorum circumlinās 
 ut bene odorata sint 
-  quō labra doliorum circumlinas, ut bene odorata
+  quō labra doliorum circumlinās, ut bene odorata
 sint et nē quid uiti in uīnum accedat, sapae congiōs VI
 quam optimae īnfunditō in aheneum aut in plumbeum et
 iris aridae contusae heminam et sertam campanicam 
 p. V bene odoratam una cum iri contundās quam minutissime: 
 per cribrum cernās et una cum sapa coquās sarmentis et leui flamma. 
-commouētō, uidētō nē aduras;
-usque coquitō, dum dimidium excoquas. ubi refrixerit, 
+commouētō, uidētō nē adurās;
+usque coquitō, dum dimidium excoquās. ubi refrixerit, 
 cōnfunditō in uās picatum bene odoratum et oblinitō
 et utitō in labra doliorum.
 
@@ -1575,7 +1579,7 @@ erit, nōn durabit.
 CXVIII uīnum asperum lene fierī 
   uīnum asperum quod erit, lene et suaue sī uoles facere,
 sīc facitō: dē eruō farinam facitō librās IIII et uini 
-cyathōs IIII cōnspargitō sapa. posteā facitō laterculos:
+cyathōs IIII cōnspargitō sapa. posteā facitō laterculōs:
 sinitō combibant noctem et diem. posteā commiscētō cum
 eō uinō in dōliō et oblinitō diē LX: id uīnum erit lene
 et suaue et bonō colore et bene odoratum. 
@@ -1611,12 +1615,12 @@ marinam: ubi impleueris dolium, operculō operitō, relinquitō quā interspiret
 ubi triduum praeterierit, eximitō dē dōliō et calcatō in torculariō et id uīnum conditō in dolia lauta et pura et sicca.
   ut odoratum bene sit, sīc facitō: sumitō testam picatam, eō prunam lenem inditō, suffitō serta et schoeno
 et palma, quam habent unguentarii, pōnitō in dōliō et
-operitō, nē odor exeat, ante quam uīnum indas. hoc 
+operitō, nē odor exeat, ante quam uīnum indās. hoc 
 facitō pridie quam uīnum īnfundere uoles. dē lacu quam
 prīmum uīnum in dolia inditō, sinitō dies XV operta,
-ante quam oblinas, relinquitō quā interspiret uīnum,
+ante quam oblinās, relinquitō quā interspiret uīnum,
 posteā oblinitō. 
-post dies XL diffunditō in amphoras
+post dies XL diffunditō in amphorās
 et additō in singulās amphorās sapae sextarium unum.
 amphorās nolitō implere nimium: ānsarum īnfimarum
 fini; et amphorās in sōle pōnitō, ubi herba nōn siet; 
@@ -1665,7 +1669,7 @@ cetera item conditō ita utī supra scriptum est.
 CXXVIII epityrum album nigrum uariumque sīc facitō 
   epityrum album, nigrum uariumque sīc facitō: ex
 oleis albis, nigris uariisque nuculeōs eicitō. sīc condito:
-conciditō ipsas, additō oleum, acetum, coriandrum,
+conciditō ipsās, additō oleum, acetum, coriandrum,
 cuminum, feniculum, rutam, mentam; in orculam 
 conditō, oleum supra siet. ita utitor.
 CXXIX mustum sī uoles totum annum habēre 
@@ -1686,7 +1690,7 @@ CXXXII uīnum ad isciacōs concinnare
   uīnum ad isciacōs sīc facitō: dē iunipirō materiem
 semipedem crassam conciditō minutim; eam īnferuefacitō cum congiō uini ueteris.
 ubi refrixerit, in lagonam cōnfunditō et posteā id utitō uini cyathum ieiunus: proderit.
-CXXXIII ut interdiu canes clausōs habeas
+CXXXIII ut interdiu canes clausōs habeās
   canes interdiu clausōs esse oportet, ut noctu acriores
 et uigilantiores sint. 
 CXXXIV uīnum murteum sīc facitō 
@@ -1748,7 +1752,7 @@ extollitō, utī radicem capere possint. inde, ubi tempus
 erit, effoditō seritoque rēctē.
 ficum, oleam, malum punicum, mala strutea, cotonia aliaque mala omnia, laurum 
 cypriam, delphicam, prunum, myrtum coniuolum et 
-myrtum album et nigrum, nuces abellanas, praenestinas, platanum, 
+myrtum album et nigrum, nuces abellanās, praenestinās, platanum, 
 haec omnia genera a capitibus propagari eximique ad hunc modum oportebit: quae 
 diligentius seri uoles, in calicibus seri oportet. 
 in arboribus radices utī capiant, calicem pertusum sumitō tibi aut
@@ -1782,16 +1786,16 @@ uīnum datō, item utī prius datum ob struem obmouendam et fertum libandum. pos
 uīnum datō. 
 CXLIV tunicae et ceterae res ubicumque emantur 
   tunicae et ceterae res ubicumque emantur.
-romae: tunicas, togas, saga, centones, sculponeas. calibus et menturnis: cuculliones, ferramenta, falces, 
-palas, ligones, secures, ornamenta, murices, catellas. 
-uenafro: palas. suessae et in lucanis: plostra. treblae,
+romae: tunicās, togās, saga, centones, sculponeās. calibus et menturnis: cuculliones, ferramenta, falces, 
+palās, ligones, secures, ornamenta, murices, catellās. 
+uenafro: palās. suessae et in lucanis: plostra. treblae,
 albae, romae: dolia, labra. tegulae ex uenafrō. 
 aratra
 in terram ualidam romanica bona erunt, in terram pulleam campanica; iuga romanica optima erunt, uomeris 
 indutilis optimus erit. trapeti pompeis, nolae, ad rufri 
 maceriam. claues, clostra romae. hamae, urnae oleariae, urcei aquarii, urnae uinariae, alia uasa ahenea 
 capuae, nolae. fiscinae campanicae †eame† uiles sunt. 
-funes subductariōs, spartum omne capuae. fiscinas
+funes subductariōs, spartum omne capuae. fiscinās
 romanicās suessae, casino: optimae erunt romae. 
   funem torculum sī quis faciet, casini L. tunnius, uenafri C. mennius L. f.: eō indere oportet coria bona 
 VIII nostratia recentia quae depsta sient, quam minimum salis habeant; ea depsere et unguere unguine 
@@ -1807,7 +1811,7 @@ in plostrum iustum p. LX, semifunium p. XLV, lora retinacula in plostrum p. XXXV
 praeductoria p. XXVIIs, subiugia in plostrum lora 
 p. XIX, funiculum p. XV, in aratrum subiugia lora
 p. XII, funiculum p. IIX. 
-  trapetōs latōs maximōs p. IIIIs, orbis altos
+  trapetōs latōs maximōs p. IIIIs, orbis altōs
 p. IIIs, orbis mediōs, ex lapricaedinis cum eximet, 
 crassōs pedem et palmum, inter miliarium et labrum
 p. II digitōs II, labra crassa digit. V. secundarium trapetum latum p. IIII et palmum, inter miliarium et
@@ -1849,11 +1853,11 @@ CL *
   agrum lustrare sīc oportet: impera suouitaurilia
 circumagi: cum diuis uolentibus quodque bene eueniat, 
 mandō tibi, mani, utī illace suouitaurilia fundum agrum 
-terramque meam, quota ex parte siue circumagi siue circumferenda cēnseas, utī cūres lustrare.
+terramque meam, quota ex parte siue circumagi siue circumferenda cēnseās, utī cūres lustrare.
 ianum iouemque uinō praefaminō, sīc dicito: mars pater, tē precor 
 quaesoque, utī sies uolēns propitius mihi domō familiaeque 
 nostrae: quoius rei ergō, agrum terram fundumque 
-meum suouitaurilia circumagi iussi; utī tu morbos
+meum suouitaurilia circumagi iussi; utī tu morbōs
 uisōs inuisosque, uiduertatem uastitudinemque, calamitates intemperiasque prohibessis defendās auerruncesque;
 utique tu fruges, frumenta, uineta uirgultaque grandire beneque euenire siris; 
 pastores pecuaque salua
@@ -1894,7 +1898,7 @@ nonis, festus dies cum erit, coronam in focum indat, per
 eosdemque dies lari familiari prō copia supplicet.
 cibum tibi et familiae cūret utī coctum habeat.
 gallinās multās et oua utī habeat. pira arida, sorua, ficōs, 
-uuās passas, sorua in sapa et pira et uuās in doliis et 
+uuās passās, sorua in sapa et pira et uuās in doliis et 
 mala struthea, uuās in uinaciis et in urceis in terra 
 obrutās et nuces praenestinās recentes in urceō in
 terra obrutās habeat; mala scantiana in doliis et alia 
@@ -1920,7 +1924,7 @@ tantō minus debebitur. dē fundo
 ligna et oleam nē deportato: quī oleam legerit, quī deportarit, in singulās deportationes $$n. II deducentur 
 neque id debebitur. 
 omnem oleam puram metietur
-modiō oleariō. adsiduōs homines L praebeto: duas
+modiō oleariō. adsiduōs homines L praebeto: duās
 partes strictorum praebetō. nē quis concedat, quō olea 
 legunda et facienda carius locetur, extra quam sī quem 
 socium in praesentiarum dixerit: sī quis aduersum ea
@@ -1928,7 +1932,7 @@ fecerit, sī dominus aut custōs uolent, iurent omnes socii;
 sī nōn ita iurauerint, prō ea olea legunda et faciunda
 nemō dabit neque debebitur ei quī nōn iurauerit. accessiones: in M° ∞ CC accedit oleae salsae M° V, olei puri 
 p. VIIII; in tota oleitate $$ V, aceti q. V. quod oleae 
-salsae nōn acceperint, dum oleam legent, in modios
+salsae nōn acceperint, dum oleam legent, in modiōs
 singulōs, $$ s. s. dabuntur. 
 CLIV lex oleae faciundae 
   oleam faciundam hac lege oportet locare: facitō
@@ -1952,7 +1956,7 @@ CLV lex oleae pendentis
 quam quanti emerit omnis pecuniae centesima accedet 
 (praeconium praesēns $$ L) et oleum (romanici p. 
 ∞ D, uiridis p. CC), oleae (caducae M° L, strictiuae
-M° X: modiō oleariō mēnsum dato), unguinis p. X. ponderibus modiisque domini datō †iri pri† primae cotulās duas. 
+M° X: modiō oleariō mēnsum dato), unguinis p. X. ponderibus modiisque domini datō †iri pri† primae cotulās duās. 
 dies argento: ex k. nou. mēnsum X;
 oleae legendae faciendae, quae locata est, et sī emptor 
 locarit, idibus soluitō. rēctē haec dari fierique satisque 
@@ -1961,7 +1965,7 @@ arbitratu domini. donicum solutum erit aut ita satis
 datum erit, quae in fundō inlata erunt, pigneri suntō. 
 nē quid eōrum dē fundō deportato: sī quid deportauerit, 
 domini estō. 
-uasa torcula, funes, scalas, trapetōs, sī
+uasa torcula, funes, scalās, trapetōs, sī
 quid et aliut datum erit, salua rēctē redditō, nisi quae 
 uetustate fracta erunt; sī nōn reddet, aequom soluitō. 
 sī emptor legulis et factoribus, quī illic opus fecerint, nōn 
@@ -1969,7 +1973,7 @@ soluerit, cui dari oportebit, sī dominus uolet, soluat:
 emptor dominō debetō et id satis datō, proque ea re ita 
 utī s. s. e. item pignori suntō. 
 CLVI lex uini pendentis 
-  hac lege uīnum pendēns uenire oportet: uinaceos
+  hac lege uīnum pendēns uenire oportet: uinaceōs
 inlutōs et faecem relinquitō. locus uinis ad k. octob.
 primās dabitur; sī nōn ante ea exportaueris, dominus 
 uinō quid uolet faciet. cetera lex, quae oleae pendenti. 
@@ -1980,7 +1984,7 @@ quod neque aceat neque muceat, id dabitur. in triduō
 proxumō uiri boni arbitratu degustatō; sī nōn ita fecerit, uīnum prō degustatō erit. 
 quot dies per dominum mora fuerit, 
 quō minus uīnum degustet, totidem dies emptori procedent. 
-uīnum accipitō ante k. ian. primas; sī nōn ante acceperit, dominus uīnum admetietur.
+uīnum accipitō ante k. ian. primās; sī nōn ante acceperit, dominus uīnum admetietur.
 quod admēnsus erit, prō eō re soluitō; sī 
 emptor postularit, dominus ius iurandum dabit uerum 
 fecisse. locus uinis ad k. octobres primās dabitur; sī
@@ -1998,7 +2002,7 @@ dederit, uiri boni arbitratu resoluetur. donicum pecuniam satisfecerit aut deleg
 illic erit, pigneri suntō. sī quid dē iis rebus controuersiae 
 erit, romae iudicium fiat.
 CLIX fructus ouium quā lege ueneat 
-  fructum ouium hac lege uenire oportet: in singulas
+  fructum ouium hac lege uenire oportet: in singulās
 casei p. Is (dimidium aridum), lacte, feriis quod mulserit, dimidium, et praeterea lactis urnam unam. 
 hisce legibus, agnus, diem et noctem quī uixerit, in fructum; et 
 kal. iun. emptor fructu decedat: sī interkalatum
@@ -2024,16 +2028,16 @@ locum stercoratō prīmum bene stercore caprinō aut
 ouillō, tum uortitō bipaliō; terram cum stercore bene
 permiscetō, depurgatō ab herba graminibusque, bene 
 terram comminuitō. 
-areās facitō pedes latās quaternos:
+areās facitō pedes latās quaternōs:
 subcauās facitō, utī aquam continere possint: inter eās 
 sulcōs facitō, quā herbās dē areis purgare possis; ubi areae
 factae erunt, semen seritō crebrum, ita utī linum seri
 solet. eō cribrō terram incernitō, dimidiatum digitum
 terram altam succernito: id bene tabula aut manibus aut 
 pedibus complanatō. 
-sī quandō nōn pluet, utī terra sitiat, aquam inrigatō leniter in areas; sī nōn habēbis 
+sī quandō nōn pluet, utī terra sitiat, aquam inrigatō leniter in areās; sī nōn habēbis 
 unde inriges, geritō inditoque leniter. quotiēnscumque
-opus erit, facitō utī aquam addas. sī herbae natae erunt, 
+opus erit, facitō utī aquam addās. sī herbae natae erunt, 
 facitō utī ab herbis purges: quam tenerrimis herbis, et
 quotiēns opus erit, purges. per aestatem ita utī dictum 
 est fierī oportet, et, ubi semen satum siet, stramentis 
@@ -2043,13 +2047,13 @@ operiri; ubi germen nascere coeperit, tum demi.
 
   dē scopis uirgeis q. a. m. manlii mōnstrauerunt. in
 diebus XXX, quibus uīnum legeris, aliquotiēns facitō 
-scopās uirgeās ulmeās aridas: in asserculō alligatō. eabus 
+scopās uirgeās ulmeās aridās: in asserculō alligatō. eabus 
 latera doliis intrīnsecus usque bene perfricatō, nē 
 faex in lateribus adhaerescat.
 
 -------------------------------------------------------
 
-  uīnum faecatum sīc facitō: fiscinās oleariās campanicas
+  uīnum faecatum sīc facitō: fiscinās oleariās campanicās
 duās illae rei habetō; eās faecis impletō sub prelumque subditō exprimitoque.
 
 -------------------------------------------------------
@@ -2106,7 +2110,7 @@ habebit. ubi libidō ueniet, nausia apprehendet, decumbat purgetque sese:
 tantum bilis pituitaeque eiciet, 
 utī ipse miretur, unde tantum siet. posteā, ubi deorsum
 uersus ibit, heminam aut paulō plus bibat; sī amplius 
-ibit, sumitō farinae minutae conchās duas, īnfriet in
+ibit, sumitō farinae minutae conchās duās, īnfriet in
 aquam, paulum bibat, cōnstituet. 
 uerum quibus tormina molesta erunt, brassicam in aquam macerare oportet: 
 ubi macerata erit, coicitō in aquam calidam,
@@ -2149,7 +2153,7 @@ tumores eam contritam imponito: haec omnia ulcera
 purgabit sanaque faciet sine dolore; eadem tumida concoquit, 
 eadem erumpit, 
 eadem uulnera putida canceresque purgabit sanosque faciet quod medicamentum facere
-nōn potest. uerum, prius quam id imponas, aqua calida 
+nōn potest. uerum, prius quam id imponās, aqua calida 
 multa lauato: posteā bis in diē contritam imponito: ea 
 omnem putorem adimet. cancer ater, is olet et saniem 
 spurcam mittit, albus purulentus est, sed fistulosus et 
@@ -2236,7 +2240,7 @@ faciet.
 et sī polypus in nasō intrō erit, brassicam erraticam aridam tritam in malam conicitō
 et ad nasum admouetō, ita subducitō susum animam quam plurimum
 poteris: in triduō polypus excidet; et, ubi exciderit, 
-tamen aliquot dies idem facitō, ut radices polupi persanās facias. 
+tamen aliquot dies idem facitō, ut radices polupi persanās faciās. 
 auribus sī parum audies, teritō cum uino
 brassicam, sucum exprimitō, in aurem intrō tepidum 
 īnstillato: citō tē intelleges plus audire. depetigini
@@ -2258,9 +2262,9 @@ sume tibi sextarium unum tepidum,
 adde uini coi cyathum I, bibe, interquiesce; 
 deinde iterum eodem modō, 
 deinde tertium: purgabis tē bene. et sī uoles īnsuper
-uīnum coum mixtum bibere, licebit bibas. ex iis tot 
+uīnum coum mixtum bibere, licebit bibās. ex iis tot 
 rebus quod scriptum est unum, quod eōrum uis, aluum 
-deicere potest. uerum ea re tot res sunt, utī bene deicias, et suaue est. 
+deicere potest. uerum ea re tot res sunt, utī bene deiciās, et suaue est. 
 CLXVII intertrigini remedium sī uia ibis 
   intertrigini remedium. in uiam cum ibis, 
   apsinthi pontici surculum sub anulō habetō. 
@@ -2287,18 +2291,18 @@ ubi erit natum, herbās crebro
 purgatō cauetoque nē asparagus una cum herba uellatur. 
 quō annō seueris, sum stramentis per hiemem operitō, 
 nē praeuratur; deinde primō uere aperitō, saritō runcatoque; post annum tertium, quam seueris, incendito
-uere primō. deinde nē ante sarueris, quam asparagus natus erit, nē in sariendō radices laedas. 
+uere primō. deinde nē ante sarueris, quam asparagus natus erit, nē in sariendō radices laedās. 
 tertiō aut quārtō
 annō asparagum uellitō ab radice: nam sī defringes,
-stirpes fient et intermorientur; usque licebit uellas, donicum in semen uideris ire. 
+stirpes fient et intermorientur; usque licebit uellās, donicum in semen uideris ire. 
 semen maturum fit ad autumnum. ita, cum sumpseris semen, incenditō, 
 et, cum coeperit asparagus nasci, saritō et stercoratō. post annōs
 VIII aut nouem, cum iam est uetus, digeritō et in quō
 locō posturus eris terram bene subigitō et sterceratō.
-deinde fossulās facitō, quā radices asparagi demittas.
+deinde fossulās facitō, quā radices asparagi demittās.
 interuallum sit nē minus pedes singulōs inter radices
 asparagi. euellitō, sīc circumfoditō, ut facile uellere 
-possis: cauetō nē frangatur. stercus ouillum quam plurimum fac ingeras: 
+possis: cauetō nē frangatur. stercus ouillum quam plurimum fac ingerās: 
 id est optimum ad eam rem; aliut stercus herbās creat. 
 CLXX salsura pernarum ofellae puteolanae 
   salsura pernarum, ofellae puteolanae. pernās sallire sīc oportet in dōliō aut in seria: 
