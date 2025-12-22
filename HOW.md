@@ -36,6 +36,14 @@ Learning need repetition and the more something repeats the more codified and no
 - use drama and collect similar sentences and watch them together
 - don't use too many different stages of the language
 
+## COGNITIVE CULTURAL JOURNEY
+
+We learn a language not simply by projecting categories from other languages
+onto it but by navigating the cultural space of that language. Concepts,
+idioms, fine lexicon structure (antonyms, synonyms, derivation), lexical 
+and grammatical expectations (being able to complete / finish a cut sentence) 
+are all very important aspects of language acquisition
+
 ## EMOTIONAL CONNECTIONS 
 
 We learn by copying people and things we are interested in.

@@ -13,12 +13,12 @@ dē nocte ad portum sum prōuectus prosumiā.
 cum mercuriō capit cōnsilium postquam sentīnat satis.
 
 []
-āctūtum uoltis ēmpta est. noltis nōn ēmpta est
+āctūtum uoltis ēmpta est. nōltis nōn ēmpta est
 
 [ANDRIA]
 
 []
-conducit nāuem putidam
+condūcit nāuem pūtidam
 
 [ANDROGYNOS]
 
@@ -32,7 +32,7 @@ sed ego stolidus. grātulātum med oportēbat prius.
 
 []
 nam ego
-duabus uigiliis trānsactis ducō dēsubitō domum.	
+duabus uigiliīs trānsactis dūcō dēsubitō domum.	
 
 []
 ad amīcōs curret mutuatum. [] mutuet
@@ -141,7 +141,7 @@ egestāte aliquantisper iactati forent
 nullus sum nisi meam rem iam omnem properō incursim perdere.
 
 []
-facile aerumnam ferre possum si inde abest iniuria.
+facile aerumnam ferre possum si inde abest iniūria.
 etiam iniūriam nisi contra cōnstant contumēliam.
 
 []
@@ -173,7 +173,7 @@ utinam pisciculi tē schema sine crūribus
 uideam.
 
 []
-quid nārrās barbare cum indomitis mōribus
+quid nārrās barbare cum indomitīs mōribus
 inlitterate inlex.	
 
 []
@@ -182,7 +182,7 @@ qui homō ineptitudinis cumulatus cultum oblītus es.
 []
 quid tibi aucupatiost
 argūmentum aut dē amōre uerbificatiost
-patri.
+patrī.
 
 [HYMNIS]
 
@@ -196,7 +196,7 @@ in amōre inermus.
 
 []
 [] quae	
-nārrāre inepti est ad scutras feruentis. [] quīn mācaera
+nārrāre ineptī est ad scutras feruentis. [] quīn mācaera
 licitarī aduersum ahēnum coepistī sciēns
 
 []
@@ -239,7 +239,7 @@ quos neque ut adprendas neque utī dimittas scias.
 subitō res reddent hebem
 
 []
-habitabat in tugurio pauperculō.
+habitābat in tugurio pauperculō.
 
 []
 prius quam ad rauim ... citam fēcerīs.
@@ -255,7 +255,7 @@ nam ista quidem noxa muliebre est magis quam uiri.
 obsorduit iam haec in mea aerumna miseria.
 
 []
-in uoltu eodem in eadem mantat malitia.
+in uoltū eōdem in eadem mantat malitia.
 
 []
 hos singulatim sapere nos minus arbitror.
@@ -277,28 +277,28 @@ ego illud minus nīlō exigor portorium.
 [IMBRII]
 
 []
-et homini et pecudibus omnibus
+et hominī et pecudibus omnibus
 
 []
 nunc uter
-crescit. nōn potest celari.
+crēscit. nōn potest cēlārī.
 
 []
-surdo mihi
-dormitum suadet ut eam quisquam. et sī ego obdormiuero
-tute idem ubi eris experrectus.
+surdō mihi
+dormītum suādet ut eam quisquam. et sī ego obdormiuero
+tūtē idem ubi eris experrēctus.
 
 []
 quid. mihi nōn sunt balneae.
 
 []
-resupina obstipō capitulō sibi uentum facere tunicula
+resupīna obstipō capitulō sibi uentum facere tunicula
 
 []
-age age ī puere duc mē ad patrios fines decoratum opipare.
+age age ī puere duc mē ad patriōs fines decoratum opipare.
 
 []
-mirum adeō nisi frater domī ebriatus turbam aliquam dedit.
+mīrum adeō nisi frāter domī ebriatus turbam aliquam dedit.
 
 []
 cruentō ita ore grundibat miser.	
@@ -306,8 +306,8 @@ cruentō ita ore grundibat miser.
 [CARINE]
 
 []
-ut aurum et uestem quod matris fuit
-reluat quod uiua ipsī opposiuit pignori.	
+ut aurum et uestem quod mātris fuit
+reluat quod uīua ipsī opposīuit pignorī.	
 
 []
 tum ex aure eius stalagmium
@@ -315,12 +315,12 @@ domī habeō.
 
 []
 modo fit obsequēns hilarus comis
-communis concordis dum id quod petit potitur.
+commūnis concordis dum id quod petit potitur.
 
 [MERETRIX]
 
 []
-cuprō gubernator propere uertit prosumiam.
+cuprō gubernator properē uertit prosumiam.
 
 []
 meminī ibi <fuisse> candelabrum ligneum
@@ -329,30 +329,30 @@ ardentem
 [NAUCLERUS]
 
 []
-nunc abeō. audibis praeterea sī dicis filia redeat.
+nunc abeō. audībis praetereā sī dīcis fīlia redeat.
 
 []
-at tē dī omnes īnfelicent cum male monita memoria.
+at tē dī omnēs īnfēlīcent cum male monita memoria.
 
 []
-suppilat uestem atque ornamenta omnia.
+suppīlat uestem atque ōrnāmenta omnia.
 
 [NOTHUS NICASIO]
 
 []
-habes uide. tibi tradidī. in tuō collō est. decolles caue.
+habes uide. tibi trādidī. in tuō collō est. decolles caue.
 
 []
-ilicō ante ostium hic erimus.
+īlicō ante ōstium hic erimus.
 
 []
-manete ilicō.
+manēte īlicō.
 
 
-[OBOLOSTATES siue FAENERATOR]
+[OBOLOSTATES sīue FAENERĀTOR]
 
 []
-nunc enimuerō est cum meae mortī remedium reperibit nemō.	-
+nunc enimuērō est cum meae mortī remedium reperībit nēmō.
 
 []
 depositus modo
