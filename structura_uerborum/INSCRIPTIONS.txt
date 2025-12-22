@@ -1,69 +1,100 @@
-[-145 ; -145]
-[Roma]
-l(ucius) mummi(us) l(uci) f(ilius) cos(ul) duct(u)
-auspiciō imperiōque
-eius achaia capt(a) corintō
-deleto rōmam redieit
-triumphans ob hāsce
-res bene gestās quod
-in bellō uouerat
-hanc aedem et signu(m)
-herculis uictoris
-imperātor dedicat
+[-159 ; -145]
+[latium et campania]
+[tiburs]
+l. cornelius cn. f. pr. sen. cōns. a. d. III nōnās maiās sub aede kastorus
+scr. adf. a. manlius a. f. sex. iūlius [sex. f.] l. postumius s. f.
+quod teiburtēs u. f. quibusque dē rēbus uōs pūrgāuistis ea senātus
+animum aduortit ita utei aequom fuit nōsque ea ita audīuerāmus
+ut uōs deixsistis uōbeis nōntiāta esse ea nōs animum nostrum
+nōn indoucēbāmus ita facta esse propter eā quod scībāmus
+ea uōs meritō nostrō facere nōn potuisse neque uōs dignōs esse
+quei ea facerētis neque id uōbeis neque rei pōplicae uostrae
+oitile esse facere et postquam uostra uerba senātus audīuit
+tantō magis animum nostrum indoucimus ita utei anteā
+arbitrābāmur dē eieis rēbus af uōbeis peccātum nōn esse
+quonque dē eieis rēbus senātuei pūrgātī estis crēdimus uōsque
+animum uostrum indoucere oportet item uōs populō
+rōmānō pūrgātōs fore
 
+[-145 ; -145]
+[rōma]
+l. mummi. l. f. cōs. duct.
+auspiciō imperiōque
+eius achaiā capt. corintō
+dēlētō rōmam redieit
+triumphāns ob hāsce
+rēs bene gestās quod
+in bellō uōuerat
+hanc aedem et signu
+herculis uictōris
+imperātor dēdicat
+
+[-170 ; -131]
+[Latium et Campania]
+[sora]
+m(arcus) p(ublius) uertuleieis
+c(ai) f(ili) quod re suā difeidens asper(a)
+afleicta parens timēns
+heic uouit uōtō hōc
+solūtō decumā factā
+poloucta leibereis lubentēs dōnu danunt
+hercolei maxsume
+meretō semol tē
+ōrant sē uōtī crēbrō
+condemnes
 
 [-117 ; -117]
 [Liguria]
 [Genua]
-q(uintus) m(ārcus) minucieis q(uinti) f(ili) rufeis 
-de controuersieis inter genuāteis et ueituriōs in re praesente cognōuerunt 
-et cōram inter eos controuosias composeiuerunt
-et qua lege agrum possidērent 
-et qua fineis fierent dīxsērunt 
-eos fīneis facere terminōsque statui iuṣērunt
-ubei ea facta essent rōmam cōram uenīre iouṣērunt rōmae cōram sententiam ex senati consulto dīxērunt Eidib(us)
-decemb(ribus) l(ucio) caecilio q(uinti) f(ilio) q(uinto) muucio q(uinti) f(ilio) co(n)s(ulibus) qua ager prīuātus casteli uituriorum est quem agrum eos uēndere hērēdemque
-sequī licet is ager uectigal(is) nei siet langatium fineis agrī prīuātī ab rīuō īnfimō qui oritur ab fontei in mannicelo ad flouium
+q. m. minucieis q. f. rūfeis 
+de contrōuersieis inter genuāteis et ueituriōs in re praesente cognōuerunt 
+et cōram inter eos controuosias composeiuērunt
+et quā lege agrum possidērent 
+et quā fīneis fierent dīxsērunt 
+eos fīneis facere terminōsque statuī iuṣērunt
+ubei ea facta essent rōmam cōram uenīre iouṣērunt rōmae cōram sententiam ex senātī cōnsultō dīxērunt Eidib(us)
+decemb(ribus) l. caeciliō q. f. q. muuciō q. f. cōs qua ager prīuātus casteḷī uīturiōrum est quem agrum eos uēndere hērēdemque
+sequī licet is ager uectīgal(is) nei siet langatium fīneis agrī prīuātī ab rīuō īnfimō qui oritur ab fontei in mannicelo ad flouium
 edem ibi terminus stat inde flouiō suso uorsum in flouium lemurim inde flouiō lemuri sūsum usque ad rīuom comberane(am)
-inde rīuō comberanea sūsum usque ad comualem caeptiemam ibi termina duo stant circum uiam postumiam ex eis terminis rēctā
+inde rīuō comberanea sūsum usque ad comualem caeptiemam ibi termina duo stant circum uiam postumiam ex eis terminīs rēctā
 regiōne in rīuō uendupale ex rīuō uindupale in flouium neuiascam 
 inde dorsum fl(o)uiō neuiasca in flouium procoberam 
 inde flouiō procoberam deorsum usque ad rīuom uinelascam īnfumum ibei terminus stat 
 inde sursum rīuō rēctō uinelesca ibei terminus stat propter uiam postumiam inde alter trāns uiam postumiam terminus stat ex eo terminō quei stat
 trāns uiam postumiam rēcta regiōne in fontem in manicelum inde deorsum rīuō quei oritur ab fonte en manicelo
-ad terminum quei stat ad flouium Edem agrī pōplicī quod langenses poṣident hīsce fīnis uidentur esse ubi comfluont
-Edus et procobera ibei terminus stat inde Ede flouiō surs(o) uorsum in montem lemurino infumo ibei terminus
-stat inde sursum uorsum iugo rēctō monte lemurino ibei termin(u)s stat inde su(r)sum iugo rēctō lemurino ibi terminus
-stat in monte pro cauo inde sursum iugo rēctō in montem lemurinum summum ibi terminus stat inde sursum iugo
-rēctō in castelum quei uocitatust alianus ibei terminus stat inde sursum iugo rēctō in montem iouentionem ibi terminus
-stat inde sursum iugo rēctō in montem apeninum quei uocātur Boplo ibei terminus stat inde apeninum iugo rēctō
-in montem tuledonem ibei terminus stat inde deorsum iugo recto in flouium ueraglascam in montem Berigiemam
-infumo ibi terminus stat inde sursum iugo recto in montem prenicum ibi terminus stat inde dorsum iugo rēctō in
-flouium tulelascam ibi terminus stat inde sursum iugo rēctō Blustiemelo in montem claxelum ibi terminus stat inde
+ad terminum quei stat ad flouium Edem agrī pōplicī quod langēnsēs poṣident hīsce fīnis uidentur esse ubi cōmfluont
+Edus et procobera ibei terminus stat inde Ede flouiō surs(o) uorsum in montem lemūrīnō īnfumō ibei terminus
+stat inde sursum uorsum iugō rēctō monte lemūrīnō ibei termin(u)s stat inde su(r)sum iugō rēctō lemūrīnō ibi terminus
+stat in monte pro cauō inde sursum iugō rēctō in montem lemūrīnum summum ibi terminus stat inde sursum iugō
+rēctō in casteḷum quei uocitātust alianus ibei terminus stat inde sursum iugō rēctō in montem iouentionem ibi terminus
+stat inde sursum iugō rēctō in montem āpenīnum quei uocātur Boplo ibei terminus stat inde āpenīnum iugō rēctō
+in montem tuledonem ibei terminus stat inde deorsum iugō rēctō in flouium ueraglascam in montem Berigiemam
+īnfumō ibi terminus stat inde sursum iugō rēctō in montem prenicum ibi terminus stat inde dorsum iugō rēctō in
+flouium tulelascam ibi terminus stat inde sursum iugō rēctō Blustiemelo in montem claxelum ibi terminus stat inde
 deorsum in fontem lebriemelum ibi terminus stat inde rēctō rīuō Eniseca in flouium porcoberam ibi terminus stat
-inde deorsum in flouiom porcoberam ubei conflouont floui Edus et porcobera ibi terminus stat quem agrum poplicum
-iudicamus esse eum agrum castelanos langenses ueiturios po[si]dere fruique uidetur oportere pro eo agro uectigal langenses
-ueituris in poplicum genuam dent in an(n)os singulos uic(toriatos) n(ummos) cccc sei langenses eam pequniam nōn dabunt neque satis
-facient arbitratuu genuatium quod per genuenses mo[r]a nōn fiat suō setius eam pequniam acipiant tum quod in eo agro
-natum erit frumenti partem uicensumam uini partem sextam langenses in poplicum genuam dare debento
-in annos singolos quei intra eos fineis agrum posedet genuas aut uiturius quei eōrum posedeit K(alendis) sextil(ibus) l(ucio) caicilio
-q(uinto) muucio co(n)s(ulibus) eos ita posidere colereque liceat e[i]s quei posidebunt uectigal langensibus pro portione dent ita uti ceteri
-langenses qui eōrum in eo agro agrum posidebunt fruenturque praeter ea in eo agro ni quis posideto nisi de maiore parte
-langensium ueituriorum sententia dum ne alium intro mitat nisi genuatem aut ueiturium colendi causa quei eōrum
-de maiore parte langensium ueituri(or)um sententia ita nōn parebit is eum agrum nei habeto niue fruimino quei
-ager compascuos erit in eo agro quo minus pecus [p]ascere genuates ueituriosque liceat ita utei in cetera agro
-genuati compascuo ni quis prohibeto niue quis uim facito neiue prohibeto quo minus ex eo agro ligna materiamque
-sumant utanturque uectigal anni primi K(alendis) ianuari(i)s secundis ueturis langenses in poplicum genuam dare
-debento quod ante K(alendas) ianuar(ias) primas langenses fructi sunt eruntque uectigal inuitei dare nei debento
-prata quae fuerunt proxuma faenisicei l(ucio) caecilio q(uinto) muucio co(n)s(ulibus) in agro poplico quem uituries langenses
-posident et quem odiates et quem dectunines et quem cauaturineis et quem mentouines posident ea prata
-inuitis langensibus et odiatibus et dectuninebus et cauaturines et mentouines quem quisque eōrum agrum
-posidebit inuiteis eis niquis sicet niue pascat nuie fruatur sei langueses aut odiates aut dectunines aut cauaturines
-aut mentouines malent in eo agro alia prata inmittere defendere sicare id uti facere liceat dum ne ampliorem
-modum pratorum habeant quam proxuma aestate habuerunt fructique sunt uituries quei controuorsias
-genuensium ob iniourias iudicati aut damnati sunt sei quis in uinculeis ob eas res est eos omneis
-soluei mittei leiber(are)ique genuenses uidetur oportere ante Eidus sextilis primas seiquoi de ea re
-iniquom uidebitur esse ad nos adeant primo quoque die et ab omnibus controuersis et <b=h>ono publ(ico) li(berentur[?])
+inde deorsum in flouiom porcoberam ubei cōnflouont flouī Edus et porcobera ibi terminus stat quem agrum pōplicum
+iūdicāmus esse eum agrum castelanos langēnsēs ueiturios po[si]dere fruīque uidētur oportēre prō eō agrō uectīgal langēnsēs
+ueituris in pōplicum genuam dent in aṇōs singulōs uic(tōriātōs) n(ummos) CCCC sei langēnsēs eam peqūniam nōn dabunt neque satis
+facient arbitrātuu genuātium quod per genuēnsēs mo[r]a nōn fīat suō sētius eam peqūniam ac̣ipiant tum quod in eō agrō
+nātum erit frūmentī partem uicēnsumam uīnī partem sextam langēnsēs in pōplicum genuam dare dēbentō
+in annōs singolōs quei intrā eōs fīneis agrum poṣedet genuās aut uiturius quei eōrum poṣedeit k(alendis) sextil(ibus) l(ucio) caiciliō
+q. muuciō cōs. eōs ita poṣidēre colereque liceat e[i]s quei poṣidēbunt uectīgal langēnsibus prō portiōne dent ita uti cēteri
+langēnsēs qui eōrum in eō agrō agrum poṣidēbunt fruenturque praeter ea in eō agrō ni quis poṣidētō nisi de maiōre parte
+langēnsium ueituriōrum sententia dum ne alium intrō miṭat nisi genuātem aut ueiturium colendī causā quei eōrum
+de maiōre parte langēnsium ueituri(ōr)um sententia ita nōn parebit is eum agrum nei habētō nīue fruiminō quei
+ager compāscuos erit in eō agrō quō minus pecus pāscere genuātēs ueituriōsque liceat ita utei in cētera agrō
+genuātī compascuō ni quis prohibētō nīue quis uim facitō neiue prohibētō quō minus ex eō agrō ligna māteriamque
+sūmant ūtanturque uectīgal annī prīmī K(alendis) ianuaris secundīs ueturis langēnsēs in pōplicum genuam dare
+dēbentō quod ante k(alendas) ianuar(ias) prīmās langēnsēs frūctī sunt eruntque uectīgal inuītei dare nei dēbentō
+prāta quae fuērunt proxuma faenisicei l(ucio) caeciliō q(uinto) muuciō cōs in agrō pōplicō quem uituries langēnsēs
+poṣident et quem odiates et quem dectunines et quem cauaturineis et quem mentouines poṣident ea prāta
+inuītīs langēnsibus et odiatibus et dectuninebus et cauaturines et mentouines quem quisque eōrum agrum
+poṣidēbit inuīteis eis nīquis sic̣et nīue pāscat nīue fruātur sei langēnsēs aut odiates aut dectunines aut cauaturines
+aut mentouines mālent in eō agrō alia prāta inmittere dēfendere sic̣āre id uti facere liceat dum ne ampliōrem
+modum prātōrum habeant quam proxuma aestāte habuērunt frūctīque sunt uituries quei controuorsiās
+genuēnsium ob iniouriās iūdicātī aut damnātī sunt sei quis in uinculeis ob eas res est eos omneis
+soluei mittei leiber(are)ique genuēnsēs uidētur oportēre ante eidus sextīlis prīmās seiquoi de ea re
+inīquom uidēbitur esse ad nōs adeant prīmō quoque die et ab omnibus controuersis et <b=h>ono publ(ico) li(berentur[?])
 leg(ati) moco meticanio meticoni f(ilius) plaucus peliani(o) pelioni f(ilius)
 
 [-186 ; -186]
@@ -101,19 +132,7 @@ ita utei suprād scrīptum est in diēbus X quibus uōbeis tabelai datai
 erunt faciātis utei dismota sient in agrō teurano
 
 
-[-170 ; -131]
-[Latium et Campania]
-[sora]
-m(arcus) p(ublius) uertuleieis
-c(ai) f(ili) quod re suā difeidens asper(a)
-afleicta parens timēns
-heic uouit uōtō hōc
-solūtō decumā factā
-poloucta leibereis lubentēs dōnu danunt
-hercolei maxsume
-meretō semol tē
-ōrant sē uōtī crēbrō
-condemnes
+
 
 [-130 ; -101]
 [Roma]
@@ -270,23 +289,7 @@ erit esseue oporte[bit 3]
 [-3 praetor quei inter pe]regrinos ious [deicet 3]
 [3]atei q[
 
-[-159 ; -145]
-[Latium et Campania]
-[Tibur]
-l(ucius) cornelius cn(aei) f(ilius) pr(aetor) sen(atum) cons(uluit) a(nte) d(iem) III nonas maias sub aede Kastorus
-scr(ibundo) adf(uere) a(ulus) manlius a(uli) f(ilius) sex(tus) iulius [sex(ti) f(ilius)] l(ucius) postumius s(puri) f(ilius)
-quod teiburtes u(erba) f(ecistis) quibusque dē rēbus uōs purgāuistis ea senātus
-animum aduortit ita utei aequom fuit nōsque ea ita audiueramus
-ut uōs deixsistis uōbeis nōntiāta esse ea nōs animum nostrum
-nōn indoucebāmus ita facta esse propter ea quod scibamus
-ea uos meritō nostrō facere nōn potuisse neque uōs dignōs esse
-quei ea faceretis neque id uōbeis neque rei pōplicae uostrae
-oitile esse facere et postquam uostra uerba senātus audiuit
-tantō magis animum nostrum indoucimus ita utei anteā
-arbitrābāmur dē eieis rēbus af uōbeis peccātum nōn esse
-quonque dē eieis rēbus senatuei purgati estis crēdimus uōsque
-animum uostrum indoucere oportet item uōs populō
-rōmānō purgātōs fore
+
 
 
 
