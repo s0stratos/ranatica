@@ -154,8 +154,8 @@ uepres recidī,
 hortum fodīrī,
 prātum pūrgārī,
 uirgās uincīrī,
-spinās runcārī,
-expīnsi far, 
+spīnās runcārī,
+expīnsī far, 
 munditiās fierī;
 
 cum seruī aegrotārint,
@@ -167,7 +167,7 @@ quae relicua opera sint, cūrāre utī perficiantur.
 ratiōnēs putāre argentāriam, frūmentāriam,
 pābulī caussā quae parāta sunt;
 
-ratiōnem uīnāriam, oleāriam, quid uenierit, quid exāctum siet,
+ratiōnem uīnāriam, oleāriam, quid uēnierit, quid exāctum siet,
 quid relicuum siet,
 quid siet quod uēneat; 
 quae satis accipiunda sint, 
@@ -186,8 +186,8 @@ pecus cōnsīderet.
 auctiōnem utī faciat:
 uēndat oleum, sī pretium habeat;
 uīnum, frūmentum quod supersit, uēndat;
-boues uetulōs, armenta delicula, ouēs deliculās,
-lānam, pelles, plostrum uetus, ferrāmenta uetera, 
+boues uetulōs, armenta dēlicula, ouēs dēliculās,
+lānam, pellēs, plostrum uetus, ferrāmenta uetera, 
 seruum senem, seruum morbōsum, 
 et sī quid aliut supersit, uēndat.
 
@@ -250,69 +250,86 @@ sī rotās uoles facere, tardius ducetur, sed minōre labōre.
 būbīlia bona, 
 bonās praesepīs faliscās clātrātās: 
 clātrōs interesse oportet pede:
-sī ita fēceris, pābulum boues nōn ēicient.
+
+  [sī ita fēceris]
+pābulum boues nōn ēicient.
 
 uīllam urbānam prō cōpiā aedificātō.
 
-in bonō praediō sī bene aedificāueris bene posiueris,
-rūrī sī rēctē habitaueris,
-libentius et saepius ueniēs, 
-fundus melior erit, minus peccābitur, 
-frūctī plūs capiēs.
+  [*in bonō praediō* sī bene aedificāueris (bene posīueris)
+  (*rūrī* sī rēctē habitāueris)]
+libentius (et saepius) ueniēs
+(fundus melior erit) 
+(minus peccābitur)
+(frūctī plūs capiēs).
 
 frōns occipitiō prior est. 
 
-uīcīnīs bonus estō:
-familiam nē sīuerīs peccāre.
+uīcīnīs bonus estō.
 
-sī tē libenter uīcīnitās uidēbit, facilius tua uēndēs,
-operās facilius locābis,
-operariōs facilius conduces;
-sī aedificābis, operis, iūmentīs, māteriē adiuuābunt;
-sī quid bona salūte ūsus uēnerit, benignē dēfendet.
+*familiam* nē sīuerīs [peccāre].
 
-haec erunt uīlicī officia:
+  [sī tē libenter uīcīnitās uidēbit] 
+facilius tua uēndēs
+(operās facilius locābis)
+(operariōs facilius conduces)
+([sī aedificābis] operis (iūmentīs) (māteriē) adiuuābunt)
+([sī quid bona salūte ūsus uēnerit] benignē dēfendet).
+
+haec <erunt> uīlicī officia.
+
 discipulīnā bonā ūtātur.
 
 fēriae seruentur. 
 
-aliēnō manum abstineat, sua seruet dīligenter. 
+*aliēnō* manum abstineat
+*sua* seruet _ dīligenter. 
 
-lītibus familia supersedeat:
-sī quis quid dēlīquerit, prō noxā bonō modō uindicet. 
+lītibus familia supersedeat.
 
-[*familiae* male nē sit 
+  [sī quis quid dēlīquerit] 
+prō noxā bonō modō uindicet. 
+
+*familiae* male nē sit 
 (nē algeat)
-(nē ēsuriat)] 
-opere bene exerceat
+(nē ēsuriat) 
+(opere bene exerceat).
 
-facilius malō et aliēnō prohibēbit.
-uīlicus, sī nōlet male facere, nōn faciet; 
-sī passus erit, dominus impūne nē sinat esse. 
+facilius malō (et aliēnō) prohibēbit.
 
-prō beneficiō grātiam referat,
-ut aliīs rēctē facere libeat. 
+*uīlicus* [sī nōlet male facere] 
+nōn faciet.
 
-uīlicus nē sit ambulātor; sōbrius siet semper;
-ad cēnam nēquō eat. 
-familiam exerceat: 
-cōnsīderet quae dominus imperāuerit fīant. 
-nē plūs cēnseat sapere se quam dominum. 
+[sī passus erit] dominus impūne <nē sinat> esse. 
+
+prō beneficiō grātiam referat
+[ut aliīs rēctē facere libeat].
+
+*uīlicus* nē sit ambulātor
+(sōbrius siet semper)
+(ad cēnam nēquō eat) 
+(familiam exerceat) 
+(cōnsīderet [[quae dominus imperāuerit] fīant]) 
+(nē plūs cēnseat [sapere se] [quam dominum]). 
 
 *amīcōs dominī* $eōs$ habeat sibi amīcōs.
-quoi iussus siet, auscultet.
-rem dīuīnam nisi compitālibus in compitō aut in focō nē faciat iniussū dominī
-crēdat nēminī: 
-quod dominus crēdiderit, exigat. 
+[quoi iussus siet] auscultet.
 
-satuī sēmen, cibāria, far, uīnum, oleum mūtuum dederit nēminī. 
+*rem dīuīnam* nisi compitālibus in compitō aut in focō nē faciat iniussū dominī.
 
-duās aut trēs familiās habeat,
-unde ūtenda roget et quibus det, praetereā nēminī. 
+crēdat _ nēminī.
+[quod dominus crēdiderit] exigat. 
+
+satuī sēmen (cibāria) (far) (uīnum) (oleum) mūtuum dederit _ nēminī. 
+
+duās (aut trēs familiās) habeat
+[unde ūtenda roget (et quibus det)]. 
+praetereā _ nēminī. 
 
 ratiōnem cum dominō crēbrō putet.
  
 operarium mercennarium polītōrem diūtius eundem nē habeat diē.
+
 nē quid ēmisse uelit īnsciente dominō, neu quid dominum cēlāuisse uelit. 
 
 parasītum nē quem habeat. haruspicem, augurem,
@@ -336,52 +353,53 @@ prius uīllam uideat clausa utī siet
 et utī suō quisque locō cubet 
 et utī iūmenta pābulum habeant.
  
-bouēs maximā dīligentiā cūrātōs habētō.
+*bouēs* maximā dīligentiā cūrātōs habētō.
 
-bubulcis opsequitō partim,
-quō libentius boues cūrent.
+bubulcīs opsequitō partim
+[quō libentius bouēs cūrent].
 
-arātra uōmerēsque facitō utī bonōs habeās.
+*arātra (uōmerēsque)* facitō [utī bonōs habeās].
 
-terram cariōsam
-caue nē arēs, 
-nēue plostrum nēue pecus impellās:
+*terram cariōsam* caue [nē arēs] 
+(nēue plostrum (nēue pecus) impellās).
 
-sī ita nōn cāueris, quō impuleris,
-triennii frūctum āmittēs.
+[sī ita nōn cāueris [quō impuleris]]
+triennī frūctum āmittēs.
 
-pecorī et būbus dīligenter substernatur, 
+pecorī (et būbus) dīligenter substernātur, 
 ungulae cūrentur;
 
 scabiem pecorī et iūmentīs cauētō:
-id ex fame et sī impluit fierī solet. 
+id ex famē et sī impluit fierī solet. 
 
 opera omnia mātūrē cōnficiās face; 
 
 nam res rūstica sīc est: 
 sī ūnam rem sērō fēceris, omnia opera sērō faciēs.
 
-strāmenta sī deerunt, 
-frondem iligneam legitō;
+[*strāmenta* sī dēerunt] 
+frondem īligneam legitō.
 
-eam substernitō ouibus būbusque.
+eam substernitō _ ouibus (būbusque).
 
-stercilinum magnum studē ut habeās; 
+sterculīnum magnum <studē> ut habeās. 
 
-stercus sēdulō cōnserua: 
-cum exportābis, purgātō et comminuito:
+stercus sēdulō cōnserua.
+
+[cum exportābis] 
+pūrgātō et comminuitō.
+
 per autumnum ēuehitō.
 
-circum oleās autumnitāte ablaqueātō et stercus additō.
+circum oleās autumnitāte ablaqueātō (et stercus additō).
 
-frondem pōpulneam, ulmeam, querneam caeditō per tempus:
-eam conditō nōn perāridam, pābulum ouibus.
+frondem pōpulneam (ulmeam) (querneam) caeditō _ per tempus.
 
-item faenum cordum, 
-sicilimenta dē prātō, ea ārida conditō.
+eam conditō ~ nōn perāridam _ pābulum ouibus.
 
-post imbrem autumnum, 
-rāpīnam, pābulum lupīnumque seritō.
+item *faenum cordum (sīcīlīmenta dē prātō)* ea ārida conditō.
+
+post imbrem autumnum rāpīnam (pābulum) (lupīnumque) seritō.
 
 -------------------------------------------------------
 
@@ -400,41 +418,41 @@ et sōlī ostentus erit: alius bonus nullus erit. quī ager
 frigidior et macrior erit, ibi oleam licinianam serī oportet; sin in locō crassō aut calidō seueris, hostus nēquam
 erit et ferundō arbor perībit et muscus ruber molestus 
 erit. 
-circum coronās et circum uiās ulmōs seritō et
+circum corōnās et circum uiās ulmōs seritō et
 partim populōs, utī frondem ouibus et būbus habeās, et 
 māteria, sī quō opus sit, parāta erit. sīcubi in iis 
-locis rīpae aut locus umectus erit, ibi cacumina populorum seritō et harundinētum. id hòc modō seritō: bipaliō uortitō; ibi oculōs harundinis pedes ternōs alium
-ab aliō seritō; ibi corrudam seritō, unde aspargi fīant. 
-nam conuenit harundinētum cum corruda, eō quia
+locis rīpae aut locus ūmectus erit, ibi cacūmina pōpulōrum seritō et harundinētum. id hòc modō seritō: bipāliō uortitō; ibi oculōs harundinis pedes ternōs alium
+ab aliō seritō; ibi corrūdam seritō, unde aspargi fīant. 
+nam conuenit harundinētum cum corrūdā, eō quia
 foditur et incenditur et umbram per tempus habet. salicem graecam circum harundinētum seritō, utī siet quī 
-uīneam alligēs. uīneam quō in agrō cōnseri oportet, sīc 
+uīneam alligēs. uīneam quō in agrō cōnserī oportet, sīc 
 obseruātō: quī locus uīnō optimus dīcētur esse et ostentus sōlī, aminnium minusculum et geminum, eugeneum, heluolum minusculum cōnseritō; quī locus
-crassus erit aut nebulosior, ibi aminnium maius aut 
+crassus erit aut nebulōsior, ibi aminnium maius aut 
 murgentinum, apicium, lucanum seritō; cēterae uites, 
-miscellae maxime, in quemuis agrum conueniunt.
+miscellae maxime, in quemuīs agrum conueniunt.
 
  
-  fundum suburbanum arbustum maxime conuenit habēre: et ligna et uirgae uenire possunt, et dominō erit quī utatur. in eodem fundō suum quidquid 
-cōnseri oportet: uitem compluariam, aminnium minusculum uinō et maius et apicium:
+  fundum suburbānum arbustum maxime conuenit habēre: et ligna et uirgae uēnīre possunt, et dominō erit quī ūtātur. in eōdem fundō suum quidquid 
+cōnserī oportet: uitem compluariam, aminnium minusculum uīnō et maius et apicium:
 eae
 in olla in uinaceis conduntur: eadem in sapa, in 
-mustō, in lora rēctē conduntur. quās suspendās duracinās aminneās maiores uel ad fabrum ferrarium 
+mustō, in lora rēctē conduntur. quās suspendās duracinās aminneās maiiōrēs uel ad fabrum ferrārium 
 prō passis ea rēctē seruantur.
 poma, mala strutea,
-cotonea, scantiana, quiriniana, item alia conditiua, mala 
-mustea et punica (eō lotium suillum aut stercus ad radicem addere oportet, utī pabulum malorum fiant), 
-pira uolaema, aniciana et sementiua (haec conditiua
+cotonea, scantiana, quiriniana, item alia conditīua, mala 
+mustea et pūnica (eō lotium suillum aut stercus ad rādīcem addere oportet, utī pābulum malōrum fīant), 
+pira uolaema, aniciana et sementiua (haec conditīua
 in sapa bona erunt), tarentina, mustea, cucurbitiua, 
-item alia genera quam plurima poteris seritō aut īnseritō. oleās orchites, posiās: eae optime conduntur uel
+item alia genera quam plūrima poteris seritō aut īnseritō. oleās orchites, posiās: eae optime conduntur uel
 uirides in muria uel in lentiscō contusae; uel orchites,
 ubi nigrae erunt et siccae, sale cōnfriātō dies V: posteā
-salem excutitō, in sōle pōnitō biduum, uel sine sale in
-defrutum conditō. sorua in sapa condere uel siccare: 
-arida faciās; item pira faciās. 
+salem excutitō, in sōle pōnitō bīduum, uel sine sale in
+dēfrūtum conditō. sorua in sapa condere uel siccāre: 
+ārida faciās; item pira faciās. 
 
 -------------------------------------------------------
 
-  ficōs mariscās in locō cretōsō et apertō seritō; africanās et herculaneās, sacontinās, hibernās, tellanās
+  fīcōs mariscās in locō cretōsō et apertō seritō; āfricānās et herculāneās, sacontinās, hibernās, tellanās
 atrās pediculō longo: eās in locō crassiore aut stercorātō seritō. pratum sī irrigiuum habēbis, sī nōn
 erit siccum, nē fenum desiet, summittitō.
 sub urbe
