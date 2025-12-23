@@ -296,8 +296,8 @@ Because of its nature, the pronoun stack is good evidence than a verb
 preceding it is fronted in the way imperative verbs often are.
 
 ```
-*uideō* egō tē :::: {mulier} more multārum ūtier
-[ut uim contendās ~ tuam _ ad maiestatem uirī].
+*uideo* ego te :::: {mulier} more multarum utier
+[ut uim contendas ~ tuam _ ad maiestatem uiri].
 ```
 
 ## Right periphery elements _ and ~
