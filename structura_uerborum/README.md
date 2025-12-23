@@ -121,18 +121,19 @@ They are detailed enough to help both with structural overview of the
 text and observing and learning word order phenomena in latin.
 
 
-| symbol | meaning                              | category   |
-|--------|--------------------------------------|------------|
-| []     | embedded clause                      | structural |
-| ()     | conjunct in coordination             | structural |
-| {}     | parenthetical/incidental element     | structural |                                                                           |
-| <>     | flattened clauses / non final 'esse' | word order |                                                                          |
-| **     | fronted/left periphery element       | word order |                                                                         |
-| $$     | correlative element                  | structural |                                                                        |
-| \_(\_) | right periphery element              | word order |                                                                       
-| ~(~)   | right periphery element (tailing)    | word order |                                                                      |
-| «»     | other constituent (if interesting)   | structural |                                                                      
-| -      | new sentence (if ambiguous)          | structural |                                                                    
+| symbol | meaning                                       | category   |
+|--------|-----------------------------------------------|------------|
+| []     | embedded clause                               | structural |
+| ()     | conjunct in coordination                      | structural |
+| {}     | parenthetical/incidental element              | structural |                                                                           |
+| <>     | flattened clauses / non final 'esse'          | word order |                                                                          |
+| **     | fronted/left periphery element                | word order |                                                                         |
+| $$     | correlative element                           | structural |
+| ::::   | connectors and pronoun stack (if interesting) | word order |
+| _      | right periphery element                       | word order |                                                                       
+| ~      | right periphery element (tailing)             | word order |                                                                      |
+| «»     | other constituent (if interesting)            | structural |                                                                      
+| -      | new sentence (if ambiguous)                   | structural |                                                                    
 
 ## Embedded clauses []
 
@@ -268,12 +269,35 @@ quiduis $potius$ [quam [quod cogitas]].
     [(ingratum) 
     (aut inhumanum) 
     (aut ferum)])
-        [ut neque me consuetudo 
+        [ut neque me :::: consuetudo 
             (neque amor) 
             (neque pudor)
         commoueat 
         (neque commoneat)
             [ut seruem _ fidem]].
+```
+
+## Connectors and pronoun stack ::::
+
+Latin has a strong tendency to group sentence connectors and pronouns early in clauses.
+This symbol comes after that group as a way to make it visually salient. It doesn't
+assist with faster reading or disambiguation but it's an added reinforcement tool to
+learn proper word order.
+
+```
+nunc te :::: obsequentem (atque hilarem) <dixi> praebeas.
+```
+```
+[si ille haec :::: nunc <sentit> facere _ illi satis]
+uis quanta illius mors <sit> maceries _ tibi
+```
+
+Because of its nature, the pronoun stack is good evidence than a verb
+preceding it is fronted in the way imperative verbs often are.
+
+```
+*uideō* egō tē :::: {mulier} more multārum ūtier
+[ut uim contendās ~ tuam _ ad maiestatem uirī].
 ```
 
 ## Right periphery elements _ and ~

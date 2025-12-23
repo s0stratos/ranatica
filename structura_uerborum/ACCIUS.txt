@@ -1005,6 +1005,9 @@ quō pactō magnam molem minuam.
 uideō egō tē mulier more multārum ūtier
 ut uim contendās tuam ad maiestatem uirī.
 
+*uideō* egō tē :::: {mulier} [more multārum ūtier]
+[ut uim contendās ~ tuam _ ad maiestatem uirī].
+
 [TR7]
 alia hic sanctitudō est aliud nōmen et nūmen iouis.
 
@@ -1076,6 +1079,8 @@ cōnsimilem ad auris cantum et auditum refert.
 
 [TR7]
 ego mē extollō in abietem alte. ex tutō prospectum aucupo.
+
+ego mē :::: extollō _ in abietem alte. *ex tutō* [prospectum] aucupo.
 
 [TR7]
 uagant pauore pecuda in tumulis deserunt.
