@@ -374,6 +374,12 @@ marking the verb may feel more or less interesting. Option 1 is interesting to m
 interpretation on the part of the annotator. Option 2/3 are interesting to attract 
 attention on that verb placement.
 
+Because of the pronoun tibi here, I think fronting but by signalled and extraposition
+should not be marked or at least not include tibi. So I would choose option 3 here.
+
+`*interdixi* tibi de medicis.`
+
+
 ### Initial adverbs
 
 ### Initial subordinate clauses
