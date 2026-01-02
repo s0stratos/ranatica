@@ -5,8 +5,11 @@ abaetat
 abaliēnāre
 abaliēnārier
 abaliēnārit
+abaliēnātum
 abaliēnātur
 abaliēnāuerit
+abaliēnāueritue
+abaliēnāuit
 abauus
 abdicat
 abdidērunt
@@ -919,6 +922,7 @@ adprīmē
 adprīmus
 adque
 adripuit
+adsignāuit
 adsum
 adtingam
 aduecta
@@ -1063,7 +1067,6 @@ aduocātīs
 aduocātō
 aduocātōs
 aduocātum
-aduocatus
 aduocātus
 aduocāuerit
 aduocāuistī
@@ -1123,7 +1126,11 @@ aedificātōre
 aedificātum
 aedificāueris
 aedificēs
+aedificia
+aedificieis
 aedificiīs
+aedificiōrum
+aedificium
 aedīlem
 aedīlēs
 aedīlibus
@@ -1458,6 +1465,7 @@ agorānomus
 agorastoclem
 agorastoclēs
 agorastoclī
+agreis
 agrestis
 agrī
 agricola
@@ -1468,6 +1476,7 @@ agrigentīnus
 agrīs
 agrō
 agrōque
+agrōrum
 agrōs
 agrum
 agrumque
@@ -1486,20 +1495,16 @@ aibant
 aibās
 aibat
 aiēbant
-āiiācem
+aiiācem
 aiiās
 aiiēbant
 aiiēbās
 aiiēbat
 aiiēbātis
 aiiō
-āiiō
 aiiunt
-āiiunt
 ain
 aīn
-āin
-āīn
 aiquom
 ais
 aīs
@@ -1583,6 +1588,7 @@ alicunde
 ālide
 ālidem
 ālidēnsem
+alieis
 aliēna
 aliēnā
 aliēnābis
@@ -2090,6 +2096,7 @@ anguīs
 angulō
 angulōs
 angulum
+angustitātem
 angustum
 anhēlantem
 anhēlat
@@ -2215,6 +2222,7 @@ antīquā
 antīquae
 antīquam
 antīquamque
+antīqueis
 antīquīs
 antīquō
 antīquōs
@@ -2270,7 +2278,7 @@ apoecidem
 apoecidēs
 apoecidī
 apolactīssō
-apollinaris
+apollināris
 apollinī
 apollinis
 apollō
@@ -2585,6 +2593,7 @@ argentum
 argentumexterebrōnidēs
 argentumst
 argīs
+argīuom
 argīuōs
 argō
 arguam
@@ -2620,6 +2629,7 @@ arguunt
 āridō
 āridum
 ariēs
+arietāre
 arietat
 ariete
 arietem
@@ -2685,6 +2695,7 @@ artium
 artius
 artoptam
 artotrōgus
+artū
 artua
 artubus
 artūtōs
@@ -3238,6 +3249,7 @@ auguriō
 auguriōque
 augurium
 augurō
+augustam
 auī
 auia
 auiās
@@ -3409,10 +3421,10 @@ baccidis
 baccis
 badīssās
 baebiō
-bāiiolāre
+baiiolāre
 baiiolum
-bāiiolus
-bāiiulābō
+baiiolus
+baiiulābō
 balanōs
 bālant
 balineae
@@ -3709,6 +3721,7 @@ breue
 breuem
 breuest
 breuī
+breuia
 breuiculum
 breuin
 breuior
@@ -3910,6 +3923,7 @@ callō
 callum
 cālōnēs
 calor
+calpurniō
 caltulam
 caludōnem
 caludōniam
@@ -4255,7 +4269,6 @@ catulī
 catulō
 catulōs
 catum
-catur
 catus
 caudeam
 caudex
@@ -4293,6 +4306,7 @@ cāuisse
 cāuistī
 cāuistis
 cāuit
+cauitumue
 caullātor
 cauō
 caupōnēs
@@ -4348,6 +4362,7 @@ cedo
 cēdō
 cedodum
 cēdunt
+ceiuī
 ceiuis
 cēlābat
 cēlābis
@@ -4372,6 +4387,7 @@ cēlāuī
 cēlāuisse
 cēlāuistī
 cēlāuistis
+celebrant
 celebre
 celebrem
 celebrī
@@ -4471,6 +4487,7 @@ cēnsuēre
 cēnsuī
 cēnsuit
 cēnsuīt
+cēnsum
 cēnsus
 centauromaciam
 centēsimam
@@ -4567,6 +4584,7 @@ ceruom
 cērussā
 cērussam
 ceruum
+cēsōrēs
 cessāmus
 cessant
 cessāre
@@ -4589,10 +4607,12 @@ cētera
 cēterae
 cēterārum
 cēterās
+cētereis
 cēterī
 cēteris
 cēterīs
 cēterō
+cēterōrum
 cēterōs
 cēterum
 cette
@@ -4902,6 +4922,8 @@ coepta
 coeptās
 coeptat
 coepulōnus
+coerāuēre
+coerāuerunt
 coetū
 cōgam
 cōgantur
@@ -5362,6 +5384,7 @@ commūtāre
 commūtās
 commūtat
 commūtātūrum
+commūtātus
 commūtātust
 commūtāuerīs
 commūtāuerō
@@ -5405,6 +5428,7 @@ comparēs
 comparet
 compāret
 compāscuō
+compāscuom
 compāscuos
 compectī
 compectō
@@ -5579,6 +5603,7 @@ concenturiat
 concenturiō
 concēpistī
 conceptīs
+conceptum
 concertāsse
 concessāmus
 concesserō
@@ -5850,6 +5875,7 @@ cōnficiēs
 cōnficiet
 cōnficimus
 cōnficiō
+cōnficiunt
 cōnfictae
 cōnfīdam
 cōnfīdēns
@@ -5979,6 +6005,7 @@ coniectum
 coniectūra
 coniectūrā
 coniectūram
+cōnītier
 cōnīuent
 coniugem
 coniugī
@@ -6007,6 +6034,7 @@ conquīstōrēs
 conrumpet
 cōns.
 cōnsanguineīs
+cōnsanguineōs
 cōnscendimus
 cōnscendit
 cōnscendō
@@ -6160,7 +6188,7 @@ cōnstiterit
 cōnstitī
 cōnstitit
 cōnstituātur
-cōnstitūeram
+cōnstitueram
 cōnstituerō
 cōnstituērunt
 cōnstituī
@@ -6346,6 +6374,7 @@ contruncent
 contubernālīs
 contudērunt
 contudit
+contuērī
 contuī
 contuleram
 contulī
@@ -6520,6 +6549,7 @@ corintum
 coriō
 coriōs
 corium
+cornelī
 corneliō
 cornelius
 cornibus
@@ -6753,6 +6783,7 @@ crocinum
 crocotium
 crocōtium
 crocōtulam
+cronia
 cruce
 crucem
 crucēsque
@@ -6802,6 +6833,7 @@ crusculīs
 crūside
 crūsidem
 crūsidis
+crūsippus
 crūsis
 crūsō
 crusopolim
@@ -6853,6 +6885,7 @@ cubuī
 cubuissem
 cubuistī
 cuclōps
+CUCLUS
 cucūle
 cucūliōnēs
 cucūlum
@@ -7121,7 +7154,6 @@ cūstōdit
 cūstōs
 cutem
 CXXIII
-d
 da
 dā
 dabam
@@ -7291,6 +7323,7 @@ dēbērī
 dēbēs
 dēbet
 dēbētis
+dēbētō
 dēbētur
 dēbilia
 dēbilis
@@ -7321,6 +7354,7 @@ decēre
 decēret
 dēcernere
 dēcernit
+dēcernitōque
 dēcesse
 decet
 decēt
@@ -7467,6 +7501,7 @@ dēerunt
 dēfaecātō
 dēfaecātumst
 dēfēcimus
+dēfēcit
 dēfendam
 dēfendant
 dēfendās
@@ -7566,19 +7601,21 @@ dēhinc
 dehortārī
 dehortātus
 dehortor
+deicere
 deicerent
 deicet
 deicētur
-dēicī
-dēiciam
-dēiciamque
-dēicite
-dēiiēcit
-dēiierā
-dēiierāre
-dēiierat
-dēiierāuit
-dēiiuuāre
+deicitō
+deiicī
+deiiciam
+deiiciamque
+deiicite
+deiiēcit
+deiierā
+deiierāre
+deiierat
+deiierāuit
+deiiuuāre
 dein
 deinde
 deīs
@@ -8122,12 +8159,14 @@ dextrā
 dextram
 dextrās
 dextris
+dextrōrsum
 dextrōuersum
 dextrōuorsum
 dī
 diabatrāriī
 diabolum
 diabolus
+diālis
 diānae
 diānāī
 dīānāī
@@ -8300,13 +8339,13 @@ dignun
 dignus
 dignust
 dīgressōs
-dīiūdicā
-dīiūdicāre
-dīiūdicat
-dīiūdicent
-dīiunge
-dīiungimur
-dīiūnxit
+diiūdicā
+diiūdicāre
+diiūdicat
+diiūdicent
+diiunge
+diiungimur
+diiūnxit
 dīlapidat
 dīlēctum
 dīlēxī
@@ -8540,6 +8579,7 @@ dīuidam
 dīuidant
 dīuide
 dīuidere
+dīuiderētur
 dīuidēs
 dīuidētur
 dīuidī
@@ -8973,7 +9013,6 @@ dūxisse
 dūxisset
 dūxistī
 dūxit
-e
 ē
 ea
 eā
@@ -9335,45 +9374,45 @@ egonōbīs
 ēgurgitem
 ehem
 eheu
-ēheu
 eho
 ehō
 ehodum
 ei
 eī
-ēi
-ēī
 eia
-ēicī
-ēiciam
-ēiciar
-ēiciat
-ēicienda
-ēicient
-ēicis
-ēicite
-ēicitur
 eidem
 eīdem
 ēīdem
 eidemque
 eidus
+eiectus
 eieis
-ēiiēcerit
-ēiiēcerīt
-ēiiēcī
-ēiiēcisset
-ēiiēcit
-ēiiecta
-ēiiectae
-ēiiectam
-ēiiectās
-ēiiectī
-ēiiectōs
-ēiiectus
-ēiiulāns
-ēiiulās
-ēiiulātiōne
+eii
+eiī
+eiicī
+eiiciam
+eiiciar
+eiiciat
+eiicienda
+eiicient
+eiicis
+eiicite
+eiicitur
+eiiēcerit
+eiiēcerīt
+eiiēcī
+eiiēcisset
+eiiēcit
+eiiecta
+eiiectae
+eiiectam
+eiiectās
+eiiectī
+eiiectōs
+eiiectus
+eiiulāns
+eiiulās
+eiiulātiōne
 eiius
 eiiusmodī
 eiiusque
@@ -9384,6 +9423,7 @@ eiram
 eīs
 eisdem
 eius
+eiusque
 ēlābitur
 ēlāpsa
 ēlāpsust
@@ -9626,6 +9666,7 @@ eōdem
 eōdemque
 eōn
 eōpse
+eōque
 eōrum
 eōrumst
 eōs
@@ -9681,6 +9722,8 @@ epulae
 epulandī
 epulārum
 epulās
+epulentur
+epulīs
 equās
 eques
 equī
@@ -9714,7 +9757,6 @@ erat
 erāt
 erātis
 erce
-ercennarium
 ere
 ērēpsistī
 ēreptum
@@ -9755,6 +9797,7 @@ eris
 erīs
 erit
 eritis
+eritue
 erō
 ērogitāre
 erōs
@@ -9816,14 +9859,12 @@ eṣet
 ess
 esse
 ēsse
-essēantidamossōnālemuedubertefēt
 essem
 essēmus
 essent
 essēs
 esset
 essetne
-esseuideō
 essitābunt
 essitās
 essū
@@ -9961,6 +10002,7 @@ eunūcus
 ēuomam
 ēuomunt
 eurīpidī
+eurōpae
 eurudicā
 euscēmē
 eutuce
@@ -10018,6 +10060,7 @@ excēpisse
 excēpistī
 excēpit
 excepta
+exceptum
 excerpis
 excesserīs
 excesserit
@@ -10158,7 +10201,7 @@ exercitōr
 exercitōs
 exercitū
 exercitum
-exercitūru's        9180
+exercitūru's
 exercitus
 exercitūs
 exercitūsque
@@ -10727,6 +10770,7 @@ exturbāstī
 exturbāuit
 exturbēs
 exturbō
+exūberāns
 exue
 exul
 exulātum
@@ -10886,6 +10930,7 @@ factae
 factam
 factās
 factast
+facteis
 factī
 factiō
 factiōne
@@ -11010,7 +11055,6 @@ familiārī
 familiāribus
 familiārior
 familiāriōrem
-familiaris
 familiāris
 familiārīs
 familiāritās
@@ -11021,9 +11065,11 @@ familiās
 familiāst
 familiīs
 fāmōsum
+famulī
 famulīs
 famulō
 famulōs
+famulōsque
 fāna
 fandō
 fānī
@@ -11088,6 +11134,7 @@ faxis
 faxīs
 faxit
 faxō
+faxseis
 fē
 febrīculōsae
 febrim
@@ -11232,6 +11279,7 @@ fert
 ferte
 fertis
 fertne
+fertō
 fertur
 feruēfaciunt
 feruentem
@@ -11451,11 +11499,13 @@ flagrīs
 flāgritribae
 flagrō
 flagrum
+flāminis
 flamma
 flammā
 flammae
 flammam
 flammāriī
+flammeum
 flāre
 flē
 fleam
@@ -11561,6 +11611,7 @@ fōrmae
 fōrmāī
 fōrmam
 fōrmārum
+fōrmās
 fōrmast
 fōrmāst
 formīcae
@@ -11712,6 +11763,7 @@ frondem
 frōns
 fronte
 frontem
+fruantur
 fruāre
 fruātur
 frūctī
@@ -11873,6 +11925,7 @@ fūnambulō
 fūnctu's
 fūnctus
 fundam
+fundāmenta
 fundāmentō
 fundāmentum
 fundās
@@ -12004,9 +12057,8 @@ gaudēs
 gaudet
 gaudia
 gaudiā
-gaudiis
 gaudiīs
-gaudiisque
+gaudiīsque
 gaudiō
 gaudīst
 gaudium
@@ -12118,6 +12170,7 @@ gerundae
 gerundum
 gerunt
 gēruonāceō
+geṣistei
 gesserim
 gesserīmus
 gesserīs
@@ -12253,6 +12306,7 @@ graecīst
 graecum
 graecus
 graiī
+graium
 gralātōrem
 grāmārum
 grānāriīs
@@ -12391,6 +12445,7 @@ habēbat
 habēbis
 habēbit
 habēbitis
+habēbitue
 habēbō
 habēbunt
 habēmur
@@ -12610,7 +12665,9 @@ here
 hērēde
 hērēdem
 hērēdemque
+hērēdemue
 hērēditās
+hērēditāte
 hērēditātem
 hērēditātēs
 hērēs
@@ -12673,6 +12730,7 @@ hirneam
 hirquī
 hirquīnā
 hirquīnae
+hirtius
 hirūdinem
 hirundinem
 hirundinēs
@@ -12738,6 +12796,7 @@ honestē
 honestēs
 honestet
 honestiōrem
+honestitūdō
 honestiust
 honestum
 honestumst
@@ -12759,7 +12818,7 @@ hōraeum
 hōram
 hōrās
 hōrāsque
-hordēiiās
+hordeiiās
 hordeō
 hōriā
 hōriae
@@ -12844,12 +12903,10 @@ hūcine
 hui
 huic
 huīc
-hūic
-hūīc
+huiic
+huiīc
 huiius
-hūiius
 huiiusce
-hūiiusce
 huiiusmodī
 huiiust
 huius
@@ -12876,7 +12933,6 @@ humum
 hunc
 huncin
 huncine
-i
 ī
 ia
 iace
@@ -12911,8 +12967,8 @@ iaculō
 iaculum
 iahōn
 iahōnis
-iāiientāculō
-iāiientāculum
+iaiientāculō
+iaiientāculum
 iam
 iamdiū
 iamdūdum
@@ -12984,11 +13040,11 @@ idualaria
 iēcistī
 iecur
 ieientāre
-iēiūniōsiōrem
-iēiūnitāte
-iēiūnitātis
-iēiūnium
-iēiūnumst
+ieiiūniōsiōrem
+ieiiūnitāte
+ieiiūnitātis
+ieiiūnium
+ieiiūnumst
 īerant
 ierint
 ieris
@@ -13057,6 +13113,9 @@ ignōtumst
 ignōtust
 ih
 ii
+IIIuir
+IIIuirei
+IIIuirō
 iistī
 iit
 il
@@ -13211,6 +13270,7 @@ immodestia
 immodestīs
 immodestus
 immoene
+immolāre
 immolārit
 immolās
 immolāuī
@@ -13363,7 +13423,7 @@ impiāuī
 impietās
 impiger
 impigrēque
-impii
+impiī
 impingam
 impinge
 impingī
@@ -13782,6 +13842,7 @@ indōtātam
 indōtātās
 indōtātast
 indōtātis
+indōtātīs
 indoucēbāmus
 indoucere
 indoucimus
@@ -14459,6 +14520,7 @@ intermissum
 intermittit
 intermortuī
 internecātīs
+interneciōnī
 internōsse
 internūntia
 internūntiī
@@ -14565,6 +14627,7 @@ inuādam
 inuādī
 inuāsērunt
 inuāsit
+inue
 inuehere
 inuēndibilī
 inuēneris
@@ -14908,6 +14971,7 @@ it
 īt
 ita
 italiā
+italiam
 italicās
 italicōrum
 itan
@@ -14923,9 +14987,11 @@ itemque
 iter
 iterā
 iterant
+iterantur
 iterārī
 iterārunt
 iterātū
+itere
 iterem
 iterō
 iterum
@@ -15285,9 +15351,11 @@ lāneam
 langēnsēs
 langēnsibus
 langēnsium
+languidōs
 languōrem
 laniēnās
 lānificiō
+lānigerum
 laniī
 laniīs
 laniōs
@@ -15437,7 +15505,7 @@ laudās
 laudāsse
 laudat
 laudātō
-laudatus
+laudātus
 laudāuisse
 laude
 laudem
@@ -15794,6 +15862,7 @@ licitum
 licitumst
 līctor
 līctōrēs
+licuiṣet
 licuit
 liēn
 liēne
@@ -15926,6 +15995,8 @@ locātō
 locātum
 locāuerunt
 locāuī
+locei
+loceis
 locem
 locentur
 locēre
@@ -15959,6 +16030,7 @@ logī
 logōs
 loliō
 lollīgunculās
+lollius
 longa
 longā
 longae
@@ -16023,6 +16095,7 @@ lōripedīs
 lōrīs
 lubeant
 lubeat
+lubēns
 lubentēs
 lubet
 lubīdinem
@@ -16140,6 +16213,7 @@ lūdunt
 ludus
 lūdus
 lūdusque
+luendīs
 lūgēre
 lūgubrī
 luit
@@ -16317,8 +16391,8 @@ magisteriō
 magistrae
 magistram
 magistrās
+magistrātū
 magistrātum
-magistratus
 magistrātus
 magistrātūs
 magistrō
@@ -16376,6 +16450,7 @@ maior
 maiōre
 maiōrem
 maiōrēs
+maiōrum
 maius
 mala
 malā
@@ -16621,6 +16696,7 @@ marsuppīō
 marsuppium
 mārte
 mārtem
+mārtiās
 masculus
 māsne
 massās
@@ -17277,6 +17353,7 @@ minor
 minōr
 minōre
 minōrem
+minōrēs
 minōrī
 minōris
 minōrīs
@@ -17325,6 +17402,7 @@ mīrēre
 mīrētur
 mirga
 mīrificissimum
+mīrificum
 mīrimodīs
 mīrīs
 mīrīsque
@@ -17746,6 +17824,7 @@ mortuī
 mortuīs
 mortuō
 mortuōrum
+mortuos
 mortuōs
 mortuu's
 mortuum
@@ -17900,6 +17979,7 @@ muropōlae
 muropōlās
 muropōlia
 mūrōs
+mūrōsque
 murram
 murrhina
 murrhinus
@@ -17907,6 +17987,7 @@ murrina
 murrinā
 murrinam
 murtēta
+murtilī
 mūrum
 mūrus
 mus
@@ -18109,9 +18190,6 @@ nautae
 nautea
 nauteā
 nauteam
-nc
-ndō
-ne
 nē
 nēbat
 nebula
@@ -18297,7 +18375,7 @@ nescioquid
 nescioquis
 nescioquō
 nescioquod
-nescioquōiia
+nescioquoiia
 nescioquōs
 nesciōquot
 nescīre
@@ -18545,6 +18623,7 @@ nostrast
 nostrāst
 nostrī
 nostrīs
+nostrīsque
 nostrō
 nostrōrum
 nostrōrumst
@@ -19337,8 +19416,11 @@ odōrēs
 odōs
 oedipō
 oedipus
+OENOMAUS
 oenopōliō
 oeta
+oetantur
+oetātur
 offā
 offae
 offam
@@ -19467,7 +19549,6 @@ omniumque
 omniumst
 omoedia
 ompalae
-on
 onagrōst
 onera
 onerā
@@ -19569,6 +19650,7 @@ oporteat
 oportēbant
 oportēbat
 oportēbit
+oportēbitue
 oportent
 oportēre
 oportet
@@ -19593,6 +19675,7 @@ opperītus
 oppertus
 oppetamque
 oppetās
+oppī
 oppiam
 oppida
 oppidī
@@ -19601,7 +19684,6 @@ oppidō
 oppidum
 oppidumst
 oppignerāre
-oppii
 opplēbit
 opplēbō
 opplet
@@ -19824,6 +19906,7 @@ orbae
 orbam
 orbās
 orbast
+orbem
 orbitātem
 orcī
 orcō
@@ -20326,6 +20409,7 @@ paruum
 pāscat
 pasceolō
 pāscere
+pāscet
 pāscit
 pāscite
 pāscuust
@@ -20637,6 +20721,7 @@ pellis
 pellitō
 pellūcet
 pellūcidum
+pelopidārum
 penātēs
 penātīs
 pendam
@@ -20717,6 +20802,8 @@ pepulī
 pepulissem
 pepulistī
 pepulit
+pequdēs
+pequdibus
 peqūniae
 peqūniam
 per
@@ -21534,6 +21621,7 @@ piscīs
 piscist
 piscium
 pisculentīs
+pīsis
 pistillum
 pistillus
 pistō
@@ -21560,10 +21648,10 @@ piu's
 pium
 pius
 pix
-pl
 plācābilius
 plācābit
 plācandum
+plācāns
 plācāre
 plācārī
 plācātast
@@ -21655,11 +21743,14 @@ plautīna
 plautīnās
 plautum
 plautus
-plēbēiī
+plēbeiī
 plebeis
+plebeiue
+plēbeiue
 plēbem
 plēbēsque
 plēbī
+plēbīue
 plectantur
 plectar
 plectilis
@@ -21860,6 +21951,7 @@ pōplicī
 pōplicō
 pōplicōd
 pōplicum
+pōplicus
 poplō
 poplum
 poposcerit
@@ -21958,6 +22050,7 @@ poṣidēbit
 poṣidēbunt
 poṣident
 poṣidēre
+poṣidet
 poṣidētō
 posita
 positam
@@ -21975,9 +22068,15 @@ possem
 possent
 possentne
 possēs
+possessiō
+possessiōnem
+possessor
+possessōre
 posset
 possēt
+possideatque
 possidēbit
+possidēbitue
 possideō
 possidēre
 possidērem
@@ -22173,7 +22272,6 @@ potuistī
 potuit
 potuīt
 pōtus
-pr
 prae
 praebeant
 praebeās
@@ -22229,6 +22327,8 @@ praecipiundum
 praecipuam
 praecipuē
 praecipuus
+praecīsum
+praeclāriōremque
 praeclārum
 praecō
 praecōnātus
@@ -22608,6 +22708,7 @@ prīuātam
 prīuātī
 prīuātim
 prīuātō
+prīuātōrum
 prīuātum
 prīuātus
 prīuent
@@ -22628,6 +22729,7 @@ probās
 probāsse
 probast
 probāstis
+probāuēre
 probe
 probē
 probēs
@@ -22680,6 +22782,7 @@ prōcūdam
 procul
 prōcumbunt
 prōcūrā
+prōcūrant
 prōcūrās
 prōcūrat
 prōcūrātor
@@ -22767,6 +22870,7 @@ proficīscī
 proficīscitur
 proficīscō
 proficīscor
+prōfitērei
 prōfitērī
 profitētur
 prōfligāre
@@ -22827,13 +22931,13 @@ prohibētur
 prohibuerit
 prohibuī
 prohibuit
-prōicī
-prōiiēcerat
-prōiiēcī
-prōiiēcit
-prōiiectam
-prōiiectīciae
-prōiiectīciam
+proiicī
+proiiēcerat
+proiiēcī
+proiiēcit
+proiiectam
+proiiectīciae
+proiiectīciam
 proin
 proinde
 prōlātae
@@ -23063,6 +23167,7 @@ prōstibulī
 prōstibulum
 prōstituam
 prōstituat
+prōstrātum
 prōsum
 prosumiā
 prosumiam
@@ -23168,15 +23273,18 @@ pterelam
 ptolemocratia
 pū
 pūbē
+pūblī
 pūblica
 pūblicā
 pūblicae
 pūblicāī
 pūblicam
 pūblicānī
+pūblicānō
 pūblicānōs
 pūblicat
 pūblicē
+pūblicei
 pūblicēst
 pūblicīs
 pūblicīsne
@@ -23184,7 +23292,9 @@ pūblicitus
 pūblicō
 pūblicum
 pūblicumst
+pūblicus
 publilius
+pūbliō
 pudeat
 pudēbat
 pudendum
@@ -23551,6 +23661,7 @@ quaestus
 quaestūs
 quaeue
 quaeuīs
+quairātis
 quāle
 quālem
 quālest
@@ -23632,6 +23743,7 @@ queantur
 queās
 queat
 quei
+queique
 queiquomque
 queiue
 quem
@@ -23782,13 +23894,15 @@ quodsī
 quoduīs
 quoi
 quoia
+quoiei
+quoieique
 quoii
-quōiia
-quōiiā
-quōiiam
-quōiiast
-quōiiō
-quōiius
+quoiia
+quoiiā
+quoiiam
+quoiiast
+quoiiō
+quoiius
 quoin
 quoipiam
 quoiquam
@@ -23823,10 +23937,10 @@ quotiēnscumque
 quotque
 quotumās
 quotumō
+quōue
 quōuīs
 quōusque
 qūrā
-r
 rabiēs
 rabiōsa
 rabiōsam
@@ -23835,6 +23949,7 @@ rabiōsus
 rabōnem
 rābōnem
 rādēbat
+radiātum
 rādīce
 rādīcem
 rādīcēs
@@ -23842,7 +23957,9 @@ rādīcibus
 rādīcitus
 radiī
 radiīs
+radiōrum
 radiōsus
+rādit
 rādīx
 rallam
 ram
@@ -24069,6 +24186,7 @@ redditūra
 redditūru's
 redditūrum
 redditūrus
+reddīue
 reddō
 reddūc
 reddūcam
@@ -24244,7 +24362,7 @@ reicere
 reiciam
 reiciat
 reiciō
-rēiēcī
+reiēcī
 reiēcit
 reiectus
 reīst
@@ -24289,6 +24407,7 @@ relinquātur
 relinque
 relinquere
 relinquerēs
+relinquereue
 relinquēs
 relinquet
 relinquī
@@ -24311,6 +24430,7 @@ reliquiās
 reliquiīs
 relīquisset
 relīquit
+relīquitue
 rellātum
 relleuābis
 rem
@@ -24806,14 +24926,17 @@ rogā
 rogābat
 rogābis
 rogābit
+rogābitur
 rogābō
 rogāmus
 rogandī
 rogandō
+rogāns
 rogant
 rogantī
 rogāre
 rogāret
+rogārunt
 rogās
 rogāsne
 rogāsse
@@ -24851,6 +24974,7 @@ rōma
 rōmae
 rōmam
 rōmānam
+rōmānei
 rōmānī
 romanis
 rōmānō
@@ -24900,6 +25024,7 @@ rumpere
 rumperet
 rumpitis
 runcārī
+rūpem
 rūpī
 ruptūrus
 rūrant
@@ -25230,7 +25355,6 @@ sauciem
 saucium
 saucius
 sāuia
-sāuiis
 sāuiīs
 sāuiōst
 sauium
@@ -25243,6 +25367,7 @@ saxātilem
 saxī
 saxō
 saxsolus
+saxsum
 saxum
 saxumque
 scabiem
@@ -25270,6 +25395,7 @@ scapulārum
 scapulās
 scapulīs
 scatat
+scatebra
 scatet
 sceledre
 sceledrō
@@ -25344,6 +25470,7 @@ scindunt
 scintillam
 scintillant
 sciō
+scīpiō
 scīpiōne
 scīpiōnem
 scīpiōnis
@@ -25456,8 +25583,10 @@ scrīptumst
 scrīptūra
 scrīptūrā
 scrīptūram
+scrīptūramue
 scrīptūrī
 scrīptūrum
+scrīptus
 scrīptust
 scrobēs
 scrōfam
@@ -25613,6 +25742,7 @@ sempiterna
 sempiternam
 sempiternās
 sempiternum
+semprōnius
 senātī
 senātū
 senātuei
@@ -27250,6 +27380,7 @@ superant
 superāre
 superārī
 superās
+superāṣes
 superat
 superāuimus
 superāuit
@@ -27563,6 +27694,7 @@ tabula
 tabulā
 tabulam
 tabulās
+tabulāsue
 tabulātō
 tabulīs
 tace
@@ -27620,7 +27752,6 @@ tāide
 tāidem
 tāidī
 tāidis
-tais
 tāis
 talassicō
 talassicust
@@ -27668,6 +27799,7 @@ tanne
 tanta
 tantā
 tantae
+tantalidārum
 tantam
 tantamne
 tantāne
@@ -28005,6 +28137,8 @@ textōrēs
 textūram
 tī
 tiāra
+tibe
+tibei
 tibi
 tibī
 tībiās
@@ -28019,7 +28153,7 @@ tībīcinamque
 tībīcinās
 tībīcināsque
 tībīcinī
-tibiis
+tībiīs
 tibimet
 tibīn
 tibine
@@ -28375,7 +28509,7 @@ trīstitiem
 trīsuirōs
 trītam
 trītauus
-trīticēiiās
+trīticeiiās
 trīticī
 trīticō
 trīticum
@@ -28389,9 +28523,9 @@ triumphāns
 triumpī
 triumpō
 triumpum
-trōiia
-trōiiā
-trōiiānum
+troiia
+troiiā
+troiiānum
 trōilī
 trōilum
 trucēs
@@ -28604,6 +28738,7 @@ uacuus
 uadārier
 uadātum
 uadātur
+uādere
 uadēs
 uadimōniīs
 uadimōnium
@@ -28722,7 +28857,6 @@ ubīst
 ubiubi
 ubiubī
 ubiuīs
-udradāit
 uēcordia
 uēcordiam
 uecta
@@ -28752,6 +28886,7 @@ ueituriōrum
 ueituriōs
 ueituriōsque
 ueiturium
+ueixei
 uel
 uēla
 uēlābrō
@@ -29419,7 +29554,7 @@ uīlī
 uīlica
 uīlicāre
 uīlicārī
-uīlicatur
+uīlicātur
 uīlice
 uīlicī
 uīlicō
@@ -29568,7 +29703,9 @@ uirō
 uirōs
 uirōsa
 uirtūs
+uirtūsque
 uirtūte
+uirtūtei
 uirtūtem
 uirtūtēs
 uirtūtī
@@ -30045,6 +30182,7 @@ urbānum
 urbānus
 urbe
 urbem
+urbēsque
 urbest
 urbī
 urbicape
@@ -30076,6 +30214,7 @@ usquin
 ūsuīst
 ūsum
 ūsūra
+ūsūrā
 ūsūrae
 ūsūram
 ūsūramque
@@ -30220,4 +30359,5 @@ uxōrīst
 XIIII
 xustilis
 XXCIIII
+XXXIII
 XXXVI
