@@ -1,6 +1,6 @@
 
 
-[PELOPIDARUM CUCLUS]
+[PELOPIDĀRUM CUCLUS]
 
 [OENOMAUS]
 
@@ -14,12 +14,12 @@ _ itere] cernō.
 [IA6]
 | con{iugi}|um pī|sis {pete}|r(e) ad {t(e) iti}|ner ten|dere |
 
-coniugium pisis petere (ad tē itiner tendere)
+coniugium pīsis petere (ad tē itiner tendere)
 
 [IA6]
-| quemcum|qu(e) īnstite|ram grum|m(um) aut prae|cisum | iugum
+| quemcum|qu(e) īnstite|ram grum|m(um) aut prae|cīsum | iugum
 
-quemcumque īnstiteram grummum (aut praecisum iugum)
+quemcumque īnstiteram grummum (aut praecīsum iugum)
 
 [IA6/TR7]
 ... at|{qu(e) ea} con|iectū|r(ā) augu|rō |
@@ -35,9 +35,9 @@ ego [ut essem adfīnis tibi (nōn ut tē extinguerem)]
 tuam petiī ~ gnātam. numerō tē expūrgat _ timor.
 
 [TR7]
-horrida honestitudō europae prīncipium prīmō ex locō
+horrida honestitūdō eurōpae prīncipium prīmō ex locō
 
-horrida honestitudō europae prīncipium prīmō ex locō
+horrida honestitūdō eurōpae prīncipium prīmō ex locō
 
 [IA6]
 | fer t(ē) an|t(e) auro|ram radi|ōrum ar|dentem in|dicem |
@@ -45,7 +45,7 @@ horrida honestitudō europae prīncipium prīmō ex locō
 | ut rō|rulen|tās ter|rās fer|rō fri|gidās |
 | proscin|dant glē|bāsqu(e) ar|u(o) ex mol|li:: ex|citent. |
 
-fer tē ante aurōram radiorum ārdentem indicem
+fer tē ante aurōram radiōrum ārdentem indicem
 cum somnō in segetem agrestis cornutōs cient
 ut rorulentās terrās ferrō frīgidās
 proscindant glebasque aruō ex mollī:: excitent.
@@ -60,19 +60,19 @@ fauentiam ore obscēna dicta sēgregent.
 atque hanc postrēmō sōlis ūsūram cape.
 
 [TR7]
-saxum id facit angustitatem et sub eō saxō exuberāns
-scatebra fluuiae radit rupem.
+saxum id facit angustitātem et sub eō saxō exūberāns
+scatebra fluuiae rādit rūpem.
 
 [IA6]
-quīnam tantalidarum internecioni modus
-paretur aut quaenam umquam ob mortem murtili
-poenīs luendis dabitur satiās supplicī.
+quīnam tantalidārum interneciōnī modus
+paretur aut quaenam umquam ob mortem murtilī
+poenīs luendīs dabitur satiās supplicī.
 
-[CRUSIPPUS]
+[CRŪSIPPUS]
 
 [TR7]
 neque erat quisquam ā tēlīs uacuus sed uti quoi quicque obuiam
-fuerat ferrum uallus saxi rodus rudus sūmpserat.
+fuerat ferrum uallus saxī rodus rudus sūmpserat.
 
 [IA6]
 quid agam. uox illius est. [] certē idem omnēs cernimus.
@@ -151,7 +151,7 @@ natis sepulcrō ipse es parēns
 
 [TR7]
 | [TUESTES] fregis|tin fi|dem. |
-| [ATREUS] {neque} de|di {neque} | d(o) īnfide|li cui||quam.
+| [ATREUS] {neque} de|dī {neque} | d(o) īnfide|lī cui||quam.
 
 [TR7]
 | id quod | multī in|uideant | multī||qu(e) expe|tant in|sciti|a (e)st |
@@ -161,11 +161,11 @@ natis sepulcrō ipse es parēns
 ecquis hoc animaduertet. uincite.
 
 [TR7]
-egone argiuom imperium adtingam aut pelopia digner domo.
+egone argīuom imperium adtingam aut pelopia digner domo.
 quō mē ostendam. quod templum adeam. quem ore funestō adloquar.
 
 [TR7]
-simul et pisaea praemia arrepta ā socru
+simul et pisaea praemia arrepta ā socrū
 possedit suo.
 
 [PELOPIDAE]
@@ -188,14 +188,14 @@ cessō hinc ire et capere lucti uestem in letō coniugis
 nec tibi mē in hāc rē grātārī decet.
 
 [IA6/TR7]
-et tē ut triplicī laetarem bonō.
+et tē ut triplicī laetārem bonō.
 
 [TROIANI BELLI CUCLUS]
 
 [TELEPUS]
 
 [IA6]
-quantam tundareō gnata et menalai domus
+quantam tundareō gnāta et menalai domus
 molem excitarit belli pastorque ilius.
 
 [IA6]
@@ -1517,31 +1517,31 @@ facilius.
 [BRUTUS]
 
 [IA6]
-| quoniam | quiē|tī cor|pus noc|turn(ō) im|petū |
-| dedī | sopō|re plā|cāns ar|tu lan|guidōs |
-| uisust | in som|nīs pas|tor ad | m(ē) adpel|lere |
-| pecus | lanige|r(um) exsimi|ā pul|critū|dine. |
-| duōs cōn|sanguine|ōs ari|etē|s ind(e) ē|ligī |
-| praecla|rio|remqu(e) al|ter(um) im|mola|re mē. |
-| deind(e) eius germānum cornibus | coni|tier |
-| in m(ē) arietar(e) eoqu(e) ictu m(e) ad casum | dari. |
-| exin prostrātum terra grauiter sau|cium |
-| resupin(um) in caelō contue|rī max|sim(um) ac |
-| mirifi|cum faci|nus dex|strors(um) or|bem flam|meum |
-| radiā|tum so|lis li|quier | cursū | nouō. |
+| quoniam | quiē|tī cor|pus# noc|turn(ō) im|petū |
+| dedī | sopō|re plā|cāns ar|tū lan|guidōs |
+| uīsus|t in som|nīs pā|stor ad | m(ē) adpel|lere |
+| pecus | lā{nige}|r(um) ex{simi}|ā pul|critū|dine. |
+| duōs cōn|san{guine}|ō{s ari}|etē|s ind(e) ē|ligī |
+| praeclā|riō|remqu(e) al|ter(um) im|molā|re mē. |
+| deind(e) ei|ius# ger|mānum | cor{nibus#} | coni|tier |
+| in {m(ē) ari}|etā|r(e) eōqu(e) ic|tū {m(ē) ad} | cāsum | darī. |
+| exin | prostrā|tum ter|rā {graui}|ter sau|cium |
+| re{supi}|n(um) in cae|lō con|tuē|rī max|sim(um) ac |
+| mī{rifi}|cum {faci}|nus# dex|strōrs(um) or|bem flam|meum |
+| {radi}ā|tum sō|lis lī|quier | cursū | nouō. |
 
-quoniam quiētī corpus nocturnō impetu
-dedī sopōre placāns artu languidōs
-uisust in somnis pastor ad mē adpellere
-pecus lanigerum eximia pulchritudine.
-duos cōnsanguineos arietes inde eligi
-praeclarioremque alterum immolare me.
-deinde eius germanum cornibus conitier
-in mē arietare eōque ictu mē ad casum dari.
-exin prostratum terra grauiter saucium
-resupīnum in caelō contuerī maximum ac
-mirificum facinus. dextrorsum orbem flammeum
-radiatum solis liquier cursu nouo.
+quoniam quiētī corpus nocturnō impetū
+dedī sopōre plācāns artū languidōs
+uīsust in somnīs pāstor ad mē adpellere
+pecus lānigerum eximiā pulcritūdine.
+duōs cōnsanguineōs arietēs inde ēligī
+praeclāriōremque alterum immolāre me.
+deinde eius germānum cornibus cōnītier
+in mē arietāre eōque ictū mē ad cāsum darī.
+exin prōstrātum terrā grauiter saucium
+resupīnum in caelō contuērī maximum ac
+mīrificum facinus. dextrōrsum orbem flammeum
+radiātum sōlis līquier cursū nouō.
 
 
 
@@ -1559,13 +1559,13 @@ cēpit _ cursum ab laeuā signum praepotēns] pulcerrumē
 augurātum est [rem rōmānam pūblicam summam fore].
 
 [TR7]
-| rēx qu(ae) in | uīt(ā) ū|surpant | {homi}nēs || cōgi|tant cū|rant ui|dent |
+| rēx {qu(ae) in} | uīt(ā) ū|surpant | {homi}nēs || cōgi|tant cū|rant ui|dent |
 | quaequ(e) a|gunt {uigi}|lantēs | {agi}tant||{qu(e) ea} sī | {c(ui) in} som|n(ō) acci|dunt |
 | {minus#} mī|randum (e)st. | sed dī | rem tant||(am) haud {teme}|r(e) imprō|uīs(ō) {of#fe}|runt. |
 | {proin} ui|dē nē | quem t(ū) es|s(e) {hebe}tem || dēpu|tēs ae|qu(e) ac pe|cus |
-| is {sapi}|enti|ā mū|nitum || pectus | ēgregi|ē ge|rat |
+| {is# sa}pi|enti|ā mū|nitum || pectu|s ē{gregi}|ē ge|rat |
 | tēque | rēgn(ō) ex|pellat. | n(am) id quod || dē sō|l(e) ōsten|tum (e)st ti|bi |
-| populō | commū|tāti|ōnem || rērum | porten|dit fo|re |
+| {popu}lō | commū|tāti|ōnem || rērum | porten|dit fo|re |
 | perpro|pinqu(am). haec | {bene} uer|runcent || {popu}lō. | nam {quod ad#} | dexte|rum |
 | cēpit | curs(um) ab | laeuā | signum || praepo|tēns pul|cerru|mē |
 | augu|rātum (e)st | rem rō|mānam || pūbli|cam sum|mam fo|re. |
@@ -1805,12 +1805,19 @@ maia nemus retinēns grauidō concepit in aluo.
 calones famulisque metallique caculaeque
 
 [hex]
-maxuma pars graium saturnō et maximē atenae
-cōnficiunt sacra quae cronia esse iterantur ab illis.
-cumque diem celebrant per agrōs urbēsque per omnēs
-exercent epulis laeti famulōsque procurant
-quisque suōs. nostrisque itidemst mōs traditus illinc
-iste ut cum dominis famuli:: epulentur ibidem.
+| maxsuma | pars grai|ium sā|turn(ō) et | maxim(ē) a|tēnae |
+| cōnfici|unt sacra | quae croni|(a) ess(e) ite|rantur a|b illīs. |
+| quonque di|em cele|brant per a|grōs ur|bēsque pe|r omnēs |
+| exer|cent epu|līs lae|tī famu|lōsque prō#|cūrant |
+| quisque su|ōs. nos|trīsqu(e) iti|demst mōs | trāditu|s illinc |
+| ist(e) ut | cum domi|nīs famu|lī:: epu|lentur i|bīdem.
+
+maxuma pars graium sāturnō et maximē atēnae
+cōnficiunt sacra quae cronia esse iterantur ab illīs.
+quonque diem celebrant per agrōs urbēsque per omnēs
+exercent epulīs laetī famulōsque prōcūrant
+quisque suōs. nostrīsque itidemst mōs trāditus illinc
+iste ut cum dominīs famulī:: epulentur ibidem.
 
 [hex]
 fraxinus fissa ferox īnfēnsa īnfinditur ossis.
