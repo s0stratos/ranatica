@@ -1,3 +1,78 @@
+
+[-133 ; -111]
+[Etruria]
+[Clusium]
+p]ronontiato [3]
+[3] scrīpta sunt an[3]
+[3] eōrum quōsue is i[3]
+[-3 p]equniam cēperit ca[3]
+[3] cēperit quoiue eius qu[3]
+[3]a erit literaiue testium [3]
+[-3 sei quis ex eis e]xemptus erit quei abeō [3]
+[-3 damn]as estō eiusque pequnia[e 3]
+[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
+[3] facitō utei is eam pequ[niam 3]
+[-3 ut] ei ex h(ac) l(ege) oportēbit quod l[3]
+[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
+[-3 e]t eum unde petētur e[3]
+[-3 p]etiuerit condemnētu[r 3]
+[-3 i]n iudiciu[m
+] is omnis iud[3]
+[3]esi easque pilas om[nes 3]
+[-3 scriba]ntur aequenturqu[e 3]
+[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
+[3] sorticolis singolīs sinc[illatim eductis 3]
+[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
+[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
+[3]amque quae in eo tribun[ali 3]
+[3] aliter ea nei dēlētō neiu[e 3]
+[-3 iud]ices omnis item sortiri iu[beto 3]
+[-3 sentent]iam tolerint quom omnī [3]
+[3]mat in eam tabolam qu[3]
+[-3 li]terae duae aut nūlla au[3]
+[3] e[r]unt in quibus pileis li[terae 3]
+[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
+[3] o[p]ortebit tum [3]
+[3]oiEp[
+
+
+
+ a:  -133 bis -87;   b:  [-133 ; -111]
+[Etruria]
+[Clusium]
+p]ronontiato [3]
+[3] scrīpta sunt an[3]
+[3] eōrum quōsue is i[3]
+[-3 p]equniam cēperit ca[3]
+[3] cēperit quoiue eius qu[3]
+[3]a erit literaiue testium [3]
+[-3 sei quis ex eis e]xemptus erit quei abeō [3]
+[-3 damn]as esto eiusque peqūnia[e 3]
+[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
+[3] facitō utei is eam pequ[niam 3]
+[-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
+[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
+[-3 e]t eum unde petētur e[3]
+[-3 p]etiuerit condemnetu[r 3]
+[-3 i]n iudiciu[m
+] is omnis iud[3]
+[3]esi eāsque pilas om[nes 3]
+[-3 scriba]ntur aequenturque[3]
+[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
+[3] sorticolis singolīs sinc[illatim eductis 3]
+[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
+[-3 ex h(ac)] l(ege) pronontiatum erit eu[3]
+[3]amque quae in eo tribun[ali 3]
+[3] aliter ea nei dēlētō neiu[e 3]
+[-3 iud]ices omnis item sortiri iu[beto 3]
+[-3 sentent]iam tolerint quom omni [3]
+[3]mat in eam tabolam qu[3]
+[-3 li]terae duae aut nūlla au[3]
+[3] e[r]unt in quibus pileis li[terae 3]
+[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
+[3] o[p]ortebit tum [3]
+[3]oiEp[
+    
 [-111 ; -111]
 [Roma]
 [tr(ibuni) pl. plēbem ioure rogārunt plēbēsque ioure scīuit 3 tribus 3 princ]
@@ -239,40 +314,40 @@ quonque dē eieis rēbus senātuei pūrgātī estis
 crēdimus [uōsque animum uostrum indoucere oportet 
 item uōs populō rōmānō pūrgātōs fore]
 
--150 ; -100]
-[Latium et Campania]
-[Ferentinum]
+[-150 ; -100]
+[latium et campānia]
+[ferentīnum]
 a. hirtius a. f. 
-m. lollius c. f. cēsōrēs 
-fundāmenta mūrōsque af solō faciunda coerāuēre eidemque probāuēre 
-in terram fundāmentum est pedēs altum XXXIII 
-in terram ad idem exemplum quod suprā terram silici
+(m. lollius c. f.) cēsōrēs 
+fundāmenta (mūrōsque) [af solō faciunda] coerāuēre (eidemque probāuēre). 
+in terram fundāmentum <est> pedēs altum _ XXXIII. 
+in terram ad idem exemplum [quod suprā terram] silicī.
 
 
 [-150 ; -100]
-[Latium et Campania]
-[Ferentinum]
+[latium et campānia]
+[ferentīnum]
 a. hirtius a. f.
-m. lollius c. f. cēs. 
-fundāmenta mūrōsque af solō faciunda coerāuēre eidemque probāuēre
-in terram fundāmentum est pedēs altum XXXIII 
-in terram ad idem exemplum quod suprā terra[m silici]
+(m. lollius c. f.) cēs. 
+fundāmenta (mūrōsque) [af solō faciunda] coerāuēre (eidemque probāuēre).
+in terram fundāmentum <est> pedēs altum _ XXXIII 
+in terram ad idem exemplum [quod suprā terra`m] silicī`
 
 
 [-150 ; -100]
-[Latium et Campania]
-[Ferentinum]
+[latium et campānia]
+[ferentīnum]
 m. lollius c. f.  
-a. hirtius a. f. cēs.
-fundā(menta) faciunda coerāuerunt eidemque probāuēre
+(a. hirtius a. f.) cēs.
+fundā`menta` [faciunda] coerāuerunt (eidemque probāuēre).
 
 
 [-150 ; -100]
-[Latium et Campania]
-[Ferentinum]
+[latium et campānia]
+[ferentīnum]
 a. hirtius a. f.
-m. lollius c. f. cēs.
-fundāmenta fornices faciunda coerāuēre eidemque probāuēre
+(m. lollius c. f.) cēs.
+fundāmenta fornices [faciunda] coerāuēre (eidemque probāuēre).
 
 
 [-123 ; -112]
@@ -408,16 +483,16 @@ rōmānō pūrgātōs fore
 
 [-145 ; -145]
 [rōma]
-l. mummi. l. f. cōs. duct.
-auspiciō imperiōque
+l. mummi. l. f. cōs. [duct.
+auspiciō ([imperiōque
 eius achaiā capt. corintō
-dēlētō rōmam redieit
-triumphāns ob hāsce
-rēs bene gestās quod
-in bellō uōuerat
-hanc aedem et signu
-herculis uictōris
-imperātor dēdicat
+dēlētō]) rōmam redieit
+[*triumphāns* ob hāsce
+rēs bene gestās]. [quod
+in bellō uōuerat]
+hanc aedem (et signu
+herculis uictōris)
+imperātor dēdicat.
 
 [-170 ; -131]
 [Latium et Campania]
@@ -2086,79 +2161,6 @@ m(arcus) caecili(us) ma[rca]sa
 [c]aicilia c(ai) f(ilia)
 
 
-[-133 ; -111]
-[Etruria]
-[Clusium]
-p]ronontiato [3]
-[3] scripta sunt an[3]
-[3] eōrum quosue is i[3]
-[-3 p]equniam ceperit ca[3]
-[3] ceperit quoiue eius qu[3]
-[3]a erit literaiue testium [3]
-[-3 sei quis ex eis e]xemptus erit quei abeo [3]
-[-3 damn]as esto eiusque pequnia[e 3]
-[3] quam ex h(ac) l(ege) sibei deica[t darei oportere 3]
-[3] facito utei is eam pequ[niam 3]
-[-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
-[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
-[-3 e]t eum unde petetur e[3]
-[-3 p]etiuerit condemnetu[r 3]
-[-3 i]n iudiciu[m
-] is omnis iud[3]
-[3]esi easque pilas om[nes 3]
-[-3 scriba]ntur aequenturqu[e 3]
-[3]pr() facito ubei pilae o[mnes scriptae aequataeque erunt 3]
-[3] sorticolis singolis sinc[illatim eductis 3]
-[-3 quoius iudicis nomen ibe]i scriptum erit eius nom[en pronontiato 3]
-[-3 ex h(ac)] l(ege) pronontiatum erit eu[3]
-[3]amque quae in eo tribun[ali 3]
-[3] aliter ea nei deleto neiu[e 3]
-[-3 iud]ices omnis item sortiri iu[beto 3]
-[-3 sentent]iam tolerint quom omni [3]
-[3]mat in eam tabolam qu[3]
-[-3 li]terae duae aut nulla au[3]
-[3] e[r]unt in quibus pileis li[terae 3]
-[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
-[3] o[p]ortebit tum [3]
-[3]oiEp[
-
-
-
- a:  -133 bis -87;   b:  [-133 ; -111]
-[Etruria]
-[Clusium]
-p]ronontiato [3]
-[3] scripta sunt an[3]
-[3] eōrum quosue is i[3]
-[-3 p]equniam ceperit ca[3]
-[3] ceperit quoiue eius qu[3]
-[3]a erit literaiue testium [3]
-[-3 sei quis ex eis e]xemptus erit quei abeo [3]
-[-3 damn]as esto eiusque pequnia[e 3]
-[3] quam ex h(ac) l(ege) sibei deica[t darei oportere 3]
-[3] facito utei is eam pequ[niam 3]
-[-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
-[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
-[-3 e]t eum unde petetur e[3]
-[-3 p]etiuerit condemnetu[r 3]
-[-3 i]n iudiciu[m
-] is omnis iud[3]
-[3]esi easque pilas om[nes 3]
-[-3 scriba]ntur aequenturqu[e 3]
-[3]pr() facito ubei pilae o[mnes scriptae aequataeque erunt 3]
-[3] sorticolis singolis sinc[illatim eductis 3]
-[-3 quoius iudicis nomen ibe]i scriptum erit eius nom[en pronontiato 3]
-[-3 ex h(ac)] l(ege) pronontiatum erit eu[3]
-[3]amque quae in eo tribun[ali 3]
-[3] aliter ea nei deleto neiu[e 3]
-[-3 iud]ices omnis item sortiri iu[beto 3]
-[-3 sentent]iam tolerint quom omni [3]
-[3]mat in eam tabolam qu[3]
-[-3 li]terae duae aut nulla au[3]
-[3] e[r]unt in quibus pileis li[terae 3]
-[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
-[3] o[p]ortebit tum [3]
-[3]oiEp[
 
 
 
@@ -2944,7 +2946,7 @@ lu
 [-300 ; -275]
 [etruria]
 [tarquinii]
-meneruai(!) pocolom
+meneruai pocolom
 
 
 [-300 ; -275]
@@ -3508,7 +3510,6 @@ prosamus
 d]omo fameliai donom d[edit([?])
 
 
-         Edcs-id: Edcs-24700153
 [Latium et Campania]
 duronia pont[
 
