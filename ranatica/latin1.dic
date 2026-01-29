@@ -986,6 +986,7 @@ adportō
 adposcunt
 adposisse
 adposīstī
+adposita
 adpōtum
 adprīmē
 adprīmus
@@ -1001,11 +1002,14 @@ adripuit
 adsentandī
 adsentandō
 adsentārī
+adsentāris
+adsentiant
 adsequere
 adserō
 adseruandum
 adseruandus
 adseruārī
+adseruātur
 adsīdō
 adsiduē
 adsiduēque
@@ -1023,9 +1027,12 @@ adsimulēs
 adsimulet
 adsīs
 adsiste
+adsit
 adsītis
 adsolent
 adspectās
+adstante
+adstō
 adstringō
 adsum
 adsunt
@@ -3396,6 +3403,8 @@ auom
 auonculum
 auōque
 āuorsa
+āuortī
+āuortistī
 āuortit
 auos
 auosque
@@ -7511,6 +7520,7 @@ dēcidit
 dēcidō
 dēcidunt
 deciēns
+deciēs
 decimam
 decimō
 decimum
@@ -8321,7 +8331,6 @@ diānae
 diānāī
 dīānāī
 diapontius
-dic
 dīc
 dicācula
 dicāculus
@@ -8340,7 +8349,7 @@ dīcātis
 dīcatque
 dīcātur
 dicāx
-dicdum
+dīcdum
 dīce
 diceae
 diceam
@@ -8418,7 +8427,6 @@ didicimus
 didicistī
 didicit
 dīdier
-die
 diē
 diēbus
 diēculae
@@ -8532,12 +8540,9 @@ dīmissīs
 dīmittit
 dīmittō
 dimminuam
-din
-dinia
 dīniam
 dīniarce
 dīniarcī
-diniarcus
 dīniarcus
 dīniarcusne
 dīnīs
@@ -8815,7 +8820,6 @@ dīxtī
 dīxtīn
 dīxtīne
 dō
-doce
 docē
 doceās
 docēbō
@@ -8926,6 +8930,7 @@ dōnātu's
 dōnātum
 dōnātur
 dōnātus
+dōnātuss
 dōnātust
 dōnāuī
 dōnāuistī
@@ -8988,7 +8993,7 @@ dorsō
 dorsum
 dorsus
 dōrum
-dorus
+dōrus
 dōs
 dōtālem
 dōtālis
@@ -9036,7 +9041,6 @@ dubitō
 dubium
 dubiumne
 dubiumst
-dūbur
 dūc
 dūcam
 dūcant
@@ -9182,7 +9186,6 @@ eaepse
 eam
 eamne
 eampse
-eampsē
 eamque
 eamst
 eamus
@@ -9240,7 +9243,6 @@ ecastor
 ecastōr
 ēcastor
 ēcastōr
-ecc
 ecca
 eccam
 eccās
@@ -10356,6 +10358,7 @@ exenterāuit
 exenterem
 exenteror
 exeō
+exequar
 exercē
 exerceat
 exercēbant
@@ -10588,6 +10591,7 @@ expalliātus
 expalluit
 expectant
 expectāre
+expectātum
 expectō
 expecūliātōs
 expedī
@@ -11982,7 +11986,6 @@ frūnīscī
 frus
 frusta
 frustillātim
-frūstra
 frūstrā
 frūstrāminī
 frūstrant
@@ -14480,6 +14483,8 @@ inrīdeor
 inrīdēre
 inrīdēs
 inrīsās
+inrīsum
+inrītābis
 inrītāssis
 inrītātus
 inritumst
@@ -17081,6 +17086,7 @@ maxumae
 maxumam
 maxumaque
 maxumās
+maxumast
 maxume
 maxumē
 maxumēque
@@ -22933,6 +22939,7 @@ praeuertit
 praeuertō
 praeuertor
 praeuortere
+praeuortier
 praeut
 prandeāmus
 prandeat
@@ -23668,11 +23675,9 @@ pudīcam
 pudīcē
 pudīcēque
 pudīcitiae
-pudicitiam
 pudīcitiam
 pudīcitiast
 pudīcius
-pudicō
 pudīcō
 pudīcōs
 pudīcum
@@ -25213,8 +25218,6 @@ reuertar
 reuertere
 reuerteris
 reuertī
-rēuertī
-rēuertiminī
 reuertitur
 reuertor
 reuidēbō
@@ -25236,6 +25239,8 @@ reuolūtum
 reuortantur
 reuortere
 reuortī
+reuortiminī
+reuortitur
 reuortor
 reus
 reusque
@@ -25298,6 +25303,7 @@ rōbīgine
 rōbīginōsam
 rōbustō
 rōbustum
+rodiō
 rodium
 rodius
 rogā
@@ -25796,6 +25802,7 @@ scelestī
 scelestior
 scelestiōrem
 scelestīs
+scelestissime
 scelestissimum
 scelestissume
 scelestius
@@ -27521,6 +27528,7 @@ subornātā
 subpactum
 subparasītābor
 subparasītātur
+subparasītor
 subparum
 subrepta
 subrūfus
@@ -28086,7 +28094,6 @@ tabulās
 tabulāsue
 tabulātō
 tabulīs
-tace
 tacē
 taceam
 taceāmus
