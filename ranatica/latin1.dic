@@ -128,7 +128,6 @@ abin
 abīn
 abīre
 abīret
-abis
 abīs
 abīsse
 abīstī
@@ -529,6 +528,7 @@ acerbumst
 ācerrimum
 ācerrumē
 ācerrumōs
+ācerrumum
 ācerūns
 ācerunte
 aceruntem
@@ -735,12 +735,14 @@ adeundum
 adeundus
 adeunt
 adfābilis
+adfēcit
 adfectam
 adfectant
 adfectum
 adfer
 adferam
 adferant
+adferās
 adferat
 adferō
 adferre
@@ -749,9 +751,11 @@ adferret
 adferrī
 adfers
 adfert
+adfertō
 adfertur
 adficere
 adficiātur
+adficiet
 adficit
 adfīne
 adfīnem
@@ -992,9 +996,11 @@ adprīmē
 adprīmus
 adprobāre
 adprobat
+adproperābō
 adproperat
 adpulit
 adque
+adquiēscam
 adrīdeō
 adrīdēre
 adripī
@@ -2836,6 +2842,7 @@ ascrīptīuīs
 asellum
 asiā
 asiam
+ASINĀRIA
 asināriam
 asine
 asinī
@@ -6153,6 +6160,7 @@ conlocātam
 conlocētur
 conlocuplētāstī
 conloquar
+conloquātur
 conloquētur
 conloquī
 conlubitum
@@ -6772,6 +6780,7 @@ corruptum
 corruptumst
 corruptus
 cortīnam
+coruos
 corusca
 coruum
 coruus
@@ -7879,7 +7888,6 @@ dēmaenete
 dēmaenetī
 dēmaenetō
 dēmaenetum
-demaenetus
 dēmaenetus
 dēmam
 dēmarcō
@@ -9266,6 +9274,7 @@ ecfert
 ecfertur
 ecflictim
 ecfodientur
+ecfoditō
 ecfūgī
 ecīnōs
 ecit
@@ -9547,9 +9556,11 @@ ehodum
 ei
 eī
 eia
+eicī
 eiciam
 eiciat
 eicient
+eicis
 eicitur
 eiciunda
 eidem
@@ -10286,6 +10297,7 @@ excoquat
 excordem
 excors
 excoxerō
+excreā
 excruciā
 excruciābere
 excruciābilem
@@ -10427,6 +10439,7 @@ exiit
 exīlem
 exīlicō
 exiliō
+exilit
 exilium
 exim
 eximam
@@ -12225,6 +12238,7 @@ gallō
 gallum
 gallus
 gāneō
+gāneōs
 gāneum
 gannit
 garrī
@@ -14340,11 +14354,15 @@ iniūstitiam
 iniūstiust
 iniustum
 iniūstus
+inlecebra
+inlex
 inlexe
 inlīberāle
 inlīberālem
 inlīberāliter
+inliciēbās
 inlicis
+inlūcēscat
 inlūdās
 inlūdātis
 inlūdit
@@ -14484,6 +14502,7 @@ inrīdēre
 inrīdēs
 inrīsās
 inrīsum
+inrita
 inrītābis
 inrītāssis
 inrītātus
@@ -14874,6 +14893,7 @@ interuiās
 interuīsam
 interuīsī
 interuīsō
+interuortam
 interuortēs
 intestābilis
 intestātum
@@ -15264,6 +15284,7 @@ istōs
 istōscin
 istuc
 istūc
+istūcine
 istūcinest
 istūcne
 istud
@@ -16398,10 +16419,13 @@ lōripedīs
 lōrīs
 lubeant
 lubeat
+lubēbit
 lubēns
 lubentem
 lubenter
 lubentēs
+lubentiast
+lubentiōrēs
 lubet
 lubīdinem
 lubīdinī
@@ -21039,6 +21063,7 @@ peiiōrem
 peiiōrēs
 peiiōribus
 peiius
+peior
 peiōre
 peiōrem
 peius
@@ -21743,6 +21768,7 @@ peruiumst
 peruīuō
 peruolgātā
 peruoluam
+peruorsē
 peruulgātā
 peruulgātum
 peruulgātumst
@@ -23458,7 +23484,6 @@ proprium
 proprīum
 propromptū
 propter
-propterea
 proptereā
 proptereāque
 propudiōsa
@@ -26833,6 +26858,7 @@ soluitur
 solum
 sōlum
 soluō
+soluont
 sōlus
 solūta
 solūtam
@@ -30236,12 +30262,11 @@ uīuō
 uīuom
 uīuont
 uīuontne
-uiuos
+uīuos
 uīuōs
 uīuum
 uīuunt
 uīuuntne
-uiuus
 uīuus
 uīuust
 uix
@@ -30468,6 +30493,7 @@ uolentibus
 uolēs
 uolet
 uolētis
+uolgāuit
 uolgō
 uolgus
 uolnera
@@ -30549,6 +30575,7 @@ uortās
 uortat
 uortendō
 uortentibus
+uorterēs
 uortier
 uortit
 uortitur
@@ -30561,6 +30588,7 @@ uostra
 uostrā
 uostrae
 uostram
+uostraque
 uostrārum
 uostrī
 uostrīs
