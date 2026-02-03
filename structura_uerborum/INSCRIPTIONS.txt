@@ -1,4 +1,23 @@
 
+[-108 ; -108]
+[Latium et Campania]
+[Casilinum]
+l(ucius) quincti(us) l(uci) f. gela() l(ucius) iu(u)enti(us) l(uci) f. Ruf(us)
+c. tittius c(ai) f. c. heluius n(umeri) f.
+l(ucius) heluius l(uci) f. c. heluius n(umeri) f. gero
+p(ublius) plinius m(arci) f. q. matuius q. f.
+c. paccius cn(aei) f. m(arcus) mamius m(ani) f.
+c. sattius c(ai) f. p(ublius) statius p(ubli) f. stag(on)
+heisce magistrei iouei optumō
+maxsumō mūrum coniungendum
+et peilam faciendam et teatrum
+terra exaggerandum locauere
+eidemque luudōs fecere
+ser(uio) sulpiciō ser(ui) f(ilio) galba co(n)s(ule)
+
+
+
+
 [-133 ; -111]
 [Etruria]
 [Clusium]
@@ -47,7 +66,7 @@ p]ronontiato [3]
 [3] cēperit quoiue eius qu[3]
 [3]a erit literaiue testium [3]
 [-3 sei quis ex eis e]xemptus erit quei abeō [3]
-[-3 damn]as esto eiusque peqūnia[e 3]
+[-3 damn]as estō eiusque peqūnia[e 3]
 [3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
 [3] facitō utei is eam pequ[niam 3]
 [-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
@@ -61,7 +80,7 @@ p]ronontiato [3]
 [3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
 [3] sorticolis singolīs sinc[illatim eductis 3]
 [-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
-[-3 ex h(ac)] l(ege) pronontiatum erit eu[3]
+[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
 [3]amque quae in eo tribun[ali 3]
 [3] aliter ea nei dēlētō neiu[e 3]
 [-3 iud]ices omnis item sortiri iu[beto 3]
@@ -81,7 +100,7 @@ ipium fuit pro tribū q. fabius q. f. prīmus scīuit quei ager pōplicus popul�
 [quem quisque de eo agrō locō ex lege plebeiue sc(ito) uetus possessor sibei]
 agrum locum sūmpsit relīquitue quod nōn modus maior siet quam quantum ūnum hominem ex lege plebeiue sc(ito) sibei sūmere
 [relinquereue licuit]
-[quei ager puplicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit extrā eum agrum quei ager ex lege plebeiue sc(ito) quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur 3 quem agrum locum]
+[quei ager pūplicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit extrā eum agrum quei ager ex lege plebeiue sc(ito) quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur 3 quem agrum locum]
 quoieique de eo agrō locō ex lege plēbeiue sc(ito) IIIuir sortītō ceiuī rōmānō dedit adsignāuit quod nōn in eo agrō locō est quod ultr
 [a 3 quei ager pūblicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit extrā eum agrum quei ager ex lege]
 [plēbeiue scītō quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur de eo agrō locō quei ager locus ei quei agrum prīuātum in pūblicum commūtāuit pro eo agrō locō a IIIuirō datus commūtātus re]
@@ -3610,23 +3629,6 @@ heisce magistreis [-3 tr]eib(unal)
 cuniu(m) muliereb[us 3]
 [3] ludosq(ue) fecerun[t 3]
 [3]o cōs
-
-
-[-108 ; -108]
-[Latium et Campania]
-[Casilinum]
-l(ucius) quincti(us) l(uci) f. gela() l(ucius) iu(u)enti(us) l(uci) f. Ruf(us)
-c. tittius c(ai) f. c. heluius n(umeri) f.
-l(ucius) heluius l(uci) f. c. heluius n(umeri) f. gero
-p(ublius) plinius m(arci) f. q. matuius q. f.
-c. paccius cn(aei) f. m(arcus) mamius m(ani) f.
-c. sattius c(ai) f. p(ublius) statius p(ubli) f. stag(on)
-heisce magistrei iouei optumo
-maxsumo murum coniungendum
-et peilam faciendam et teatrum
-terra exaggerandum locauere
-eidemque luudos fecere
-ser(uio) sulpicio ser(ui) f(ilio) galba co(n)s(ule)
 
 
 [-108 ; -108]
