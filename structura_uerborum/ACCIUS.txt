@@ -46,12 +46,12 @@ horrida honestitūdō eurōpae prīncipium prīmō ex locō
 | proscin|dant glē|bāsqu(e) ar|u(o) ex mol|li:: ex|citent. |
 
 fer tē ante aurōram radiōrum ārdentem indicem
-cum somnō in segetem agrestis cornutōs cient
-ut rorulentās terrās ferrō frīgidās
-proscindant glebasque aruō ex mollī:: excitent.
+cum somnō in segetem agrestis cornūtōs cient
+ut rōrulentās terrās ferrō frīgidās
+proscindant glēbāsque aruō ex mollī:: excitent.
 
 [IA6]
-uōs ite āctūtum atque opere magnō edicite
+uōs ite āctūtum atque opere magnō ēdīcite
 per urbem ut omnēs quī arcem alpeumque accolunt
 cīuēs ominibus faustis augustam adhibeant
 fauentiam ore obscēna dicta sēgregent.
@@ -65,7 +65,7 @@ scatebra fluuiae rādit rūpem.
 
 [IA6]
 quīnam tantalidārum interneciōnī modus
-paretur aut quaenam umquam ob mortem murtilī
+parētur aut quaenam umquam ob mortem murtilī
 poenīs luendīs dabitur satiās supplicī.
 
 [CRŪSIPPUS]
@@ -89,7 +89,7 @@ aeternābilem dīuitiam partissent.
 [ATREUS]
 
 [IA6]
-iterum tuestēs atreum adtractatum aduenit.
+iterum tuestēs atreum adtractātum aduenit.
 iterum iam adgreditur mē et quiētum exsuscitat.
 maior mihi mōlēs maius miscendum est malum
 quī illius acerbum cor contundam et comprimam.
@@ -161,12 +161,12 @@ natis sepulcrō ipse es parēns
 ecquis hoc animaduertet. uincite.
 
 [TR7]
-egone argīuom imperium adtingam aut pelopia digner domo.
+egone argīuom imperium adtingam aut pelopia digner domō.
 quō mē ostendam. quod templum adeam. quem ore funestō adloquar.
 
 [TR7]
 simul et pisaea praemia arrepta ā socrū
-possedit suo.
+possēdit suo.
 
 [PELOPIDAE]
 
@@ -182,7 +182,7 @@ nam mē ut crēdam ex tuō esse conceptum satū
 sat argūmenta redigunt animum et commouent.
 
 [TR7]
-cessō hinc ire et capere lucti uestem in letō coniugis
+cessō hinc ire et capere lucti uestem in lētō coniugis
 
 [IA6/TR7]
 nec tibi mē in hāc rē grātārī decet.
@@ -190,32 +190,32 @@ nec tibi mē in hāc rē grātārī decet.
 [IA6/TR7]
 et tē ut triplicī laetārem bonō.
 
-[TROIANI BELLI CUCLUS]
+[TROIANI BELLĪ CUCLUS]
 
 [TELEPUS]
 
 [IA6]
 quantam tundareō gnāta et menalai domus
-molem excitarit belli pastorque ilius.
+molem excitarit bellī pāstorque ilius.
 
 [IA6]
-aere atque ferrō feruere igni īnsignibus
+aere atque ferrō feruere ignī īnsignibus
 florere
 
 [IA6]
-quī neque cuiatis esset umquam potuimus
-multa erogitantes sciscere.
+quī neque cuiātis esset umquam potuimus
+multa ērogitantēs scīscere.
 
 [TR7|TR8|TR7/TR8]
 ...{qu(em) eg(o) u}|b(i) aspex|sī ui|rum memo|rābi|lem |
-intui uiderer ni uestitus taeter maestitudo
-uastitudō praedicarent hominem esse
+intuī uiderer ni uestītus taeter maestitūdō
+uastitūdō praedicārent hominem esse
 
 [TR7]
-nam etsi opertus squalitate est luctuque horrificabili
+nam etsī opertus squalitate est luctuque horrificabili
 
 [IA6]
-profectō haudquaquam est ortus mediocri satu.
+profectō haudquāquam est ortus mediocrī satu.
 
 [IA6]
 nam sī ā mē regnum fortuna atque opes
