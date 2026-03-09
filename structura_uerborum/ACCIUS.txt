@@ -1498,7 +1498,7 @@ cum patre paruos patrium hostifice
 sanguine sanguen miscere suo
 
 [IA6/TR7]
-sī satis recte aut uera ratione augurem
+sī satis rēctē aut uēra ratione augurem
 
 [TR7]
 pertolerarem uītam cladesque exanclarem impetibilis.
@@ -1611,19 +1611,22 @@ patriō exemplō et mē dicabō atque animam deuorō hostibus.
 quibus rem summam et patriam nostram quondam adauctauit pater
 
 [IA6]
-nihil neque perīclī neque tumulti est quod sciam.
+| nīl {neque} | perī|clī {neque} | tumul|tīst quod | sciam. |
 
 [TR7]
-fateor. sed saepe ignauauit fortem in spe expectatio.
+fateor. sed saepe ignāuāuit fortem in spē exspectātiō.
+| {fate}or. | sed sae|p(e) ignā|uāuit || fort(em) in | sp(ē) exspec|tāti|ō. |
 
 [TR7]
-quod peritī sumus in uita atque usu callemus magis.
+quod perītī sumus in uītā atque ūsū callēmus magis.
+| quod pe|rītī | {sumu}s in | uīt(ā) at||qu(e) ūsū | callē|mus:: ma|gis. |
 
 [IA6]
-et nunc. quō deorum segnitas. ardet focus.
+et nunc. quō deōrum segnitās. ārdet focus.
+et nunc. | quō {de#ō}|rum seg|nitās. | ārdet | focus. |
 
 [IA6]
-clamore et gemitu templum resonit caelitum.
+clamore et gemitū templum resonit caelitum.
 
 [IA6]
 tē sancte uenerāns precibus inuicte inuoco
@@ -1665,18 +1668,18 @@ uideō sepulcra dua duōrum corporum
 mulier una duum uirum
 
 [TR7]
-fulgurī praeferuido
-ardor iniectus iunonis dextera ingenti incidit.
+fulgurī praeferuidō
+ardor iniectus iunōnis dextera ingenti incidit.
 
 [AN4]
-multīs nomen
-uestrum numenque ciendo
+multīs nōmen
+uestrum numenque ciendō
 
 [IA6]
 unde estis nautae huc hieme delatī.
 
 [IA6]
-repudiō eiecta ab argis iamdudum exsulo
+repudiō eiecta ab argis iamdudum exsulō
 
 [IA6/TR7]
 quorum genitor fertur esse ops gentibus
@@ -1727,7 +1730,7 @@ residuos
 
 [sot]
 sapientaeque inuictae
-gratia atque honoris patera nestorem mactauit
+gratia atque honōris patera nestōrem mactauit
 aurea.
 
 [sot]
@@ -1799,7 +1802,7 @@ num ergō aquila ita ut hice praedicant sciciderat pectus.
 [hex]
 ut quam fragilissimus aluus
 ...
-maia nemus retinēns grauidō concepit in aluo.
+maia nemus retinēns grauidō concepit in aluō.
 
 [hex]
 calones famulisque metallique caculaeque
