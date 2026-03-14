@@ -4816,8 +4816,8 @@ Por. 338 (tr7) imm(ō) enim | nēmō | {sati(s)} prō | meritō |grāti|am rē|g
 | {qui(a) e}gēns | relic|tast {mise}|r(a) ignō|rātur | parēns |  
 | neg{legi}|tur ip|sa. {uid(ē) a}|uā{riti}|a quid | facit. |
 | {s(ī) e}r(um) īn|{simu}lā|bis {mali}|tiae | mal(e) au|diēs. | 
-ō audāciam. etiam mē ultrō accūsātum aduenit. 
-nam iam adulēscentī nīl est quod suscēnseam, 
+| {(ō) au}dā|ci{(am). eti}|am m(ē) ul|tr(ō) accū|sāt(um) ad|uenit. | 
+| nam {i(am) adu}|lēscen|tī nī|l est quod | suscēn|seam | 
 sī illum minus nōrat; quippe homō iam grandior, 
 pauper, cui opera uīta erat, rūrī ferē 
 sē continēbat; ibi agrum dē nostrō patre 
