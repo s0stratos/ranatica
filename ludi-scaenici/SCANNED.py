@@ -194,7 +194,7 @@ Ad. 182 (ia8) | usqu(e) ad | ne{c(em) ope}|riē|re lō|rīs. lō|rīs lī|ber. s
 Ad. 181 (ia8) | ō hominem impūrum. hīcin lībertātem aiunt esse aequam omnibus. 
 Ad. 184 (ia8) | sī {sati(s)} | iam dē|baccā|tus ess | lēn(o) au|dī sī | uīs nun|ciam |
 Ad. 185 (ia8) | egon dē|baccā|tus s(um) au|t(em) an {t(ū) in} | mē mit|t(e) ist(a) at|qu(e) ad rem | redi |
-Ad. 181 (ia8) | quam rem. quō redeam. iamne mē uīs dīcere id quod ad tē attinet. 
+Ad. 181 (ia8) | quam rem. | quō {rede}am. iamne mē uīs dīcere id quod ad tē attinet.
 Ad. 181 (ia8) | cupiō aequī modo aliquid. uāh lēnō inīqua mē nōn uult loquī. 
 Ad. 181 (ia8) | lēnō sum fateor perniciēs commūnis adulēscentium
 Ad. 189 (ia8) | periū|rus pes|tis tamen | tib(i) ā | mē nūl|last or|t(a) iniū|ria |
