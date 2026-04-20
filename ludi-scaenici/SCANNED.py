@@ -308,7 +308,7 @@ Ad. 286 (ia8) | {ego} iam | trānsāc|tā rē | conuor|tam mē | domum | c(um) o
 Ad. 287 (ia8) | ita quae|sō quan|d(ō) hoc(c) bene |succes|sit hila|r(e) hunc sū|māmus:: | diem |
 
 [CANTATA][IA8/TR7][288-304]
-Opsecrō mea nūtrīx quid nunc fīet. quid fīat rogās. 
+Opsecrō mea nūtrīx quid nunc fīet. quid fīat rogās.
 rēctē edepol spērō. modo dolōrēs mea tū occipiunt prīmulum: 
 iam nunc timēs quasi nunquam affuerīs nunquam tūte pepererīs. 
 Ad. 291 (ia8) miseram | mē nē|min(em) habe|ō. sō|lae {sumu(s)} | get(a) au|t(em) hic nō|n adest |
