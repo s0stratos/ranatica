@@ -3241,86 +3241,86 @@ Eun. 1094 (tr7) | [PAEDRIA] nīl prae|ter prō|missumst | īt(e) hāc. || [CANTO
 
 [PRŌLOGUS]
 [DĪUERBIA][1-52]
-Heaut. 01 (ia6) | nē {quoi} | sit uos|trum mī|rum quōr | partīs | senī ||||
-Heaut. 02 (ia6) | poē|ta {dede}|rit quae | sun{t adu}|lēscen|tium ||||
-Heaut. 03 (ia6) | id prī|mum dī|cam {d(e)in}|de quod | uēn(ī) ē|loquar. ||||
-Heaut. 04 (ia6) | ex in|tegrā | graec(ā) in|tegram | cōmoe|diam ||||
-Heaut. 05 (ia6) | {hodi}ē | {s(um) āc}tū|rus {heau}|ton tī|mōrū|menon ||||
-Heaut. 06 (ia6) | duplex | {qu(ae) ex} ar|gūmen|tō fac|tast sim|plicī. ||||
-Heaut. 07 (ia6) | nou(am) es|s(e) osten|d(ī) et {qu(ae) es%}|set. nunc | quī scrīp|serit ||||
-Heaut. 08 (ia6) | et quoi|iā grae|cā sit | nī par|tem max|sumam ||||
-Heaut. 09 (ia6) | exīs|tumā|rem scī|re uos|tr(um) id dī|cerem. ||||
-Heaut. 10 (ia6) | nunc {qu(am) ob} | r(em) hās par|tīs {didi}|cerim | paucīs | dabō. ||||
-Heaut. 11 (ia6) | ōrā|tōr(em) es|se {uolu}|it mē | nōn prō|logum. ||||
-Heaut. 12 (ia6) | uostrum | iū{dici}|um fē|cit. {m(ē) āc}|tōrem | dedit. ||||
-Heaut. 13 (ia6) | {sed hi}c āc|tor tan|tum {pote}|rit ā | fācun|diā ||||
-Heaut. 14 (ia6) | quan{t(um) il}|le {potu}|it cō|gitā|re com|modē ||||
-Heaut. 15 (ia6) | {qu(ī) ō}rā|tiō|n(em) hanc scrip|sit quam | dictū|ru(s) sum. ||||
-Heaut. 16 (ia6) | nam quod | rūmō|rēs dis|tulē|runt {male}|uolī ||||
-Heaut. 17 (ia6) | multās | contā|minās|se grae|cās dum | facit ||||
-Heaut. 18 (ia6) | paucās | latī|nās - fac|t(um) id es|s(e) hic nōn | negat ||||
-Heaut. 19 (ia6) | {neque} sē | pigē|r(e) et {d(e)in}|de fac|tūr(um) au|tumat. ||||
-Heaut. 20 (ia6) | habet | bonō|r(um) exsem|plum {qu(ō) ex}|semplō | sibi ||||
-Heaut. 21 (ia6) | licē|r(e) id {face}|re {quod il%}|lī fē|cērunt | putat. ||||
-Heaut. 22 (ia6) | tum quod | ma{leuo}|lus {uetu(s)} | poē|ta dic|titat ||||
-Heaut. 23 (ia6) | repen|t(e) ad {studi}|(um) hunc s(ē) ap|plicās|se mū|sicum ||||
-Heaut. 24 (ia6) | amī|c(um) in{geni}|ō frē|t(um) haud nā|tūrā | suā ||||
-Heaut. 25 (ia6) | ar{bitri}|um uos|trum uos|tr(a) exīs|tumā|tiō | --
-Heaut. 26 (ia6) | ualē|bit. quā|r(ē) omnīs | uōs ō|rātōs | uolō ||||
-Heaut. 27 (ia6) | nē plū|s inī|quom pos|sit {qu(am) ae}|qu(om) ōrā|tiō. ||||
-Heaut. 28 (ia6) | {faci}t(e) ae|quī sī|tis. {date} |crescen|dī cō|piam ||||
-Heaut. 29 (ia6) | nouā|rum quī | spectan|dī {faci}|unt cō|piam ||||
-Heaut. 30 (ia6) | {sine} {uiti}|īs. {n(ē) il}|le prō | sē dic|t(um) exsīs|tumet ||||
-Heaut. 31 (ia6) | quī nū|per fē|cit ser|uō cur|rent(ī) in | uiā ||||
-Heaut. 32 (ia6) | dēces|se {popu}|lum. quō|r īnsā|nō ser|uiat. ||||
-Heaut. 33 (ia6) | {d(ē) il}{liu(s)} | peccā|tīs plū|ra dī|cet quom | dabit ||||
-Heaut. 34 (ia6) | aliās | nouās | nisi fī|nem male|dictīs | facit. ||||
-Heaut. 35 (ia6) | ades|t(e) ae{qu(ō) ani}|mō. date | potes|tātem | mihi ||||
-Heaut. 36 (ia6) | statā|ri(am) age|r(e) ut lice|at per | silen|tium ||||
-Heaut. 37 (ia6) | nē sem|per ser|uos cur|rēns ī|rātus:: | senex ||||
-Heaut. 38 (ia6) | edax | parasī|tus sū|copan|t(a) aut(em) im|pudēns ||||
-Heaut. 39 (ia6) | auā|rus lē|n(ō) ad{sidu}|(ē) agen|dī sint | senī ||||
-Heaut. 40 (ia6) | clāmō|re sum|mō cum | labō|re max|sumō. ||||
-Heaut. 41 (ia6) | meā caus|sā caus|s(am) hanc iūs|t(am) ess(e) ani|m(um) indū|cite ||||
-Heaut. 42 (ia6) | ut ali|qua par|s labō|ris minu|ātur | mihi ||||
-Heaut. 43 (ia6) | nam nunc | nouās | quī scrī|bunt nīl | parcunt | senī. ||||
-Heaut. 44 (ia6) | sī quae | labō|riō|sast ad | mē cur|ritur. ||||
-Heaut. 45 (ia6) | sī lē|nist | a{d ali}|um dē|fertur | gregem. ||||
-Heaut. 46 (ia6) | in hā|c est pū|r(a) ōrā|ti(ō). ex|sperī|minī ||||
-Heaut. 47 (ia6) | in utram|que par|t(em) ingeni|um quid | possit | meum. ||||
-Heaut. 48 (ia6) | sī nun|qu(am) auā|rē preti|um statu|(ī) artī | meae ||||
-Heaut. 49 (ia6) | {et e}(um) es|se quaes|t(um) i{n ani}|m(um) indū|xī max|sumum ||||
-Heaut. 50 (ia6) | quam max|sumē | seruī|re uos|trīs com|modīs ||||
-Heaut. 51 (ia6) | exsemp|lum {statu}|it(e) in | {m(ē) u}{t adu}|lēscen|tulī ||||
-Heaut. 52 (ia6) | uōbīs | placē|re stude|ant poti|us quam | sibi ||||
+Heaut. 001 (ia6) | nē {quoi} | sit uos|trum mī|rum quōr | partīs | senī ||||
+Heaut. 002 (ia6) | poē|ta {dede}|rit quae | sun{t adu}|lēscen|tium ||||
+Heaut. 003 (ia6) | id prī|mum dī|cam {d(e)in}|de quod | uēn(ī) ē|loquar. ||||
+Heaut. 004 (ia6) | ex in|tegrā | graec(ā) in|tegram | cōmoe|diam ||||
+Heaut. 005 (ia6) | {hodi}ē | {s(um) āc}tū|rus {heau}|ton tī|mōrū|menon ||||
+Heaut. 006 (ia6) | duplex | {qu(ae) ex} ar|gūmen|tō fac|tast sim|plicī. ||||
+Heaut. 007 (ia6) | nou(am) es|s(e) osten|d(ī) et {qu(ae) es%}|set. nunc | quī scrīp|serit ||||
+Heaut. 008 (ia6) | et quoi|iā grae|cā sit | nī par|tem max|sumam ||||
+Heaut. 009 (ia6) | exīs|tumā|rem scī|re uos|tr(um) id dī|cerem. ||||
+Heaut. 010 (ia6) | nunc {qu(am) ob} | r(em) hās par|tīs {didi}|cerim | paucīs | dabō. ||||
+Heaut. 011 (ia6) | ōrā|tōr(em) es|se {uolu}|it mē | nōn prō|logum. ||||
+Heaut. 012 (ia6) | uostrum | iū{dici}|um fē|cit. {m(ē) āc}|tōrem | dedit. ||||
+Heaut. 013 (ia6) | {sed hi}c āc|tor tan|tum {pote}|rit ā | fācun|diā ||||
+Heaut. 014 (ia6) | quan{t(um) il}|le {potu}|it cō|gitā|re com|modē ||||
+Heaut. 015 (ia6) | {qu(ī) ō}rā|tiō|n(em) hanc scrip|sit quam | dictū|ru(s) sum. ||||
+Heaut. 016 (ia6) | nam quod | rūmō|rēs dis|tulē|runt {male}|uolī ||||
+Heaut. 017 (ia6) | multās | contā|minās|se grae|cās dum | facit ||||
+Heaut. 018 (ia6) | paucās | latī|nās - fac|t(um) id es|s(e) hic nōn | negat ||||
+Heaut. 019 (ia6) | {neque} sē | pigē|r(e) et {d(e)in}|de fac|tūr(um) au|tumat. ||||
+Heaut. 020 (ia6) | habet | bonō|r(um) exsem|plum {qu(ō) ex}|semplō | sibi ||||
+Heaut. 021 (ia6) | licē|r(e) id {face}|re {quod il%}|lī fē|cērunt | putat. ||||
+Heaut. 022 (ia6) | tum quod | ma{leuo}|lus {uetu(s)} | poē|ta dic|titat ||||
+Heaut. 023 (ia6) | repen|t(e) ad {studi}|(um) hunc s(ē) ap|plicās|se mū|sicum ||||
+Heaut. 024 (ia6) | amī|c(um) in{geni}|ō frē|t(um) haud nā|tūrā | suā ||||
+Heaut. 025 (ia6) | ar{bitri}|um uos|trum uos|tr(a) exīs|tumā|tiō | --
+Heaut. 026 (ia6) | ualē|bit. quā|r(ē) omnīs | uōs ō|rātōs | uolō ||||
+Heaut. 027 (ia6) | nē plū|s inī|quom pos|sit {qu(am) ae}|qu(om) ōrā|tiō. ||||
+Heaut. 028 (ia6) | {faci}t(e) ae|quī sī|tis. {date} |crescen|dī cō|piam ||||
+Heaut. 029 (ia6) | nouā|rum quī | spectan|dī {faci}|unt cō|piam ||||
+Heaut. 030 (ia6) | {sine} {uiti}|īs. {n(ē) il}|le prō | sē dic|t(um) exsīs|tumet ||||
+Heaut. 031 (ia6) | quī nū|per fē|cit ser|uō cur|rent(ī) in | uiā ||||
+Heaut. 032 (ia6) | dēces|se {popu}|lum. quō|r īnsā|nō ser|uiat. ||||
+Heaut. 033 (ia6) | {d(ē) il}{liu(s)} | peccā|tīs plū|ra dī|cet quom | dabit ||||
+Heaut. 034 (ia6) | aliās | nouās | nisi fī|nem male|dictīs | facit. ||||
+Heaut. 035 (ia6) | ades|t(e) ae{qu(ō) ani}|mō. date | potes|tātem | mihi ||||
+Heaut. 036 (ia6) | statā|ri(am) age|r(e) ut lice|at per | silen|tium ||||
+Heaut. 037 (ia6) | nē sem|per ser|uos cur|rēns ī|rātus:: | senex ||||
+Heaut. 038 (ia6) | edax | parasī|tus sū|copan|t(a) aut(em) im|pudēns ||||
+Heaut. 039 (ia6) | auā|rus lē|n(ō) ad{sidu}|(ē) agen|dī sint | senī ||||
+Heaut. 040 (ia6) | clāmō|re sum|mō cum | labō|re max|sumō. ||||
+Heaut. 041 (ia6) | meā caus|sā caus|s(am) hanc iūs|t(am) ess(e) ani|m(um) indū|cite ||||
+Heaut. 042 (ia6) | ut ali|qua par|s labō|ris minu|ātur | mihi ||||
+Heaut. 043 (ia6) | nam nunc | nouās | quī scrī|bunt nīl | parcunt | senī. ||||
+Heaut. 044 (ia6) | sī quae | labō|riō|sast ad | mē cur|ritur. ||||
+Heaut. 045 (ia6) | sī lē|nist | a{d ali}|um dē|fertur | gregem. ||||
+Heaut. 046 (ia6) | in hā|c est pū|r(a) ōrā|ti(ō). ex|sperī|minī ||||
+Heaut. 047 (ia6) | in utram|que par|t(em) ingeni|um quid | possit | meum. ||||
+Heaut. 048 (ia6) | sī nun|qu(am) auā|rē preti|um statu|(ī) artī | meae ||||
+Heaut. 049 (ia6) | {et e}(um) es|se quaes|t(um) i{n ani}|m(um) indū|xī max|sumum ||||
+Heaut. 050 (ia6) | quam max|sumē | seruī|re uos|trīs com|modīs ||||
+Heaut. 051 (ia6) | exsemp|lum {statu}|it(e) in | {m(ē) u}{t adu}|lēscen|tulī ||||
+Heaut. 052 (ia6) | uōbīs | placē|re stude|ant poti|us quam | sibi ||||
 
 [DĪUERBIA]
-Heaut. 53 (ia6) | [CREMES] quamqu(am) hae|c inter | nōs nū|per nō|{titi}(a) ad|modumst ||||
-Heaut. 54 (ia6) | in{d(e) ade}|ō {quod a}|gr(um) in prox|sum(ō) hīc | mercā|tus ess ||||
-Heaut. 55 (ia6) | nec re|ī {ferē%} | sān(ē) amp|lius:: | quicquam | fuit ||||
-Heaut. 55 (ia6) | nec r{ei} | ferē | sān(ē) amp|lius:: | quicquam | fuit ||||
-Heaut. 56 (ia6) | tamen | uel uir|tūs {tua} | mē uel | uīcī|nitās ||||
-Heaut. 57 (ia6) | {quod e}g(o) in | propin|quā par|t(e) amī|{citi}ae | putō ||||
-Heaut. 58 (ia6) | {faci}t ut | {t(ē) au}dāc|ter {mone}|(am) et {fami}|liā|riter ||||
-Heaut. 59 (ia6) | quod mī | uidē|re prae|ter ae|tātem | tuam ||||
-Heaut. 60 (ia6) | {face}r(e) et | praeter | quam rēs | {t(ē) a}dhor|tātur | tua. ||||
-Heaut. 61 (ia6) | nam prō | de(um) at|qu(e) {homi}num | fidem | quid uīs | tib(i) aut ||||
-Heaut. 62 (ia6) | quid quae|ris. an|nōs sex|sāgin|tā nā|tus ess ||||
-Heaut. 63 (ia6) | aut plū|s e(ō) ut | co{nici}|(ō). {agr(um) i}n hīs | {regi}ō|nibus ||||
-Heaut. 64 (ia6) | {meli}ō|rem {neque} | pretī | mai{iō}|ris nē|m(ō) habet ||||
-Heaut. 65 (ia6) | seruōs | complū|rīs {pr(o)in}|de {quasi} | nēmō | siet ||||
-Heaut. 66 (ia6) | {it(a) at%}ten|tē tū|t(e) illō|r(um) of{fici}|a fun|gere. ||||
-Heaut. 67 (ia6) | nunquam | tam mā|n(e) ē{gredi}|or {neque} | tam ues|perī ||||
-Heaut. 68 (ia6) | domum | reuor|tor quīn | {t(ē) in} fun|dō cōns|picer ||||
-Heaut. 69 (ia6) | {fode}r(e) au|t arā|r(e) au{t ali}|quid fer|re. dē|nique ||||
-Heaut. 70 (ia6) | nūllum | remit|tis tem|pus {neque} | tē res|picis ||||
-Heaut. 71 (ia6) | haec nōn | {uolup%}tā|tī {tib(i) es%}|se {sati(s)} | certō | sci(ō) at ||||
-Heaut. 72 (ia6) | {enim%} dī|ces quan|t(um) hīc ope|ris fī|at pae|nitet ||||
-Heaut. 73 (ia6) | {quod i}{n ope}|re {faci}|un{d(ō) ope}|rae cōn|sūmis:: | tuae ||||
-Heaut. 80 (ia6) | {mihi} sī|c est ū|sus {tib(i) u}|t opus:: | factost | face ||||
-Heaut. 90 (ia6) | {sine} mē | uocī|uom tem|pus nē|quod dem | mihi ||||
-Heaut. 91 (ia6) | labō|ris nōn | sin(am) in|qu(am) āh nō|n aequom | facis ||||
-Heaut. 96 (ia6) | est ē | corin|t(ō) hīc ad|uen(a) anus | pauper|cula ||||
+Heaut. 053 (ia6) | [CREMES] quamqu(am) hae|c inter | nōs nū|per nō|{titi}(a) ad|modumst ||||
+Heaut. 054 (ia6) | in{d(e) ade}|ō {quod a}|gr(um) in prox|sum(ō) hīc | mercā|tus ess ||||
+Heaut. 055 (ia6) | nec re|ī {ferē%} | sān(ē) amp|lius:: | quicquam | fuit ||||
+Heaut. 055 (ia6) | nec r{ei} | ferē | sān(ē) amp|lius:: | quicquam | fuit ||||
+Heaut. 056 (ia6) | tamen | uel uir|tūs {tua} | mē uel | uīcī|nitās ||||
+Heaut. 057 (ia6) | {quod e}g(o) in | propin|quā par|t(e) amī|{citi}ae | putō ||||
+Heaut. 058 (ia6) | {faci}t ut | {t(ē) au}dāc|ter {mone}|(am) et {fami}|liā|riter ||||
+Heaut. 059 (ia6) | quod mī | uidē|re prae|ter ae|tātem | tuam ||||
+Heaut. 060 (ia6) | {face}r(e) et | praeter | quam rēs | {t(ē) a}dhor|tātur | tua. ||||
+Heaut. 061 (ia6) | nam prō | de(um) at|qu(e) {homi}num | fidem | quid uīs | tib(i) aut ||||
+Heaut. 062 (ia6) | quid quae|ris. an|nōs sex|sāgin|tā nā|tus ess ||||
+Heaut. 063 (ia6) | aut plū|s e(ō) ut | co{nici}|(ō). {agr(um) i}n hīs | {regi}ō|nibus ||||
+Heaut. 064 (ia6) | {meli}ō|rem {neque} | pretī | mai{iō}|ris nē|m(ō) habet ||||
+Heaut. 065 (ia6) | seruōs | complū|rīs {pr(o)in}|de {quasi} | nēmō | siet ||||
+Heaut. 066 (ia6) | {it(a) at%}ten|tē tū|t(e) illō|r(um) of{fici}|a fun|gere. ||||
+Heaut. 067 (ia6) | nunquam | tam mā|n(e) ē{gredi}|or {neque} | tam ues|perī ||||
+Heaut. 068 (ia6) | domum | reuor|tor quīn | {t(ē) in} fun|dō cōns|picer ||||
+Heaut. 069 (ia6) | {fode}r(e) au|t arā|r(e) au{t ali}|quid fer|re. dē|nique ||||
+Heaut. 070 (ia6) | nūllum | remit|tis tem|pus {neque} | tē res|picis ||||
+Heaut. 071 (ia6) | haec nōn | {uolup%}tā|tī {tib(i) es%}|se {sati(s)} | certō | sci(ō) at ||||
+Heaut. 072 (ia6) | {enim%} dī|ces quan|t(um) hīc ope|ris fī|at pae|nitet ||||
+Heaut. 073 (ia6) | {quod i}{n ope}|re {faci}|un{d(ō) ope}|rae cōn|sūmis:: | tuae ||||
+Heaut. 080 (ia6) | {mihi} sī|c est ū|sus {tib(i) u}|t opus:: | factost | face ||||
+Heaut. 090 (ia6) | {sine} mē | uocī|uom tem|pus nē|quod dem | mihi ||||
+Heaut. 091 (ia6) | labō|ris nōn | sin(am) in|qu(am) āh nō|n aequom | facis ||||
+Heaut. 096 (ia6) | est ē | corin|t(ō) hīc ad|uen(a) anus | pauper|cula ||||
 Heaut. 104 (ia6) | amī|c(am) u{t habe}|ās {prope} |{i(am) i}n ux|sōris:: | locō ||||
 Heaut. 110 (ia6) | eg(o) istuc|c aetā|tis nō|n amō|r(ī) operam | dabam ||||
 Heaut. 118 (ia6) | {quid a}īs | clam mē | prōfec|tus mēn|sīs trī|s abest ||||
@@ -3553,33 +3553,33 @@ nec quom | {male} {face}|re crē|derem | {m(ī) im}pū|nius ||||
 licē|re. quis|n(am) ā nō|bīs ē|{gredi}tur | forās. ||||
 
 [562-590]
-Quid istūc quaesō? qui istic mōs est, Clītiphō? itane fierī oportet? 
-quid ego fēcī? vīdīn ego tē modo manum in sinum huic meretrīcī 
-īnserere? acta haec rēs est: periī. mēne? hīsce oculīs, nē negā. 
+Quid istūc quaesō. qui istic mōs est, Clītiphō. itane fierī oportet. 
+quid ego fēcī. uīdīn ego tē modo manum in sinum huic meretrīcī 
+īnserere. acta haec rēs est: periī. mēne. hīsce oculīs, nē negā. 
 facis adeō indignē injūriam illī quī nōn abstineās manum. 
 nam istaec quidem contumēliast, 
 hominem amīcum recipere ad tē atque ejus amīcam subigitāre. 
-vel here in vīnō quam immodestus fuistī... factum. quam molestus! 
+uel here in uīnō quam immodestus fuistī... factum. quam molestus! 
 ut equidem, ita mē di ament, metuī quid futūrum dēnique esset! 
-nōvī ego amantium animum: advortunt graviter quae nōn cēnseās. 
+nōuī ego amantium animum: aduortunt grauiter quae nōn cēnseās. 
 at mihi fidēs apud hunc est nīl mē istīus factūrum, pater. 
-ēstō; at certē concēdās aliquō ab ōre eōrum aliquantisper. 
+ēstō. at certē concēdās aliquō ab ōre eōrum aliquantisper. 
 multa fert libīdō: ea facere prohibet tua praesentia. 
 dē mē ego faciō conjectūram: nēmōst meōrum amīcōrum hodiē 
 apud quem exprōmere omnia mea occulta, Clītipho, audeam. 
-apud alium prohibet dignitās; apud alium ipsius factī pudet, 
-nē ineptus, nē protervus videar: quod illum facere crēditō. 
+apud alium prohibet dignitās. apud alium ipsius factī pudet, 
+nē ineptus, nē proteruus uidear: quod illum facere crēditō. 
 sed nostrum est intellegere utcumque atque ubicumque opus sit obsequī. 
-quid istic nārrat! periī. Clītiphō, haec ego praecipiō tibi? 
-hominis frūgī et temperantis fūnctu's officium? tace sōdēs. 
-rēctē sānē. Syre, pudet mē. crēdō: neque id injūriā; quīn 
-mihi molestumst. perdis hercle. vērum dīcō quod vidētur. 
-nōnne accēdam ad illōs? eho quaesō, ūna accēdendī viast? 
+quid istic nārrat! periī. Clītiphō, haec ego praecipiō tibi. 
+hominis frūgī et temperantis fūnctu's officium. tace sōdēs. 
+rēctē sānē. Syre, pudet mē. crēdō: neque id injūriā. quīn 
+mihi molestumst. perdis hercle. uērum dīcō quod uidētur. 
+nōnne accēdam ad illōs. eho quaesō, ūna accēdendī uiast. 
 āctumst: hic prius sē indicārit quam ego argentum effēcerō. 
-Chremē, vīn tū hominī stultō mī auscultāre? quid faciam? Jubē hunc 
-abīre hinc aliquō. quo ego hinc abeam? quō libet: dā illīs locum: 
-abi deambulātum. deambulātum? quō? vāh quasi dēsit locus. 
-abi sānē istāc, istōrsum, quōvīs. rēctē dīcit, cēnseō. 
+Chremē, uīn tū hominī stultō mī auscultāre. quid faciam. Jubē hunc 
+abīre hinc aliquō. quo ego hinc abeam. quō libet: dā illīs locum: 
+abi deambulātum. deambulātum. quō. uāh quasi dēsit locus. 
+abi sānē istāc, istōrsum, quōuīs. rēctē dīcit, cēnseō. 
 dī tē ērādīcent, quī mē hinc extrūdis, Syre! 
 at tū pol tibi istās posthāc comprimitō manūs! 
 Heaut. 568 (tr8) | uel her(e) in | uīnō | {qu(am) im}mo|destus:: | {fuis%}tī | factum | quam mo|lestus ||||
@@ -3590,49 +3590,45 @@ Heaut. 580 (tr8) | {homi}nis | frūg(ī) et | tempe|rantis | functus|s of{fici}|
 Heaut. 584 (tr7) | actums|t hic {priu(s)} | s(ē) indi|cārit | {quam:: e}g(o) ar|gent(um) ef|fēce|rō ||||
 
 [591-613]
-cēnsēn vērō? quid illum porrō crēdās factūrum, Chremē, 
-nisi eum, quantum tibi opis dī dant, servās castīgās monēs? 
-ego istūc cūrābō. atquī nunc, ere, tibi istic asservandus est. 
-fīet. sī sapiās; nam mihi jam minus minusque obtemperat. 
-quid tū? ecquid dē illō quod dūdum tēcum ēgī ēgistī, Syre, aut 
-repperistī tibi quod placeat an nōn? dē fallāciā 
-dīcis? est: invēnī nūper quandam. frūgī ēs. cedo quid est? 
-dīcam, vērum ut aliud ex aliō incidit. quidnam, Syre? 
-pessuma haec est meretrīx. ita vidētur. immō sī sciās. 
-vāh vidē quod inceptet facinus. fuit quaedam anus Corinthia 
+cēnsēn uērō. quid illum porrō crēdās factūrum, Chremē, 
+nisi eum, quantum tibi opis dī dant, seruās castīgās monēs. 
+ego istūc cūrābō. atquī nunc, ere, tibi istic asseruandus est. 
+fīet. sī sapiās. nam mihi jam minus minusque obtemperat. 
+quid tū. ecquid dē illō quod dūdum tēcum ēgī ēgistī, Syre, aut 
+repperistī tibi quod placeat an nōn. dē fallāciā 
+dīcis. est: inuēnī nūper quandam. frūgī ēs. cedo quid est. 
+dīcam, uērum ut aliud ex aliō incidit. quidnam, Syre. 
+pessuma haec est meretrīx. ita uidētur. immō sī sciās. 
+uāh uidē quod inceptet facinus. fuit quaedam anus Corinthia 
 hīc: huic drachumārum haec argentī mīlle dederat mūtuum. 
-quid tum? ea mortuast: relīquit fīliam adulēscentulam. 
+quid tum. ea mortuast: relīquit fīliam adulēscentulam. 
 ea relicta huic arrabōnī est prō illō argentō. intellegō. 
 hanc sēcum hūc addūxit, ea quae est nunc apud uxōrem tuam. 
-quid tum? Clīniam ōrat sibi utī nunc det: illam illī tamen 
-post datūrum: mīlle nummum poscit. et poscit quidem? hui, 
-dubium id est? ego sīc putāvī. quid nunc facere cōgitās? 
-egon? ad Menedēmum ībō: dīcam hanc esse captam ex Cāriā 
-dītem et nōbilem; sī redimat magnum inesse in eā lucrum. 
-errās. quid ita? prō Menedēmō nunc tibi ego respondeō 
-‘nōn emō’: quid agēs? optāta loquere. quī? nōn est opus. 
-nōn opus est? nōn hercle vērō. qui istūc, mīror. jam sciēs. 
-mane, manē, quid est quod tam ā nōbīs graviter crepuērunt forēs? 
+quid tum. Clīniam ōrat sibi utī nunc det: illam illī tamen 
+post datūrum: mīlle nummum poscit. et poscit quidem. hui, 
+dubium id est. ego sīc putāuī. quid nunc facere cōgitās. 
+egon. ad Menedēmum ībō: dīcam hanc esse captam ex Cāriā 
+dītem et nōbilem. sī redimat magnum inesse in eā lucrum. 
+errās. quid ita. prō Menedēmō nunc tibi ego respondeō 
+‘nōn emō’: quid agēs. optāta loquere. quī. nōn est opus. 
+nōn opus est. nōn hercle uērō. qui istūc, mīror. jam sciēs. 
+mane, manē, quid est quod tam ā nōbīs grauiter crepuērunt forēs. 
 Heaut. 592 (tr7) | {nis(i) e}um | quantum | tib(i) opis | dī dant | seruās | castī|gās mo|nes ||||
 Heaut. 594 (tr7) | fīet | sī {sapi}|ās nam | {mihi} iam | {minu(s)} mi|nusqu(e) op|tempe|rat ||||
 Heaut. 600 (ia8) | uā {uide} | quod in|ceptet | {faci}nus || fuit | quae{d(am) anu(s)} | corin|tia ||||
 
 [614-622]
-Nisi mē animus fallit, hic profectōst ānulus quem ego suspicor, 
-is quīcum expositast gnāta. quid vult sibi, Syre, haec ōrātiō? 
-quid est? isne tibi vidētur? dīxī equidem, ubi mī ostendistī, īlicō 
-eum esse. at ut satis contemplāta modo sīs, mea nūtrīx. satis. 
-abi nūnciam intrō atque illa sī jam lāverit mihi nūntiā. 
-hīc ego virum intereā opperībor. tē vult: videās quid velit. 
-nescioquid trīstis est: nōn temerest: timeō quid sit. quid siet? 
-nē ista hercle magnō jam cōnātū magnās nūgās dīxerit. 
-ehem mī vir. ehem mea uxor. tē ipsum quaerō. loquere quid velīs. 
-Heaut. 614 (ia8) | {nisi} {m(ē) ani}|mus fal|lit hic | prōfec|tōst ā|nu{lus qu(em) e}|go sus|picor ||||
-Heaut. 615 (ia8) | is quī|{c(um) ex}{posi}|tast gnā|ta. quid | uolt {sibi} | sur(e) hae|c ōrā|tiō. ||||
-Heaut. 616 (ia8) | {quid es%}t is|ne {tibi} | uidē|tur dix|s(ī) equid(em) ubi | {m(ī) os}ten|dist(ī) ī|licō  ||||
-Heaut. 617 (ia8) | e(um) es|s(e) at ut | {sati(s)} con|templā|ta {modo} | sīs {mea} | nūtrix | satis ||||
+Heaut. 614 (ia8) | {nisi} {m(ē) ani}|mus fal|lit hic | prōfec||tōst ā|nu{lus qu(em) e}|go sus|picor ||||
+Heaut. 615 (ia8) | is quī|{c(um) ex}{posi}|tast gnā|ta. quid || uolt {sibi} | sur(e) hae|c ōrā|tiō. ||||
+Heaut. 616 (ia8) | {quid es%}t. is::|ne {tibi} | uidē|tur. dī||x(ī) equid(em) ubi | {m(ī) os}ten|dist(ī) ī|licō  ||||
+Heaut. 617 (ia8) | e(um) es|s(e). at ut | {sati(s)} con|templā||ta {modo} | sīs {mea} | nūtrix. | satis ||||
+Heaut. 617 (ia8) | {abi} nūn|ci(am) in|tr(ō) atqu(e) il|la sī || iam lā|uerit | {mihi} nūn|tiā. |||| 
+Heaut. 617 (ia8) | hī{c ego} | uir(um) in|{ter e}(ā) op|perī||bor. tē | uolt. {uide}|ās quid | uelit. |||| 
+Heaut. 617 (ia8) | nes{cio}|quid trīs|tis est. | nōn {teme}||rest. {time}|ō quid | sit. quid | siet. |||| 
+Heaut. 617 (ia8) | n(ē) ist(a) her|cle mag|nō iam | cōnā||tū mag|nās nū|gās dī|xerit. |||| 
+Heaut. 617 (ia8) | {ehem%} mī | uir. {ehem%} | me(a) ux|sor. {t(ē) ip}||sum quae|rō. {loque}|re quid | uelīs. |||| 
 
-[623-667]
+[CANTATA][TR7][623-667]
 Heaut. 623 (tr7) | prīmum hoc(c) | {t(ē) ō}rō | nē quid | crēdās || {m(ē) ad}uor|s(um) ēdic|tum tu|om |||| 
 Heaut. 624 (tr7) | {face}r(e) es|s(e) ausam. | uīn {m(ē) is}|tuc(c) {tib(i) et%}||s(ī) incrē|{dibi}lest | crēde|re. |||| 
 Heaut. 625 (tr7) | crēdō. | nes{cio}|quid pec|cātī || porta|t haec pūr|gāti|ō. |||| 
@@ -3641,12 +3637,12 @@ Heaut. 627 (tr7) | sī pu|ellam | {pare}rem | nōlle || tollī. | {scio} quid | 
 Heaut. 628 (tr7) | sustu|listī. | sīc est | factum. || {domi}n(ā) e|{g(o) eru(s)} dam|n(ō) auctu|s est. ||||
 Heaut. 629 (tr7) | {minu}mē. | {sed e}ra|t hīc co|rinti||{(a) anu}s hau|d impū|r(a) eii de|dī ||||
 Heaut. 630 (tr7) | expō|nend(am). ō | iuppi|ter tan||t(am) ess(e) i|{n ani}m(ō) īns|cīti|am. |||| 
-Heaut. 630 (tr7) | {peri}ī. | {quid e}go | fēcī. | {rogi}tās. || sī pec|cāuī | mī cre|mē |||| 
-Heaut. 630 (tr7) | īnsci|ēns fē|{c(ī). id e}qui|{d(em) ego} sī || tū ne|gēs cer|tō sci|ō |||| 
-Heaut. 630 (tr7) | {t(ē) īns}ci|ent(em) at|qu(e) imprū|dentem || dīce|r(e) ac {face}|r(e) omni|a0 |||| 
-Heaut. 630 (tr7) | tot pec|cāt(a) i|n hāc {r(ē) os}|tendis. || nam iam | prīmum | sī me|um |||| 
-Heaut. 630 (tr7) | im{peri}|(um) exse|quī {uolu}|issēs || inte|rēm(p)t(am) o|portu|it |||| 
-Heaut. 630 (tr7) | nōn {simu}|lāre | mortem | uerbīs || {r(ē) ip}sā | spem uī|tae da|re. |||| 
+Heaut. 631 (tr7) | {peri}ī. | {quid e}go | fēcī. | {rogi}tās. || sī pec|cāuī | mī cre|mē |||| 
+Heaut. 632 (tr7) | īnsci|ēns fē|{c(ī). id e}qui|{d(em) ego} sī || tū ne|gēs cer|tō sci|ō |||| 
+Heaut. 633 (tr7) | {t(ē) īns}ci|ent(em) at|qu(e) imprū|dentem || dīce|r(e) ac {face}|r(e) omni|a0 |||| 
+Heaut. 634 (tr7) | tot pec|cāt(a) i|n hāc {r(ē) os}|tendis. || nam iam | prīmum | sī me|um |||| 
+Heaut. 635 (tr7) | im{peri}|(um) exse|quī {uolu}|issēs || inte|rēm(p)t(am) o|portu|it |||| 
+Heaut. 636 (tr7) | nōn {simu}|lāre | mortem | uerbīs || {r(ē) ip}sā | spem uī|tae da|re. |||| 
 Heaut. 637 (tr7) | {at i}d o|mittō. | {mise}ri|cordi||{(a) ani}mus | māter|nus:: si|nō. ||||
 Heaut. 638 (tr7) | quam {bene} | uēr(ō) aps | tē prō|spectumst || quod {uolu}istī | cōgi|tā. |||| 
 Heaut. 639 (tr7) | nem(p)(e) {anu}|(ī) illī | prōdi|t(a) aps tē || fīli|ast plā|nissu|mē |||| 
@@ -3679,55 +3675,55 @@ Heaut. 665 (tr7) | nē nun|{c ani}m(ō) i|t(a) essēs | dūr(ō) u||t ōl(im) in
 Heaut. 666 (tr7) | nōn li|{cet ho}mi|n(em) esse | saep(e) i||t(a) ut uolt | sī rēs | nōn si|nit. |||| 
 Heaut. 667 (tr7) | nun{c ita} | tempu|s est m(ī) ut | {cupi}am || fīli|(am) ōlim | nīl mi|nus. |||| 
 
-[668-677]
+[CANTATA][IA8][668-677]
 Heaut. 668 (ia8) | {nisi} {m(ē) ani}|mus fal|lit mul|t(um) haud mul||t(um) ā {m(ē) abe}|rit in|fortū|nium. ||||
-Heaut. 668 (ia8) | it(a) hāc | {r(ē) i}n an|gust(um) op|pidō || nunc {me%ae} | cōgun|tur cō|piae. ||||
-Heaut. 668 (ia8) | ni{s(i) ali}|quid {uide}|ō {n(ē) es}|s(e) amī||c(am) hanc gnā|tī res|cīscat | senex. |||| 
-Heaut. 668 (ia8) | nam quod | {d(ē) ar}gen|tō spē|r(em) aut pos||se pos|tulem | mē fal|lere |||| 
-Heaut. 668 (ia8) | nīl est. | trium|pō sī | licet || mē {late}|re tēc|t(ō) abscē|dere. |||| 
-Heaut. 668 (ia8) | {cruci}or | bolum | tantum | {m(ī) ē}rep||tum tam | dēsubi|t(ō) ē fau|cibus. |||| 
-Heaut. 668 (ia8) | quid agam? aut quid comminīscar? ratiō dē integrō ineundast mihi. 
-Heaut. 668 (ia8) | nīl tam difficilest quīn quaerendō investīgārī possiet. 
-Heaut. 668 (ia8) | quid sī hoc nunc sīc incipiam? nīlst. quid sī sīc? tantundem ēgerō. 
-Heaut. 668 (ia8) | at sīc opīnor: nōn potest. immō optimē. euge habeō optimam. 
-Heaut. 668 (ia8) | retraham hercle opīnor ad mē 
-Heaut. 668 (ia8) | idem ego illūc hodiē fugitīvum argentum tamen. 
+Heaut. 669 (ia8) | it(a) hāc | {r(ē) i}n an|gust(um) op|pidō || nunc {me%ae} | cōgun|tur cō|piae. ||||
+Heaut. 670 (ia8) | ni{s(i) ali}|quid {uide}|ō {n(ē) es}|s(e) amī||c(am) hanc gnā|tī res|cīscat | senex. |||| 
+Heaut. 671 (ia8) | nam quod | {d(ē) ar}gen|tō spē|r(em) aut pos||se pos|tulem | mē fal|lere |||| 
+Heaut. 672 (ia8) | nīl est. | trium|pō sī | licet || mē {late}|re tēc|t(ō) abscē|dere. |||| 
+Heaut. 673 (ia8) | {cruci}or | bolum | tantum | {m(ī) ē}rep||tum tam | dē{subi}|t(ō) ē fau|cibus. |||| 
+Heaut. 674 (ia8) | {quid a}g(am). aut | quid com|minī|scar. {rati}||ō {d(ē) in}|teg{r(ō) ine}|undast | mihi. ||||
+Heaut. 675 (ia8) | nīl tam | dif{fici}|lest quīn | quaeren||d(ō) inues|tīgā|rī pos|siet. |||| 
+Heaut. 676 (ia8) | quid {s(ī) hocc} | nunc sī|c in{cipi}|am. nīlst. | quid sī | sīc. tan|tund(em) ē|gerō. |||| 
+Heaut. 678 (ia8) | at sī|c opī|nor. nōn | potes||t. imm(ō) op|tim(ē). eu|{g(e) habe}(ō) op|timam. |||| 
+Heaut. 678a (ia3) | retrah(am) her|cl(e) opī|nor ad | mē |||| 
 
 [678]
+Heaut. 678 (ia6) | {id(em) e}g(o) il|luc{c hodi}|ē fugi|tīu(om) ar|gentum | tamen. |||| 
 
 [CANTATA][IA7][679-707]
 Heaut. 679 (ia7) | nūl{la mi}|hi rēs | posthāc | potest || {i(am) in}ter|uenī|re tan|ta ||||
 Heaut. 680 (ia7) | quae {m(ī) ae}|gritū|din(em) af|ferat. || tant(a) haec | lae{titi}|(a) obor|tast. ||||
-Heaut. 680 (ia7) | dēdō | patrī | mē nunc|i(am) ut || frūgā|lior | sim quam | uolt. ||||
-Heaut. 680 (ia7) | nīl mē | fefel|lit. cog|nitast || quant(um) au|di(ō) hui|ius uer|ba. ||||
-Heaut. 680 (ia7) | istuc(c) | tib(i) ex | senten|tiā || tu(ā) op|tigis|se lae|tor. ||||
-Heaut. 680 (ia7) | ō mī | sur(e) au|dīst(ī) op|secrō. || quidnī. | {qu(ī) us}qu(e) ū|n(ā) af{fue}|rim. ||||
-Heaut. 680 (ia7) | quoii ae|qu(ē) audīs|tī com|modē || quicqu(am) ē|uēnis|se. nūl|lī. ||||
-Heaut. 680 (ia7) | at{qu(e) ita} | mē {dī:: a}|ment {ut e}|go nunc || nōn tam | meā|pte caus|sā ||||
-Heaut. 680 (ia7) | laetor | {qu(am) il}lī|us. {qu(am) ego} | sci(o) es||s(e) honō|re quō|uīs dig|nam. ||||
-Heaut. 680 (ia7) | {ita} crē|dō. sed | nunc clī|niā |||| {age} dā | tē {mihi} | uicis|sim. ||||
-Heaut. 680 (ia7) | {n(am) a}mī|cī {quoque} | rēs est | uiden||d(a) in tū|t(ō) ut col|locē|tur ||||
-Heaut. 680 (ia7) | nē quid | {d(ē) a}mī|cā nunc | senex. |||| ō iup|piter. | quiēs|ce. ||||
-Heaut. 680 (ia7) | an{tipi}|la {mea} | nūbet | mihi. |||| sīcin | {m(ī) in}ter|loquē|re. ||||
-Heaut. 680 (ia7) | quid {faci}|am. {sure} | mī gau|deō || fer mē. | fer(ō) her|cle uē|rō. ||||
-Heaut. 680 (ia7) | deō|rum uī|t(am) aptī | sumus. |||| frūs{tr(ā) ope}|r(am) opī|n(ō) hanc sū|mō. ||||
-Heaut. 680 (ia7) | loquer(e). au|di(ō). at | {i(am) hoc(c)} nōn | agēs. || agam. | uiden|dumst in|quam ||||
-Heaut. 680 (ia7) | amī|cī {quoque} | rēs clī|niā || {tu(ī) in} tū|t(ō) ut col|locē|tur. ||||
-Heaut. 680 (ia7) | nam sī | nunc ā | nōbī|s abīs || et bac|cid(em) hīc | relin|quis ||||
-Heaut. 680 (ia7) | senex | rescīs|cet ī|lic(ō) es||s(e) amī|c(am) hanc clī|tipō|nis. ||||
-Heaut. 680 (ia7) | {s(ī) ab}dū|xeris:: | cēlā|bitur |||| {iti}d(em) ut | cēlā|t(a) adhū|c est. ||||
-Heaut. 680 (ia7) | {at e}{n(im) is}|tōc nī|l est {magi(s)} | sure |||| {me%īs} nūp|tiī|s aduor|sum. ||||
-Heaut. 680 (ia7) | nam {qu(ō) ō}|r(e) appel|lābō | patrem. || tenēs | quid dī|cam. quid|nī. ||||
-Heaut. 680 (ia7) | quid dī|cam. quam | causs(am) af|feram. || quī nō|lō men|tiā|re. ||||
-Heaut. 680 (ia7) | aper|t(ē) it(a) ut | rēs sē|s(ē) habet || nārrā|tō. {quid a}|īs. {iube}|ō. ||||
-Heaut. 680 (ia7) | illam | {t(ē) a}mā|r(e) et uel|l(e) uxō||r(em) hanc es|se clī|tipō|nis. ||||
-Heaut. 680 (ia7) | bon(am) at|que iūs|tam {r(em) op}|pid(ō) im||perās | et fac|tū {faci}|lem. ||||
-Heaut. 680 (ia7) | et scī|licet | iam {m(ē) hoc(c)} | uolēs || patr(em) ex|ōrā|r(e) ut cē|let ||||
-Heaut. 680 (ia7) | {senem%} uos|tr(um). imm(ō) ut | rēctā | uiā || rem nār|ret ōr|din(e) om|n(em). em ||||
-Heaut. 680 (ia7) | {sati(s)} sā|nus es|s et sō|brius. |||| {tū%qui}d(em) il|lum plā|nē per|dis. ||||
+Heaut. 681 (ia7) | dēdō | patrī | mē nunc|i(am) ut || frūgā|lior | sim quam | uolt. ||||
+Heaut. 682 (ia7) | nīl mē | fefel|lit. cog|nitast || quant(um) au|di(ō) hui|ius uer|ba. ||||
+Heaut. 683 (ia7) | istuc(c) | tib(i) ex | senten|tiā || tu(ā) op|tigis|se lae|tor. ||||
+Heaut. 684 (ia7) | ō mī | sur(e) au|dīst(ī) op|secrō. || quidnī. | {qu(ī) us}qu(e) ū|n(ā) af{fue}|rim. ||||
+Heaut. 685 (ia7) | quoii ae|qu(ē) audīs|tī com|modē || quicqu(am) ē|uēnis|se. nūl|lī. ||||
+Heaut. 686 (ia7) | at{qu(e) ita} | mē {dī:: a}|ment {ut e}|go nunc || nōn tam | meā|pte caus|sā ||||
+Heaut. 687 (ia7) | laetor | {qu(am) il}lī|us. {qu(am) ego} | sci(o) es||s(e) honō|re quō|uīs dig|nam. ||||
+Heaut. 688 (ia7) | {ita} crē|dō. sed | nunc clī|niā |||| {age} dā | tē {mihi} | uicis|sim. ||||
+Heaut. 689 (ia7) | {n(am) a}mī|cī {quoque} | rēs est | uiden||d(a) in tū|t(ō) ut col|locē|tur ||||
+Heaut. 690 (ia7) | nē quid | {d(ē) a}mī|cā nunc | senex. |||| ō iup|piter. | quiēs|ce. ||||
+Heaut. 691 (ia7) | an{tipi}|la {mea} | nūbet | mihi. |||| sīcin | {m(ī) in}ter|loquē|re. ||||
+Heaut. 692 (ia7) | quid {faci}|am. {sure} | mī gau|deō || fer mē. | fer(ō) her|cle uē|rō. ||||
+Heaut. 693 (ia7) | deō|rum uī|t(am) aptī | sumus. |||| frūs{tr(ā) ope}|r(am) opī|n(ō) hanc sū|mō. ||||
+Heaut. 694 (ia7) | loquer(e). au|di(ō). at | {i(am) hoc(c)} nōn | agēs. || agam. | uiden|dumst in|quam ||||
+Heaut. 695 (ia7) | amī|cī {quoque} | rēs clī|niā || {tu(ī) in} tū|t(ō) ut col|locē|tur. ||||
+Heaut. 696 (ia7) | nam sī | nunc ā | nōbī|s abīs || et bac|cid(em) hīc | relin|quis ||||
+Heaut. 697 (ia7) | senex | rescīs|cet ī|lic(ō) es||s(e) amī|c(am) hanc clī|tipō|nis. ||||
+Heaut. 698 (ia7) | {s(ī) ab}dū|xeris:: | cēlā|bitur |||| {iti}d(em) ut | cēlā|t(a) adhū|c est. ||||
+Heaut. 699 (ia7) | {at e}{n(im) is}|tōc nī|l est {magi(s)} | sure |||| {me%īs} nūp|tiī|s aduor|sum. ||||
+Heaut. 700 (ia7) | nam {qu(ō) ō}|r(e) appel|lābō | patrem. || tenēs | quid dī|cam. quid|nī. ||||
+Heaut. 701 (ia7) | quid dī|cam. quam | causs(am) af|feram. || quī nō|lō men|tiā|re. ||||
+Heaut. 702 (ia7) | aper|t(ē) it(a) ut | rēs sē|s(ē) habet || nārrā|tō. {quid a}|īs. {iube}|ō. ||||
+Heaut. 703 (ia7) | illam | {t(ē) a}mā|r(e) et uel|l(e) uxō||r(em) hanc es|se clī|tipō|nis. ||||
+Heaut. 704 (ia7) | bon(am) at|que iūs|tam {r(em) op}|pid(ō) im||perās | et fac|tū {faci}|lem. ||||
+Heaut. 705 (ia7) | et scī|licet | iam {m(ē) hoc(c)} | uolēs || patr(em) ex|ōrā|r(e) ut cē|let ||||
+Heaut. 706 (ia7) | {senem%} uos|tr(um). imm(ō) ut | rēctā | uiā || rem nār|ret ōr|din(e) om|n(em). em ||||
+Heaut. 707 (ia7) | {sati(s)} sā|nus es|s et sō|brius. |||| {tū%qui}d(em) il|lum plā|nē per|dis. ||||
 
 [708]
-nam quī ille poterit esse in tūtō dīc mihi. 
+Heaut. 708 (ia6) | nam qu(ī) il|le pote|rit es|s(e) in tū|tō dīc | mihi. |||| 
 
 [CANTATA][TR7]
 Heaut. 709 (tr7) | {hui}{c equi}|dem cōn|{sili}ō | palmam || {d(ō) hīc} mē | mag{nifi}|c(ē) effe|rō ||||
@@ -3762,17 +3758,16 @@ Heaut. 735 (ia7) | uē{r(um) ali}|quō pac|tō uer|ba m(ē) hīs || datū|r(am) 
 Heaut. 736 (ia7) | {peri}(ī) her|cle. bac|cis {mane} | mane |||| quō mit|tis is|tanc quae|sō. ||||
 Heaut. 737 (ia7) | {iube} {mane}|at. ī. | quīn est | parā||t(um) argen|tum. quī|{n ego} {mane}|ō. ||||
 Heaut. 738 (ia7) | atquī | iam {dabi}|tur. ut | lubet. || {n(um) e}g(o) īn|st(ō). at scīn | quid sō|dēs. ||||
-Heaut. 730 (ia7) | quid. trāns|eun|dumst nunc | tibi |||| ad {mene}|dēm(um) et | {tua} pom|pa ||||
-Heaut. 730 (ia7) | {e%ō} trāns|dūcen|dast. quam | {r(em) a}gis |||| {scelu}{s. ego}|n. argen|tum cū|dō ||||
-Heaut. 730 (ia7) | quod {tibi} | dem. dig|nam mē | putās || {qu(am) il}lū|dās. nōn | est {teme}|re. ||||
-Heaut. 730 (ia7) | {eti}am|ne tē|c(um) hīc rēs | mihist. |||| {minu}mē. | tuom:: | {tibi} red|dō. ||||
-Heaut. 730 (ia7) | eā|tur. {seque}|r(e) hāc. heus | dromō. || quis mē | uolt. {suru(s)}. | {quid es%t%} rē|ī. ||||
-Heaut. 730 (ia7) | ancil|lās om|nīs bac|cidis |||| trānsdū|c(e) hūc ad | uōs {prope}|rē. ||||
-Heaut. 730 (ia7) | {qu(am) ob} rem. | nē quae|rās. ef|ferant || quae sē|c(um) hūc at|tulē|runt. ||||
-Heaut. 730 (ia7) | spērā|bit sūm(p)|tum {sibi} | senex |||| leuā|t(um) ess(e) hā|run{c abi}|tū. ||||
-Heaut. 730 (ia7) | {n(ē) il}l(e) haud | scit hoc(c) | paullum | lucrī || quant(um) ei|ii dam|n(um) appor|tet. ||||
-Heaut. 730 (ia7) | tū nes|cīs id | quod scīs | dromō || sī {sapi}|ēs. mū|tum dī|cēs. ||||
-
+Heaut. 739 (ia7) | quid. trāns|eun|dumst nunc | tibi |||| ad {mene}|dēm(um) et | {tua} pom|pa ||||
+Heaut. 740 (ia7) | {e%ō} trāns|dūcen|dast. quam | {r(em) a}gis |||| {scelu}{s. ego}|n. argen|tum cū|dō ||||
+Heaut. 741 (ia7) | quod {tibi} | dem. dig|nam mē | putās || {qu(am) il}lū|dās. nōn | est {teme}|re. ||||
+Heaut. 742 (ia7) | {eti}am|ne tē|c(um) hīc rēs | mihist. |||| {minu}mē. | tuom:: | {tibi} red|dō. ||||
+Heaut. 743 (ia7) | eā|tur. {seque}|r(e) hāc. heus | dromō. || quis mē | uolt. {suru(s)}. | {quid es%t%} rē|ī. ||||
+Heaut. 744 (ia7) | ancil|lās om|nīs bac|cidis |||| trānsdū|c(e) hūc ad | uōs {prope}|rē. ||||
+Heaut. 745 (ia7) | {qu(am) ob} rem. | nē quae|rās. ef|ferant || quae sē|c(um) hūc at|tulē|runt. ||||
+Heaut. 746 (ia7) | spērā|bit sūm(p)|tum {sibi} | senex |||| leuā|t(um) ess(e) hā|run{c abi}|tū. ||||
+Heaut. 747 (ia7) | {n(ē) il}l(e) haud | scit hoc(c) | paullum | lucrī || quant(um) ei|ii dam|n(um) appor|tet. ||||
+Heaut. 748 (ia7) | tū nes|cīs id | quod scīs | dromō || sī {sapi}|ēs. mū|tum dī|cēs. ||||
 
 [DĪUERBIA][749-873]
 Heaut. 749 (ia6) | {ita} mē | {d(ī) a}mā|bunt ut | nunc {mene}|dēmī | uicem ||||
@@ -3811,83 +3806,100 @@ Heaut. 781 (ia6) | nō{n ego} | dīcē|b(am) in per|{petu}{(om) ut il%}|l(am) il
 Heaut. 782 (ia6) | uēr(um) ut | {simu}lā|rēs. nōn | meast | {simu}lā|tiō. ||||
 Heaut. 783 (ia6) | {ita} {t(ū) is}|taec {tua} | miscē|tō nē | {m(ē) ad}mis|ceās. ||||
 Heaut. 784 (ia6) | {egon%} {quoi} | datū|rus nōn | s(um) ut {eiī} | dēspon|deam ||||
+Heaut. 784 (ia6) | crēdē|bam. minu|mē. scī|tē pote|rat fī|erī. |||| 
+Heaut. 784 (ia6) | et ego hoc | quia dū|dum tū | tantō ope|re ius|serās |||| 
+Heaut. 784 (ia6) | eō coe|pī. crē|dō. cē|terum equi|dem istuc(c) | cremē |||| 
+Heaut. 784 (ia6) | aequī | bonī|que faci|ō. atquī | quam max|sumē ||||  
+Heaut. 784 (ia6) | uolo tē | dare ope|ram ut fī|at uē|rum aliā | uiā. ||||  
+Heaut. 784 (ia6) | fīat | quaerā|tur ali|quid. sed il|lud quod | tibi ||||  
+Heaut. 784 (ia6) | dīxī | dē argen|tō quod is|ta dē|bet bac|cidī |||| 
+Heaut. 784 (ia6) | id nunc | redden|dumst il|lī. neque | tū scī|licet |||| 
+Heaut. 784 (ia6) | illūc | cōnfugi|ēs. quid | meā. | num mihi | datumst. |||| 
+Heaut. 784 (ia6) | num ius|sī. n(um) il|l(a) oppig|nerā|re fī|liam |||| 
+Heaut. 784 (ia6) | meam | m(ē) inuī|tō potu|it. uē|rum illūc | cremē |||| 
+Heaut. 784 (ia6) | dīcunt. | iūs sum|mum sae|pe sum|mast mali|tia. |||| 
+Heaut. 784 (ia6) | haud faci|am. immō ali|īs sī | licet | tibi nōn | licet. |||| 
+Heaut. 784 (ia6) | omnēs | tē in lau|tā esse et | bene auc|tā ṛē | putant. |||| 
+Heaut. 784 (ia6) | quīn ego|met iam ad e|am dē|feram. im|mō fī|lium |||| 
+Heaut. 784 (ia6) | iube poti|us. quam ob | rem. quia e|nim in eum | suspī|ciōst |||| 
+Heaut. 784 (ia6) | trānslā|ta amō|ris. quid | tum. quia | uidē|bitur |||| 
+Heaut. 784 (ia6) | magis uē|rī simi|le id es|se {cum hi}|c illī | dabit. |||| 
+Heaut. 784 (ia6) | et simul | cōnfici|am faci|li{us e}|go quod | uolō. |||| 
+Heaut. 784 (ia6) | ipse ade|ō ades|t. ab(ī) ef|fer ar|gentum. ef|ferō. |||| 
+Heaut. 784 (ia6) | nūllast | tam faci|lis rēs | quīn dif|ficilis:: | siet |||| 
+Heaut. 784 (ia6) | quam inuī|tus faci|ās. uel | mē haec deam|bulā|tiō |||| 
+Heaut. 784 (ia6) | quam nōn | labō|riō|sa ad lan|guōrem | dedit. |||| 
+Heaut. 784 (ia6) | nec quic|quam magis | nunc metu|ō quam | nē dē|nuō |||| 
+Heaut. 784 (ia6) | miser ali|quō extrū|dar hinc | nē accē|dam ad bac|cidem. |||| 
+Heaut. 784 (ia6) | ut tē | quidem om|nēs dī | deae | quantumst | sure ||||
+Heaut. 784 (ia6) | cum istō|c inuen|tō cum|que incep|tō per|duint. |||| 
 Heaut. 800 (ia6) | {iube} {poti}|us {qu(am) ob} | rem {qui(a) e}|{n(im) in e}um | suspī|ciōst ||||
 Heaut. 801 (ia6) | trānslā|t(a) amō|ris quid | tum {quia} | uidē|bitur ||||
 Heaut. 805 (ia6) | nūllast | tam {faci}|lis rēs | quīn dif|{fici}lis:: | siet ||||
 Heaut. 806 (ia6) | {qu(am) in}uī|tus {faci}|ās uel | {m(ē) haec} {deam%}|bulā|tiā ||||
 Heaut. 812 (ia6) | hui{ius mo}|dī mī | rēs sem|per com|minī|scere ||||
 Heaut. 813 (ia6) | {ubi} {m(ē) ex}|scar{nufi}|cēs. īn | tū:: hinc | quō dig|nus ess ||||
-Heaut. 813 (ia6) | nē {m(ē) is}|tucc ex | tē {priu}|s audīs|se gau|deō ||||
-Heaut. 813 (ia6) | {qu(am) ar}gen|t(um) habē|rēs quod | datū|rus iam | fuī. ||||
-Heaut. 813 (ia6) | qui{d igi}|tur dī|cam {tibi} | uīs. {abi}|istī. | mihi ||||
-Heaut. 813 (ia6) | amī|c(am) addux|stī quam | nōn {lici}|tumst tan|gere. ||||
-Heaut. 813 (ia6) | iam nōn | sum īrā|tus. sed | scī{n ubi} | sit nunc | tibi ||||
-Heaut. 813 (ia6) | {tua} bac|{cis. a}pud | nōs. nō|n. ubi er|{g(ō). apud%} clī|niam. ||||
-Heaut. 820 (ia6) | {peri}ī. | bo{n(ō) ani}|mōss. {i(am) ar}|gen{t(um) ad e}|am dē|ferēs ||||
-Heaut. 820 (ia6) | quod ei | pollici|tuss. gar|rīs. un|d(e). ā {tu%ō} | patre. ||||
-Heaut. 820 (ia6) | lūdis:: | fortas|se mē. ip|sā {r(ē) ex}|sperī|bere. ||||
-Heaut. 820 (ia6) | {n(ē) eg(o) ho}mō | sum for|tūnā|tus. dea|mō tē | sure. ||||
-Heaut. 820 (ia6) | sed {pate}|r ē{gredi}|tur. {caue} | quicqu(am) ad|mīrā|tu(s) sīs ||||
-Heaut. 820 (ia6) | quā caus|s(ā) id fī|at. op|secun|dāt(ō) in | locō. ||||
-Heaut. 820 (ia6) | quod im|perā|bit faci|tō. loqui|tor pau|cula. ||||
-Heaut. 820 (ia6) | {ubi} clī|tip(ō) hī|c est. ec|cum m(ē) in|qu(e). ecc(um) hīc | tibi. ||||
-Heaut. 820 (ia6) | quid {re(ī) es}|set dīx|t(ī) huic. dī|xī plē|raqu(e) om|nia. ||||
-Heaut. 820 (ia6) | cap(e) hoc|c argen|t(um) ac dē|fer. ī. | quid stās | lapis. ||||
-Heaut. 830 (ia6) | quīn ac|cipis::. | cedo sā|nē. seque|r(e) hāc mē ō|cius. ||||
-Heaut. 830 (ia6) | {t(ū) hīc} nōs | {d(um) ex}sī|mus in|{ter e}(ā) op|perī|bere. ||||
-Heaut. 830 (ia6) | nam nī|l est il|līc quod | morē|mur {diu}|tius. ||||
-Heaut. 830 (ia6) | minās | {quidem%}. iam | decem | habet ā | mē fī|lia ||||
-Heaut. 830 (ia6) | quās hor|tāmen|tīs es|se nunc | dūcō | datās. ||||
-Heaut. 830 (ia6) | hāsce ōr|nāmen|tīs cōn|sequen|tur al|terae. ||||
-Heaut. 830 (ia6) | porr(ō) haec | talen|ta dō|tis ap|poscunt | duo. ||||
-Heaut. 830 (ia6) | quam mul|t(a) iniūs|t(a) ac prā|ua fī|unt mō|ribus. ||||
-Heaut. 830 (ia6) | {mihi} nunc | relic|tīs rē|bus in|{ueni}un|dus est ||||
-Heaut. 830 (ia6) | {ali}quis:: | labō|re inuen|ta mea | quoi dem | bona. ||||
-Heaut. 840 (ia6) | multō om|nium | nunc mē | fortū|nātis|sumum ||||
-Heaut. 840 (ia6) | factum | put(ō) es|se quom | tē gnā|te intel|legō ||||
-Heaut. 840 (ia6) | resipis|se. ut er|rat. {t(ē) ip}|sum quae|rēbam | cremē. ||||
-Heaut. 840 (ia6) | seruā | quod in | tēst fī|lium | {m(ē) ac} {fami}|liam. ||||
-Heaut. 840 (ia6) | {cedo} quid | uīs faci|am. inuē|nis{t(ī) hodi}|ē fī|liam. ||||
-Heaut. 840 (ia6) | quid t(um). han|c uxsō|rem {sibi} | darī | uolt clī|niā. ||||
-Heaut. 840 (ia6) | quaesō | quid {t(u) homi}|nis ess. | quid. iam|n(e) oblī|tus ess ||||
-Heaut. 840 (ia6) | inter | nōs quid | sit dic|tum dē | fallā|ciā ||||
-Heaut. 840 (ia6) | {ut e}ā | ui(ā) aps | t(ē) argen|t(um) aufer|rētur. | scio. ||||
-Heaut. 840 (ia6) | {ea} rēs | nunc {agi}|tur ip|sa. quid | nārrās | cremē. ||||
-Heaut. 850 (ia6) | errā|u(ī). āctast | rēs. quan|tā dē | spē dē|cidī. ||||
-Heaut. 850 (ia6) | imm(ō) haec | quidem | {qu(ae) a}pud | mēst clī|tipō|nis est ||||
-Heaut. 850 (ia6) | amī|c(ā). it(a) ai|iunt. et | tū crē|dis om|nia. ||||
-Heaut. 850 (ia6) | et ill(um) ai|iunt uel|l(e) uxsō|r(em) ut quom | dēspon|derim ||||
-Heaut. 850 (ia6) | dēs {qu(ī) au}|r(um) ac ues|t(em) atqu(e) ali|a {qu(ae) opu(s)} | sunt com|paret. ||||
-Heaut. 850 (ia6) | id est | profec|{t(ō). id a}mī|cae {dabi}|tur. scī|licet ||||
-Heaut. 850 (ia6) | datū|r(um). ā frūs|trā {s(um) igi}|tur gā|uīsus:: | miser. ||||
-Heaut. 850 (ia6) | quiduīs | tamen | iam mā|lō {qu(am) hun}|c āmit|tere. ||||
-Heaut. 850 (ia6) | quid nunc | renūn|ti(em) aps | tē res|pōnsum | cremē ||||
-Heaut. 850 (ia6) | nē sen|tiat | mē sēn|sisse at|que aegrē | ferat. ||||
-Heaut. 860 (ia6) | aegrē. | {nimi}(um) il|lī {mene}|dēm(e) in|dulgēs. | sine. ||||
-Heaut. 860 (ia6) | incep|tumst. per|fic(ē) hoc | mī per|{petu}ō | cremē. ||||
-Heaut. 860 (ia6) | dīc con|uēnis|se ēgis|se tē | dē nūp|tiīs. ||||
-Heaut. 860 (ia6) | dīcam. | quid {de%in}|de. mē | factū|r(um) ess(e) om|nia ||||
-Heaut. 860 (ia6) | {gene}rum | placē|re. pos|trē{m(ō) eti}|am sī | uolēs ||||
-Heaut. 860 (ia6) | dēspōn|sam {quoqu(e) es%}|se dī|cit(ō). (em) is|tuc(c) {uolu}|eram. ||||
-Heaut. 860 (ia6) | tant(ō) ō|cius:: | {t(ē) ut} pos|cat et | {t(ū) id} quod | cupis ||||
-Heaut. 860 (ia6) | {qu(am) ō}cis|sum(ē) ut | dēs. {cupi}|ō. nē | tū {prope}|diem ||||
-Heaut. 860 (ia6) | {ut is%}tanc | rem {uide}|(ō) istī|us op|{satu}rā|bere. ||||
-Heaut. 871 (ia6) | sed hae|c utī | sunt cau|t(im) et paul|lātim | dabis ||||
+quam paene tua mē perdidit proteruitās! 
+uellem hercle factum, ita meritu's. meritus. quō modo. 
+Heaut. 816 (ia6) | nē {m(ē) is}|tucc ex | tē {priu}|s audīs|se gau|deō ||||
+Heaut. 817 (ia6) | {qu(am) ar}gen|t(um) habē|rēs quod | datū|rus iam | fuī. ||||
+Heaut. 818 (ia6) | qui{d igi}|tur dī|cam {tibi} | uīs. {abi}|istī. | mihi ||||
+Heaut. 819 (ia6) | amī|c(am) addux|stī quam | nōn {lici}|tumst tan|gere. ||||
+Heaut. 820 (ia6) | iam nōn | sum īrā|tus. sed | scī{n ubi} | sit nunc | tibi ||||
+Heaut. 821 (ia6) | {tua} bac|{cis. a}pud | nōs. nō|n. ubi er|{g(ō). apud%} clī|niam. ||||
+Heaut. 822 (ia6) | {peri}ī. | bo{n(ō) ani}|mōss. {i(am) ar}|gen{t(um) ad e}|am dē|ferēs ||||
+Heaut. 823 (ia6) | quod ei | pollici|tuss. gar|rīs. un|d(e). ā {tu%ō} | patre. ||||
+Heaut. 824 (ia6) | lūdis:: | fortas|se mē. ip|sā {r(ē) ex}|sperī|bere. ||||
+Heaut. 825 (ia6) | {n(ē) eg(o) ho}mō | sum for|tūnā|tus. dea|mō tē | sure. ||||
+Heaut. 826 (ia6) | sed {pate}|r ē{gredi}|tur. {caue} | quicqu(am) ad|mīrā|tu(s) sīs ||||
+Heaut. 827 (ia6) | quā caus|s(ā) id fī|at. op|secun|dāt(ō) in | locō. ||||
+Heaut. 828 (ia6) | quod im|perā|bit faci|tō. loqui|tor pau|cula. ||||
+Heaut. 829 (ia6) | {ubi} clī|tip(ō) hī|c est. ec|cum m(ē) in|qu(e). ecc(um) hīc | tibi. ||||
+Heaut. 830 (ia6) | quid {re(ī) es}|set dīx|t(ī) huic. dī|xī plē|raqu(e) om|nia. ||||
+Heaut. 831 (ia6) | cap(e) hoc|c argen|t(um) ac dē|fer. ī. | quid stās | lapis. ||||
+Heaut. 832 (ia6) | quīn ac|cipis::. | cedo sā|nē. seque|r(e) hāc mē ō|cius. ||||
+Heaut. 833 (ia6) | {t(ū) hīc} nōs | {d(um) ex}sī|mus in|{ter e}(ā) op|perī|bere. ||||
+Heaut. 834 (ia6) | nam nī|l est il|līc quod | morē|mur {diu}|tius. ||||
+Heaut. 835 (ia6) | minās | {quidem%}. iam | decem | habet ā | mē fī|lia ||||
+Heaut. 836 (ia6) | quās hor|tāmen|tīs es|se nunc | dūcō | datās. ||||
+Heaut. 837 (ia6) | hāsce ōr|nāmen|tīs cōn|sequen|tur al|terae. ||||
+Heaut. 838 (ia6) | porr(ō) haec | talen|ta dō|tis ap|poscunt | duo. ||||
+Heaut. 839 (ia6) | quam mul|t(a) iniūs|t(a) ac prā|ua fī|unt mō|ribus. ||||
+Heaut. 840 (ia6) | {mihi} nunc | relic|tīs rē|bus in|{ueni}un|dus est ||||
+Heaut. 841 (ia6) | {ali}quis:: | labō|re inuen|ta mea | quoi dem | bona. ||||
+Heaut. 842 (ia6) | multō om|nium | nunc mē | fortū|nātis|sumum ||||
+Heaut. 843 (ia6) | factum | put(ō) es|se quom | tē gnā|te intel|legō ||||
+Heaut. 844 (ia6) | resipis|se. ut er|rat. {t(ē) ip}|sum quae|rēbam | cremē. ||||
+Heaut. 845 (ia6) | seruā | quod in | tēst fī|lium | {m(ē) ac} {fami}|liam. ||||
+Heaut. 846 (ia6) | {cedo} quid | uīs faci|am. inuē|nis{t(ī) hodi}|ē fī|liam. ||||
+Heaut. 847 (ia6) | quid t(um). han|c uxsō|rem {sibi} | darī | uolt clī|niā. ||||
+Heaut. 848 (ia6) | quaesō | quid {t(u) homi}|nis ess. | quid. iam|n(e) oblī|tus ess ||||
+Heaut. 849 (ia6) | inter | nōs quid | sit dic|tum dē | fallā|ciā ||||
+Heaut. 850 (ia6) | {ut e}ā | ui(ā) aps | t(ē) argen|t(um) aufer|rētur. | scio. ||||
+Heaut. 851 (ia6) | {ea} rēs | nunc {agi}|tur ip|sa. quid | nārrās | cremē. ||||
+Heaut. 851a (ia6) | errā|u(ī). āctast | rēs. quan|tā dē | spē dē|cidī. ||||
+Heaut. 852 (ia6) | imm(ō) haec | quidem | {qu(ae) a}pud | mēst clī|tipō|nis est ||||
+Heaut. 853 (ia6) | amī|c(ā). it(a) ai|iunt. et | tū crē|dis om|nia. ||||
+Heaut. 854 (ia6) | et ill(um) ai|iunt uel|l(e) uxsō|r(em) ut quom | dēspon|derim ||||
+Heaut. 855 (ia6) | dēs {qu(ī) au}|r(um) ac ues|t(em) atqu(e) ali|a {qu(ae) opu(s)} | sunt com|paret. ||||
+Heaut. 856 (ia6) | id est | profec|{t(ō). id a}mī|cae {dabi}|tur. scī|licet ||||
+Heaut. 857 (ia6) | datū|r(um). ā frūs|trā {s(um) igi}|tur gā|uīsus:: | miser. ||||
+Heaut. 858 (ia6) | quiduīs | tamen | iam mā|lō {qu(am) hun}|c āmit|tere. ||||
+Heaut. 859 (ia6) | quid nunc | renūn|ti(em) aps | tē res|pōnsum | cremē ||||
+Heaut. 860 (ia6) | nē sen|tiat | mē sēn|sisse at|que aegrē | ferat. ||||
+Heaut. 861 (ia6) | aegrē. | {nimi}(um) il|lī {mene}|dēm(e) in|dulgēs. | sine. ||||
+Heaut. 862 (ia6) | incep|tumst. per|fic(ē) hoc | mī per|{petu}ō | cremē. ||||
+Heaut. 863 (ia6) | dīc con|uēnis|se ēgis|se tē | dē nūp|tiīs. ||||
+Heaut. 864 (ia6) | dīcam. | quid {de%in}|de. mē | factū|r(um) ess(e) om|nia ||||
+Heaut. 865 (ia6) | {gene}rum | placē|re. pos|trē{m(ō) eti}|am sī | uolēs ||||
+Heaut. 866 (ia6) | dēspōn|sam {quoqu(e) es%}|se dī|cit(ō). (em) is|tuc(c) {uolu}|eram. ||||
+Heaut. 867 (ia6) | tant(ō) ō|cius:: | {t(ē) ut} pos|cat et | {t(ū) id} quod | cupis ||||
+Heaut. 868 (ia6) | {qu(am) ō}cis|sum(ē) ut | dēs. {cupi}|ō. nē | tū {prope}|diem ||||
+Heaut. 869 (ia6) | {ut is%}tanc | rem {uide}|(ō) istī|us op|{satu}rā|bere. ||||
+Heaut. 870 (ia6) | sed hae|c utī | sunt cau|t(im) et paul|lātim | dabis ||||
 Heaut. 871 (ia6) | sī {sapi}|ēs. {faci}|(am). ab(i) in|trō. {uide} | quid pos|tulet. ||||
 Heaut. 872 (ia6) | {ego} {dom(ī) e}|rō sī | quid mē | uolēs. | sānē | uolō. ||||
 Heaut. 873 (ia6) | nam tē | scien|tem {faci}|am quic|quid ē|gerō. ||||
-
-Heaut. 815 (ia6) uell(em) her|cle fac|t(um) ita meri|tus(s) meri|tus quō | modo ||||
-Heaut. 817 (ia6) {qu(am) ar}gen|t(um) habē|rēs quod | datū|rus iam | fui ||||
-Heaut. 820 (ia6) iam nōn | s(um) īrā|tus sed | scīn ubi |sit nunc | tibi ||||
-Heaut. 824 (ia6) lūdis:: | fortas|se {m(ē) ip}|sā r(e) ex|perī|bere ||||
-Heaut. 825 (ia6) {n(e) ego} {s(um) ho}|mō for|tūnā|tus dea|mō tē | sure ||||
-Heaut. 826 (ia6) sed {pate}|r ē{gredi}|tur caue | quicqu(am) ad|mirā|tu(s) sis ||||
-Heaut. 832 (ia6) quīn ac|cipis:: | {cedo} sā|nē seque|r(e) hac {m(ē) ō}|cius ||||
-Heaut. 841 (ia6) {ali}quis:: | labō|r(e) inuen|ta {mea} | quoi dem | bona ||||
-Heaut. 855 (ia6) des {qu(ī) au}|r(um) ac ues|t(em) at|qu(e) ali|a {qu(ae) opu(s)} | sunt com|paret ||||
-Heaut. 857 (ia6) datū|r(um) āh frus|trā s(um) igi|tur gā|uīsus:: | miser ||||
-Heaut. 867 (ia6) tant(ō) ō|cius:: | {t(ē) ut} pos|cat et | {t(ū) id} quod | cupis ||||
 
 [CANTATA][TR7]
 Heaut. 874 (tr7) | [MENEDĒMUS] {ego} mē | nōn {t(am) as}|tūtum | {nequ(e) i}ta || perspi|cāc(em) es|s(e) id sci|o. ||||
@@ -3926,35 +3938,35 @@ Heaut. 906 (tr7) | sōla. | sōla. | {peri}(ī). u|{b(i) abi}ē||r(e) in{tr(ō) 
 Heaut. 907 (tr7) | clīni|(ā) haec {fie}|rī ui|dēbat. || quidnī. | mēc(um) ū|nā si|mul. ||||
 
 [DĪUERBIA][908-939]
-Heaut. 908 (ia6) | fīlīst | amī|ca bac|cis. {mene}|dēm(e) oc|cidī. ||||
-Heaut. 909 (ia6) | {qu(am) ob} rem. | decem | diē|rum uix | mīst {fami}|lia. ||||
-Heaut. 910 (ia6) | {quid. is%}tucc | timēs | {quod il%}{l(e) ope}|r(am) amī|cō dat | suō. ||||
-Heaut. 911 (ia6) | immō | {quod a}mī|cae. sī | dat. an | {dubi}(um) id | tibist. ||||
-Heaut. 912 (ia6) | quemquam|n(e) animō | tam cō|m(ī) ess(e) aut | lēnī | putās ||||
-Heaut. 913 (ia6) | quī sē | uiden|te amī|cam pati|ātur | su(am) ā  ||||
-Heaut. 914 (ia6) | quidnī. | quō uer|ba faci|lius:: | dentur | mihi. ||||
-Heaut. 915 (ia6) | dērī|dēs meri|tō. {mihi} | nunc ego | suscēn|seō. ||||
-Heaut. 916 (ia6) | quot rēs | dedē|re ubi pos|sem per|sentīs|cere ||||
+Heaut. 908 (ia6) | [CREMĒS] fīlīst | amī|ca bac|cis. {mene}|dēm(e) oc|cidī. ||||
+Heaut. 909 (ia6) | [MENEDĒMUS] {qu(am) ob} rem. | [CREMĒS] decem | diē|rum uix | mīst {fami}|lia. ||||
+Heaut. 910 (ia6) | [MENEDĒMUS] {quid. is%}tucc | timēs | {quod il%}{l(e) ope}|r(am) amī|cō dat | suō. ||||
+Heaut. 911 (ia6) | [CREMĒS] immō | {quod a}mī|cae. [MENEDĒMUS] sī | dat. [CREMĒS] an | {dubi}(um) id | tibist. ||||
+Heaut. 912 (ia6) | quemquam|{n(e) ani}mō | tam cō|m(ī) ess(e) aut | lēnī | putās ||||
+Heaut. 913 (ia6) | quī sē | uiden|t(e) amī|cam {pati}|ātur | su(am). ā  ||||
+Heaut. 914 (ia6) | quidnī. | quō uer|ba {faci}|lius:: | dentur | mihi. ||||
+Heaut. 915 (ia6) | dērī|dēs {meri}|tō. {mihi} | nun{c ego} | suscēn|seō. ||||
+Heaut. 916 (ia6) | quot rēs | dedē|{r(e) ubi} pos|sem per|sentīs|cere ||||
 Heaut. 917 (ia6) | {n(ī) es}sem | lapis::. | quae uī|dī. uae | {mise}rō | mihi. ||||
-Heaut. 918 (ia6) | at ne il|lud hau|d inul|tum sī | uīuō | ferent. ||||
-Heaut. 919 (ia6) | nam iam. | nōn tū | tē cohi|bēs. nōn | tē res|picis. ||||
-Heaut. 920 (ia6) | nōn {tib(i) e}|g(o) exem|plī {sati(s)} | sum. {pr(ae) ī}|rācun|diā ||||
-Heaut. 920 (ia6) | {mene}dē|me nōn | {s(um) a}pud | mē. tē|n(e) istucc | loquī. ||||
-Heaut. 920 (ia6) | nōnn(e) id | flā{giti}|umst {t(ē) ali}|īs cōn|{sili}um | dare ||||
-Heaut. 920 (ia6) | {fori(s)} {sape}|re {tibi} | nōn pos|se {t(ē) aux}|{sili}ā|rier. ||||
-Heaut. 920 (ia6) | quid {faci}|am. id quod | mē fē|cisse ai|iēbās | parum. ||||
-Heaut. 920 (ia6) | fac tē | patr(em) es|se sen|tiat. | {fac u}t au|deat ||||
-Heaut. 920 (ia6) | {tibi} crē|der(e) om|ni(a) aps | tē {pete}|r(e) et pos|cere ||||
-Heaut. 920 (ia6) | nē {qu(am) ali}|am quae|rat cō|pi(am) ac | tē dē|serat. ||||
-Heaut. 920 (ia6) | im{m(ō) abe}|at mul|tō mā|lō quō|uīs gen|tium ||||
-Heaut. 920 (ia6) | {qu(am) hīc} per | flā{giti}|(um) a{d ino}|piam | {redi}gat | patrem. ||||
-Heaut. 920 (ia6) | nam {s(ī) il}|lī per|gō sup|{pedi}tā|re sūm(p)|tibus ||||
-Heaut. 920 (ia6) | {men}edē|me {mi:: il%}|laec uē|r(ē) ad rās|trōs rēs | redit. ||||
-Heaut. 920 (ia6) | quot in|com{modi}|tātē|s in hā|c rē {capi}|ēs {nisi} | cauēs. ||||
-Heaut. 920 (ia6) | dif{fici}|lem {t(ē) es}|s(e) osten|dē{s et ig%}|nōscēs | tamen ||||
-Heaut. 920 (ia6) | post {et i}|d ingrā|t(um). ā nes|cīs quam | {dole}(am). ut | lubet. ||||
-Heaut. 920 (ia6) | {quid hoc(c)} quod | ro{g(ō) ut il%}|la nū|bat nos|trō. {nisi} | quid est ||||
-Heaut. 920 (ia6) | quod {magi(s)} | uīs. im|m(ō) et {gene}|r et af|fīnēs | placent. ||||
+Heaut. 918 (ia6) | at {n(ē) il}|lud hau|d inul|tum sī | uīuō | ferent. ||||
+Heaut. 919 (ia6) | nam iam. | nōn tū | tē {cohi}|bēs. nōn | tē res|picis. ||||
+Heaut. 920 (ia6) | nōn {tib(i) e}|g(o) exem|plī {sati(s)} | sum. [CREMĒS] {pr(ae) ī}|rācun|diā ||||
+Heaut. 921 (ia6) | {mene}dē|me nōn | {s(um) a}pud | mē. [MENEDĒMUS] tē|n(e) istuc(c) | loquī. ||||
+Heaut. 922 (ia6) | nōnn(e) id | flā{giti}|umst {t(ē) ali}|īs cōn|{sili}um | dare ||||
+Heaut. 923 (ia6) | {fori(s)} {sape}|re {tibi} | nōn pos|se {t(ē) aux}|{sili}ā|rier. ||||
+Heaut. 924 (ia6) | [CREMĒS] quid {faci}|am. [MENEDĒMUS] id quod | mē fē|ciss(e) ai|iēbās | parum. ||||
+Heaut. 925 (ia6) | fac tē | patr(em) es|se sen|tiat. | {fac u}t au|deat ||||
+Heaut. 926 (ia6) | {tibi} crē|der(e) om|ni(a) aps | tē {pete}|r(e) et pos|cere ||||
+Heaut. 927 (ia6) | nē {qu(am) ali}|am quae|rat cō|pi(am) ac | tē dē|serat. ||||
+Heaut. 928 (ia6) | [CREMĒS] im{m(ō) abe}|at mul|tō mā|lō quō|uīs gen|tium ||||
+Heaut. 929 (ia6) | {qu(am) hīc} per | flā{giti}|(um) a{d ino}|piam | {redi}gat | patrem. ||||
+Heaut. 930 (ia6) | nam {s(ī) il}|lī per|gō sup|{pedi}tā|re sūm(p)|tibus ||||
+Heaut. 931 (ia6) | {men}edē|me {m(ī) il}|laec uē|r(ē) ad rās|trōs rēs | redit. ||||
+Heaut. 932 (ia6) | quot in|com{modi}|tātē|s in hā|c rē {capi}|ēs {nisi} | cauēs. ||||
+Heaut. 933 (ia6) | dif{fici}|lem {t(ē) es}|s(e) osten|dē{s et ig%}|nōscēs | tamen ||||
+Heaut. 934 (ia6) | post {et i}|d ingrā|t(um). ā nes|cīs quam | {dole}(am). ut | lubet. ||||
+Heaut. 935 (ia6) | {quid hoc(c)} quod | ro{g(ō) ut il%}|la nū|bat nos|trō. {nisi} | quid est ||||
+Heaut. 936 (ia6) | quod {magi(s)} | uīs. im|m(ō) et {gene}|r et af|fīnēs | placent. ||||
 Heaut. 937 (ia6) | quid dō|tis dī|cam tē | dīxis|se fī|liō. ||||
 Heaut. 938 (ia6) | quid op|ticuis|tī. dō|tis. ita | dīcō. ā. | cremē ||||
 Heaut. 939 (ia6) | nē quid | {uere}ā|re sī | {minu(s)}. nīl | nōs dōs | mouet. ||||
