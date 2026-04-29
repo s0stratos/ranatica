@@ -1996,7 +1996,7 @@ An. 817 (ia6) | ō:: op|tum(e) hos|pess. pol | crit(ō) an|tīqu(om) op|tinēs. 
 An. 818 (ia6) | dūc {m(ē) ad e}|am quan|d(ō) hūc uē|n(ī) ut {uide}|am. max|sumē. ||||
 An. 819 (ia6) | {sequa}r hōs. | nōlō | {m(ē) in} tem|por(e) hōc | {uide}at | senex. ||||
 An. 820 (tr7) | {sati(s)} iam | {sati(s)} si|mō spec|tāt(a) er||gā {t(ē) a}|mī{citi}|ast me|a ||||
-An. 821 (tr7) | {sati(s)} pe|rīcl(ī) in|cēp(ī) a|dīr(e). ō||randī |iam fī|nem fa|ce ||||
+An. 821 (tr7) | {sati(s)} pe|rīcl(ī) in|cēp(ī) a|dīr(e). ō||randī | iam fī|nem fa|ce ||||
 An. 822 (tr7) | dum {stude}|(ō) opse|quī {tibi} | paen(e) il||lūsī | uītam | fīli|ae. ||||
 An. 823 (tr7) | im{m(ō) enim%} | nunc quom | maxsu|m(ē) aps tē || postu|l(ō) at|qu(e) ō|rō cre|mē ||||
 An. 824 (tr7) | ut {bene}|{fici}um | uerbīs | {ini}tum || dūdum | nunc rē | compro|bēs. ||||
@@ -6517,7 +6517,7 @@ Amp. 192 (ia8) | praedā|qu(e) agrō|qu(e) adō|riā||||qu(e) affē|cit {popu}|l
 Amp. 192 (ia8) | rēgī|que tē|bānō | creō||nī rēg|num {stabi}|līuit | suom. ||||
 Amp. 192 (ia8) | {m(ē) ā} por|tū prae|mīsit | dom(um) ut || haec nūn|ti(em) ux|sōrī | suae ||||
 Amp. 192 (ia8) | ut ges|serit | rem pū|blicam || ductū im|periō aus|{pici}ō | suō. ||||
-Amp. 192 (ia8) | {ea} nunc | {medi}tā|bor quō | mod(o) il||lī dī|cam {c(um) il}|l(ō) aduē|nerō. ||||
+Amp. 192 (ia8) | {ea} nunc | {medi}tā|bor quō | mod(ō) il||lī dī|cam {c(um) il}|l(ō) aduē|nerō. ||||
 Amp. 192 (ia8) | sī dīx|serō | mendā|cium || solēns | {me%ō} mō|re fē|cerō. ||||
 Amp. 192 (ia8) | nam quom | pugnā|bant max|sumē |||| {ego} tum | {fugi}ē|bam max|sumē. ||||
 Amp. 192 (ia8) | uērum | quas(i) af|{fue}rim | tamen |||| {simu}lā|b(ō) atqu(e) au|dīt(a) ē|loquar. ||||
