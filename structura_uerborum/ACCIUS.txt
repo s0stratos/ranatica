@@ -5,50 +5,30 @@
 [OENOMAUS]
 
 [TR7]
-| praes{t(ō) eti}|(am) ads(um). [] ex|prōme | quid fers. || nam tē | longō | uāde|re |
-| [{ite}re | cernō. |
-
 praestō etiam adsum. [] exprōme [quid fers]. nam [te longō uādere
 _ itere] cernō.
 
 [IA6]
-| con{iugi}|um pī|sis {pete}|r(e) ad {t(e) iti}|ner ten|dere |
-
 coniugium pīsis petere (ad tē itiner tendere)
 
 [IA6]
-| quemcum|qu(e) īnstite|ram grum|m(um) aut prae|cīsum | iugum
-
 quemcumque īnstiteram grummum (aut praecīsum iugum)
 
 [IA6/TR7]
-... at|{qu(e) ea} con|iectū|r(ā) augu|rō |
-| at{qu(e) ea} | coniec|tūr(ā) au|gurō |
-
 atque ea coniectūrā augurō
 
 [IA6]
-| eg(o) ut es|s(em) adfi|nis {tibi} | nōn ut | t(ē) extin|guerem |
-| tuam peti|i gnā|tam. nume|rō t(e) ex|purgat | timor. |
-
 ego [ut essem adfīnis tibi (nōn ut tē extinguerem)]
 tuam petiī ~ gnātam. numerō tē expūrgat _ timor.
 
 [TR7]
 horrida honestitūdō eurōpae prīncipium prīmō ex locō
 
-horrida honestitūdō eurōpae prīncipium prīmō ex locō
-
 [IA6]
-| fer t(ē) an|t(e) auro|ram radi|ōrum ar|dentem in|dicem |
-| quom som|n(ō) in sege|t(em) agres|tis cor|nūtōs | cient |
-| ut rō|rulen|tās ter|rās fer|rō fri|gidās |
-| proscin|dant glē|bāsqu(e) ar|u(o) ex mol|li:: ex|citent. |
-
 fer tē ante aurōram radiōrum ārdentem indicem
 cum somnō in segetem agrestis cornūtōs cient
 ut rōrulentās terrās ferrō frīgidās
-proscindant glēbāsque aruō ex mollī:: excitent.
+proscindant glēbāsque aruō ex mollī excitent.
 
 [IA6]
 uōs ite āctūtum atque opere magnō ēdīcite
@@ -134,7 +114,7 @@ epulārum fictor scelerum frātris delitor.
 
 [IA6]
 concoquit
-partem uapore flammae. tribuit in focō
+partem uapōre flammae. tribuit in focō
 ueribus lacerta.
 
 [AN4]
@@ -146,19 +126,19 @@ sēnsimus sonore...
 natis sepulcrō ipse es parēns
 
 [TR7]
-| ipsu|s horta|tur mē | frate||r ut me|ōs ma|lis mi|ser |
-| mande|rem na|tos.
+ipsus hortatur mē frāter ut meōs malis miser
+manderem nātōs.
 
 [TR7]
-| [TUESTES] fregis|tin fi|dem. |
-| [ATREUS] {neque} de|dī {neque} | d(o) īnfide|lī cui||quam.
+[TUESTĒS] frēgistīn fidem.
+[ATREUS] neque dedī neque dō īnfidelī cuiquam.
 
 [TR7]
-| id quod | multī in|uideant | multī||qu(e) expe|tant in|sciti|a (e)st |
-| postu|lare | nisi la|borem || summa | cum cu|r(a) ecfe|ras. |
+id quod multī inuideant multīque expetant īnscītia est
+postulāre nisi labōrem summā cum cūrā ecferās. |
 
 [TR7]
-ecquis hoc animaduertet. uincite.
+ecquis hocc animaduertet. uincite.
 
 [TR7]
 egone argīuom imperium adtingam aut pelopia digner domō.
@@ -171,8 +151,8 @@ possēdit suo.
 [PELOPIDAE]
 
 [IA8]
-eius | serpen|tis squa|mae squa|lidō au|rō et pur|pura
-pertex|tae
+eius serpentis squamae squālidō aurō et purpura
+pertextae
 
 []
 stimulōue meum cor(r)
@@ -207,7 +187,7 @@ quī neque cuiātis esset umquam potuimus
 multa ērogitantēs scīscere.
 
 [TR7|TR8|TR7/TR8]
-...{qu(em) eg(o) u}|b(i) aspex|sī ui|rum memo|rābi|lem |
+quem ego ubi aspexsī uirum memorābilem
 intuī uiderer ni uestītus taeter maestitūdō
 uastitūdō praedicārent hominem esse
 
@@ -215,15 +195,15 @@ uastitūdō praedicārent hominem esse
 nam etsī opertus squalitate est luctuque horrificabili
 
 [IA6]
-profectō haudquāquam est ortus mediocrī satu.
+profectō haudquāquam est ortus mediōcrī satu.
 
 [IA6]
-nam sī ā mē regnum fortuna atque opes
-eripere quiuit at uirtutem nec quiit
+nam sī ā mē rēgnum fortūna atque opēs
+ēripere quīuit at uirtūtem nec quiit
 
 [IA6]
-nam is demum miser est cuius nobilitās miserias
-nobilitat.
+nam is dēmum miser est cuius nōbilitās miseriās
+nōbilitat.
 
 [TR7]
 prō certō arbitrabor sortis oracla adutus augura.
@@ -236,7 +216,7 @@ remisque nixi properiter nauem in fugam
 trānsdunt subter saxa ad laeuam qua mōns mollibat mare.
 
 [IA6]
-nunc tū in rē crepera tua quid capiās cōnsili
+nunc tū in rē crepera tua quid capiās cōnsilī
 uide.
 
 [TR7]
@@ -255,37 +235,37 @@ pectora languentque senentque
 quī nisi probrum omnia alia indelicta aestimant.
 
 [TR7]
-signa extemplō canere ac tela ob moenia offerre imperat.
+signa extemplō canere ac tēla ob moenia offerre imperat.
 
 [IA6]
-iam hanc urbem ferrō uastam faciet peleus.
+iam hanc urbem ferrō uāstam faciet pēleūs.
 
 [ACILLES]
 
 [IA6/TR7]
-an sceptra iam flaccent. ferat.
+an scēptra iam flaccent. ferat.
 
 [IA8]
-qua re alia ex crimine inimicōrum effugere possis delica.
+qua re alia ex crīmine inimīcōrum effugere possīs delica.
 
 [IA6]
-nedum cum feruat pectus iracundia.
+nēdum cum feruat pectus īrācundiā.
 
 [MURMIDONES]
 
 [IA6]
-tū pertināciam esse antiloce hanc praedicas
-ego peruicāciam aiō et ea mē uti uolo
-nam peruicācem dici mē esse et uincere
+tū pertināciam esse antiloce hanc praedicās
+ego peruicāciam aiō et ea mē utī uolō
+nam peruicācem dīcī mē esse et uincere
 perfacile patior pertinācem nihil moror.
-haec fortis sequitur illam indocti possident.
-tu addis quod uitiō est. demis quod laudi datur.
+haec fortis sequitur illam indoctī possident.
+tu addis quod uitiō est. dēmis quod laudī datur.
 
 [IA6/TR7]
-mea facta in acie oblitī
+mea facta in aciē oblītī
 
 [IA4]
-an haec iam oblitī sunt pruges.
+an haec iam oblītī sunt pruges.
 
 [IA6]
 trahere in salum
@@ -295,22 +275,22 @@ classīs et uela uentorum animae immittere
 ego mē nōn peccāsse plānē ostendam aut poenās sufferam.
 
 [TR7]
-quodsī ut decuit stares mēcum:: aut meus maestāret dolor
-iam diù īnflammari taetre nāuis uidissent suās.
+quodsī ut decuit stārēs mēcum:: aut meus maestāret dolor
+iam diū īnflammārī taetrē nāuīs uīdissent suās.
 
 [IA6]
-tua honestitudō danaos decepit diù.
+tua honestitūdō danaos dēcēpit diū.
 
 [TR7]
-īram īnfrenes obstes animis reprimās cōnfidentiam.
+īram īnfrenes obstes animis reprimās cōnfīdentiam.
 
 [TR7]
-rēgnum tibi permitti malunt. cernas. tradam exercitus.
+rēgnum tibi permittī mālunt. cernās. trādam exercitus.
 
 [IA6]
-nōlō equidem. sed tū huic quem scis quali in tē siet
-fidelitate ob fidam naturam uiri
-ignosce.
+nōlō equidem. sed tū huic quem scīs quālī in tē siet
+fidēlitāte ob fidam nātūram uirī
+ignōsce.
 
 [NUCTEGRESIA]
 
@@ -318,10 +298,10 @@ ignosce.
 classis adit clam. clauditur. feruit.
 
 [TR7]
-etsi ascendit aura laterum texta uolcani uorax
+etsī ascendit aura laterum texta uolcani uorax
 
 [IA8]
-cuius uōs tumulti caussa accierim et quid parem animum aduortite.
+cuius uōs tumultī caussa accierim et quid parem animum aduortite.
 
 [TR7]
 iube nunc adtemptāre. iube nunc animō ruspārī prugās.
@@ -330,7 +310,7 @@ iube nunc adtemptāre. iube nunc animō ruspārī prugās.
 id quod facis gratum et graue est.
 
 [IA8]
-an ego ulixem obliuiscar unquam aut quemquam praeponi uelim.
+an ego ulixem oblīuīscar unquam aut quemquam praeponi uelim.
 
 [TR7]
 tunc quod superest socium mittis leto. an lucti paenitet.
@@ -571,7 +551,7 @@ dracontem
 
 [IA6]
 heu mulciber
-arma ignauō ess inuicta fabricātus manù.
+arma ignauō ess inuicta fabricātus manū.
 
 [IA6]
 cum ex uiperinō morsū uenae uiscerum
@@ -825,7 +805,7 @@ sed ut ātrātus taetra ueste et uastitudine
 ātrā dēfōrmātus
 
 [TR7]
-atque ut uides nōn tenuī dē locō
+atque ut uidēs nōn tenuī dē locō
 
 [IA6]
 apud istum adsistas
@@ -839,7 +819,7 @@ super oceanī stagna alta patris
 terrārum ānfracta reuisam.
 
 [TR7]
-tù autem quod quaerō aps tē enoda et quī sis explicā
+tū autem quod quaerō aps tē enoda et quī sīs explicā
 
 [TR7]
 ei mihi. ut etiam haec aerumna mihi lūctum addit luctibus.
@@ -870,7 +850,7 @@ nam uana oblectat spes aerumnosum hospitem
 dum illud quod miser est clam esse cēnset alteros.
 
 [IA6]
-disertim id ùnum incommodis defit meis.
+disertim id ūnum incommodis defit meis.
 
 
 [IA6]
@@ -882,7 +862,7 @@ nihil est. | sī autem id | tē re|tardat || socium in | portu  est | copi|a |
 quae sub|sistat. | modo tū|te ipse || tē con|firmā et | compa|rā |
 
 [IA6]
-opinione factum est. quantō mitius
+opiniōne factum est. quantō mitius
 stirpem educabant tantō ut reremur magis
 eos esse.
 
@@ -1371,10 +1351,10 @@ fateor. sed quor proferre haec pigrem. aut huiius dubitem parcere
 capiti.
 
 [TR7]
-quī nisi genitorem ùllō nùllum meīs dat fīnem miseriīs.
+quī nisi genitorem ūllō nūllum meīs dat fīnem miseriīs.
 
 [CR4/IA6]
-quid istucc gnāta ùnica est demonassa opsecrō
+quid istucc gnāta ūnica est demonassa opsecrō
 quod mēcum agere expetēns timidam e tectō excies.
 
 [CR4]
