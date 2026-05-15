@@ -164,7 +164,7 @@ Ad. 155 (tr8) | [SANNIO] opse|crō {popu}|lārēs | ferte || {mise}r(ō) at|qu(e
 Ad. 156 (tr8) | subue|nī{t(e) ino}|p(ī). [AESCINUS] ōti|ōsē || nunci|(am) īli|c(ō) hīc cōn|siste. ||||
 Ad. 157 (tr8) | quid res|pectās. | nīl pe|rīclīst || nunquam | {d(um) eg(o) a}de|r(ō) hic tē | tanget. ||||
 Ad. 158 (tr4) | {eg(o) is%}t(am) in|uītī|s omni|bus. ||||
-Ad. 159 (ia8) | [AESCINUS] quamquamst | sceles|tus nōn | commit|tet || hodi|(e) umqu(am) ite|r(um) ut uā|pulet ||||
+Ad. 159 (ia8) | [AESCINUS] quanquamst | sceles|tus nōn | commit|tet || hodi|(e) umqu(am) ite|r(um) ut uā|pulet ||||
 Ad. 160 (tr8) | aesci|n(e) audī | nē {t(ē) ig}|nārum || {fuis%}se | dīcās | {me%ō}rum | mōrum. ||||
 Ad. 161 (tr7) | lē{n(ō) ego} | sum. sci|{(ō). at i}t(a) ut | usquam || {fuit%} fi|dē quis|qu(am) optu|mā. ||||
 Ad. 162 (tr8) | tū quod | tē pos|terius | pūrgēs || hanc in|iūri|am mī | nolle ||||
@@ -214,7 +214,7 @@ Ad. 201 (tr7) | uē{r(um) enim%} | quandō | {bene} prō|{meru}it || fīat. | {s
 Ad. 202 (tr7) | {age} iam | {cupi}ō | sī {mod(o) ar%}|gentum | reddat. || {sed e}g(o) hoc|{c hari}o|lor. ||||
 Ad. 203 (tr7) | {ubi} mē | dīxe|rō {dare} | tantī || testīs | {faci}et | īli|cō ||||
 Ad. 204 (tr7) | uēndi|disse | mē. {d(ē) ar}|gentō || somni|um. mox. | crās re|dī. ||||
-Ad. 205 (tr7) | id {quoque} | possum | ferre | sī {modo} || reddat | quamqu(am) in|iūri|umst. ||||
+Ad. 205 (tr7) | id {quoque} | possum | ferre | sī {modo} || reddat | quanqu(am) in|iūri|umst. ||||
 Ad. 206 (tr7) | uērum | cōgi|t(ō) id quod | rēs est. || quan{d(ō) e%um} | quaest(um) oc|cēpe|rīs ||||
 Ad. 207 (tr7) | ac{cipi}|und(a) et | mussi|tand(a) in||iūri|{(a) adu}lēs|centi|umst. ||||
 Ad. 208 (tr7) | sed nē|mō da|bit. frūs|{tr(ā) ego}met || mēc(um) hās | {rati}ō|nēs pu|tō. ||||
@@ -3395,7 +3395,7 @@ Heaut. 051 (ia6) | exsemp|lum {statu}|it(e) in | {m(ē) u}{t adu}|lēscen|tulī 
 Heaut. 052 (ia6) | uōbīs | placē|re stude|ant poti|us quam | sibi ||||
 
 [DĪUERBIA]
-Heaut. 053 (ia6) | [CREMES] quamqu(am) hae|c inter | nōs nū|per nō|{titi}(a) ad|modumst ||||
+Heaut. 053 (ia6) | [CREMES] quanqu(am) hae|c inter | nōs nū|per nō|{titi}(a) ad|modumst ||||
 Heaut. 054 (ia6) | in{d(e) ade}|ō {quod a}|gr(um) in prox|sum(ō) hīc | mercā|tus ess ||||
 Heaut. 055 (ia6) | nec re|ī {ferē%} | sān(ē) amp|lius:: | quicquam | fuit ||||
 Heaut. 055 (ia6) | nec r{ei} | ferē | sān(ē) amp|lius:: | quicquam | fuit ||||
@@ -6840,7 +6840,7 @@ pater cūrāuit ūnō ut fētū fīeret
 ūnō ut labōre apsoluat aerumnās duās.
 [et nē in suspīciōne pōnātur stuprī
 et clandestīna ut cēlētur cōnsuētiō.]
-quamquam ut iam dūdum dīxī rescīscet tamen
+quanquam ut iam dūdum dīxī rescīscet tamen
 Ampitruō rem omnem. quid igitur. nēmō id probrō
 profectō dūcet Alcumēnae. nam deum
 nōn pār uidētur facere dēlictum suom
@@ -7054,7 +7054,7 @@ Sequere hāc mē modo. alium ego istī reī allēgābō nē timē.
 Magis nunc mē meum officium facere sī huic eam aduersum arbitror.
 Ampitruō uxsōrem salūtat laetus spērātam suam
 quam omnium tēbīs uir ūnam esse optumam dīiūdicat
-quamque adeō cīuēs tēbānī uērō rūmiferant probam.
+quanque adeō cīuēs tēbānī uērō rūmiferant probam.
 ualuistīn usque. exspectātun adueniō. Hau uīdī magis.
 exspectātum eum salūtat magis hau quicquam quam canem.
 Et cum grauidam et cum tē pulcrē plēnam aspiciō gaudeō.
@@ -7664,7 +7664,7 @@ nam mē hodiē ōrāuit Argurippus fīlius
 utī sibi amantī facerem argentī cōpiam.
 et id ego percupiō opsequī gnātō meō.
 uolō amārī †opscecūtum† illīus uolō amet mē patrem.
-quamquam illum māter artē contentēque habet
+quanquam illum māter artē contentēque habet
 patrēs ut cōnsuēuērunt. ego mittō omnia haec.
 praesertim cum is mē dignum quoi concrēderet
 habuit mē habēre honōrem eius ingeniō decet.
@@ -7895,7 +7895,7 @@ nūdus uīnctus centum pondō ess quandō pendēs per pedēs.
 Quō argūmentō istūc. Ego dīcam quō argūmentō et quō modō.
 ad pedēs quandō alligātumst aequom centumpondium
 ubi manūs manicae complexae sunt atque adductae ad trabem
-nec dēpendēs nec prōpendēs quīn malus nēquamque sīs.
+nec dēpendēs nec prōpendēs quīn malus nēquanque sīs.
 Uae tibī. hoc(c) testāmentō Seruitūs lēgat tibi.
 Uerbiuēlitātiōnem fierī compendī uolō.
 Quid istūc est negōtī. Certum est crēdere. Audācter licet.
@@ -8301,7 +8301,7 @@ amābō faciam quod uolēs dā istūc argentum nōbīs.
 | amā|bō {liba}|ne iam | sat est. |||| nunqu(am) her|{cl(e) hodi}(ē) ex|sōrā|bis. ||||
 | nam iam | calcā|rī {quadru|}pedō |||| {agi}tā|b(ō) aduor|sum clī|uom ||||
 | pos{tide}|(ā) ad pis|tōrēs | dabō |||| u{t ibi} | {cruci}ē|re cur|rēns. ||||
-astā ut dēscendam nunciam in prōclīuī quamquam nēquam ess.
+astā ut dēscendam nunciam in prōclīuī quanquam nēquam ess.
 Quid nunc amābō. quoniam ut est lubitum nōs dēlūsistis
 datisne argentum. Sī quidem mihi statuam et āram statuis
 atque ut deō mī hīc immolās bouem. nam ego tibi Salūs sum.
@@ -8969,7 +8969,7 @@ sed utrum strictimne attōnsūrum dīcam esse an per pectinem
 nesciō. uērum sī frūgīst usque admutilābit probē.
 Quid tū. seruosne esse an līber māuelīs memorā mihi.
 proxumum quod sit bonō quodque ā malō longissumē
-id uolō. quamquam nōn multum fuit molesta seruitūs
+id uolō. quanquam nōn multum fuit molesta seruitūs
 nec mihi secus erat quam sī essem familiāris fīlius.
 Eugepae talem talentō nōn emam Mīlēsium
 nam ad sapientiam huius ‹hominis› nimius nūgātor fuit.
@@ -8995,7 +8995,7 @@ pilocratēs hic fēcit hominem frūgī ut facere oportuit.
 nam ego ex hōc quō genere gnātus sīs sciō hic fassust mihi.
 haec tū eadem sī cōnfitērī uīs tua ē rē fēcerīs.
 quae tamen scī scīre mē ex hōc. Fēcit offici(um) hic suom
-cum tibi est cōnfessus uērum quamquam uoluī sēdulō
+cum tibi est cōnfessus uērum quanquam uoluī sēdulō
 meam nōbilitātem occultāre et genus et dīuitiās meās
 Hēgiō. nunc quandō patriam et lībertātem perdidī
 nōn ego istunc mē potius quam tē metuere aequom cēnseō.
@@ -10021,7 +10021,7 @@ Mīrum ēcastor tē senectā aetāte officium tuom
 nōn meminisse. Quid iam. Quia sī faciās rēctē aut commodē
 mē sinās cūrāre ancillās quae mea est cūrātiō.
 Quī malum hominī scūtigerulō dare lubet. Quia enim fīliō
-nōs oportet opitulārī ūnicō. At quamquam ūnicust
+nōs oportet opitulārī ūnicō. At quanquam ūnicust
 nihilō magis ille ūnicust mihi fīlius quam ego illī pater.
 illum mī aequiust quam mē illī quae uolō concēdere.
 Tū ēcastor tibi homō malam rem quaeris. Subolet sentiō.
@@ -10183,7 +10183,7 @@ uictu|s ess ca|līne. | quom nōs || dī iū|uēr(e) o|lumpi|ō ||||
 gaude|ō. {pie}|tāte | factumst || {me%(ā) at}que | maiiō|rum me|um. ||||
 intr(ō) a|b(ī) uxso|r atqu(e) a|dōrnā || nūpti|ās. {faci}|(am) ut iu|bēs. ||||
 scīn tū | rūs hin|c ess(e) ad | uīllam || longē | quō dū|cat. sci|ō. ||||
-intr(ō) a|b(ī) et quam|qu(am) hoc(c) ti|b(i) aegrēst || tamen | fac ac|cūrēs. | licet. ||||
+intr(ō) a|b(ī) et quan|qu(am) hoc(c) ti|b(i) aegrēst || tamen | fac ac|cūrēs. | licet. ||||
 {e%ā}mus | nōs quo|qu(e) intr(ō) hor|tēmur || ut {prope}|rent. num | quid mo|ror. ||||
 nam prae|sent(e) hōc | plūra | uerba || {fie}rī | nōn dē|sīde|rō. ||||
 
@@ -10506,7 +10506,7 @@ meō īre aduersum.
 Bone uir saluē. Fateor. Quid fit.
 tū  amās. ego esuriō et sitiō.
 Lepidē excūrātus cessistī. Aha hodiē ::.
-Mane uērō quamquam fastīdīs. Fū fū fētet tuos mihi sermō.
+Mane uērō quanquam fastīdīs. Fū fū fētet tuos mihi sermō.
 Quae rēs. Haec rēs. etiamne astās. enim uērō πράγματά μοι παρέχεις.
 Dabo tibi
 μέγα κακόν
@@ -10869,7 +10869,7 @@ quid nunc supīna sursum in caelum cōnspicis.
 nunc intellēxī. Dīs hercle habeō grātiam
 nam nī intellexēs nunquam crēdō āmitterēs.
 Nunc mihi bonae necessust esse ingrātiīs
-quamquam esse nōlō. rem palam esse intellegō.
+quanquam esse nōlō. rem palam esse intellegō.
 nunc egomet potius hanc inībō grātiam
 ab illīs quam illaec mē indicēt. ībō domum
 atque ad parentēs reddūcam Selēnium.
@@ -11355,7 +11355,7 @@ Iu.i
 Edepol nūgātōrem lepidum lepidē hunc nactust paedromus.
 hālapantam an sūcopantam magis esse dīcam nesciō.
 ōrnāmenta quae locāuī metuō ut possim recipere.
-quamquam cum istōc mihi negōtī nihil est. ipsī paedromō
+quanquam cum istōc mihi negōtī nihil est. ipsī paedromō
 crēdidī. tamen asseruābō. sed {d(um) hi}c ēgreditur forās
 commōnstrābō quō in quemque hominem facile inueniātis locō
 nē nimiō opere sūmat operam sī quem conuentum uelit
@@ -12041,7 +12041,7 @@ Men. 1044 (tr7) | id {s(ī) at}|{tule}rit | dīc(am) u|t ā mē:: || {abe}at | l
 Men. 1045 (tr7) | nē tum quandō sānus factus sīt ā mē argentum petat.
 Men. 1046 (tr7) | socer et medicus mē īnsānīre aiiēbant. quid sit mīra sunt.
 Men. 1047 (tr7) | haec nihilō esse mihi uidentur sētius quam somnia.
-Men. 1048 (tr7) | nunc ībō intrō ad hanc meretrīcem quamquam suscēnset mihi
+Men. 1048 (tr7) | nunc ībō intrō ad hanc meretrīcem quanquam suscēnset mihi
 Men. 1049 (tr7) | sī possum exōrāre ut pallam reddat quam referam domum.
 Men. 1050 (tr7) | mēn hodiē usquam conuēnisse tē audāx audēs dīcere
 Men. 1051 (tr7) | pos(t)quam aduersum mī imperāuī ut hūc uenīrēs. Quīn modo
@@ -13091,7 +13091,7 @@ nam eii solent quandō accubuēre ubi cēna appositast dīcere.
 īnsānīuistī hercle nam idem hocc hominibus sat erat decem. ¤
 quod eōrum caussā opsōnātumst culpant et comedunt tamen.
 Fit pol illūc ad illūc exsemplum. ut doctē et perspectē sapit.
-Sed eīdem hominēs nunquam dīcunt quamquam appositumst ampliter.
+Sed eīdem hominēs nunquam dīcunt quanquam appositumst ampliter.
 ¤ iubē illud dēmī. tolle hanc patinam. remouē pernam nīl moror.
 aufer illam offam porcīnam probus hic conger frīgidust
 remouē abī aufer ¤ nēminem eōr(um) haec asseuērāre audiās
@@ -13121,7 +13121,7 @@ Ingenuamne an lībertīnam. Aequī istūc faciō dum modo
 eam dēs quae sit quaestuōsa quae alat corpus corpore
 quoique sapiat pectus. nam cor nōn potest quod nūlla habet.
 Lautam uīs an quae nōndum sit lauta. Sīc cōnsucidam
-quam lepidissumam potis quamque adulēscentem maxumē.
+quam lepidissumam potis quanque adulēscentem maxumē.
 Habeō eccillam meam clientam meretrīcem adulēscentulam.
 sed quid eā ūsus est. Ut ad tē eam iam dēdūcās domum
 itaque eam hūc ōrnātam addūcās ex mātrōnārum modō
@@ -13210,16 +13210,16 @@ quam dignē ōrnāta incēdit hau meretrīciē.
 lepidē hoc(c) succēdit sub manūs negōtium.
 
 [CANTATA][IA7][874-946]
-Rem omnem tibi Acroteleutium tibique ūnā Milpidippa
-domi dēmōnstrāuī in ōrdine. hanc fabricam fallāciāsque
-minus sī tenētis dēnuō uolo percipiātis plānē.
-satis sī intellegitis aliud est quod potius fābulēmur.
-Stultitia atque īnsipientia mea istaec sit mī patrōne
-mē īre in opus aliēnum aut ibī meam operam pollicitārī
-sī ea in opificīnā nesciam aut mala esse aut fraudulenta.
-At meliust ‹com›monērier. Meretrīcem commonērī
-quam sānē magnī rēferat nīl clam est. quīn egomet ultrō
-pos(t)quam adbibēre aurēs meae tuam ōram ōrātiōnis
+{r(em) om}nem | ti{b(i) acro}|teleu|tium || {tibi}qu(e) ū|nā mil|pidip|pa ||||
+{domī%} dē|mōnstrā|u(ī) in ōr|din(e). hanc || {fabri}cam | fallā|ciās|que ||||
+{minu(s)} sī | tenē|tis dē|nuō || {uolo} per|{cipi}ā|tis plā|nē. ||||
+{sati(s)} s(ī) in|tel{legi}|ti{s ali}|ud est || quod {poti}|us fā|bulē|mur. ||||
+stul{titi}|(a) atqu(e) īn|{sipi}en|tia |||| {me(a) is}taec | sit mī | patrō|ne ||||
+m(ē) īr(e) in o|pus ali|ēn(um) aut | ibi |||| meam ope|ram pol|licitā|rī ||||
+s(ī) e(a) in o|pificī|nā nes|ciam aut || mala es|se aut frau|dulen|ta. ||||
+at {meli}|ust com|monē|rier. |||| {mere}trī|cem com|monē|rī ||||
+quam sā|nē mag|nī rē | ferat || nīl clamst. | quīn {ego}|met ul|trō ||||
+pos(t)qu(am) ad|bibē|r(e) aurēs | meae || tu(am) ō|r(am) ōrā|tiō|nis ||||
 {tibi} dī|xī mī|less {qu(em) ad} | modum || potis|set {d(e)as}|ciā|rī. ||||
 At nēmō sōlus satis sapit. nam ego multōs saepe uīdī
 {regi}ō|nem {fuge}|re cōn|silī | {priu(s)} quam | reper|t(am) habē|rent. ||||
@@ -13582,13 +13582,13 @@ nē:: {ocu}|l(ī) eiius | senten|tiam |||| mūtent | {ubi} uī|derit | mē ||||
 atqu(e) ei|ius ē|legan|tia |||| {me(am) ex%}stem|plō {speci}|em sper|nat. ||||
 nōn {faci}|et {modo} | bo{n(um) ani}|m(um) habē. |||| ut ip|sa sē | contem|nit. ||||
 {metu}ō | nē prae|dicā|tiō |||| {tua} nunc | {me%am} fōr|m(am) ex{supe}|ret. ||||
-istucc | cūrā|{u(ī) ut o}pī|niō|ne illī|us pul|crior | sīs. |||| /!\
+istucc | cūrā|{u(ī) ut o}pī|niō|n(e) |||| illī|us pul|crior | sīs. ||||
 sī pol | mē nō|let dū|cere |||| uxsō|rem {genu}|(a) amplec|tar ||||
 atqu(e) op|secrā|{b(ō). ali}ō | modō |||| sī nōn | quīb(ō) im|petrā|re ||||
 cōnscīs|cam lē|tum. uī|uere |||| {sin(e) il%}lō | {scio} mē | nōn pos|se. ||||
-{prohi}ben|dam mor|tem {muli}|erī |||| {uide}(ō). | adī|bōn. {minu}|mē. |||| /!\
+{prohi}ben|dam mor|tem {muli}|erī |||| {uide}(ō). a|dībō|ne. {minu}|mē. ||||
 nam tū | tē uī|lem fē|ceris |||| sī {t(ē) ul}|trō lar|giē|re. ||||
-sin(e) ul|trō {ueni}|at. quae|ritet |||| dēsī|derēt exspec|tet |||| /!\
+sin(e) ul|trō {ueni}|at. quae|ritet |||| dēsī|deret:: | exspec|tet ||||
 {sine}. per|der(e) is|tam glō|riam |||| uīs {quam:: ha}|bēs. {caue} | sīs fax|sīs. ||||
 nam nūl|lī mor|tālī | scio |||| {op%ti}gis|s(e) hoc {nisi} | duō|bus ||||
 tib(i) et | paō|nī les|biō |||| tam {muli}|er {sē:: u}|t amā|ret. ||||
@@ -13602,28 +13602,28 @@ tace nē au|diat. | quid as|titistī op|{stupi}|da. quōr | nōn pul|tās. ||||
 {quia} nō|n est in|tus {qu(em) ego} | uolo. |||| quī scīs. | scio {dē:: o}|lefac|tū ||||
 n(am) odō|re nā|sum sen|tiat |||| {s(ī) intus:: | sit. {hari}|olā|tur. ||||
 {quia} {mē:: a}|mat prop|ter eā | uenus |||| fē{cit e}|(am) ut dī|uinā|ret. ||||
-nes{ci(o) u}|b(i) hic {prop(e) a}|dest qu(em) ex|spetō |||| uidē|r(e). olet | profec|tō. |
-nāsō | pol {i(am) haec} | {quidem%} plūs | uidet |||| quam:: {ocu}|līs. cae|c(a) amō|rest. |
-{tene} {m(ē) op}|secrō. | quōr. nē | cadam. |||| qui{d ita}. | {quia} stā|re {neque}|ō |
-ita animus per oculōs meōs ‹meus› dēfit. Mīlitem pol
-tū aspexistī. Ita. Nōn uideō. ubi est. Uidērēs pol sī amārēs.
-Nōn edepol tū illum magis amās quam ego mea sī per tē liceat.
-Omnēs profectō mulierēs tē amant ut quaeque aspexit.
-Nescio tū ex mē hocc audīuerīs an nōn. nepōs sum Ueneris.
-Mea Milpidippa adī opsecrō et congredere. Ut mē uerētur.
-Illa ad nōs pergit. Uōs uolō. Et nōs tē. Ut iussistī
-eram meam ēdūxī forās. Uideō. Iubē ergō adīre.
-Indūxī in animum nē ōderim item ut aliās quandō ōrāstī.
-Uerbum edepol facere nōn potis sī accesserit prope ad tē.
-dum tē optuētur interim linguam oculī praecīdērunt.
-Leuandum morbum mulierī uideō. Ut tremit atque extimuit
+nes{ci(o) u}|b(i) hic {prop(e) a}|dest qu(em) ex|spetō |||| uidē|r(e). olet | profec|tō. ||||
+nāsō | pol {i(am) haec} | {quidem%} plūs | uidet |||| quam:: {ocu}|līs. cae|c(a) amō|rest. ||||
+{tene} {m(ē) op}|secrō. | quōr. nē | cadam. |||| qui{d ita}. | {quia} stā|re {neque}|ō ||||
+i{t(a) ani}|mus {per o}|culōs | meōs |||| {me%us} dē|fit. mī|litem | pol ||||
+{t(ū) as}pex|sis{t(ī). ita}. | nōn {uide}|(ō). ubist. || uidē|rēs pol | s(ī) amā|rēs. ||||
+nō{n ede}|pol {t(ū) il}|lum {magi}|s amās |||| {qu(am) ego} {mea} | sī per | tē {lice}|at. ||||
+omnēs | profec|tō {muli}|erēs || {t(ē) a}mant | ut quae|qu(e) aspex|sit. ||||
+nes{cio} | {t(ū) ex} {m(ē) hoc}|c audī|uerīs |||| an nōn. | nepōs | sum {uene}|ris. ||||
+{mea} mil|pidip|{p(a) ad(i) op|secr(ō) et |||| con{grede}|r(e). ut mē | uerē|tur. ||||
+ill(a) ad | nōs per|git. uōs | uolo. |||| et nōs | tē::. ut | iussis|tī ||||
+eram | me(am) ē|dūxī | forās. |||| {uide}ō. | iub(e) er|g(ō) adī|re. ||||
+indū|x(ī) i{n ani}|mum {n(ē) ō}|derim |||| {it(em) u}{t ali}|ās quan|d(ō) ōrās|tī. ||||
+uer{b(um) ede}|pol {face}|re nōn | potis |||| {s(ī) ac}ces|serit | prop(e) ad | tē. ||||
+dum {t(ē) op}|tuē|tur in|terim |||| lin{gu(am) ocu}|lī prae|cīdē|runt. ||||
+leuan|dum mor|bum {muli}|erī || {uide}(ō). ut | {tremi}t at|qu(e) ex{timu}|it ||||
 pos(t)quam | {t(ē) as}pex|sit. {uirī%} | quoque |||| armā|t(ī) id(em) is|tucc {faci}|unt ||||
-nē tū | mīrē|re {muli}erem. |||| sed quid illa uolt mē facere.
-Ad sē ut eās. tēcum uīuere uolt atque aetātem exigere.
-Egon ad illam eam quae nūpta sit. uir eius mē dēprehendat.
-Quīn tuā caussā exēgit uirum ab sē. Quī id facere potuit.
-aedēs dōtālis huius sunt. Itane. Ita pol. Iube domum īre.
-iam ego illī erō. Uide nē siēs in exspectātiōne
+nē tū | mīrē|re {muli}|erem. |||| sed {quid il%}|la uolt | mē {face}|re. ||||
+ad {s(ē) ut e}|ās. tē|cum uī|uere |||| uolt at|qu(e) aetā|t(em) ex{sige}|re. ||||
+{ego}{n ad il%}|l(am) eam | quae nūp|ta sit. || uir {ei%iu(s)} | mē dē|prehen|dat. ||||
+quīn {tu%ā} | causs(ā) ex|sēgit | uirum |||| ab sē. | {qu(ī) id} {face}|re {potu}|it. ||||
+aedēs | dōtā|lis {hui%iu(s)} | sunt. {itan}. |||| {ita} pol. | iu{be do}|mum ī|re. ||||
+{i(am) e}g(o) il|l(ī) erō. | {uide} nē | siēs |||| in ex|spectā|tiō|ne ||||
 {n(ē) il}{l(am) ani}|m(ī) ex{cruci}|ēs. nō|n erō || profec|t(ō). ābī|t(e). abī|mus. ||||
 sed {quid e}|go {uide}|ō. quid | uidēs. |||| nes{cio}|quis ec|c(um) incē|dit ||||
 ōrnā|tū {quidem%} | talas|sic(ō). it |||| ad nōs | uolt tē | profec|tō. ||||
@@ -13702,7 +13702,7 @@ nē quis tibi hoc(c) uitiō uertat. Mea nōn illōrum dedī.
 paruī ego illōs faciō. agite īte cum dīs beneuolentibus.
 Tuā ego hoc(c) caussā dīcō. Crēdō. iam ualē. Et tū bene ualē.
 Īte cito iam ego assequar uōs. cum erō pauca uolo loquī.
-quamquam aliōs fidēliōrēs semper habuistī tibi
+quanquam aliōs fidēliōrēs semper habuistī tibi
 quam mē tamen tibi habeō magnam grātiam rērum omnium.
 et ita sī sententia esset tibi seruīre māluī
 multō quam aliī lībertus esse. Habe animum. bonum
@@ -15208,7 +15208,7 @@ ACTuS II
 II.i
 Satis fūīt indoctae immemorī īnsipientī dīcere totiēns.
 nimis tandem mē quidem prō bardā et prō rūstica reor habitam esse aps tē.
-quamquam ego uīnum bibō at mandāta
+quanquam ego uīnum bibō at mandāta
 nōn cōnsuēuī simul bibere ūnā.
 mē quidem iam satis tibi spectātam
 cēnsēbam esse et meōs mōrēs.
@@ -15394,7 +15394,7 @@ sed sequere mē. ad eam rem ūsus est tuā mihi operā. Ūtere ut uīs.
 | commū|nicā|uī tē|cum cōn|{sili}(a) om|nia. ||||
 | eā caus|s(ā) ad hoc|c exsem|plum {t(ē) ex}|sōrnā|u(ī) ego. ||||
 | uēnī|bis {t(ū) hodi}|ē uir|g(ō). amā|bō mī | pater ||||
-| quamquam | luben|ter ēs|cī{s ali}|ēnīs | studēs ||||
+| quanquam | luben|ter ēs|cī{s ali}|ēnīs | studēs ||||
 | tu%īn uen|tris caus|sā fī|liam | uēndās | tuam. ||||
 | mīrum | quīn rē|gis {pilip%}|pī caus|s(ā) aut at|talī ||||
 | tē {poti}|us uēn|dam quam | meā | quae sīs | mea. ||||
@@ -15402,7 +15402,7 @@ sed sequere mē. ad eam rem ūsus est tuā mihi operā. Ūtere ut uīs.
 | utr(um) her|cle {magi}|s in uen|tris rem | uidē|bitur. ||||
 | {me(um) o}pī|n(ō) im{peri}|umst in | tē nō|n in mē | tibi. ||||
 | tua istaec | potes|tās est | pater. | uērum | tamen ||||
-quamquam rēs nostrae sunt pater pauperculae
+quanquam rēs nostrae sunt pater pauperculae
 modicē et modestē meliust uītam uīuere.
 nam ad paupertātem sī admigrant īnfāmiae
 grauior paupertās fit fidēs sublestior.
@@ -15676,7 +15676,7 @@ Sequere mē. addūcō hanc sī quid uīs ex hāc percontārier.
 Enim uolō tē adesse. Hau possum quīn huic operam dem hospitī
 quoi erus iussit. quid sī hic nōn uolt me adesse ūnā. Immō ī modo.
 Dō tibi ego operam. Tibi ibidem dās ubi tū tuom amīcum adiuuās.
-Exquīre. heus tū aduigilā. Satis est dictum. quamquam ego serua sum
+Exquīre. heus tū aduigilā. Satis est dictum. quanquam ego serua sum
 sciō ego officium meum ut quae rogiter uēra ut accēpī ēloquar.
 | uirgō | {hic ho}mō | {probu}s est. | crēdō. || nōn di|{(ū) apu}d hunc | serui|ēs. ||||
 Ita pol spērō sī parentēs facient officium suom.
@@ -16064,7 +16064,7 @@ illam minōrem in concubīnātum sibi
 uolt emere mīles quīdam quī illam dēperit.
 Sed pater illārum Poenus pos(t)quam eās perdidit
 marī terrāque usquequāque quaeritat.
-ubi quamque in urbem est ingressus īlicō
+ubi quanque in urbem est ingressus īlicō
 omnīs meretrīcēs ubi quisque habitant inuenit.
 dat aurum dūcit noctem rogitat postibi
 unde sit quoiātis captane an surrupta sit
@@ -16155,7 +16155,7 @@ meōs dēlectāre munditiīs meretrīciīs.
 hoc(c) prīmum agāmus quod cōnsilium cēpimus.
 abeāmus intrō ut Collubiscum uīlicum
 hanc perdoceāmus ut ferat fallāciam.
-Quamquam Cupīdō in corde uersātur tamen
+quanquam Cupīdō in corde uersātur tamen
 tibi auscultābō. Faciam ut factō gaudeās.
 inest amōris macula huic hominī in pectore
 sine damnō magnō quae ēluī nē utiquam potest.
@@ -16483,7 +16483,7 @@ quīn sī itūrī hodiē estis īte aut īte hinc in malam crucem.
 sīcine oportet īre amīcōs hominī amantī operam datum.
 nam istequidem gradus succrētust crībrō pollināriō
 nisi cum pedicīs condidicistis istōc grassārī gradū.
-Heus tū quamquam nōs uidēmur tibi plēbēiī et pauperēs
+Heus tū quanquam nōs uidēmur tibi plēbēiī et pauperēs
 sī nec rēctē dīcis nōbīs dīues dē summō locō
 dīuitem audācter solēmus mactāre īnfortūniō.
 nec tibi nōs obnoxiī istūc quid tū amēs aut ōderīs.
@@ -16504,7 +16504,7 @@ podagrōsī estis ac uīcistis cocleam tarditūdine.
 An uērō nōn iūsta caussa est quōr currātur celeriter
 ubi bibās edās dē aliēnō quantum uīs usque ad fatim
 quod tū inuītus nunquam reddās dominō dē quōiō ēderis.
-sed tamen cum eō cum quīquī quamquam sumus pauperculī
+sed tamen cum eō cum quīquī quanquam sumus pauperculī
 est domī quod edīmus nē nōs tam contem(p)tim conterās.
 quicquid est pauxillulum illūc nostrum id omne nōn tuomst
 neque nōs quemquam flāgitāmus neque nōs quisquam flāgitat.
@@ -16593,7 +16593,7 @@ iam ab rē dīuīnā crēdō appārēbunt domī.
 sed quid huc tant(um) hominum incēdunt. ecquidnam afferunt.
 et ille clamudātus quisnam est quī sequitur procul.
 Aetōlī cīuēs tē salūtāmus Luce
-quamquam hanc salūtem ferimus inuītī tibi.
+quanquam hanc salūtem ferimus inuītī tibi.
 Fortūnātī omnēs sītis quod certō sciō
 nec fore nec fortūnam id sitūram fīerī.
 Iste est tēnsaurus stultīs in linguā situs
@@ -16610,7 +16610,7 @@ malō sī quid bene faciās beneficium interit.
 bonō sī quid male faciās aetātem expetit.
 Facētē dictum. sed quid istūc ad mē attinet.
 Quia nōs honōris tuī caussā ad tē uēnimus
-quamquam bene uolumus lēniter lēnōnibus.
+quanquam bene uolumus lēniter lēnōnibus.
 Sī quid bonī apportātis habeō grātiam.
 Bonī dē nostrō tibi nec ferimus nec damus
 neque pollicēmur neque adeō uolumus datum.
@@ -16835,7 +16835,7 @@ habe rem pactam. Sī futūrumst dō tibi operam hanc. Quō modo.
 Ut enim ubī mihi uāpulandum sit tū corium sufferās.
 apage Nescioquid uirī sīs. Malus sum. Tibi sīs. Tē uolō.
 At onus urget. At tū appōne et respice ad mē. Fēcerō
-quamquam haud ōtiumst. Saluos sīs Sunceraste. Ō Milpiō
+quanquam haud ōtiumst. Saluos sīs Sunceraste. Ō Milpiō
 dī omnēs deaeque ament. Quemnam hominem. Nec tē nec mē Milpiō.
 neque erum meum adeō. Quem ament igitur. Aliquem id dignus quī siet.
 nam nostrōrum nēmō dignust. Lepidē loquere. Mē decet.
@@ -17809,7 +17809,7 @@ potius quam cibum praehibērem. num peccāuī quippiam.
 In pertūsum ingerimus dicta dōlium operam lūdimus.
 num quid aliud etiam uoltis dīcere. Ecquid tē pudet.
 Tēn amātōrem esse inuentum inānem quasi cassam nucem.
-uērum quamquam multa malaque dicta dīxistis mihi
+uērum quanquam multa malaque dicta dīxistis mihi
 nisi mihi hodiē attulerit mīles quīnque quās dēbet minās
 sīcut haec est praestitūta summa eii argentō diēs
 sī id nōn affert posse opīnor facere {m(ē) of}ficium meum.
@@ -18241,7 +18241,7 @@ crās mihi pōtandus frūctus est fullōnius.
 ēheu quam illae reī ego etiam nunc sum paruolus.
 atque edepol ut nunc male malum metuō miser
 sī quispiam det quī manus grauior siet
-quamquam illud aiunt magnō gemitū fīerī
+quanquam illud aiunt magnō gemitū fīerī
 comprimere dentēs uideor posse aliquō modō.
 sed comprimenda est mihi uōx atque ōrātiō.
 erus eccum recipit sē domum et dūcit coquom.
@@ -18520,7 +18520,7 @@ mihi cor retūnsumst oppugnandō pectore.
 Occāsiōnem repperistī uerberō
 ubi percontēris mē īnsidiīs hostīlibus.
 quīn hinc mētīmur gradibus mīlitāriīs.
-Atque edepol quamquam nēquam homō ess rēctē monēs.
+Atque edepol quanquam nēquam homō ess rēctē monēs.
 īte hāc triumpī ad cantarum rēctā uiā.
 Iu.u
 Hahae nunc dēmum mī animus in tūtō est locō
@@ -19303,7 +19303,7 @@ fīt ipse dum illīs cōmis est inops amātor.
 haec ego cum agō cum meō animō et recolō 
 ubi qui eget quam preti sit paruī. 
 apage tē Amor nōn places nīl tē ūtor. 
-quamquam illud est dulce esse et bibere 
+quanquam illud est dulce esse et bibere 
 Amōr amāra dat tamen satis quod aegrē sit. 
 fugit forum fugitat suōs cognātōs 
 fugat ipsus sē ab suō contūtū 
@@ -19317,7 +19317,7 @@ Amor mihi amīcus nē fuās unquam.
 sunt tamen quōs miserōs maleque habeās 
 quōs tibi obnoxios fēcistī. 
 certumst ad frūgem applicāre animum 
-quamquam ibi labos grandis capitur. 
+quanquam ibi labos grandis capitur. 
 boni sibi haec expetunt rem fidem honōrem 
 glōriam et grātiam. hoc(c) probis pretiumst. 
 eō mihi magis lubet cum probis potius 
@@ -19847,7 +19847,7 @@ Scītē hercle sānē. Hōc ubi tēnsaurum effōderis
 suspīciōnem ab adulēscente āmōueris. 
 cēnsēbit aurum esse ā patre allātum tibi 
 tū dē tēnsaurō sūmēs. Satis scītē et probē. 
-quamquam hoc(c) mē aetātis sūcopantārī pudet. 
+quanquam hoc(c) mē aetātis sūcopantārī pudet. 
 sed epistulās quandō opsignātās afferet 
 sed cum opsignātās attulerit epistulās 
 nōnne arbitrāris eum adulēscentem ānulī 
@@ -19904,7 +19904,7 @@ apage ā mē sīs {d(e)hinc} iam certumst ōtio dare mē. satis part(um) habeō
 quibus aerumnīs dēluctāuī fīlio dum dīuitiās quaerō. 
 sed quis hic est quī in plateam ingreditur 
 cum nouō ornātū speciēque simul. 
-pol quamquam domi cupiō opperiar 
+pol quanquam domi cupiō opperiar 
 quam hīc rem agāt animum aduertam. 
 Iu.ii
 Huic ego diē nōmen Trinummō faciō. nam ego operam meam 
@@ -20180,7 +20180,7 @@ nihil est morae. i i ambulā āctūtum redī.
 Illīc sum atque hīc sum. Sequere tū hāc mē intrō. Sequor. 
 Hic meō erō amīcus sōlus firmus restitit 
 neque dēmūtāuit animum dē firmā fidē 
-quamquam labōrēs multōs *****
+quanquam labōrēs multōs *****
 sed hic ūnus ut ego suspicor seruat fidem. 
 ‹quam› ob rem labōrem eum ego cēpisse cēnseō. 
 ACTUS u
@@ -20255,7 +20255,7 @@ Quis id aīt. Ego. Tūn uīdistī. Et tūte item uideās licet.
 Sī quid tibi pater labōris Nihil ēuēnit nē timē. 
 bene rē gestā saluos redeō sī tū modo frūgī esse uīs. 
 haec tibi pāctast Calliclēī fīlia. Ego dūcam pater 
-et eam et sī quam aliam iubēbis. Quamquam tibi suscēnsuī 
+et eam et sī quam aliam iubēbis. quanquam tibi suscēnsuī 
 miseria ‹ūna› ūnī quidem hominīst affatim. Immō huic parumst 
 nam sī prō peccātīs centum dūcat uxsōrēs parumst. 
 At iam posthāc temperābō. Dīcis sī faciēs modo. 
@@ -20482,13 +20482,13 @@ Horrēscō misera mentiō || quotiēns fit partiōnis
 | {n(am) equi}|d(em) il{l(ī) ute}|rum quod | sciam || nunqu(am) ex|stumē|re sēn|sī. ||||
 | cēlā|bat {metu}|ēbat|que tē || nē tū | {sibi} per|suādē|rēs ||||
 | {ut a}bor|tiō|{n(ī) ope}ram | daret || {pue}rum|qu(e) ut ē|nicā|ret. ||||
-Tum pol istīc est puerō pater || {babu}lō|niēn|sis mī|less ||||
-quoius nunc ista aduentum expetit. |||| Immō ab eō ut nūntiātumst
-iam hīc affutūrum aiunt | eum. |||| nōndum aduēnisse mīror.
-ībō igitur intrō. Quippinī. || tam audācter quam domum ad tē.
-nam tū | quidem ede|pol nos|ter ess || etiam | nunc dī|niar|ce. ||||
-Quam mox | tē hūc reci|pis. iam hī|c erō. || propest | profec|ta quō | sum. ||||
-Redi uē|rō āctū|tum. ego in|terim |||| hīc apud | uōs op|perī|bor. ||||
+| tum {pol is%}|tīc est | {pue}rō | pater || {babu}lō|niēn|sis mī|less ||||
+| {quoi%iu(s)} nun|c ist(a) ad|uent(um) ex|spetit. |||| im{m(ō) ab e}|(ō) ut nūn|tiā|tumst ||||
+| {i(am) hī}c af|futū|r(um) aiiunt | eum. |||| nōnd(um) ad|uēnis|se mī|ror. ||||
+| ī{b(ō) igi}|tur in|trō. quip|pinī. || {t(am) au}dāc|ter quam | dom(um) ad | tē. ||||
+| nam tū | qui{d(em) ede}|pol nos|ter ess || {eti}am | nunc dī|niar|ce. ||||
+| quam mox | t(ē) hūc {reci}|pis. {i(am) hī}|c erō. || propest | profec|ta quō | sum. ||||
+| {redi} uē|r(ō) āctū|t(um). eg(o) in|terim |||| hī{c apud%} | uōs op|perī|bor. ||||
 
 [MULTIS MODIS CANTATA][209-212]
 Hahahae requiēuī
@@ -20503,13 +20503,13 @@ uērum apu|d hunc mea e|ra sua | cōnsili|a || sum|ma ēloqui|tur lī|berē ||||
 magisque ade|(ō) eii cōn|siliā|rius hic a||mī|cust quam aux|{sili}ā|rius. ||||
 
 [CANTATA][IA7][217-223]
-dum fuit dedit. nunc nihil habet. || quod habēbat nōs habēmus
-iste id habet quod nōs habuimus. |||| hūmānum facinus factumst.
-āctūtum fortūnae solent || mūtārī uaria uītast.
-nōs dīuitem istum meminimus |||| atque iste pauperēs nōs.
-uertērunt sēsē memoriae. || stultus sit quī id mīrētur.
-sī eget necessest nōs patī. |||| amāuit aequom eii factum est.
-piā|culumst | {mise}rē|re nōs || {homi}num | {re%ī} {male} | geren|tum.
+dum {fu%it} | dedit. | nunc {nihi}|l habet. || {quod ha}bē|bat nō|s habē|mus ||||
+is{t(e) id ha}|bet quod | nōs {habu}|imus. |||| hūmā|num {faci}|nus fac|tumst. ||||
+āctū|tum for|tūnae | solent || mūtā|rī {uari}|a uī|tast. ||||
+nōs dī|uit(em) is|tum {memi}|nimus |||| atqu(e) is|te pau|perēs | nōs. ||||
+uertē|runt sē|sē {memo}|riae. || stultus | sit {qu(ī) id} | mīrē|tur. ||||
+{s(ī) e}get | neces|sest nōs | patī. |||| amā|uit ae|qu(om) eii fac|tumst. ||||
+piā|culumst | {mise}rē|re nōs || {homi}num | {re%ī} {male} | geren|tum. ||||
 
 [DĪUERBIA][224-227]
 bonis esse oportet dentibus lēnam probam
@@ -20529,10 +20529,10 @@ aequō animō ipse sī nihil habeat aliīs {quī:: ha}bent det locum.
 probust amātor quī relictīs rēbus rem perdit suam.
 
 [CANTATA][IA7][237-240]
-at nōs male agere praedicant || uirī solēre sēcum
-nōsque esse auārās. quī sumus. |||| quid est quod male agimus tandem.
-nam ēcastor nunquam satis dedit || suae quisquam amīcae amātor
-nec pol nōs satis accēpimus |||| nequ(e) unquam ūlla satis poposcit.
+at nōs | ma{l(e) age}|re prae|dicant || uirī | solē|re sē|cum ||||
+nōsqu(e) es|s(e) auā|rās. quī | sumus. |||| quid est | quod {mal(e) a}|gimus | tandem. ||||
+n(am) ēcas|tor nun|quam {sati(s)} | dedit || {su%ae} quis|qu(am) amī|c(ae) amā|tor ||||
+nec pol | nōs {sati}|s accē|pimus |||| nequ(e) un|quam:: ūl|la {sati(s)} | popos|cit. ||||
 
 [DĪUERBIA][241-247]
 | nam quan|dō steri|lis es|t amā|tor ab | datīs |
@@ -20547,7 +20547,7 @@ trānsiluīt ad nōs. eum uolō conuenīre.
 sed est huic ūnus seruos uiolentissumus
 
 [CANTATA][IA7]
-{qu(ī) ubi} quam|que nos|trārum | uidet || prop(e) hās|c(e) aedī|s aggre|dīrī |
+{qu(ī) ubi} quan|que nos|trārum | uidet || prop(e) hās|c(e) aedī|s aggre|dīrī |
 it(em) ut | dē frū|ment(ō) ān|serēs || clāmō|r(e) apster|re{t abi}|git. |
 itas|t agres|tis. sed | forēs |||| quid{quid es%t%} | futū|rum {feri}|am. ||||
 ecquis hu|ic tū|tēlam iā|nuae || {geri}t. ec|quis in|tus ex|sit.
@@ -20614,7 +20614,7 @@ iam quidem hercle ībō ad forum atque haec facta nārrābō senī
 neque istūc īnsegēstī tergō cōget exāmen malī.
 Si ecastōr hic homo sināpī uictitet nōn cēnseam
 tam esse trīstem posse. at pol erō beneuolēns uīsust suō.
-uērum ego illum quamquam uiolentust spērō immūtārī pote
+uērum ego illum quanquam uiolentust spērō immūtārī pote
 blandīmentīs hortāmentīs cēterīs meretrīciīs.
 uīdī equom ex indomitō domitum fierī atque aliās bēluās.
 nunc ad eram reuidēbō. sed eccum odium progredītur meum.
@@ -21097,7 +21097,7 @@ propemodum expertae estis quam ego sim mītis tranquillusque homō.
 rogitāuī ego uōs uerberātās ambās pendentīs simul.
 commeminī quō quidque pactō sītis cōnfessae sciō.
 hīc nunc uolo scīre eōdem pāctōn sine malō fateāminī.
-quamquam uōs colubrīnō ingeniō ambae estis ēdīcō prius
+quanquam uōs colubrīnō ingeniō ambae estis ēdīcō prius
 nē duplicīs habeātis linguās nē ego bilinguīs uōs necem
 nisi sī ad tintinnāculōs uoltis uōs ēdūcī uirōs.
 Uīs subigit uērum fatērī ita lōra laedunt braccia.
@@ -21227,7 +21227,7 @@ oleō opust opus est farīnā porrō opus est tōtum diem.
 nunquam hocc ūnō diē efficiātur opus quīn opus semper siet.
 nōn enim possunt mīlitārēs puerī ut auium ēdūcier.
 Respice ergō accipe hoc(c) ‹sīs› quī istucc efficiās opus.
-Cedo quamquam parum est. Addam etiam ūnam minam istūc post. Parumst
+Cedo quanquam parum est. Addam etiam ūnam minam istūc post. Parumst
 Tuō arbitrātū quod iubēbis dabitur. dā nunc sāuium.
 Mitte mē inquam odiōsuss. Nīl fit nōn amor teritur diēs.
 plūs decem pondō. amōris pauxillisper perdidī.
@@ -21239,8 +21239,8 @@ Quem ego ecastor mage amō multō quam mē. ‹Quam tē›. quō modō.
 Hōc modō ut molestus nē sīs. iam‹ne› abīs pos(t)quam aur(um) habēs.
 Condidī intrō quod dedistī. Adēs amīca tē alloquor.
 At ego ad tē ībam mea dēlicia. Hercle uērō sēriō
-| quamquam e|{go ti}bi | {uide}or | stultus | gaudē|{r(e) ali}quī | mē uo|lō. ||||
-nam quamquam tū ess bella malo tuō nisi ego aliquī gaudeō.
+| quanquam e|{go ti}bi | {uide}or | stultus | gaudē|{r(e) ali}quī | mē uo|lō. ||||
+nam quanquam tū ess bella malo tuō nisi ego aliquī gaudeō.
 Uīn tē amplectar sāuium dem. Quiduīs face ‹quī› gaudeam.
 Meōsne ante oculōs ego illam patiar aliōs amplexārier.
 mortuom hercle mē hodiē satiust. apstine hōc mulier manum
@@ -21251,7 +21251,7 @@ Quī malum bella aut facēta ess quae amēs hominem istī modī.
 Uenitne in mentem tibi quod uerbum in caueā dīxit histriō.
 omnēs hominēs ad suom quaestum callent et fastīdiunt.
 Huncine hominem tē amplexārī tam horridum ac tam squālidum.
-Quamquam hic squālust quam‹quam› hic horridus scītus bellust mihi.
+quanquam hic squālust quam‹quam› hic horridus scītus bellust mihi.
 Dedin ego aurum. Mihi. dedistī fīliō cibāria.
 nunc sī hanc tēcum esse spērās aliā opust aurī minā.
 Malam rem is et magnam magnō opere seruā tibi uiāticum.
@@ -22235,7 +22235,7 @@ lucorum late uiridia et frugum ubera
 egone. assentiō. nunc age tū tuam progeniem ede ordine.
 
 [IA6]
-quamquam est exangue corpus mī atque annis putret
+quanquam est exangue corpus mī atque annis putret
 
 [TR7]
 tum autem aegistus sī inceste eōdem lectō comitasset patrī
@@ -23160,7 +23160,7 @@ actoribus manuleos baltea macaerās
 
 [sot]
 nam quam uaria sint genera poematorum baebi
-quamque long distincta alia ab aliis sis nosce.
+quanque long distincta alia ab aliis sis nosce.
 
 [tr7]
 uectigalia egerantur uestra et seruentur statim.
