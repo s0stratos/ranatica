@@ -11511,8 +11511,8 @@ mē reposcis. Quam ab lēnōne abduxtī hodiē scelus uirī.
 Nūllam abdūxī. Certē eccistam uideō. Uirgō haec lībera est.
 Mean ancilla lībera ut sit quam ego nunquam ēmīsī manū.
 Quis tibi hanc dedit mancipiō. aut unde ēmistī. fac sciam.
-ego quidem prō istāc rem soluī ab tarpēzītā meō.
-quam ego pecūniam quādruplicem aps tē et lēnōne auferam.
+Ego quidem prō istāc rem soluī ab tarpēzītā meō.
+{qu(am) ego} pe|cūni|am qua|{drupli}cem:: || aps {t(ē) et} | lēnō|n(e) aufe|ram. |
 Quī scīs mercārī fūrtīuās atque ingenuās uirginēs
 ambulā in iūs. Nōn eō. Licet tē antestārī. Nōn licet.
 Iuppiter tē mīles perdat intestātus uīuitō.
@@ -20690,15 +20690,15 @@ Tru. 380 (ia6) | sed {quid is%}|tūc. quoi | {re%ī} {t(ē) as}|{simu}lā|re rē
 Tru. 380 (ia6) | ut es|se{t ali}|quis {laque}|us et | {redi}mī|culum ||||
 Tru. 380 (ia6) | reuer|siō|n(em) ut ad | mē {face}|ret dē|nuō. ||||
 Tru. 380 (ia6) | nunc hūc | remī|sit nū|per ad | {m(ē) e}pis|tulam ||||
-sēsē expertūrum quantī sēsē penderem.
-sī quod peperissem id ‹nōn n›ecārem ac tollerem
-bona sua mē habitūrum omnia. Auscultō lubēns.
-quid dēnique agitis. Māter ancillās iubet
-quoniam iam decimus mēnsis aduentat prope
-aliam aliōrsum īre praemandāre et quaerere
-puerum aut puellam quī suppōnātur mihi.
-quid multa uerba faciam. tōnstrīcem Suram
-nōuistī nostram quaen ergā aedem sēsē habet.
+sēs(ē) ex|pertū|rum quan|tī sē|sē pen|derem. ||||
+sī quod | peperis|sem id | nōn ne|cārem | ac tol|lerem ||||
+{bona} {sua} | m(ē) habitū|rum om|nia. aus|cultō | lubēns. ||||
+quid dē|nique agi|tis. mā|ter an|cillās | iubet ||||
+quoniam | iam deci|mus mēn|sis ad|uentat | prope ||||
+aliam ali|ōrsum ī|re prae|mandā|re et quae|rere ||||
+puerum aut | puel|lam quī | suppō|nātur | mihi. ||||
+quid mul|ta uer|ba faci|am. tōn|strīcem | suram ||||
+nōuis|tī nos|tram quae|n ergā ae|dem sē|sē habet. ||||
 Nōuī. Haec ut operast circumit per familiās
 puerum uestīgat. clanculum ad mē dētulit
 datum sibi esse dīxit. ō mercis malae.
@@ -21072,7 +21072,7 @@ Abiit intrō exclūsit. egon ut haec mihi patiar fīerī.
 i(am) hercl(e) e|{go ti}b(i) il|{lece}bra | lūdōs | {faci}am | clāmō|r(e) in ui|ā ||||
 quae aduersum lēgem accēpistī ā plūrimīs pecūniam.
 iam hercle apud nouos omnīs magistrātūs faxō erit nōmen tuom
-post id ego tē manum iniciam quādrupulī uenēfica
+post i|{d ego} tē ma|n(um) inii|ciam || {quadru}pu|lī ue|nēfi|ca ||||
 suppostrīx puerum. ego edepol iam tua probra aperībō omnia.
 nīl mē prohibet perdidī omne quod fuit. fīō impudēns
 nec mī adeōst tantillum pēnsī iam quōs capiam calceōs.
