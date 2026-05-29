@@ -1,0 +1,227 @@
+-------------------------------
+COMPOSITION RULES FOR TERENTIUS
+-------------------------------
+
+x is a long or short half foot
+L is a mandatory long half foot
+s is a mandatory short half foot 
+| is foot division
+|| is a normal break requiring word change at least 
+|||| is a strong break triggering end of line conditions
+
+IA6
+xL | xL | xL | xL | xL  | sx ||||
+
+IA7
+xL | xL | xL | sx |||| xL | xL | xL | x ||||
+
+IA8 type I 
+xL | xL | xL | xL | x||L | xL | xL | sx ||||
+
+IA8 type II
+xL | xL | xL | xx |||| xL | xL | xL | sx ||||
+
+IA4
+xL | xL | xL | sx ||||
+
+TR7 
+Lx | Lx | Lx | Lx || Lx | Lx | Ls | x ||||
+
+TR8
+Lx | Lx | Lx | Lx || Lx | Lx | Lx | Lx ||||
+
+TR3
+Lx | Lx | Ls | x ||||
+
+
+-----------------------------------------------
+General rules
+-----------------------------------------------
+
+1/ division into syllables within words
+
+1a) each vowel forms the core (nucleus) of a distinct syllable
+
+fī.li.um (LsL)
+
+1b) the latin diphtongs or vowel digraphs count as a single syllable core (nucleus)
+
+eu.nū.cum (LLL)
+plau.tī (LL)
+cē.te.rae (LsL)
+
+1c) when a single consonant separate vowels it is grouped with the following vowel.
+
+fī.li.um (LsL) not fīl.i.um 
+eu.nū.cum (LLL) not eun.ū.cum not eu.nūc.um not eun.ūc.um
+cē.te.rae (LsL) not cēt.e.rae not cē.ter.ae not not cēt.er.ae
+
+1d) when two consonants separate vowels they get split between the syllables
+
+pec.cā.tum (LLL) not pe.ccā.tum not pecc.ā.tum
+per.sō.nīs (LLL) not pe.rsō.nīs
+nes.ci.ō (LsL) not ne.sci.ō
+
+1e) the following groups involving r and l don't get split unless they are on a word-internal boundary
+
+br/bl
+cr/cl
+dr/dl
+fr/fl
+gr/gl
+pr/pl
+tr/tl
+
+pū.bli.cum (LsL) not pūb.li.cum
+ob.lec.tā (LLL) not o.blec.tā
+neg.le.ge.re (Lsss) not ne.gle.ge.re
+dē.glup.ta (LLs) not dēg.lup.ta
+
+1f) when three or four consonants separate vowels the first one groups with the previous syllable
+
+ter.res.tris (LLL) not ter.re.stris
+dīx.stī (LL) (= dīc.stī)
+per.scrī.ban.tur (LLLL)
+per.stre.punt (LsL) 
+
+1f) in some cases the group is simplified in words with prefixes
+
+pos.(t)prīn.ci.pi.a (LLsss) 
+pos.(t)quam (LL)
+
+1g) any consonants before the first vowel group with it.
+
+prīn.ci.pi.um (LccL)
+sci.unt (LL)
+
+2/ division into syllables within words
+
+2a) the start of words cannot be resyllabified
+
+e.go . spon.de.ō not e.go s.pon.de.ō
+
+2b) on the other hand the end of words is systematically resyllabified
+
+pa.te.r ē.gre.di.tur (ssLssL) not pa.ter . ē.gre.di.tur
+
+2/ short and long syllables
+
+syllables count as short if they have a short vowel as a core and no consonant follows the core.
+
+otherwise it's long.
+
+3/ elision 
+
+when two vowels clash into each other in latin between two words or between a preposition and the word, they form a new vowel group. 
+In Terentius metrically it manifests the following way. 
+
+either the results amounts to ignoring the first vowel.
+
+ita aiiunt => i.t(a) ai.iunt 
+
+or the results amounts to considering the first vowel is shortened.
+
+dē+amō => de.a.mō
+
+the two vowels can NEVER coexist without clashing.
+
+
+4/ quirks of latin orthography
+
+ae 
+au
+gn
+ei
+eu
+
+h: mostly a hiatus mark. doesn't "count" as a consonant.
+
+i : i can be a consonant. in which case there is a strong bias in latin against writing several i next to each other in latin.
+
+whether it's because i noting consonant wourd precedes a i noting vowel 
+
+abicere => ab.ii.ce.re (abjicere)
+
+or because i noting consonant is geminated
+
+maior => mai.ior (majjor)
+
+or both
+
+reicere => rei.ii.ce.re (rejjicere)
+
+m : 
+
+m before s and f represents a nasal vowel and doesn't count as a consonant
+
+ui.ti.ums.t ob.lā.tum (ssLLLL)
+
+n : 
+
+n before s and f represents a nasal vowel and doesn't count as a consonant
+
+īns.tā.re (LLs)
+cōns.ti.tī (LsL)
+
+qu
+
+
+s
+u
+y
+x
+z
+
+univerbations
+
+quamobrem => quam ob rem => qu(am)ob.rem (LL)
+antehāc => ante hāc => an.t(e) hāc (LL) 
+tametsī => tam et sī => t(am) et. sī (LL)
+
+5/ final s
+
+6/ words with final consonantal i
+
+7/ words with final "geminate"
+
+
+
+-----------------------------------------------
+what happens outside of end of line conditions
+-----------------------------------------------
+
+iambic words are reduced to a single half foot
+
+{mihi}
+{prius%}
+{uolō%} / {sciō%}
+{abī%}
+{quidem%} / {tamen%}
+{magis%} / {satis%}
+{meās%} / {meā%} / {meō%}
+{tuō%} 
+{deōs%} /
+{egon%}
+
+--------------------------------------
+what happens at normal breaks
+--------------------------------------
+
+clean word break
+break at prepositions
+break at the middle of long words
+break at word change with elision
+break on function words like "esse"
+
+---------------------------------------------------------
+what happens at breaks triggering end of line conditions
+---------------------------------------------------------
+
+end of line conditions favor the recognition of the end of line patterns Lsx|||| and xLx||||
+
+Lsx||||
+
+elements favoring L > final s pronounced 
+elements favoring sX > strict breaking of function words into iambs (mihi, suom, tuom..), use of iambic forms like ier infinitives
+elements favoring X as L > "brevis in longo"
+
