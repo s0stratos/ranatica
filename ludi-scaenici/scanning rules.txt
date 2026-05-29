@@ -180,6 +180,31 @@ tametsī => tam et sī => t(am) et. sī (LL)
 
 5/ final s
 
+word final s the syllable long in Terentius
+
+5a) lexical / pronouns
+is
+quis
+ecquis
+nescioquis
+
+5b) lexical / Greek names and words
+tāis
+pampilus
+crūsidis
+atticus
+pūtias
+
+5c) metrical end of verse conditions
+L of Lsx||||
+
+5d) s in verb forms
+
+5e) s in ss / sf sequences
+
+
+
+
 6/ words with final consonantal i
 
 7/ words with final "geminate"
@@ -195,12 +220,12 @@ iambic words are reduced to a single half foot
 {mihi}
 {prius%}
 {uolō%} / {sciō%}
-{abī%}
+{abī%} / {iubē%}
 {quidem%} / {tamen%}
 {magis%} / {satis%}
 {meās%} / {meā%} / {meō%}
 {tuō%} 
-{deōs%} /
+{deōs%}
 {egon%}
 
 --------------------------------------
