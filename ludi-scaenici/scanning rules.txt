@@ -74,6 +74,7 @@ tr/tl
 
 pū.bli.cum (LsL) not pūb.li.cum
 ob.lec.tā (LLL) not o.blec.tā
+sub.li.nē.tur (LsLL) not su.bli.nē.tur
 neg.le.ge.re (Lsss) not ne.gle.ge.re
 dē.glup.ta (LLs) not dēg.lup.ta
 
@@ -200,9 +201,13 @@ L of Lsx||||
 
 5d) s in verb forms
 
-5e) s in ss / sf sequences
+5e) sum
 
+| {lapi}de|{us::} sum |
 
+5f) s alternating with r
+
+longius
 
 
 6/ words with final consonantal i
@@ -225,7 +230,7 @@ iambic words are reduced to a single half foot
 {magis%} / {satis%}
 {meās%} / {meā%} / {meō%}
 {tuō%} 
-{deōs%}
+{deōs%} / {deum%}
 {egon%}
 
 --------------------------------------
