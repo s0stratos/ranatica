@@ -3,6 +3,7 @@ COMPOSITION RULES FOR TERENTIUS
 -------------------------------
 
 x is a long or short half foot
+z is a long of short half foot comprised of a single syllable
 L is a mandatory long half foot
 s is a mandatory short half foot 
 | is foot division
@@ -10,28 +11,28 @@ s is a mandatory short half foot
 |||| is a strong break triggering end of line conditions
 
 IA6
-xL | xL | xL | xL | xL  | sx ||||
+xL | xL | xL | xL | xL  | sz ||||
 
 IA7
-xL | xL | xL | sx |||| xL | xL | xL | x ||||
+xL | xL | xL | sz |||| xL | xL | xL | z ||||
 
 IA8 type I 
-xL | xL | xL | xL | x||L | xL | xL | sx ||||
+xL | xL | xL | xL | x||L | xL | xL | sz ||||
 
 IA8 type II
-xL | xL | xL | xx |||| xL | xL | xL | sx ||||
+xL | xL | xL | xx |||| xL | xL | xL | sz ||||
 
 IA4
-xL | xL | xL | sx ||||
+xL | xL | xL | sz ||||
 
 TR7 
-Lx | Lx | Lx | Lx || Lx | Lx | Ls | x ||||
+Lx | Lx | Lx | Lx || Lx | Lx | Ls | z ||||
 
 TR8
 Lx | Lx | Lx | Lx || Lx | Lx | Lx | Lx ||||
 
 TR3
-Lx | Lx | Ls | x ||||
+Lx | Lx | Ls | z ||||
 
 
 -----------------------------------------------
