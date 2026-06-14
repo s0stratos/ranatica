@@ -29,7 +29,7 @@ TR7
 Lx | Lx | Lx | Lx || Lx | Lx | Ls | z ||||
 
 TR8
-Lx | Lx | Lx | Lx || Lx | Lx | Lx | Lx ||||
+Lx | Lx | Lx | Lz || Lx | Lx | Lx | Lz ||||
 
 TR3
 Lx | Lx | Ls | z ||||

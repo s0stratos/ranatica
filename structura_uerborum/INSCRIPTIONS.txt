@@ -1,101 +1,73 @@
+[-159 ; -145]
+[latium et campānia]
+[tīburs]
+l. cornēlius cn. f. pr. sen. cōns. a. d. III nōnās maiās sub aede kastorus
+scr. adf. a. mānlius a. f. sex. iūlius [sex. f.] l. postumius s. f.
+quod teiburtēs u. f. quibusque dē rēbus uōs pūrgāuistis ea senātus
+animum aduortit ita utei aequom fuit nōsque ea ita audīuerāmus
+ut uōs deixsistis uōbeis nōntiāta esse ea nōs animum nostrum
+nōn indoucēbāmus ita facta esse propter eā quod scībāmus
+ea uōs meritō nostrō facere nōn potuisse neque uōs dignōs esse
+quei ea facerētis neque id uōbeis neque rei poplicae uostrae
+oitile esse facere et postquam uostra uerba senātus audīuit
+tantō magis animum nostrum indoucimus ita utei anteā
+arbitrābāmur dē eieis rēbus af uōbeis peccātum nōn esse
+quonque dē eieis rēbus senātuei pūrgātī estis crēdimus uōsque
+animum uostrum indoucere oportet item uōs populō
+rōmānō pūrgātōs fore
 
-[-108 ; -108]
-[Latium et Campania]
-[Casilinum]
-l(ucius) quincti(us) l(uci) f. gela() l(ucius) iu(u)enti(us) l(uci) f. Ruf(us)
-c. tittius c(ai) f. c. heluius n(umeri) f.
-l(ucius) heluius l(uci) f. c. heluius n(umeri) f. gero
-p(ublius) plinius m(arci) f. q. matuius q. f.
-c. paccius cn(aei) f. m(arcus) mamius m(ani) f.
-c. sattius c(ai) f. p(ublius) statius p(ubli) f. stag(on)
-heisce magistrei iouei optumō
-maxsumō mūrum coniungendum
-et peilam faciendam et teatrum
-terra exaggerandum locauere
-eidemque luudōs fecere
-ser(uio) sulpiciō ser(ui) f(ilio) galba co(n)s(ule)
-
-
-
-
-[-133 ; -111]
-[Etruria]
-[Clusium]
-p]ronontiato [3]
-[3] scrīpta sunt an[3]
-[3] eōrum quōsue is i[3]
-[-3 p]equniam cēperit ca[3]
-[3] cēperit quoiue eius qu[3]
-[3]a erit literaiue testium [3]
-[-3 sei quis ex eis e]xemptus erit quei abeō [3]
-[-3 damn]as estō eiusque pequnia[e 3]
-[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
-[3] facitō utei is eam pequ[niam 3]
-[-3 ut] ei ex h(ac) l(ege) oportēbit quod l[3]
-[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
-[-3 e]t eum unde petētur e[3]
-[-3 p]etiuerit condemnētu[r 3]
-[-3 i]n iudiciu[m
-] is omnis iud[3]
-[3]esi easque pilas om[nes 3]
-[-3 scriba]ntur aequenturqu[e 3]
-[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
-[3] sorticolis singolīs sinc[illatim eductis 3]
-[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
-[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
-[3]amque quae in eo tribun[ali 3]
-[3] aliter ea nei dēlētō neiu[e 3]
-[-3 iud]ices omnis item sortiri iu[beto 3]
-[-3 sentent]iam tolerint quom omnī [3]
-[3]mat in eam tabolam qu[3]
-[-3 li]terae duae aut nūlla au[3]
-[3] e[r]unt in quibus pileis li[terae 3]
-[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
-[3] o[p]ortebit tum [3]
-[3]oiEp[
+[-123 – -103]
+]s eōrum opera maxume is /
+]te omnium rērum /
+]nerisue estō atque aera mīlitāria stīpendiaque /
+] ioudicium rōmae certet sei rōmae ueḷet ad quem /
+]g(istratus) ad quem dē eā rē aditum erit facitō ne in eius /
+]ed fraude suā inhibērī licētō quei ceiuis /
+]reisque eius nepōtibusque eō fīliō gnātīs quei eōrum /
+] aera mīlitāria stīpendiaque eis omnia merita suntō /
+] mūnus faciat neiue inperātō neiue aduorsum prōuocātiōnem /
+] dūcitō neiue facitō quō inuītus eat nisei tumultus gaḷicī /
+] ius deicat is facitō utei socium nōminisque latīnī omnium /
+]ontiōne et apud senātum in sex mēnsibus priōribus et in sex /
+]isis fictamque apud forum unde dē plānō rēctē legī possitur /
+]uei id cōnsoluerit quīque ad id scrībendum aderit queique /
+]ō populō ceiuitāte rēgnōue tōta scrīpta apud forum siet et /
+]ue ex h(āc) l(ēge) condemnātus erit quei ioudicēs in eam rem fuerint /
+]rem dē eis quei eius nōmen dētolerint palam ioudicei in singulōs /
+]nārit in tabulā ahēneā incīsum sub rōstrīs facitō fīxsum siet /
+] neque interceṣūrum esse q(uō) h(aec) l(ex) minus sētiusue fīat quei ex h(āc) l(ēge) /
+]am deicitō nīue quis sinitō neiue eum cēns(ōrem) in senātū legitō /
+]pitō et eōs quei ex h(āc) l(ēge) apud sē iourārint facitō in tabulīs /
+] l(ēge) trīnum nūndinum contenuō palam prōdīxerit nōndinīsq(ue) /
+]rīpta prōpositaque apud forum fuerit quom rēs prōlātae /
+] facitō utei tōta citētur hoic lēgei fraudem nei quis /
+]emque tenētō s(ei) s(acrum) s(ānctum) e(st) q(uod) n(ōn) i(ure) s(it) r(ogātum) e(ius) h(āc) l(ēge) n(ihilum) r(ogātō) tr(ibūnī) pl(ēbis) /
 
 
 
- a:  -133 bis -87;   b:  [-133 ; -111]
-[Etruria]
-[Clusium]
-p]ronontiato [3]
-[3] scrīpta sunt an[3]
-[3] eōrum quōsue is i[3]
-[-3 p]equniam cēperit ca[3]
-[3] cēperit quoiue eius qu[3]
-[3]a erit literaiue testium [3]
-[-3 sei quis ex eis e]xemptus erit quei abeō [3]
-[-3 damn]as estō eiusque peqūnia[e 3]
-[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
-[3] facitō utei is eam pequ[niam 3]
-[-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
-[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
-[-3 e]t eum unde petētur e[3]
-[-3 p]etiuerit condemnetu[r 3]
-[-3 i]n iudiciu[m
-] is omnis iud[3]
-[3]esi eāsque pilas om[nes 3]
-[-3 scriba]ntur aequenturque[3]
-[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
-[3] sorticolis singolīs sinc[illatim eductis 3]
-[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
-[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
-[3]amque quae in eo tribun[ali 3]
-[3] aliter ea nei dēlētō neiu[e 3]
-[-3 iud]ices omnis item sortiri iu[beto 3]
-[-3 sentent]iam tolerint quom omni [3]
-[3]mat in eam tabolam qu[3]
-[-3 li]terae duae aut nūlla au[3]
-[3] e[r]unt in quibus pileis li[terae 3]
-[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
-[3] o[p]ortebit tum [3]
-[3]oiEp[
-    
+[-125 ; -101]
+[samnium]
+sāncte de decumā 
+uictor tibei lūcius munius dōnum mōribus antīqueis prō ūsūrā hoc 
+dare sēsē uīsum animō suō perfēcit tuā pāce 
+rogāns tē cōgendei dissoluendei tū ut facilia faxseis
+perficiās decumam ut faciat uērae ratiōnēs
+prōque hōc atque alieis dōnīs dēs digna merentī
+
+[-160 ; -155]
+[rōma]
+l. cornelius cn. f. cn. n. scīpiō magna sapientia
+multāsque uirtūtēs aetāte quom parua
+poṣidet hoc saxsum quoiei uita dēfēcit nōn
+honōs honōre is hic situs quei nunquam
+uictus est uirtūtei annōs gnātus XX is
+l[oc]eis mandātus nē quairātis honōre
+quei minus sit mandātus
+
 [-111 ; -111]
-[Roma]
+[rōma]
 [tr(ibuni) pl. plēbem ioure rogārunt plēbēsque ioure scīuit 3 tribus 3 princ]
-ipium fuit pro tribū q. fabius q. f. prīmus scīuit quei ager pōplicus populī rōmānei in terram italiam p. muuciō l. calpurniō 
+ipium fuit pro tribū q. fabius q. f. prīmus scīuit quei ager poplicus populī rōmānei in terram italiam p. muuciō l. calpurniō 
 [cōs fuit extrā eum agrum quei ager ex lege plēbeiue sc(ito) quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur 3]
 [quem quisque de eo agrō locō ex lege plebeiue sc(ito) uetus possessor sibei]
 agrum locum sūmpsit relīquitue quod nōn modus maior siet quam quantum ūnum hominem ex lege plebeiue sc(ito) sibei sūmere
@@ -106,7 +78,7 @@ quoieique de eo agrō locō ex lege plēbeiue sc(ito) IIIuir sortītō ceiuī r�
 [plēbeiue scītō quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur de eo agrō locō quei ager locus ei quei agrum prīuātum in pūblicum commūtāuit pro eo agrō locō a IIIuirō datus commūtātus re]
 dditus est quei ager pūblicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit ex[t]ra eum agrum quei ager ex lege 
 [plēbeiue sc(ito) quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur 3 quod eius quisq]
-ue agrī locei pūblicei in terra italiā quod eius extrā urbem roma(m) est quod eius in urb[e] oppidō uīcō est quod eius IIIuir dedit adsignāuit quod 
+ue agrī locei pūblicei in terra italiā quod eius extrā urbem rōma(m) est quod eius in urb[e] oppidō uīcō est quod eius IIIuir dedit adsignāuit quod 
 [-3 tum cum haec lex rogābitur habēbit possidēbitue 3]
 [quei ager pūblicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit extrā eum agrum quei ager ex]
 lege plēbīue scītō quod c. semprōnius ti. f. tr(ibunus) pl. rog(auit) exceptum cauitumue est nei dīuiderētur quod quoieique de
@@ -117,11 +89,11 @@ de ea re ad sen[atum refertō 3 neiue pro magistrātū inper]ioue sententia(m) d
 [quei ager pūblicus populī rōmānei in terram italiam p. muuciō l. calpurniō cōs fuit 3 quod eius IIIuirei a(greis) d(andeis) a(dsignandeis) uiasiei]s uicaneis quei in terra italiā sunt dederunt adsignauerunt reliquerunt neiquis facitō quo minus ei oetantur fruantur habeant po[ssideantque quod eius possessor 3 agrum locum aedifici]um nōn abaliēnāuerit
 extrā eum a[grum 3 extrā]que eum agrum quem ex h(ace) l(ege) uēnīre darī reddīue oportēbit quei ager locus aedificium ei quem in [ui]asieis uicanisue ex s(enatus) c(onsulto) esse oportet oportēbitue [ita datus adsignatus relictusue est eritue 3 quo magis is ag]er locus aedificium prīuātus siet quōue mag[is censor queiquomque]
 [erit eum agrum locum in cēnsum referat 3 quōue magis is ager locus aliter atque u]tei est siet ex h(ace) l(ege) n(ihilum) r(ogato) quei ager locus pūblicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit extrā eum agrum quei ager ex lege plēbīue [scītō quod c. semprōnius ti. f. tr(ibunus) pl. rogāuit exceptum cauitumue est nei dīuiderētur 3 e]xtraque
-eum agrum quem uetus possesor ex lege plēbeiue [scītō sibei sūmpsit relīquitue quod nōn modus maior siet quam quantum ūnum hominem sibei sūmere relinquereue licuit sei quis tum cum haec lex rogābitur agrī colendī cau]sa in eum agrum agrī iugra nōn amplius XXX possidēbit habēbitue (i)s ager prīuātus estō quei in agrum compāscuom pequdēs maiōrēs nōn plūs X pāscet quae[que ex eis minus annum gnātae erunt posteā quam gnātae erunt 3 queique ibei pequdēs minōrēs nōn plūs 3] pāscet quaeque ex eis minus annum gnātae erunt
-post ea qua[m gnātae erunt is pro iis pequdibus 3 populō aut pūblicānō uectīgal scrīptūramue nei dēbētō neiue de ea re sati]s datō neiue soluito ager pūblicus populī rōmānei quei in italiā p. mucio l. calpurniō cōs fuit eius agrī IIIuir a(greis) d(andeis) a(dsignandeis) ex lege plēbeiue scītō sortītō quoi ceiuī roma[no agrum dedit adsignāuit 3 quod eius agrī neque is abalie]nauit abaliēnāuerit neque hērēs eius abaliēnāuit abalienau[eritue quoiue ab eo hērēditāte testāmentō deditioneue]
+eum agrum quem uetus posseṣor ex lege plēbeiue [scītō sibei sūmpsit relīquitue quod nōn modus maior siet quam quantum ūnum hominem sibei sūmere relinquereue licuit sei quis tum cum haec lex rogābitur agrī colendī cau]sa in eum agrum agrī iugra nōn amplius XXX possidēbit habēbitue (i)s ager prīuātus estō quei in agrum compāscuom pequdēs maiōrēs nōn plūs X pāscet quae[que ex eis minus annum gnātae erunt posteā quam gnātae erunt 3 queique ibei pequdēs minōrēs nōn plūs 3] pāscet quaeque ex eis minus annum gnātae erunt
+post ea qua[m gnātae erunt is pro iis pequdibus 3 populō aut pūblicānō uectīgal scrīptūramue nei dēbētō neiue de ea re sati]s datō neiue soluitō ager pūblicus populī rōmānei quei in italiā p. mucio l. calpurniō cōs fuit eius agrī IIIuir a(greis) d(andeis) a(dsignandeis) ex lege plēbeiue scītō sortītō quoi ceiuī rōma[no agrum dedit adsignāuit 3 quod eius agrī neque is abalie]nauit abaliēnāuerit neque hērēs eius abaliēnāuit abalienau[eritue quoiue ab eo hērēditāte testāmentō deditioneue]
 [obuenit queiue ab eōrum quo emit quei eōrum de ea re ante eidus mārtiās prīmās in ious adierit ad eum quem ex h(ace) l(ege) de eo agrō ius deicere oportēbit is de ea re ita ius deicitō] dēcernitōque utei possessiōnem secund[um] eum hērēdemue eius det quoi sorti is ager datus adsignatusue fuerit quod eius agrī nōn abaliēnātum erit ita utei s(upra) s(criptum) est [ager pūblicus populī rōmānei quei in italiā p. mucio l. calpurniō cōs fuit quod eius agrī IIIuir a(greis) d(andeis) a(dsignandeis) ueteri pos]/[sessori prōue ue]tere possessiōnem dedit adsignāuit reddidit quodque eius agrī iii[uir a(greis) d(andeis) a(dsignandeis) in urbe oppidō uīcō dedit adsignāuit reddidit quod eius agrī neque is abaliēnāuit abaliēnāueritue neque hērēs eius quoiue ab eo hērēditāte testāmentō deditioneiue obueni]t queiue ab eōrum qu[o] emit quei eōrum de ea re ante eidus mārtiās prīmās in ious adierit ad eum quem ex h(ace) l(ege) de eo agrō ius deicere oportēbit is de ea re ita ius deicitō d[ecernitoque utei possessiōnem secundum eum]
-[hērēdemue eius det 3] quoi is ager uetere prōue uetere possessōre datus adsignatusue queiue a[grum in urbe oppidō uīcō accēperit 3 sei quis eōrum quōrum age]r s(upra) s(criptus) est ex possesione ui eiectus est quod eius is quei eiectus est possederit quod neque ui neque clam neque precāriō possederit ab eo quei eum ea possesione ui eiec[erit quem ex h(ace) l(ege) de ea re ious deicere oportēbit sei is quei ita eiectus est ad eum de ea re in ious adierit ante Eidus mar]tias quae post h(anc) l(egem) rog(atum) primae erunt facito utei is quei ita ui eiectus e[st in eam possessionem unde ui eiectus est restituatur]
-[quei ager locus aedificium pūblicus populi rōmānei in terra italia p. muuciō l. calpurniō cōs fuit quod eius ex lege plebeiue sci]to exue h(ace) l(ege) priuatum factum est eritue pro eo agrō locō aedificio proque scriptura pecoris quod in eo agrō pascitur post quam uectigalia constiterint quae post h(anc) [l(egem) rogatam primum constiterint nei quis mag(istratus) proue mag(istratu) 3 facito quo quis populo aut p]ublicano pequnia(m) scripturam uec[t]igalue det dareue debeat neiue quis
+[hērēdemue eius det 3] quoi is ager uetere prōue uetere possessōre datus adsignatusue queiue a[grum in urbe oppidō uīcō accēperit 3 sei quis eōrum quōrum age]r s(upra) s(criptus) est ex posseṣiōne uī eiectus est quod eius is quei eiectus est possēderit quod neque uī neque clam neque precāriō possēderit ab eo quei eum ea posseṣiōne ui eiec[erit quem ex h(ace) l(ege) de ea re ious deicere oportēbit sei is quei ita eiectus est ad eum de ea re in ious adierit ante Eidus mar]tias quae post h(anc) l(egem) rog(atum) primae erunt facitō utei is quei ita ui eiectus e[st in eam possessiōnem unde ui eiectus est restituatur]
+[quei ager locus aedificium pūblicus populī rōmānei in terra italiā p. muuciō l. calpurniō cōs fuit quod eius ex lege plebeiue sci]to exue h(ace) l(ege) priuatum factum est eritue pro eo agrō locō aedificio proque scriptura pecoris quod in eo agrō pascitur post quam uectigalia constiterint quae post h(anc) [l(egem) rogatam primum constiterint nei quis mag(istratus) proue mag(istratu) 3 facito quo quis populo aut p]ublicano pequnia(m) scripturam uec[t]igalue det dareue debeat neiue quis
 [facito 3] quoue quid ob eam rem populo aut publicano detur exsigaturue neiue quis quid postea quam [uect]igalia consistent quae post h(anc) l(egem) rog(atum) primum constiterint ob eos ag[ros locōs aedificia populo aut publicano dare debeat neiue scripturam pecoris quod in eis ag]reis pascetur populo aut publicano dare debeat
 ager locus pūblicus popul[i rōmānei quei in terra italia p. muuciō l. calpurniō cōs fuit 3 extrā eum agrum quem agrum l(ucius) caecilius cn(aeus) domitius cens(ores)] a(nte) d(iem) X[i] K(alendas) octobris oina quom agrō quei trans curione est locauerunt quei in eo agrō loc[o ciuis] Romanus sociumue nominisue latini quibus ex formula togatorum [milites in terra italia inperare solent 3 agrum lo]cum publicum populi rōmānei de sua possesione uetus possesor proue uetere
 posseso[re dedit quo in agrō locō oppidum coloniaue ex lege plebeiue scītō constitueretur deduceretur conlocaretur 3 quo in agrō locō IIIuir i]d oppidum coloniamue ex lege plebeiue sc(ito) constituit deduxitue conlocauitue quem agrum [locum]ue pro eo agrō loc[o]ue de eo agrō locō quei pūblicus populi Roman[ei in terram italiam p. muuciō l. calpurniō cōs fuit 3 extrā eum a]grum locum quei ager locus ex lege plebeiue sc(ito) quod c. sempronius ti. f. tr(ibunus) pl.
@@ -229,16 +201,103 @@ in ious adi[tum erit 3]i uenerit n[3]iei [
 ] posessi[ones
 ]pli[
 
+[-108 ; -108]
+[Latium et Campania]
+[Casilinum]
+l(ucius) quincti(us) l(uci) f. gela() l(ucius) iu(u)enti(us) l(uci) f. Ruf(us)
+c. tittius c(ai) f. c. heluius n(umeri) f.
+l(ucius) heluius l(uci) f. c. heluius n(umeri) f. gero
+p(ublius) plinius m(arci) f. q. matuius q. f.
+c. paccius cn(aei) f. m(arcus) mamius m(ani) f.
+c. sattius c(ai) f. p(ublius) statius p(ubli) f. stag(on)
+heisce magistrei iouei optumō
+maxsumō mūrum coniungendum
+et peilam faciendam et teatrum
+terra exaggerandum locauere
+eidemque luudōs fecere
+ser(uio) sulpiciō ser(ui) f(ilio) galba co(n)s(ule)
+
+
+
+
+[-133 ; -111]
+[Etruria]
+[Clusium]
+p]ronontiato [3]
+[3] scrīpta sunt an[3]
+[3] eōrum quōsue is i[3]
+[-3 p]equniam cēperit ca[3]
+[3] cēperit quoiue eius qu[3]
+[3]a erit literaiue testium [3]
+[-3 sei quis ex eis e]xemptus erit quei abeō [3]
+[-3 damn]as estō eiusque pequnia[e 3]
+[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
+[3] facitō utei is eam pequ[niam 3]
+[-3 ut] ei ex h(ac) l(ege) oportēbit quod l[3]
+[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
+[-3 e]t eum unde petētur e[3]
+[-3 p]etiuerit condemnētu[r 3]
+[-3 i]n iudiciu[m
+] is omnis iud[3]
+[3]esi easque pilas om[nes 3]
+[-3 scriba]ntur aequenturqu[e 3]
+[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
+[3] sorticolis singolīs sinc[illatim eductis 3]
+[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
+[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
+[3]amque quae in eo tribun[ali 3]
+[3] aliter ea nei dēlētō neiu[e 3]
+[-3 iud]ices omnis item sortiri iu[beto 3]
+[-3 sentent]iam tolerint quom omnī [3]
+[3]mat in eam tabolam qu[3]
+[-3 li]terae duae aut nūlla au[3]
+[3] e[r]unt in quibus pileis li[terae 3]
+[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
+[3] o[p]ortebit tum [3]
+[3]oiEp[
+
+
+
+ a:  -133 bis -87;   b:  [-133 ; -111]
+[Etruria]
+[Clusium]
+p]ronontiato [3]
+[3] scrīpta sunt an[3]
+[3] eōrum quōsue is i[3]
+[-3 p]equniam cēperit ca[3]
+[3] cēperit quoiue eius qu[3]
+[3]a erit literaiue testium [3]
+[-3 sei quis ex eis e]xemptus erit quei abeō [3]
+[-3 damn]as estō eiusque peqūnia[e 3]
+[3] quam ex h(ac) l(ege) sibei deica[t darei oportēre 3]
+[3] facitō utei is eam pequ[niam 3]
+[-3 ut] ei ex h(ac) l(ege) oportebit quod l[3]
+[3] pr(aeter) h(anc) l(egem) acetur nōn sit a[3]
+[-3 e]t eum unde petētur e[3]
+[-3 p]etiuerit condemnetu[r 3]
+[-3 i]n iudiciu[m
+] is omnis iud[3]
+[3]esi eāsque pilas om[nes 3]
+[-3 scriba]ntur aequenturque[3]
+[3]pr() facitō ubei pilae o[mnes scriptae aequataeque erunt 3]
+[3] sorticolis singolīs sinc[illatim eductis 3]
+[-3 quoius iudicis nōmen ibe]i scrīptum erit eius nom[en pronontiato 3]
+[-3 ex h(ac)] l(ege) prōnōntiātum erit eu[3]
+[3]amque quae in eo tribun[ali 3]
+[3] aliter ea nei dēlētō neiu[e 3]
+[-3 iud]ices omnis item sortiri iu[beto 3]
+[-3 sentent]iam tolerint quom omni [3]
+[3]mat in eam tabolam qu[3]
+[-3 li]terae duae aut nūlla au[3]
+[3] e[r]unt in quibus pileis li[terae 3]
+[-3 iu]dicis siet h(ac) l(ege) eas pilas om[3]
+[3] o[p]ortebit tum [3]
+[3]oiEp[
     
-[-125 ; -101]
-[samnium]
-[reate]
-sāncte de decumā 
-uictor tibei lucius munius dōnum mōribus antīqueis pro ūsūrā hoc 
-dare sēsē uīsum animō suō perfēcit tua pāce 
-rogāns te cogendei dissoluendei tu ut facilia faxseis
-perficias decumam ut faciat uērae ratiōnēs
-prōque hoc atque alieis dōnīs des digna merentī
+
+
+    
+
 
 
 [-170 ; -146]
@@ -247,26 +306,18 @@ quei apice(m) īnsigne(m) diālis flāminis geṣistei
 mors perfēcit tua ut essent omnia
 breuia honōs fāma uirtūsque
 glōria atque ingenium quibus sei
-in longa licuiṣet tibe ūtier uita
+in longā licuiṣet tibe ūtier uitā
 facile facteis superāṣes glōriam
 maiōrum quā rē lubēns tē in gremiu(m)
 scīpiō recipit terra pūblī
-prōgnātum pūbliō cornelī
+prōgnātum pūbliō cornēlī
 
 
-[-160 ; -155]
-[Rōma]
-l. cornelius cn. f. cn. n. scīpiō magna sapientia
-multāsque uirtūtēs aetāte quom parua
-poṣidet hoc saxsum quoiei uita dēfēcit nōn
-honōs honōre is hic situs quei nunquam
-uictus est uirtūtei annōs gnātus XX is
-l[oc]eis mandātus ne quairātis honōre
-quei minus sit mandātus
+
 
 [-160 ; -160]
 [Rōma]
-l. cornelius l. f. p. n. scīpiō 
+l. cornēlius l. f. p. n. scīpiō 
 quaist.
 tr. mil. 
 annōs gnātus XXXIII mortuos 
@@ -325,7 +376,7 @@ ea nōs animum nostrum nōn indoucēbāmus [ita facta esse]
 propter eā [quod scībāmus
 [ea uōs meritō nostrō facere nōn potuisse
 (neque uōs dignōs esse [quei ea facerētis]) 
-(neque id uōbeis (neque reī pōplicae uostrae) oitile esse facere)]].
+(neque id uōbeis (neque reī poplicae uostrae) oitile esse facere)]].
 et postquam uostra uerba senātus audīuit
 $tantō magis$ animum nostrum indoucimus 
 ita [utei anteā arbitrābāmur [dē eieis rēbus af uōbeis peccātum nōn esse]].
@@ -482,23 +533,7 @@ erit esseue oporte[bit 3]
 [-3 praetor quei inter pe]regrinos ious [deicet 3]
 [3]atei q[
 
-[-159 ; -145]
-[latium et campania]
-[tiburs]
-l. cornelius cn. f. pr. sen. cōns. a. d. III nōnās maiās sub aede kastorus
-scr. adf. a. manlius a. f. sex. iūlius [sex. f.] l. postumius s. f.
-quod teiburtēs u. f. quibusque dē rēbus uōs pūrgāuistis ea senātus
-animum aduortit ita utei aequom fuit nōsque ea ita audīuerāmus
-ut uōs deixsistis uōbeis nōntiāta esse ea nōs animum nostrum
-nōn indoucēbāmus ita facta esse propter eā quod scībāmus
-ea uōs meritō nostrō facere nōn potuisse neque uōs dignōs esse
-quei ea facerētis neque id uōbeis neque rei pōplicae uostrae
-oitile esse facere et postquam uostra uerba senātus audīuit
-tantō magis animum nostrum indoucimus ita utei anteā
-arbitrābāmur dē eieis rēbus af uōbeis peccātum nōn esse
-quonque dē eieis rēbus senātuei pūrgātī estis crēdimus uōsque
-animum uostrum indoucere oportet item uōs populō
-rōmānō pūrgātōs fore
+
 
 [-145 ; -145]
 [rōma]
@@ -546,7 +581,7 @@ inde dorsum fl(o)uiō neuiasca in flouium procoberam
 inde flouiō procoberam deorsum usque ad rīuom uinelascam īnfumum ibei terminus stat 
 inde sursum rīuō rēctō uinelesca ibei terminus stat propter uiam postumiam inde alter trāns uiam postumiam terminus stat ex eo terminō quei stat
 trāns uiam postumiam rēcta regiōne in fontem in manicelum inde deorsum rīuō quei oritur ab fonte en manicelo
-ad terminum quei stat ad flouium Edem agrī pōplicī quod langēnsēs poṣident hīsce fīnis uidentur esse ubi cōmfluont
+ad terminum quei stat ad flouium Edem agrī poplicī quod langēnsēs poṣident hīsce fīnis uidentur esse ubi cōmfluont
 Edus et procobera ibei terminus stat inde Ede flouiō surs(o) uorsum in montem lemūrīnō īnfumō ibei terminus
 stat inde sursum uorsum iugō rēctō monte lemūrīnō ibei termin(u)s stat inde su(r)sum iugō rēctō lemūrīnō ibi terminus
 stat in monte pro cauō inde sursum iugō rēctō in montem lemūrīnum summum ibi terminus stat inde sursum iugō
@@ -556,11 +591,11 @@ in montem tuledonem ibei terminus stat inde deorsum iugō rēctō in flouium uer
 īnfumō ibi terminus stat inde sursum iugō rēctō in montem prenicum ibi terminus stat inde dorsum iugō rēctō in
 flouium tulelascam ibi terminus stat inde sursum iugō rēctō Blustiemelo in montem claxelum ibi terminus stat inde
 deorsum in fontem lebriemelum ibi terminus stat inde rēctō rīuō Eniseca in flouium porcoberam ibi terminus stat
-inde deorsum in flouiom porcoberam ubei cōnflouont flouī Edus et porcobera ibi terminus stat quem agrum pōplicum
+inde deorsum in flouiom porcoberam ubei cōnflouont flouī Edus et porcobera ibi terminus stat quem agrum poplicum
 iūdicāmus esse eum agrum castelanos langēnsēs ueiturios po[si]dere fruīque uidētur oportēre prō eō agrō uectīgal langēnsēs
-ueituris in pōplicum genuam dent in aṇōs singulōs uic(tōriātōs) n(ummos) CCCC sei langēnsēs eam peqūniam nōn dabunt neque satis
+ueituris in poplicum genuam dent in aṇōs singulōs uic(tōriātōs) n(ummos) CCCC sei langēnsēs eam peqūniam nōn dabunt neque satis
 facient arbitrātuu genuātium quod per genuēnsēs mo[r]a nōn fīat suō sētius eam peqūniam ac̣ipiant tum quod in eō agrō
-nātum erit frūmentī partem uicēnsumam uīnī partem sextam langēnsēs in pōplicum genuam dare dēbentō
+nātum erit frūmentī partem uicēnsumam uīnī partem sextam langēnsēs in poplicum genuam dare dēbentō
 in annōs singolōs quei intrā eōs fīneis agrum poṣedet genuās aut uiturius quei eōrum poṣedeit k(alendis) sextil(ibus) l. caiciliō
 q. muuciō cōs. eōs ita poṣidēre colereque liceat e[i]s quei poṣidēbunt uectīgal langēnsibus prō portiōne dent ita uti cēteri
 langēnsēs qui eōrum in eō agrō agrum poṣidēbunt fruenturque praeter ea in eō agrō ni quis poṣidētō nisi de maiōre parte
@@ -568,9 +603,9 @@ langēnsium ueituriōrum sententia dum ne alium intrō miṭat nisi genuātem au
 de maiōre parte langēnsium ueituri(ōr)um sententia ita nōn parebit is eum agrum nei habētō nīue fruiminō quei
 ager compāscuos erit in eō agrō quō minus pecus pāscere genuātēs ueituriōsque liceat ita utei in cētera agrō
 genuātī compāscuō ni quis prohibētō nīue quis uim facitō neiue prohibētō quō minus ex eō agrō ligna māteriamque
-sūmant ūtanturque uectīgal annī prīmī K(alendis) ianuaris secundīs ueturis langēnsēs in pōplicum genuam dare
+sūmant ūtanturque uectīgal annī prīmī K(alendis) ianuaris secundīs ueturis langēnsēs in poplicum genuam dare
 dēbentō quod ante k(alendas) ianuar(ias) prīmās langēnsēs frūctī sunt eruntque uectīgal inuītei dare nei dēbentō
-prāta quae fuērunt proxuma faenisicei l. caeciliō q(uinto) muuciō cōs in agrō pōplicō quem uituries langēnsēs
+prāta quae fuērunt proxuma faenisicei l. caeciliō q(uinto) muuciō cōs in agrō poplicō quem uituries langēnsēs
 poṣident et quem odiates et quem dectunines et quem cauaturineis et quem mentouines poṣident ea prāta
 inuītīs langēnsibus et odiatibus et dectuninebus et cauaturines et mentouines quem quisque eōrum agrum
 poṣidēbit inuīteis eis nīquis sic̣et nīue pāscat nīue fruātur sei langēnsēs aut odiates aut dectunines aut cauaturines
@@ -598,7 +633,7 @@ nēue pecūniam quisquam eōrum coṃoinem habuiṣe ueḷet nēue magistrātum
 nēue pro magistratu<d=o> neque uirum neque mulierem qui(s)quam fēciṣe ueḷet
 nēue post hac inter sed conioura[se neu]e comuouise nēue conspondise
 nēue conpromesise ueḷet nēue quisquam fidem inter sed dediṣe ueḷet
-sacra in oquoltōd ne quisquam fēciṣe ueḷet nēue in pōplicōd nēue in
+sacra in oquoltōd ne quisquam fēciṣe ueḷet nēue in poplicōd nēue in
 preiuatod neue exstrād urbem sacra quisquam fēciṣe ueḷet nisei
 pr(aitorem) urbānum adieset isque de senatuos sententiād dum ne minus
 senatoribus C adeṣent quom ea res cosoleretur iousisent censuere
@@ -620,19 +655,19 @@ erunt faciātis utei dismota sient in agrō teurano
 
 [-130 ; -101]
 [Roma]
-adulēscēns tametsī properās
+adulēscēns tam et sī properās
 hic te saxsolus rogat ut sē
 aspiciās deinde ut quod scrīptust
-legās hīc sunt ossa maecī lūcī sita
-pilōtimī uasculārī hoc ego uolēba(m)
-nescius ni essēs uale posteris ius
+legās. hīc sunt ossa maecī lūcī sita
+pilōtimī uasculārī. hoc̣ ego uolēba(m)
+nescius nī essēs ualē posteris ius
 l(uci) maecī l(uci) l(iberti) salui manchae manchae f(ili)
-Rutilia Rutiliae l(iberta) hetaera
+rutilia rutiliae l(iberta) hethaera
 maecia l(uci) f(ilia)
 
 [-150 ; -126]
 [Roma]
-hoc est factum monumentum
+hoc̣ est factum monumentum
 maarcō caiciliō
 hospes grātum est quom apud
 meās restitistei seedēs
@@ -654,9 +689,9 @@ et eidem praetor in
 siciliā fugiteiuōs italicōrum
 conquaeisīuei redideique
 hominēs DCCCCXVII eidemque
-prīmus fēcei ut de agrō pōplicō
+prīmus fēcei ut de agrō poplicō
 arātōribus cēderent paastōrēs
-forum aedīsque pōplicās heic fēcei
+forum aedīsque poplicās heic fēcei
 
 
 
