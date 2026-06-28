@@ -7252,19 +7252,19 @@ neque pos|(t)quam sum | nātu|s habuī || nisi tē | seruom | sōsi|am. ||||
 {at e}go | nunc am|pitruō | dīcō. || sōsi|am ser|uom tu|om ||||
 praeter | {m(ē) al}te|r(um) inqu(am) ad|{ueni}ēns || faci(am) u|t offen|dās do|mī ||||
 dāuō | prōgnā|tum pa|{tr(e) eō%}dem || {qu(ō) ego} sum | fōrm(ā) ae|tāt(e) i|tem ||||
-qu(ā) ego sum. quid opust uerbīs. geminus Sōsi(a) hīc factust tibi.
+{qu(ā) ego} sum. | {quid o}pust | uerbīs. | {gemi}nus || sōsi|(a) hīc fac|tust ti|bi. ||||
 Nimia memorās mīra. sed uīdistīn uxsōrem meam.
 quīn in|tr(ō) īr(e) i|n aedīs | nunquam | {lici}tumst. | quis tē | {pro::hi}bu|it.
 Sōsi(a) ille quem iam dūdum dīc(ō) is quī mē contudit.
-Quis istic Sōsi(a) est. Eg(o) inquam. quotiēns dīcend(um) est tibi.
-Sed quid ais. n(um) obdormīuistī dūdum. Nusquam gentium.
-Ibi forte istum sī uīdissēs quend(am) in somnīs sōsiam
-nōn sole|(ō) ego som|nīcu|lōsē:: || {erī::} im|peria | perse|quī. |
-uigilāns uīdī uigilāns nunc tē uideō uigilāns fābulor
-uigilantem ille mē iam dūdum uigilāns pugnīs contudit.
-Quis homō. Sōsia inqu(am) eg(o) ille. quaesō nōnn(e) intellegis.
-Quī mal(um) intellegere quisquam potis est. ita nūgās blatis.
-Uēr(um) āctūtum nōscēs c(um) illum nōscēs seruom Sōsiam.
+| {quis is%}tic | sōsi|ast. e|g(o) inquam. || {quoti}ēns | dīcen|dumst ti|bi. ||||
+| sed {quid} a|īs. {n(um) ob}|dormī|uistī || dūdum. | nusquam | genti|um. ||||
+| {ibi} for|t(e) istum | sī uī|dissēs || quend(am) in | somnīs | sōsi|am ||||
+| nōn {sole}|{(ō) ego} som|nīcu|lōsē:: || {erī::} im|{peri}a | perse|quī. ||||
+| uigilāns | uīdī | uigilāns | nunc tē || uideō | uigilāns | fābu|lor ||||
+| uigilan|tem ille | mē iam | dūdum || uigilāns | pugnīs | contu|dit. ||||
+| quis homō. | sōsi|(a) inqu(am) e|g(o) ille. || quaesō | nōnn(e) in|telle|gis. ||||
+| quī ma|l(um) intel|{lege}re | quisquam || {poti}s est. | {ita} nū|gās bla|tis. ||||
+| uēr(um) āc|tūtum | nōscēs | {qu(om) il}lum || nōscēs | seruom | sōsi|am. ||||
 Sequer(e) hāc igitur mē. nam m(ī) istūc prīm(um) exquīsīt(ō) est opus.
 [sed uid(ē) ex nāu(ī) efferantur quae imperāuī i(am) omnia.
 Et memor s(um) et dīligēns ut quae imperēs compāreant.
