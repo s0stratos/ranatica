@@ -1,8 +1,4 @@
-[TERENT(ī) aDELPOE] 0148785500
-
-27737
-michelle@ami-prevention.fr
-
+[TERENT(ī) aDELPOE]
 
 [PRŌLOGUS]
 [DĪUERBIA][1-25][25]
