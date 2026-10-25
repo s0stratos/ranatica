@@ -1,15 +1,28 @@
--------
-SYMBOLS
--------
-foot :                              ||              | senēs |
-half foot :                         {}              | {ab i}nī|quīs
-unmetrical vowel:                   ()              | {rape}r(e) in |
-accented syllable :                 <>              | <post>quam |
-speaker change :                    [NAME]          |  [PROLOGUS] <post>quam |
-unmetrical consonnant :             ()              | {<qui>bu(s)} nunc |
-                                                    | nō{n eg(o) is#}|tuc(c) {faci}|nus
-unexpected metrical vowel           ::              | {duae::} ū|n(um)
+
+# SYMBOLS
+
+## GENERAL STRUCTURE
+
+- normal foot division : | `| senēs |`
+- major foot division : ||
+- end of line condition trigger : ||||
+- half foot : {} `| {ab i}nī|quīs`
+- speaker change : [NAME] `|  [PROLOGUS] <post>quam |`
+
+## PHONETICS
+unmetrical vowel:                   ()              `| {rape}r(e) in |`
+unmetrical consonnant :             ()              `| {<qui>bu(s)} nunc |`  `| nō{n eg(o) is#}|tuc(c) {faci}|nus`
+
 unexpected unmetrical consonnant    #               | {et in#} dē|terren|dō
+
+unexpected metrical vowel           ::              | {duae::} ū|n(um)
+unexpected metrical consonant           ::          
+
+accented syllable :                 <>              | <post>quam |
+
+
+
+
 
 -------
 NOTES
